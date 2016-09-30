@@ -1,0 +1,28 @@
+Dama boba regex steps
+
+1. Special chars: not found
+
+2. Find \n{3,}
+   Replace \n\n
+
+3. Wrap lines
+    Find ^.+$
+    Replace <l>\0</l>
+
+4. Notice I have some blank <l></l> with or without two spaces
+    Find <l>\s*</l>
+    /n
+
+5. I'll want to grab speaker and where appropriate move opening <l> to after their name
+    Find [A-ZÍÚ][A-ZÍÚ]+\s*[A-ZÍÚ]+
+    Holding off, bc I'm grabbing Roman numerals from my escenas too. I'm going to change those to Arabic numeral first
+
+6. First I'm ridding myself of the [editar] in 19 of the scenes
+    Find (Escena\s[IVLXC]+)\[editar]
+    Replace \1
+
+7. Realize some Escenas have brackets. Will have to do two groups for each numeral
+    Find <l>(Escena)\sI\<\/l\>
+    Replace \1 1
+    Repeat for Roman numerals up to 19 for out of brackets and 49 for in. Realize whoever cut these scenes made a new scene whenever characters enter. Garbage. Consider removing scene breaks altogether down the road.
+    Stopped on 34 for now
