@@ -24,5 +24,99 @@ Dama boba regex steps
 7. Realize some Escenas have brackets. Will have to do two groups for each numeral
     Find <l>(Escena)\sI\<\/l\>
     Replace \1 1
-    Repeat for Roman numerals up to 19 for out of brackets and 49 for in. Realize whoever cut these scenes made a new scene whenever characters enter. Garbage. Consider removing scene breaks altogether down the road.
+    Repeat for Roman numerals up to 19 for out of brackets and 49 for in. Realize whoever cut these scenes made a new scene whenever characters 
+    enter. Garbage. Consider removing scene breaks altogether down the road.
     Stopped on 34 for now
+    
+8. Select cast list, regex for selection only
+    Find <l> and replace with nothing
+    Find </l> and replace with nothing
+
+9.  Take line numbers off act numbers
+    Find <l>(Acto\s[I]+)</l>
+    Replace \1
+    
+10. Look at stage directions and (sic) situations in brackets. Find 199. Manually look though for the few sic and supplied and tag manually.
+    Find \[.+?\] and go through list
+    
+11. Realize I have some stage directions weirdness with Entre and Entren. What's happening is that the person who did the edition marked
+a new scene every time a new character entered and listed who was still on stage. "Dichos" seems to mean that everyone from the previous
+scene remains. This is why there are fifty "scenes" in Act II. I still have to figure out whether this is the traditional means of 
+marking scenes in Lope's plays but it is really annoying. Find Entre and Entren and move the brackets around the whole thing
+    Find Entre and make sure the brackets are around the whole stage direction
+
+12. I realize now that some of the stage directions are in parentheses and some aren't marked. I'm going to work with brackets, then parentheses,
+and have to catch the unmarked ones by old-fashioned proofreading
+    Find \[.+?\]
+
+13 I decide to deal with the stage directions that are whole line first
+    Find <l>\[(.+?)\]</l>
+    Replace <stage>\1</stage>
+    That's 99
+
+14. I deal with the ones that are partial lines. 
+    Find \[(.+?)\]
+    I realize that there are a few missing end brackets so I go through and manually add those so I don't grab too much
+    Replace <stage>\1</stage>
+
+15. Look at stage directions now to see that I grabbed the right things
+    <stage>.+?</stage>
+    There's a lot of inconsistent format, and I manually clean it out around the stage directions
+    Realize I also have a situation where metrical lines are often shared between characters. Ugh. I will auto-number lines and they
+    will be approximate. 
+
+16. I'd like to move the line markers around speakers to their proper place. 
+    Find <l>([A-ZÍÚ]+:*\s*)([¿¡A-Z])
+    Replace \1<l>\2
+    
+17. Get rid of excess line returns
+    Find \n{3,}
+    Replace \n\n
+
+18. To find speeches
+    Find ^[A-ZÍÚ][A-ZÍÚ]+.+?\n\n
+    
+    Before replacing I am going through by hand to make sure I didn't pick up extraneous stuff.
+    Format very inconsistent here so I did, but this makes it easy to see.
+    I fix a bunch of weird stuff. Irregular expressions!
+    
+    Find (^[A-ZÍÚ][A-ZÍÚ]+.+?)(\n\n)
+    Replace <sp>\1</sp>\2
+
+19. Clopen Escena
+    Find Escena\s(\d+)
+    Replace</div><div type="scene" n="\1">\0
+    move top </div> to bottom
+
+20. Add in a little whitespace
+    Find (</div>)(<div type="scene")
+    Replace \1\n\n\2
+
+21. CLopen Acts
+    Find Acto\s([I]+)
+    Replace </div><div type="act" number="\1">\0
+
+22. Remove line numbers in preparatiown for auto-numbering later
+    Find \s\d+(</l>)
+    Replace \1
+
+23. Tag speaker
+    Find (<sp>)([A-ZÍÚ]+)(\s*<l>)
+    Replace \1<speaker>\2</speaker>\3
+
+24. Tag group of speakers that had colon
+    Find (<sp>)([A-ZÍÚ]+):*(\s*<l>)
+    Replace \1<speaker>\2</speaker>\3
+
+25. Remove pseudomarkup scene markings
+    Find Escena\s\d+
+    Replace with nothing
+    Do same with act
+
+26. Find speakers around apartes
+    Find (<sp>)([A-ZÍÚ]+):(\s*<stage>)
+    Replace \1<speaker>\2</speaker>\3
+    
+27. Cleanup around stage directions
+    Find (</stage>):
+    Replace \1

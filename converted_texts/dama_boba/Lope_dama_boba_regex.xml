@@ -1,4 +1,4 @@
-LISEO, caballero.
+<front><castList>LISEO, caballero.
 TURÍN, lacayo.
 LEANDRO, caballero.
 OTAVIO, viejo.
@@ -16,7 +16,7 @@ CLARA, criada.
 CELIA, criada.
 PEDRO, lacayo.
 MÚSICOS
-UN MAESTRO de danzar
+UN MAESTRO de danzar</castList></front>
 
 <div type="act" number="I">Acto I
 
@@ -452,7 +452,7 @@ UN MAESTRO de danzar
 
 <sp>MISENO: <l>Razones hay, al parecer, bastantes.</l></sp>
 
-<sp>OTAVIO: Una hallo yo, sin muchas aparentes,</l>
+<sp>OTAVIO: <l>Una hallo yo, sin muchas aparentes,</l>
 <l>y es el buscar un hombre en todo estado,</l>
 <l>lo que le falta más, con más cuidado.</l></sp>
 
@@ -554,7 +554,7 @@ UN MAESTRO de danzar
 <sp>FINEA: <l>¡Ni en todo el año</l>
 <l>saldré con esa lición!</l></sp>
 
-<sp>CELIA <stage>Aparte a NISE.</stage>: Tu hermana, con su maestro.</l></sp>
+<sp>CELIA <stage>Aparte a NISE.</stage>: <l>Tu hermana, con su maestro.</l></sp>
 
 <sp>NISE: <l>¿Conoce las letras ya?</l></sp>
 
@@ -1838,9 +1838,9 @@ UN MAESTRO de danzar
 <sp>LISEO: <l>Desde aquí</l>
 <l>renuncio la dama boba.</l></sp>
 
-</div><div type="act" number="II">Acto II
+</div></div><div type="act" number="II">Acto II
 
-</div>
+
 
 <div type="scene" n="1">Escena 1
 
@@ -5128,11 +5128,11 @@ Esceba 41
 <l>porque burlar un discreto</l>
 <l>es la vitoria más alta.</l></sp>
 
-</div><div type="act" number="III">Acto III
+</div></div><div type="act" number="III">Acto III
 
 <stage>Sala en casa de OTAVIO.</stage>
 
-</div>
+
 
 <div type="scene" n="1">Escena 1
 
@@ -6307,7 +6307,7 @@ Esceba 41
 <sp>NISE <l>Ven, Celia, tras él; que estoy</l>
 <l>celosa y desesperada.</l></sp>
 
-<stage>Y váyanse</stage> NISE y CELIA.</stage>
+<stage>Y váyanse NISE y CELIA.</stage>
 
 <sp>LAURENCIO <l>¡Id, por Dios, tras él los dos!</l>
 <l>No me suceda un disgusto.</l></sp>
