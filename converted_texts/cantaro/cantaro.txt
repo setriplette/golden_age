@@ -1,0 +1,5175 @@
+LA MOZA DE CÁNTARO
+
+POR
+
+LOPE DE VEGA
+
+_EDITED WITH INTRODUCTION AND NOTES_
+
+BY
+
+LA MOZA DE CÁNTARO
+
+PERSONAS
+
+<speaker>EL CONDE</speaker>  }
+<speaker>DON JUAN</speaker>  } _galanes_
+<speaker>DON DIEGO</speaker> }
+<speaker>FULGENCIO</speaker> }
+
+<speaker>DON BERNARDO</speaker>, _viejo_
+
+<speaker>PEDRO</speaker>  }
+<speaker>MARTÍN</speaker> } _lacayos_
+<speaker>LORENZO</speaker>}
+<speaker>BERNAL</speaker> }
+
+<speaker>DOÑA MARÍA</speaker>, _dama_
+
+<speaker>DOÑA ANA</speaker>, _viuda_
+
+LÜISA }
+<speaker>LEONOR</speaker>} _criadas_
+<speaker>JUANA</speaker> }
+
+<speaker>UN ALCAIDE</speaker>
+
+<speaker>UN INDIANO</speaker>
+
+<speaker>UN MESONERO</speaker>
+
+<speaker>UN MOZO</speaker> DE MULAS
+
+MÚSICOS.--LACAYOS
+
+<speaker>ACOMPAÑAMIENTO</speaker>
+
+_La escena es en Ronda, en Adamuz y Madrid_
+
+ACTO PRIMERO
+
+Sala en casa de don Bernardo, en Ronda.
+
+<div type="scene" number="xsd:int">ESCENA PRIMERA</div>
+
+<speaker>DOÑA MARÍA</speaker> _y_ LÜISA, _con unos papeles_
+
+<speaker>LUISA</speaker>
+
+Es cosa lo que ha pasado
+Para morirse de risa.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Tantos papeles, Lüisa,
+Esos Narcisos te han dado?
+
+<speaker>LUISA</speaker>
+
+¿Lo que miras dificultas?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡Bravo amor, brava fineza!
+
+<speaker>LUISA</speaker>
+
+No sé si te llame alteza
+Para darte estas consultas.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Á señoría te inclina,
+Pues entre otras partes graves,10
+Tengo deudo, como sabes,
+Con el duque de Medina.
+
+<speaker>LUISA</speaker>
+
+Es título la belleza
+Tan alto, que te podría
+Llamar muy bien señoría,
+Y aspirar, Señora, á alteza.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡Lindamente me conoces!
+Dasme por la vanidad.
+
+<speaker>LUISA</speaker>
+
+No es lisonja la verdad,
+Ni las digo, así te goces. 
+No hay en Ronda ni en Sevilla
+Dama como tú.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Yo creo,
+Lüisa, tu buen deseo.
+
+<speaker>LUISA</speaker>
+
+Tu gusto me maravilla.
+Á ninguno quieres bien. 
+
+<speaker>DOÑA MARÍA</speaker>
+
+Todos me parecen mal.
+
+<speaker>LUISA</speaker>
+
+Arrogancia natural
+Te obliga á tanto desdén.--
+Éste es de don Luis.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Lo leo
+Sólo por cumplir contigo.30
+
+<speaker>LUISA</speaker>
+
+Yo soy de su amor testigo.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Y yo de que es necio y feo.
+
+(_Lee._) «Considerando conmigo á solas,
+señora doña María...»
+
+No leo. (_Rompe el papel._)
+
+<speaker>LUISA</speaker>
+
+¿Por qué?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿No ves
+Que comienza alguna historia,
+Ó que quiere en la memoria 
+De la muerte hablar después?
+
+<speaker>LUISA</speaker>
+
+Éste es de don Pedro.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Muestra.
+
+<speaker>LUISA</speaker>
+
+Yo te aseguro que es tal,
+Que no te parezca mal.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡Bravos rasgos! ¡Pluma diestra!40
+
+(_Lee._) «Con hermoso, si bien severo,
+no dulce, apacible sí rostro, señora
+mía, mentida vista me miró vuestro
+desdén, absorto de toda humanidad, rígido
+empero, y no con lo brillante solícito,
+que de candor celeste clarifica vuestra
+faz, la hebdómada pasada.»
+
+¿Qué receta es ésta, di? (_Rómpele_.)
+Qué médico te la dió?
+
+<speaker>LUISA</speaker>
+
+Pues ¿no entiendes culto?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Yo?
+¿Habla de aciértame aquí?
+
+<speaker>LUISA</speaker>
+
+Hazte boba, por tu vida.
+¿Puede nadie ser discreto
+Sin que envuelva su conceto
+En invención tan lucida?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Ésta es lucida invención?
+Ahora bien, ¿hay más papel?
+
+<speaker>LUISA</speaker>
+
+El de don Diego, que en él
+Se cifra la discreción.
+
+<speaker>DOÑA MARÍA</speaker>
+
+(_Lee._) «Si yo fuera tan dichoso como
+vuestra merced hermosa, hecho estaba
+el partido.»
+
+¿Qué es partido? No prosigo. (_Rómpele._)
+
+<speaker>LUISA</speaker>
+
+¿Qué nada te ha de agradar?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Pienso que quiere jugar 
+Á la pelota conmigo.
+Lüisa, en resolución,
+Yo no tengo de querer
+Hombre humano.
+
+<speaker>LUISA</speaker>
+
+¿Qué has de hacer,
+Si todos como éstos son?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Estarme sola en mi casa.
+Venga de Flandes mi hermano,
+Pues siendo tan rico, en vano
+Penas inútiles pasa.
+Cásese, y déjeme á mí
+Mi padre; que yo no veo
+Dónde aplique mi deseo
+De cuantos andan aquí,
+Codiciosos de su hacienda;
+Que, si va á decir verdad, 
+No quiere mi vanidad
+Que cosa indigna le ofenda.
+Nací con esta arrogancia.
+No me puedo sujetar,
+Si es sujetarse el casar.75
+
+<speaker>LUISA</speaker>
+
+Hombres de mucha importancia
+Te pretenden.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Ya te digo
+Que ninguno es para mí.
+
+<speaker>LUISA</speaker>
+
+Pues ¿has de vivir ansí?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Tan mal estaré conmigo?
+Joyas y galas ¿no son
+Los polos de las mujeres?
+Si á mí me sobran, ¿qué quieres?
+
+<speaker>LUISA</speaker>
+
+¡Qué terrible condición!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Necia estás. No he de casarme.
+
+<speaker>LUISA</speaker>
+
+Si tu padre ha dado el sí,
+¿Qué piensas hacer de ti?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Puede mi padre obligarme
+Á casar sin voluntad?
+
+<speaker>LUISA</speaker>
+
+Ni tú tomarte licencia
+Para tanta inobediencia.
+
+<speaker>DOÑA MARÍA</speaker>
+
+La primera necedad
+Dicen que no es de temer,
+Sino las que van tras ella,
+Pretendiendo deshacella.
+
+<speaker>LUISA</speaker>
+
+Los padres obedecer
+Es mandamiento de Dios.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Ya llegas á predicarme?
+
+<speaker>LUISA</speaker>
+
+Nuño acaba de avisarme
+Que estaban juntos los dos...
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Quién?
+
+<speaker>LUISA</speaker>
+
+Mi señor y don Diego.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Qué importa que hablando estén,
+Si no me parece bien,
+Y le desengaño luego?
+
+<speaker>LUISA</speaker>
+
+Y don Luis ¿no es muy galán? 
+
+<speaker>DOÑA MARÍA</speaker>
+
+Tal salud tengas, Lüisa.
+Muchas se casan aprisa,
+Que á llorar despacio van.
+
+<speaker>LUISA</speaker>
+
+Ésa es dicha, y no elección;
+Que mirado y escogido110
+Salió malo algún marido,
+Y otros sin ver, no lo son.
+Que si son por condiciones
+Los hombres buenos ó malos,
+Muchas que esperan regalos,
+Encuentran malas razones.
+Pero en don Pedro no creo
+Que haya más que desear.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Sí hay, Lüisa...
+
+<speaker>LUISA</speaker>
+
+¿Qué?
+
+<speaker>DOÑA MARÍA</speaker>
+
+No hallar
+Á mi lado hombre tan feo. 
+
+<speaker>LUISA</speaker>
+
+Mil bienes me dicen dél,
+Y tú sola dél te ríes.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Lüisa, no me porfíes;
+Que éste es don Pedro el Cruel.
+
+<speaker>LUISA</speaker>
+
+Tu desdén me maravilla.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Pues ten por cierta verdad
+Que es rey de la necedad,
+Como el otro de Castilla.
+
+<speaker>LUISA</speaker>
+
+Don Diego está confiado;
+Joyas te ha hecho famosas.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Joyas?
+
+<speaker>LUISA</speaker>
+
+Y galas costosas;
+Hasta coche te ha comprado.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Don Diego de noche y coche.
+
+<speaker>LUISA</speaker>
+
+¡De noche un gran caballero!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Mas ¡ay Dios! que no le quiero135
+Para don Diego de noche.
+Otra le goce, Lüisa,
+No yo. ¡De noche visiones!
+
+<speaker>LUISA</speaker>
+
+Oigo unas tristes razones.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Volvióse en llanto la risa.
+¿No es éste mi padre?
+
+<speaker>LUISA</speaker>
+
+Él es.
+
+<speaker><div type="scene" number="xsd:int">ESCENA II</div></speaker>
+
+<speaker>DON BERNARDO</speaker>, _de hábito de Santiago, con un lienzo en los
+ojos_.--DICHAS
+
+<speaker>DON BERNARDO</speaker>
+
+¡Ay de mí!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Señor, ¿qué es esto?
+Vos llorando y descompuesto,
+¡Y yo no estoy á esos pies!
+¿Qué tenéis, padre y señor,145
+Mi solo y único bien?
+
+<speaker>DON BERNARDO</speaker>
+
+Vergüenza de que me ven
+Venir vivo y sin honor.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Cómo sin honor?
+
+<speaker>DON BERNARDO</speaker>
+
+No sé.
+Déjame, por Dios, María.150
+
+<speaker>DOÑA MARÍA</speaker>
+
+Siendo vos vida en la mía,
+¿Cómo dejaros podré?
+¿Habéis acaso caído?
+Que los años muchos son.
+
+<speaker>DON BERNARDO</speaker>
+
+Cayó toda la opinión
+Y nobleza que he tenido.
+No es de los hombres llorar;
+Pero lloro un hijo mío
+Que está en Flandes, de quien fío
+Que me supiera vengar. 
+Siendo hombre, llorar me agrada;
+Porque los viejos, María,
+Somos niños desde el día
+Que nos quitamos la espada.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Sin color, y el alma en calma,165
+Os oigo, padre y señor;
+Mas ¿qué mucho sin color,
+Si ya me tenéis sin alma?
+¿Qué había de hacer mi hermano?
+¿De quién os ha de vengar?
+
+<speaker>DON BERNARDO</speaker>
+
+Hija, ¿quiéresme dejar?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Porfías, Señor, en vano.
+Antes de llorar se causa
+La excusa, pero no agora;
+Que siempre quiere el que llora 
+Que le pregunten la causa.
+
+<speaker>DON BERNARDO</speaker>
+
+Don Diego me habló, María...
+Contigo casarse intenta...
+Respondíle que tu gusto
+Era la primer licencia,
+Y la segunda del Duque.
+Escribí, fué la respuesta
+No como yo la esperaba;
+Que darte dueño quisieran
+Estas canas, que me avisan
+De que ya mi fin se cerca.
+Puse la carta en el pecho,
+Lugar que es bien que le deba;
+Que llamarme deudo el Duque
+Fué de esta cruz encomienda. 
+Vino á buscarme don Diego
+Á la Plaza (¡nunca fuera
+Esta mañana á la Plaza!),
+Y con humilde apariencia
+Me preguntó si tenía
+(Aunque con alguna pena)
+Carta de Sanlúcar. Yo
+Le respondí que tuviera
+Á dicha poder servirle:
+Breve y bastante respuesta.
+Dijo que el Duque sabía
+Su calidad y nobleza;
+Que le enseñase la carta,
+Ó que era mía la afrenta
+De la disculpa engañosa.205
+Yo, por quitar la sospecha,
+Saqué la carta del pecho,
+Y turbado leyó en ella
+Estas razones, María.--
+Quien tal mostró, que tal tenga.-- 
+
+«Muy honrado caballero
+Es don Diego; pero sea
+El que ha de ser vuestro yerno
+Tal, que al hábito os suceda
+Como á vuestra noble casa.»
+
+Entonces don Diego, vuelta
+La color en nieve, dice,
+Y de ira y cólera tiembla:
+«Tan bueno soy como el Duque.»
+Yo con ira descompuesta
+Respondo: «Los escuderos,
+Aunque muy hidalgos sean,
+No hacen comparación
+Con los príncipes; que es necia.
+Desdecíos, ó le escribo
+Á don Alonso que venga
+Desde Flandes á mataros.»
+Aquí su mano soberbia...
+Pero prosigan mis ojos
+Lo que no puede la lengua.
+Déjame; que tantas veces
+Una afrenta se renueva,
+Cuantas el que la recibe
+Á el que la ignora la cuenta.
+Herrado traigo, María, 
+El rostro con cinco letras,
+Esclavo soy de la infamia,
+Cautivo soy de la afrenta.
+El eco sonó en el alma;
+Que si es la cara la puerta, 
+Han respondido los ojos,
+Viendo que llaman en ella.
+Alcé el báculo... Dijeron
+Que lo alcancé... no lo creas;
+Que mienten á el afrentado,245
+Pensando que le consuelan.
+Prendióle allí la justicia,
+Y preso en la cárcel queda:
+¡Pluguiera á Dios que la mano
+Desde hoy estuviera presa!
+¡Ay, hijo del alma mía!
+¡Ay, Alonso! ¡Si estuvieras
+En Ronda! Pero ¿qué digo?
+Mejor es que yo me pierda.
+Salid, lágrimas, salid... 
+Mas no es posible que puedan
+Borrar afrentas del rostro,
+Porque son moldes de letras,
+Que aunque se aparta la mano,
+Quedan en al alma impresas. (_Vase._) 
+
+<speaker><div type="scene" number="xsd:int">ESCENA III</div></speaker>
+
+<speaker>DOÑA MARÍA</speaker>, <speaker>LÜISA</speaker>
+
+<speaker>LUISA</speaker>
+
+Fuése.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Déjame de suerte
+Que no pude responder.
+
+<speaker>LUISA</speaker>
+
+Vé tras él; que puede ser
+Que intente darse la muerte,
+Viendo perdido su honor.265
+
+<speaker>DOÑA MARÍA</speaker>
+
+Bien dices: seguirle quiero;
+Que no es menester acero
+Adonde sobra el valor. (_Vanse._)
+
+<div type="scene" number="xsd:int">ESCENA IV</div>
+
+Cuarto en la cárcel de Ronda.
+
+<speaker>DON DIEGO</speaker>, FULGENCIO
+
+<speaker>FULGENCIO</speaker>
+
+La razón es un espejo
+De consejos y de avisos.
+
+<speaker>DON DIEGO</speaker>
+
+En los casos improvisos
+¿Quién puede tomar consejo?
+
+<speaker>FULGENCIO</speaker>
+
+Los años de don Bernardo
+Os ponen culpa, don Diego.
+
+<speaker>DON DIEGO</speaker>
+
+Confieso que estuve ciego.
+
+<speaker>FULGENCIO</speaker>
+
+Es don Alonso gallardo
+Y gran soldado.
+
+<speaker>DON DIEGO</speaker>
+
+Ya es hecho,
+Y yo me sabré guardar.
+
+<speaker>FULGENCIO</speaker>
+
+Un consejo os quiero dar
+Para asegurar el pecho.
+
+<speaker>DON DIEGO</speaker>
+
+¿Cómo?
+
+<speaker>FULGENCIO</speaker>
+
+Que dejéis á España
+Luego que salgáis de aquí.
+
+<speaker>DON DIEGO</speaker>
+
+¿Á España, Fulgencio?
+
+<speaker>FULGENCIO</speaker>
+
+Sí;
+Porque será loca hazaña
+Que á don Alonso esperéis;
+Que, fuera de la razón
+Que él tiene en esta ocasión,
+Pocos amigos tendréis.
+Toda Ronda os pone culpa.
+
+<speaker>DON DIEGO</speaker>
+
+Claro está, soy desdichado...
+Pues el haberme afrentado
+Era bastante disculpa.
+
+<speaker>FULGENCIO</speaker>
+
+Mostraros la carta fué
+Yerro de un hombre mayor.
+
+<speaker>DON DIEGO</speaker>
+
+En los lances del honor
+¿Quién hay que seguro esté?
+
+<speaker>FULGENCIO</speaker>
+
+El tiempo suele curar
+Las cosas irremediables.
+
+<div type="scene" number="xsd:int">ESCENA V</div>
+
+EL ALCAIDE DE LA CÁRCEL, _con barba y bastón_.--DICHOS
+
+<speaker>ALCAIDE</speaker> (_á don Diego_)
+
+Una mujer está aquí
+Que quiere hablaros.
+
+<speaker>DON DIEGO</speaker>
+
+Dejadme,
+Fulgencio, si sois servido.
+
+<speaker>FULGENCIO</speaker>
+
+Á veros vendré á la tarde. (_Vase_.)
+
+<speaker>ALCAIDE</speaker>
+
+Llegó á la puerta cubierta;
+Pedíle que se destape,
+Y dijo que no quería.305
+Parecióme de buen talle
+Y cosa segura; en fin,
+Gustó de que la acompañe
+Á vuestro aposento.
+
+<speaker>DON DIEGO</speaker>
+
+Que entre
+La decid, y perdonadme;
+Que es persona principal,
+Si es quien pienso.
+
+<speaker>ALCAIDE
+
+E</speaker>n casos tales
+Se muestra el amor. (_Vase._)
+
+(_Dentro._ Entrad.)
+
+<div type="scene" number="xsd:int">ESCENA VI</div>
+
+<speaker>DOÑA MARÍA</speaker>, _cubierta con su manto_.--DON DIEGO.
+
+<speaker>DON DIEGO</speaker>
+
+¡Sola, mi señora, á hablarme,
+Y en parte tan desigual
+De vuestra persona y traje!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Dan ocasión los sucesos
+Para desatinos tales.
+
+<speaker>DON DIEGO</speaker>
+
+Descubríos, por mi vida,
+Advirtiendo que no hay nadie 
+Que aquí pueda conoceros.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Yo soy.
+
+<speaker>DON DIEGO</speaker>
+
+Pues ¡vos en la cárcel!
+
+<speaker>DOÑA MARÍA</speaker>
+
+El amor que me debéis
+Desta manera me trae;
+Que agradecida del vuestro,325
+Me fuerza á que me declare.
+Á pediros perdón vengo,
+Y á que no pase adelante
+Este rigor, pues el medio
+De hacer estas amistades330
+Es el casarnos los dos;
+Que cuando á saber alcance
+Don Alonso que soy vuestra,
+No tendrá de qué quejarse.
+Con esto venganzas cesan, 
+Que suelen en las ciudades
+Engendrar bandos, de quien
+Tan tristes sucesos nacen.
+Vos quedaréis con la honra
+Que es justo y que Ronda sabe,340
+Satisfecho el señor Duque,
+Desenojado mi padre,
+Y yo con tan buen marido,
+Que pueda mi casa honrarse
+Y don Alonso mi hermano.345
+
+<speaker>DON DIEGO</speaker>
+
+¿Quién pudiera sino un ángel,
+Señora doña María,
+Hacer tan presto las paces?
+Vuestro gran entendimiento,
+Y divino en esta parte,
+Ha dado el mejor remedio
+Que pudiera imaginarse.
+No le había más seguro,
+Y sobre seguro, fácil,
+Para que todos quedemos
+Honrados cuando me case.
+No será mucha licencia
+Que á el altar dichoso abrace,
+Sagrado de mis deseos,
+Donde está amor por imagen,360
+Pues ya decís que sois mía.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Quien supo determinarse
+Á ser vuestra, no habrá cosa
+Que á vuestro gusto dilate.
+Confirmaré lo que digo 
+Con los brazos.--Muere, infame.
+
+(_Al abrazarle, saca una daga y dale con
+ella._)
+
+<speaker>DON DIEGO</speaker>
+
+¡Jesus! ¡Muerto soy! ¡Traición!
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡En canas tan venerables
+Pusiste la mano, perro!
+Pues estas hazañas hacen370
+Las mujeres varoniles.
+Yo salgo.--¡Cielo, ayudadme! (_Vase._)
+
+<div type="scene" number="xsd:int">ESCENA VII</div>
+
+Fulgencio.--Don Diego, _moribundo_
+
+<speaker>FULGENCIO</speaker>
+
+Paréceme que he sentido
+Una voz, y que salió
+Esta mujer que aquí entró 
+(Que no sin sospecha ha sido)
+Más turbada y descompuesta
+Que piden casos de amor.--
+No fué vano mi temor.
+¡Don Diego!... ¿Qué sangre es ésta?
+
+<speaker>DON DIEGO</speaker>
+
+Matóme doña María,
+La hija de don Bernardo.
+
+<speaker>FULGENCIO</speaker>
+
+¡Alcaide! ¡Gente! ¿Qué aguardo?
+
+(_Ap._ Mas cosa injusta sería
+Ocasionar su prisión.385
+Esperar que salga quiero;
+Que esto ya es hecho.)
+
+<speaker>DON DIEGO</speaker>
+
+Yo muero
+Con razón, aunque á traición.
+Muy justa venganza ha sido,
+Por fiarme de mujer.
+Mas no la dejéis prender.
+
+<speaker>FULGENCIO</speaker>
+
+Yo pienso que habrá salido.
+Pero ¿por qué no queréis
+Que la prendan?
+
+<speaker>DON DIEGO</speaker>
+
+Ha vengado
+Las canas de un padre honrado.
+Esto en viéndole diréis...
+Y que yo soy, cuanto á mí,
+Su yerno, pues se casó
+Conmigo, aunque me mató
+Cuando los brazos la dí.400
+Con esto vuelvo á su fama
+Lo que afrentarla pudiera.
+
+<speaker>FULGENCIO</speaker>
+
+Toda la cárcel se altera.
+Quiero buscar esta dama.
+
+(_Se lleva á don Diego._)
+
+<speaker><div type="scene" number="xsd:int">ESCENA VIII</div></speaker>
+
+Una calle de Madrid.
+
+<speaker>EL CONDE</speaker>, <speaker>DON JUAN</speaker>
+
+<speaker>CONDE</speaker>
+
+¡Hermosa viuda, don Juan! 
+No he visto cosa más bella.
+
+<speaker>DON JUAN</speaker>
+
+Con razón, Conde, por ella
+Esos desmayos os dan.
+
+<speaker>CONDE</speaker>
+
+¿Hay tal gracia de monjil?
+Que es de azabache, repara,410
+Imagen, menos la cara
+Y manos, que son marfil.
+
+<speaker>DON JUAN</speaker>
+
+Vos tenéis un gran sugeto
+Para versos.
+
+<speaker>CONDE</speaker>
+
+No he pensado
+Meterme en ese cuidado;
+Que pienso andar más discreto.
+
+<speaker>DON JUAN</speaker>
+
+¿Cómo?
+
+<speaker>CONDE</speaker>
+
+Remitirme á el oro,
+Que es excelente poeta.
+
+<speaker>DON JUAN</speaker>
+
+Dicen que es rica y discreta:
+Guardadle más el decoro.420
+
+<speaker>CONDE</speaker>
+
+¿Fué vuestro criado allá?
+
+<speaker>DON JUAN</speaker>
+
+Con una criada habló,
+Y á estas horas pienso yo
+Que bien informado está.
+
+<speaker>CONDE</speaker>
+
+Mejor entre sus iguales
+Suele hablar más libremente
+Este género de gente.
+
+<div type="scene" number="xsd:int">ESCENA IX</div>
+
+<speaker>MARTÍN</speaker>.--DICHOS
+
+<speaker>DON JUAN</speaker>
+
+¿Qué hay, Martín? Contento sales.
+
+<speaker>MARTÍN</speaker>
+
+Servir á el Conde deseo.
+
+<speaker>CONDE</speaker>
+
+Yo estimo tu buen amor.
+
+<speaker>MARTÍN</speaker>
+
+Hablé con la tal Leonor,
+Como si fuera en mi empleo,
+Estando en larga oración
+La retórica lacaya,
+Y ella, á manera de maya, 
+Serena toda facción.
+Díjela que me tenía
+Sin alma Leonor la bella;
+Que hacía un mes que la huella
+De sus chinelas seguía;
+Y que bailando en el río
+De la castañeta al son,
+Me entró por el corazón
+Y por toda el alma el brío.
+Cuando ya la tuve tierna, 
+Pregunté la condición
+De su ama, y la razón
+De estado que la gobierna.
+Dijo que era principal,
+Con deudos de gran valor, 
+Y que tenía su honor,
+Desde que enviudó, cabal.
+Que era rica y entendida,
+Y no de su casa escasa,
+Si bien no entraba en su casa
+Ni aun sombra de alma nacida.
+Que el parecer recatada
+Era todo su cuidado,
+Y díjome que había estado
+Sólo dos meses casada; 
+Porque su noble marido,
+De enamorado, murió.
+
+<speaker>CONDE</speaker>
+
+No envidio la muerte yo,
+La causa sí.
+
+<speaker>DON JUAN</speaker>
+
+Necio ha sido,
+Pues tanto tiempo tenía.465
+
+<speaker>MARTÍN</speaker>
+
+Poca edad y mucho amor,
+Toda la vida, Señor,
+Remiten á solo un día.
+
+<speaker>CONDE</speaker>
+
+¿Cómo trae tan pequeñas
+Tocas?
+
+<speaker>DON JUAN</speaker>
+
+Más hermosa está.
+
+<speaker>MARTÍN</speaker>
+
+Porque las largas son ya
+Para beatas y dueñas.
+Y las cortas en la corte
+No se traen sin ocasión.
+
+<speaker>CONDE</speaker>
+
+¿Qué ocasión dará razón
+Que para disculpa importe?
+
+<speaker>MARTÍN</speaker>
+
+Muriósele á una casada
+Su marido, y no quedó
+Muy triste, pues le envolvió,
+Como si fuera pescada, 
+En un pedazo de anjeo;
+Y sin que cumpliese manda,
+Con largas tocas de Holanda
+Salió vertiendo poleo
+En un reverendo coche. 
+Pero el muerto, mal contento,
+Del sepulcro á su aposento
+Se trasladó aquella noche,
+Y díjole: «¡Vos Holanda,
+Y yo anjeo, picarona!490
+¿No mereció mi persona
+Una sábana más blanda?»
+Esto diciendo, el difunto
+En las tocas se envolvió,
+Y el anjeo le dejó: 
+Ocasión desde aquel punto
+Con que sin tocas las veo;
+Y cuerdo temor ha sido,
+Porque no vuelva el marido
+Á dejarlas el anjeo.
+
+<speaker>CONDE</speaker>
+
+Cuanto la licencia alargas,
+La obligación disimulas.
+
+<speaker>MARTÍN</speaker>
+
+Señor, en dueñas y en mulas
+Están bien las tocas largas.
+
+<speaker>CONDE</speaker>
+
+Mucha honestidad promete, 
+Y es decoro justo y santo.
+
+<speaker>MARTÍN</speaker>
+
+Una viuda con un manto
+Es obispo con roquete.
+Fuera de esto, aquel estar
+Siempre en una misma acción510
+No mueve la inclinación
+Que el traje suele obligar.
+Ver siempre de una manera
+Á una mujer es cansarse.
+
+<speaker>CONDE</speaker>
+
+Pues ¿puede el rostro mudarse?
+
+<speaker>MARTÍN</speaker>
+
+Pues ¿no se muda y altera,
+Mudando el traje, el semblante?
+
+<speaker>DON JUAN</speaker>
+
+Conde, Martín dice bien;
+Porque el varïar tan bien
+Da novedad á el amante.
+
+<speaker>MARTÍN</speaker>
+
+De mi condición advierte
+Que me pudren las pinturas,
+Porque siempre las figuras
+Están de una misma suerte.
+¿Qué es ver levantar la espada
+En una tapicería
+Á un hombre, que en todo un día
+No ha dado una cuchillada?
+Qué es ver á Susana estar
+Entre dos viejos desnuda, 
+Y que ninguno se muda
+Á defender ni á forzar?
+Linda cosa es la mudanza
+Del traje.
+
+<speaker>CONDE</speaker>
+
+La viuda, en fin,
+¿Es conversable, Martín?
+
+<speaker>MARTÍN</speaker>
+
+No me quitó la esperanza,
+Si entráis con algún enredo;
+Que dice que da lugar
+Que la puedan visitar.
+
+<speaker>CONDE</speaker>
+
+Yo le buscaré, si puedo.540
+
+<speaker>DON JUAN</speaker>
+
+Como visto no te hubiera,
+Fácil remedio se hallara.
+
+<speaker>CONDE</speaker>
+
+Si en que me ha visto repara,
+Fingirme enojarla fuera.
+Llama; que yo he prevenido
+Con que me pueda creer.
+
+<speaker>DON JUAN</speaker>
+
+No lo echemos á perder.
+
+<speaker>CONDE</speaker>
+
+No puedo estar más perdido. (_Vanse._)
+
+<div type="scene" number="xsd:int">ESCENA X</div>
+
+_Sala en casa de doña Ana_.
+
+<speaker>EL CONDE</speaker>, <speaker>DON JUAN</speaker>, <speaker>MARTÍN</speaker>; _y luego_, <speaker>DOÑA ANA</speaker>, _de viuda_;
+<speaker>LEONOR</speaker> _y_ <speaker>JUANA</speaker>
+
+<speaker>MARTÍN</speaker>
+
+Ya te ha visto: á verte sale.
+No le has parecido mal.
+
+<speaker>CONDE</speaker>
+
+¿Hay jazmín, rosa y cristal
+Que á la viudilla se iguale?
+
+(_Salen doña Ana, de viuda, Leonor y Juana._)
+
+<speaker>DOÑA ANA</speaker>
+
+Novedad me ha parecido;
+Vueseñoría perdone.
+
+<speaker>CONDE</speaker>
+
+No hay novedad que no abone
+El deseo que he tenido
+De serviros, si yo fuese,
+Para que no os cause enojos,
+Tan dichoso en vuestros ojos,
+Que serviros mereciese.
+
+<speaker>DOÑA ANA</speaker>
+
+Leonor, sillas.
+
+<speaker>MARTÍN</speaker> (_ap. á don Juan_)
+
+No va mal,
+Pues piden sillas.
+
+<speaker>DON JUAN</speaker>
+
+Martín,
+La viudilla es serafín
+De perlas y de coral.
+
+<speaker>MARTÍN</speaker>
+
+¿Agrádate á ti también?
+
+<speaker>DON JUAN</speaker>
+
+Á esa pregunta responde
+Que está enamorado el Conde,
+Y yo no.
+
+<speaker>MARTÍN</speaker>
+
+Dices muy bien.
+
+<speaker>DOÑA ANA</speaker>
+
+¿Quién es este caballero?
+
+<speaker>CONDE</speaker>
+
+Mi primo don Juan.
+
+<speaker>DOÑA ANA</speaker>
+
+Señor,
+Perdonad.
+
+<speaker>DON JUAN</speaker>
+
+No ha sido error.
+Hablad; que estorbar no quiero.
+
+<speaker>DOÑA ANA</speaker>
+
+Vos no podéis estorbar,
+Ni aquí tendréis ocasión.
+
+<speaker>DON JUAN</speaker>
+
+No lo mandéis.
+
+<speaker>DOÑA ANA</speaker>
+
+Es razón.
+
+<speaker>DON JUAN</speaker>
+
+No me tengo de sentar.
+
+<speaker>DOÑA ANA</speaker>
+
+Ahora bien, yo no porfío.
+
+<speaker>DON JUAN</speaker>
+
+Decísme que necio soy.
+
+<speaker>CONDE</speaker>
+
+Oidme.
+
+<speaker>DOÑA ANA</speaker>
+
+Oyéndoos estoy.
+
+<speaker>DON JUAN</speaker>
+
+Por lo mismo me desvío.
+
+<speaker>CONDE</speaker>
+
+Señora, aunque os he mirado
+Mil veces sin conoceros,
+Antes que viniera á veros
+Tuve de veros cuidado.
+Vuestro esposo, que Dios tiene, 
+Era mi amigo: jugamos
+Una noche; comenzamos
+Por una rifa, que viene
+Á ser, como en los amores,
+La tercera que concierta, 
+Ó á lo menos que dispierta
+El gusto á los jugadores.
+Perdió, picóse, sacó
+Unos escudos, y luego,
+Terciando mi primo el juego, 
+Cuatro sortijas perdió.
+Mas vamos á lo que importa.
+
+<speaker>DOÑA ANA</speaker>
+
+Esas sortijas eché
+Menos: pesadumbre fué
+(Tan mal amor se reporta),
+Porque vine á sospechar
+Que á alguna dama las dió.
+
+<speaker>DON JUAN</speaker> (_ap. á Martín_)
+
+Bien la mentira salió.
+
+<speaker>MARTÍN</speaker>
+
+¿Hay cosa como atinar
+Las sortijas que faltaron?
+
+<speaker>DON JUAN</speaker>
+
+Hay dichosos en mentir.
+
+<speaker>MARTÍN</speaker>
+
+Á cuantas supe decir,
+Con el hurto me pescaron.
+No he mentido sin que luego
+No se me echase de ver.
+
+<speaker>CONDE</speaker>
+
+Así se vino á encender
+Con esta pérdida el juego,
+Que perdió seis mil ducados
+Sobre palabra segura,
+De que tengo una escritura.615
+
+<speaker>DOÑA ANA</speaker>
+
+Más enredos y cuidados
+Que días vivió conmigo
+Don Sebastián me dejó.
+¿Seis mil ducados?
+
+<speaker>CONDE</speaker>
+
+Si yo
+Basto, que soy quien lo digo,
+Y los testigos presentes.
+
+<speaker>MARTÍN</speaker>
+
+Al firmarla estuve allí
+Tan presente como aquí.
+
+<speaker>DON JUAN</speaker> (_ap. á Martín_)
+
+¡Con qué desvergüenza mientes!
+
+<speaker>MARTÍN</speaker>
+
+¡Qué gracia! El buen mentidor
+Ha de ser, señor don Juan,
+Descarado á lo truhán,
+Y libre á lo historiador.
+
+<speaker>DOÑA ANA</speaker>
+
+Pensé que vueseñoría
+Me venía hacer merced. 
+
+<speaker>CONDE</speaker>
+
+Que os he de servir creed;
+Que ésa fué la intención mía.
+No os dé pena la escritura,
+Puesto que fué de mayor;
+Que no tiene mal fiador
+La paga en vuestra hermosura.
+
+<speaker>MARTÍN</speaker> (_ap. á don Juan_)
+
+¿Hay oficial de escritorios
+Que encaje el marfil ansí?
+
+<speaker>DON JUAN</speaker>
+
+En amando, para mí
+Son los engaños notorios. 
+
+<speaker>MARTÍN</speaker>
+
+¿Amor se funda en engaños?
+
+<speaker>DON JUAN</speaker>
+
+Primero que el amor fueron;
+Pues desde que ellos nacieron,
+El mundo cuenta sus daños.
+
+<speaker>CONDE</speaker>
+
+Si yo, Señora, creyera 
+Cobrar la deuda de vos,
+Sin conocernos los dos,
+Por otro estilo pudiera.
+No vengo sino á ofreceros
+Cuanto tengo y cuanto soy,
+Con que pagado me voy,
+Y aun deudor de solo veros.
+Sólo os suplico me deis
+Licencia de visitaros,
+Si fuere parte á obligaros
+Confesar que me debéis,
+No dineros, sino amor.
+
+<speaker>DOÑA ANA</speaker>
+
+Yo quedo tan obligada,
+Como deudora y pagada
+De vuestro heroico valor. 
+
+<speaker>CONDE</speaker>
+
+Bésoos las manos.
+
+<speaker>DOÑA ANA</speaker>
+
+El cielo
+Os guarde.
+
+<speaker>CONDE</speaker>
+
+¿Vendré?
+
+<speaker>DOÑA ANA</speaker>
+
+Venid.
+
+(_Vase el Conde._)
+
+<div type="scene" number="xsd:int">ESCENA XI</div>
+
+<speaker>DOÑA ANA</speaker>, <speaker>DON JUAN</speaker>, <speaker>LEONOR</speaker>, <speaker>JUANA</speaker>, <speadker>MARTÍN</speaker>
+
+<speaker>DOÑA ANA</speaker>
+
+¡Ah, señor don Juan! Oid.
+
+<speaker>MARTÍN</speaker> (_ap._)
+
+Cayó el pez en el anzuelo.
+
+<speaker>DON JUAN</speaker>
+
+¿En qué os sirvo?
+
+<speaker>DOÑA ANA</speaker>
+
+Bien sé yo 
+Que todo aquesto es mentira.
+
+<speaker>DON JUAN</speaker>
+
+Y yo sé que el Conde os mira;
+Esto de la deuda no.
+
+<speaker>DOÑA ANA</speaker>
+
+¡Mala entrada de galán,
+Entrar mintiendo!
+
+<speaker>DON JUAN</speaker>
+
+Señora, 
+Mi primo el Conde os adora.
+
+<speaker>DOÑA ANA</speaker>
+
+Id con Dios, señor don Juan;
+Que yerra el Conde en traeros.
+
+<speaker>DON JUAN</speaker>
+
+¿Desacredítole yo?
+
+<speaker>DOÑA ANA</speaker>
+
+Cuando el Conde me miró,675
+Me dió ocasión de quereros.
+
+<speaker>DON JUAN</speaker>
+
+Aunque deudos, nos preciamos
+Mucho más de ser amigos,
+Aunque envidias ni enemigos
+No quieren que lo seamos. 
+Queredle bien; que merece,
+Señora, que lo queráis.
+
+<speaker>DOÑA ANA</speaker>
+
+Lo que por él negociáis,
+Al Conde desfavorece.
+
+<speaker>DON JUAN</speaker>
+
+Voy; que en la carroza aguarda. 
+Dad licencia que os visite,
+Y que yo lo solicite.
+
+<speaker>DOÑA ANA</speaker>
+
+Si vuelve con vos, ya tarda.
+
+<speaker>DON JUAN</speaker>
+
+Tanto favor da á entender
+Que por él queréis honrarme. 
+
+<speaker>DOÑA ANA</speaker>
+
+Por vos quiero yo obligarme
+Para que me vuelva á ver.
+
+<speaker>DON JUAN</speaker>
+
+Todo se lo digo ansí.
+
+<speaker>DOÑA ANA</speaker>
+
+Yo os tengo por más discreto.
+
+<speaker>DON JUAN</speaker>
+
+¿Volverá el Conde en efeto?695
+
+<speaker>DOÑA ANA</speaker>
+
+No sin vos, y con vos sí.
+
+(_Vanse don Juan y Martín._)
+
+<div type="scene" number="xsd:int">ESCENA XII</div>
+
+<speaker>DOÑA ANA</speaker>, <speaker>LEONOR</speaker>, <speaker>JUANA</speaker>
+
+<speaker>LEONOR</speaker>
+
+Mucho le has favorecido,
+Para ser la vez primera.
+
+<speaker>DOÑA ANA</speaker>
+
+Cuando él me favoreciera,
+Mi favor lo hubiera sido; 
+Mas no me quiso entender:
+Tomo la amistad del Conde.
+
+<speaker>JUANA</speaker>
+
+Agora tibio responde.
+Aun no ha llegado á querer.
+
+<speaker>DOÑA ANA</speaker> (_para sí_)
+
+Necio pensamiento mío, 
+Que en tal locura habéis dado,
+Volved atrás, afrentado
+De ver tan necio desvío.
+Yo, que de tantos me río,
+¡Ruego, pretendo, provoco!
+Pensamiento, poco á poco,
+No diga el honor que pierdo
+Que sois con desdenes cuerdo,
+Ya que quisistes ser loco.
+Dieron los ojos en ver,
+Puesto que en lugar sagrado,
+Al hombre más recatado
+De mirar y de entender;
+Mas, ya que ha venido á ser
+Provocado á desafío,
+Responde tan necio y frío,
+Que me pide que á otro quiera:
+Mirad ¡quién tal os dijera,
+Triste pensamiento mío!
+En vano estoy descansando 
+Con daros disculpa á vos;
+Mas tengámosla los dos,
+Vos amando y yo pensando;
+Porque de pensar amando
+Lo que puede resultar, 
+Viene el alma á sospechar
+Lo que imaginó del ver;
+Porque no hubiera querer
+Si no hubiera imaginar.
+Que no queráis os advierto
+Hombre tan fino y helado,
+Que por lo helado me ha dado
+Tristes memorias del muerto.
+Pero si á cogerle acierto
+Con mirar y con rogar...740
+Guárdese pues de llegar;
+Que, agraviada una mujer,
+Quiere hasta que ve querer,
+Por vengarse en olvidar. (_Vanse._)
+
+<div type="scene" number="xsd:int">ESCENA XIII</div>
+
+Patio de un mesón de Adamuz.
+
+<speaker>UN INDIANO</speaker>, _y_ <speaker>UN MOZO DE MULAS</speaker>; _después_, <speaker>UN MESONERO</speaker>
+
+<speaker>INDIANO
+
+Pasaremos de Adamuz,
+Si este recado nos dan.
+
+<speaker>MOZO</speaker>
+
+Por eso dice el refrán:
+«Adamuz, pueblo sin luz.»
+Mas mira que desde aquí
+Comienza Sierra-Morena.
+
+<speaker>INDIANO</speaker>
+
+Tú las jornadas ordena;
+Eso no corre por mí.
+
+(_Sale el Mesonero._)
+
+<speaker>MESONERO</speaker>
+
+Bien venidos, caballeros.
+
+<speaker>INDIANO</speaker>
+
+Pues, huésped, ¿qué hay que comer?
+
+<speaker>MESONERO</speaker>
+
+Desde hoy á el amanecer
+Dos mozos, seis perdigueros
+Vienen con un perdigón,
+De que estoy desesperado.
+
+<speaker>INDIANO</speaker>
+
+Para mí basta.
+
+<speaker>MESONERO</speaker>
+
+Ha llegado
+Á hurtaros la bendición
+Una mujer que le tiene.
+
+<speaker>INDIANO</speaker>
+
+Y cuando yo le tuviera,
+Por ser mujer se le diera.
+¿Viene sola?
+
+<speaker>MESONERO</speaker>
+
+Sola viene.
+
+<speaker>INDIANO</speaker>
+
+¡Sola! ¿De qué calidad?
+
+<speaker>MESONERO</speaker>
+
+Pobre, y de brío gallarda;
+Porque en un rocín de albarda
+(El término perdonad)
+Como un soldado venía.
+Ella propria se apeó,770
+Le ató y de comer le dió
+Con despejo y bizarría.
+Volvíla á mirar y ví
+Que un arcabuz arrimaba.
+
+<speaker>INDIANO</speaker>
+
+¿Que es tan brava?
+
+<speaker>MESONERO</speaker>
+
+Aunque es tan brava,
+Os aseguro de mí
+Que más su cara temiera
+Que su arcabuz.
+
+<speaker>INDIANO</speaker>
+
+¿Habéis sido
+Galán?
+
+<speaker>MESONERO</speaker>
+
+Bien me han parecido.
+Ya pasó la primavera,780
+Y estamos en el estío:
+Así los años se van.
+
+<speaker>INDIANO</speaker>
+
+¿Qué traje trae?
+
+<speaker>MESONERO</speaker>
+
+Un gabán
+Que cubre el traje, no el brío;
+Un sombrero razonable...
+Todo de poco valor;
+Al fin, parece, Señor,
+De buena suerte y afable,
+Menos aquel arcabuz.
+
+<speaker>INDIANO</speaker>
+
+¿Es ésta?
+
+<speaker>MESONERO</speaker>
+
+La misma es.
+
+<div type="scene" number="xsd:int">ESCENA XIV</div>
+
+<speaker>DOÑA MARÍA</speaker>, _con sombrero, gabán y un arcabuz_.--DICHOS
+
+<speaker>DOÑA MARÍA</speaker> (_ap._)
+
+Temerosa voy, después
+Que he entrado por Adamuz,
+Por ser camino real,
+Á que nunca me atreví;
+Si bien desde que salí,
+Ha sido el ánimo igual
+Al peligro que he tenido.
+¡Ay, padre, y cuánto dolor
+Me da el verte sin favor,
+Si no es que el Duque lo ha sido!800
+Suelen faltar los amigos
+En la mejor ocasión;
+Mas ¡ay! que tus años son
+Los mayores enemigos.
+Los de mi hermano pudieran
+Suplir los tuyos, Señor,
+Aunque no para tu honor
+Más que mis manos hicieran.
+Yo cumplí su obligación;
+Mas defenderte no puedo,810
+Por no acrecentar el miedo
+De mi muerte ó mi prisión.
+Al fin, bien está lo hecho.
+¿De qué me lamento en vano?
+¡Traidor don Diego! ¡Á un anciano815
+Con una cruz en el pecho!...
+Así para quien se atreve
+Á las edades ancianas;
+Que es atreverse á unas canas
+Violar un templo de nieve.
+Pero la mano piadosa
+Del cielo quiere que espante
+Á un Holofernes gigante
+Una Judit valerosa.
+
+<speaker>INDIANO</speaker> (_á doña María_)
+
+Como suelen los caminos
+Dar licencia á los que pasan
+Para entretener las horas,
+Que por ellos son tan largas,
+Á preguntaros me atrevo
+Si lo ha de ser la jornada,830
+Ó por ventura tenéis
+Cerca de aquí vuestra casa.
+
+<speaker>DOÑA MARÍA</speaker>
+
+No soy, Señor, desta tierra.
+
+<speaker>INDIANO</speaker>
+
+Como os ví sola, pensaba
+Que érades de alguna aldea
+De aquesta fértil comarca.
+
+<speaker>DOÑA MARÍA</speaker>
+
+No, Señor; que yo nací
+De esa parte de Granada,
+Y á servir en ella vine;
+Que cuando los padres faltan 
+En tierna edad á los pobres,
+No tienen otra esperanza.
+No se cansó mi fortuna,
+Pues cuando contenta estaba
+Del buen dueño que tenía, 
+Persona de órdenes sacras,
+Le llevó también la muerte,
+Que para mayor mudanza
+Me dió ocasión, como veis.
+
+<speaker>INDIANO</speaker>
+
+Y ¿dónde vais?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Siempre hablaba
+Esta persona que digo,
+Con notables alabanzas
+De la corte y de Madrid:
+Yo pues, á quien ya faltaba
+Dueño, con algún deseo 
+Que de ver grandeza tanta
+Nació con mi condición,
+Determiné de dar traza
+De ir á servir á la corte.
+Y una vez determinada, 
+Lo que viviendo tenía
+El buen cura (que Dios haya)
+Para su regalo y gusto,
+Arcabuz, rocín de caza
+Y este gabán, tomé luego, 
+Y voy con notables ansias
+De ver lo que alaban todos.
+
+<speaker>MOZO</speaker>
+
+El camino de Granada
+No es éste.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Decís muy bien;
+Mas vine por ver si estaba
+En Córdoba un deudo mío.
+
+<speaker>INDIANO</speaker>
+
+¡Determinación extraña
+De una mujer!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Soy mujer.
+
+<speaker>INDIANO</speaker>
+
+Decís muy bien, eso basta.
+Yo voy también á Madrid:
+Traigo jornada más larga,
+Porque vengo de las Indias;
+Que pocas veces descansa
+El ánimo de los hombres
+Aunque sobre el oro y plata. 
+Y si allá habéis de servir,
+Porque me dicen que tarda
+El premio á las pretensiones
+Que la ocupación dilata,
+Casa tengo de poner:
+Si en el camino os agrada
+Mi trato, servidme á mí.
+
+<speaker>DOÑA MARÍA</speaker>
+
+El cielo por vos me ampara.
+Desde hoy soy criada vuestra,
+Y creed que soy criada 
+Que os excusaré de muchas.
+
+<speaker>MOZO</speaker> (_áp._)
+
+Convertirse quiere en ama.
+
+<speaker>DOÑA MARÍA</speaker>
+
+No habrá cosa que no sepa.
+
+<speaker>MOZO</speaker>
+
+Y yo salgo á la fianza;
+Que la buena habilidad 
+Se le conoce en la cara.
+
+<speaker>INDIANO</speaker>
+
+Hanme dicho que en la corte
+Hay ocasiones que gastan
+Inútilmente la hacienda,
+Y yo querría guardarla;
+Que cuesta mucho adquirirla.
+
+<speaker>DOÑA MARÍA</speaker>
+
+La familia es excusada
+Donde hay tanta confusión,
+Pues no se repara en nada.
+Yo sola basto á serviros: 
+No habrá cosa que no haga,
+De cuantas haciendas tiene
+El gobierno de una casa.
+
+<speaker>INDIANO</speaker>
+
+Pues partamos en comiendo,
+Y fiad de mí la paga.910
+
+<speaker>DOÑA MARÍA</speaker> (_áp._)
+
+¡Ay fortuna! ¿dónde llevas
+Una mujer desdichada?
+Pero no fueras fortuna,
+Á saber en lo que paras.
+
+ACTO SEGUNDO
+
+Sala en casa de doña Ana.
+
+ESCENA PRIMERA
+
+<speaker>EL CONDE</speaker>, <speaker>DON JUAN</speaker>
+
+<speaker>DON JUAN</speaker>
+
+Compiten con sus virtudes 
+Sus gracias y perfecciones.
+
+<speaker>CONDE</speaker>
+
+¿Que tantas persecuciones,
+Visitas, solicitudes,
+Celos, desvelos, requiebros,
+Tengan por premio su olvido, 
+Hasta verme convertido,
+De Amadís, en Beltenebros?
+No he visto tales aceros.
+
+<speaker>DON JUAN</speaker>
+
+Conde, no habéis de cansaros;
+Que el estado de estimaros
+Ya es principio de quereros.
+
+<speaker>CONDE</speaker>
+
+Á los principios me estoy
+Á el cabo de tres semanas.
+¿Adonde, esperanzas vanas,
+Con este imposible voy?
+
+<speaker>DON JUAN</speaker>
+
+Todas son penas posibles,
+Pues que sin celos amáis.
+
+<speaker>CONDE</speaker>
+
+¡Ay, ojos, celos me dais,
+Aunque celos invisibles!
+Quéjase de amor doña Ana, 
+Y á mí no me tiene amor:
+Esto es celos en rigor.
+
+<speaker>DON JUAN</speaker>
+
+¿Por qué, si es sospecha vana?
+
+<speaker>CONDE</speaker>
+
+Es celos lo que imagino;
+Que no es celos lo que sé:
+Cosa que pienso que fué,
+Y que en mi daño adivino.
+
+<div type="scene" number="xsd:int">ESCENA II</div>
+
+<speaker>MARTÍN</speaker>.--DICHOS
+
+<speaker>MARTÍN</speaker>
+
+Por poco tuviera calma
+La nave de tu deseo.
+Entro, y á doña Ana veo,
+Venus de marfil con alma.
+¿Cómo te podré pintar
+De la suerte que la ví?
+Cultas musas, dadme aquí
+Un ramo blanco de azahar950
+De las huertas de Valencia
+Ó jardines de Sevilla.
+Comience una zapatilla
+De la Vera de Plasencia,
+Porque entremos por la basa955
+Á esta coluna de nieve,
+Agentado azul, pie breve,
+Que de tres puntos no pasa.
+
+<speaker>CONDE</speaker>
+
+¿Tres puntos? Necio, repara...
+
+<speaker>MARTÍN</speaker>
+
+Pues lo digo, yo lo sé:
+Puntos son que de aquel pie
+Los tomara por la cara.
+
+<speaker>DON JUAN</speaker>
+
+¿Cómo lo viste?
+
+<speaker>MARTÍN</speaker>
+
+Un manteo
+Esta licencia me dió,
+Donde cuanto supo obró 
+La riqueza y el aseo.
+Pero pidió los chapines
+Porque mirarla me vió,
+Y entre las cintas metió
+Cinco pares de jazmines.970
+
+<speaker>DON JUAN</speaker>
+
+De escarpines presumí,
+Según anda el algodón.
+
+<speaker>MARTÍN</speaker>
+
+Ésos paragambas son;
+Que á cierta dama que ví
+Con cañafístolas tales,
+Que se pudiera, aunque bellas,
+Purgar su galán con ellas
+Por drogas medicinales,
+Pregunté si era importante
+Traer damas delicadas
+Las pantorrillas preñadas.
+Y con risueño semblante
+Me dijo: «No es gentileza;
+Pero cosa no ha de haber
+En una honrada mujer
+Que se note por flaqueza.»
+
+<speaker>CONDE</speaker>
+
+¡Linda disculpa!
+
+<speaker>DON JUAN</speaker>
+
+Extremada.
+
+<speaker>MARTÍN</speaker>
+
+La ropa de levantar,
+Con tanto fino alamar,
+Era una colcha bordada.
+Finalmente, no quería
+Salir, por no verte ansí;
+Pero como yo la ví
+Que para ti se vestía,
+Por no estar siempre en el traje
+De trájico embajador,
+Porfié, y saldrá, Señor,
+Si la haces pleito homenaje
+De sola conversación,
+Como quedó concertado.
+
+<speaker>CONDE</speaker>
+
+¡Qué ejercicio tan cansado
+Para mi loca afición!
+
+<speaker>DON JUAN</speaker>
+
+Música y versos quedaron
+Para esta noche de acuerdo.
+
+<speaker>CONDE</speaker>
+
+En tenerme por tan cuerdo
+Muchos locos la engañaron.
+
+<div type="scene" number="xsd:int">ESCENA III</div>
+
+<speaker>DOÑA ANA</speaker>, _en hábito galán_; <speake>JUANA</speaker>, MÚSICOS.--DICHOS
+
+<speaker>DOÑA ANA</speaker>
+
+No dirá vueseñoría
+Que no le fían el talle.
+
+<speaker>CONDE</speaker>
+
+Quien tan bien puede fialle,
+Agravio á los dos haría: 
+Á vos por seguridad,
+Y á mí por justo deseo.
+¡Gracias á amor, que en vos veo
+Señas de más amistad!
+
+<speaker>DOÑA ANA</speaker>
+
+Siéntese vueseñoría;
+Que no le quiero galán
+Esta noche, que nos dan
+La música y la poesía
+Los sugetos que han de hacer
+Un rato conversación. 
+
+<speaker>CONDE</speaker>
+
+Dice mi imaginación
+Que no quiere más de ver.
+
+<speaker>DOÑA ANA</speaker>
+
+Señor don Juan, ¿no os sentáis?--
+¡Qué esquivo primo tenéis! (_Al Conde._)
+
+<speaker>DON JUAN</speaker>
+
+La culpa que me ponéis,
+Para disculpa me dais;
+Pero quiero obedeceros.
+
+<speaker>CONDE</speaker>
+
+Canten, y hablemos yo y vos.
+
+<speaker>DOÑA ANA</speaker>
+
+Y los tres, porque los dos
+No parezcamos groseros.
+
+MÚSICOS. (_Cantan._)
+
+_¿De qué sirve, ojos serenos,
+Que no me miréis jamás?
+De que yo padezca más,
+Y no de que os quiera menos._
+
+<speaker>DOÑA ANA</speaker>
+
+No me agrada que á los ojos 
+Llamen serenos.
+
+<speaker>CONDE</speaker>
+
+¿Por qué,
+Si el cielo, cuando se ve
+Libre de azules enojos,
+Se llama así?
+
+<speaker>DOÑA ANA</speaker>
+
+En una dama
+No apruebo vuestro argumento,
+Si es el alma el movimiento
+Que á cuantos los miran llama,
+Y si al cielo en su azul velo
+La serenidad cuadró,
+Á el sol y á la luna no, 
+Que son los ojos del cielo;
+Porque éstos siempre se mueven.
+
+<speaker>CONDE</speaker>
+
+Perdonad á la canción
+No ser de vuestra opinión:
+Tanto los versos se atreven.
+
+<speaker>DON JUAN</speaker>
+
+Díganse á varios sugetos,
+Como quedó concertado.
+
+<speaker>DOÑA ANA</speaker>
+
+Comience el Conde.
+
+<speaker>CONDE</speaker>
+
+He buscado
+En vuestro loor seis concetos.
+Oid.
+
+<speaker>DOÑA ANA</speaker>
+
+No por vida mía;
+Escritos me los daréis.
+
+<speaker>CONDE</speaker>
+
+No sea, pues no queréis.
+
+<speaker>DOÑA ANA</speaker>
+
+Emplead vuestra poesía
+Adonde más partes haya.
+
+<speaker>CONDE</speaker>
+
+Pues oid, si sois servida,1060
+Un soneto á la venida
+Del inglés á Cádiz.
+
+<speaker>DOÑA ANA</speaker>
+
+Vaya.
+
+<speaker>CONDE</speaker>
+
+Atrevióse el inglés, de engaño armado
+Porque al león de España vió en el nido,
+Las uñas en el ámbar, y vestido,1065
+En vez de pieles, del tusón dorado.
+
+Con débil caña, no con fresno herrado,
+Vió á Marte en forma de español Cupido,
+Volar y herir en el jinete, herido
+Del acicate en púrpura bañado. 
+
+Armó cien naves y emprendió la falda
+De España asir por las arenas solas
+Del mar, cuyo cristal ciñe esmeralda;
+
+Mas viendo en las colunas españolas
+La sombra del león, volvió la espalda,1075
+Sembrando las banderas por las olas.
+
+<speaker>DON JUAN</speaker>
+
+¡Levantó la pluma el vuelo!
+
+<speaker>DOÑA ANA</speaker>
+
+¡Gran soneto á toda ley!
+
+<speaker>DON JUAN</speaker>
+
+¡Qué bien pinta á nuestro rey!
+
+<speaker>DOÑA ANA</speaker>
+
+Mejor le ha pintado el cielo.1080
+
+<speaker>MARTÍN</speaker>
+
+¡Gran soneto!
+
+<speaker>CONDE</speaker>
+
+No le he dado,
+Porque no estoy dél contento.--
+Decid vos.
+
+<speaker>DOÑA ANA</speaker>
+
+¡Qué atrevimiento!
+Donde vos habéis hablado!
+
+<speaker>DON JUAN</speaker>
+
+Excusad tales excusas.
+
+<speaker>DOÑA ANA</speaker>
+
+¿Mas qué os ha de causar risa?
+
+<speaker>CONDE</speaker>
+
+Hablad, divina poetisa.
+
+<speaker>MARTÍN</speaker>
+
+Silencio; que hablan las musas.
+
+<speaker>DOÑA ANA</speaker>
+
+Amaba Filis á quien no la amaba,
+Y á quien la amaba ingrata aborrecía;
+Hablaba á quien jamás la respondía,
+Sin responder jamás á quien la hablaba.
+
+Seguía á quien huyendo la dejaba,
+Dejaba á quien amando la seguía;
+Por quien la despreciaba se perdía,
+Y á el perdido por ella despreciaba.
+
+Concierta, amor, si ya posible fuere,
+Desigualdad que tu poder infama:
+Muera quien vive, y vivirá quien muere.
+
+Da hielo á hielo, amor, y llama á llama,
+Porque pueda querer á quien la quiere
+Ó pueda aborrecer á quien desama.
+
+<speaker>CONDE</speaker>
+
+Vos os podéis alabar;
+Que nadie puede, Señora.
+
+<speaker>DOÑA ANA</speaker>
+
+Hablará don Juan agora.
+
+<speaker>DON JUAN</speaker>
+
+Dejádmele imaginar.
+
+Una moza de cántaro y del río,
+Más limpia que la plata que en él lleva,
+Recién herrada de chinela nueva,
+Honor del devantal, reina del brío;
+
+Con manos de marfil, con señorío,
+Que no hay tan gran Señor que se le atreva,
+Pues donde lava, dice amor que nieva,
+Es alma ilustre al pensamiento mío.
+
+Por estrella, por fe, por accidente, 
+Viéndola henchir el cántaro, en despojos
+Rendí la vida á el brazo trasparente;
+
+Y, envidiosos del agua mis enojos,
+Dije: «¿Por qué la coges de la fuente,
+Si la tienes, más cerca, de mis ojos?
+
+<speaker>DOÑA ANA</speaker>
+
+¡Malos versos!
+
+<speaker>DON JUAN</speaker>
+
+No sé más.
+
+<speaker>DOÑA ANA</speaker>
+
+Un caballero discreto
+¿Escribe á tan vil sugeto?
+No lo creyera jamás.
+
+<speaker>CONDE</speaker>
+
+Tiene doña Ana razón. 
+
+<speaker>DON JUAN</speaker>
+
+Si hubiérades visto el brío
+Del nuevo sugeto mío,
+La hermosura y discreción,
+Dijérades que tenía
+Tanta razón de querer,
+Que no supe encarecer
+Lo menos que merecía.
+
+<speaker>DOÑA ANA</speaker>
+
+Si es disfrazar vuestra dama,
+Como suelen los poetas,
+Por tratar cosas secretas
+Sin ofensa de su fama,
+Está bien; pero si no,
+Bajo pensamiento ha sido.
+
+<speaker>DON JUAN</speaker>
+
+Ninguna cosa he fingido,
+Ni tengo la culpa yo; 
+Porque no lejos de aquí
+Vive la hermosa Isabel,
+Por quien el amor cruel
+Hace estos lances en mí.
+Sirve á un indiano, que viene
+Á la corte á pretender.
+No sé qué puede querer
+Quien tanta riqueza tiene.
+
+<speaker>DOÑA ANA</speaker>
+
+Á tal sugeto ¡tal fe!
+
+<speaker>DON JUAN</speaker>
+
+La que me ha muerto y rendido, 
+Moza de cántaro ha sido,
+Moza de cántaro fué.
+En él este amor bebí,
+Todo me abrasó con él;
+Ella fué Sirena, y él 
+El mar en que me perdí.
+Con él veneno me ha dado,
+Con él me mató.
+
+<speaker>DOÑA ANA</speaker>
+
+Si fuera
+Martín quien eso dijera,
+Estuviera disculpado; 
+Pero ¡un caballero, un hombre
+Como vos!...
+
+<speaker>DON JUAN</speaker>
+
+No es elección
+Amor; diferentes son
+Los efetos de su nombre.
+Es desde el cabello al pie1165
+Tan bizarra y aliñosa,
+Que no es tan limpia la rosa,
+Por más que al alba lo esté.
+Tiene un grave señorío
+En medio desta humildad, 
+Que aumenta su honestidad
+Y no deshace su brío.
+Finalmente, yo no ví
+Dama que merezca amor
+Con más fe, con más rigor.1175
+
+<speaker>DOÑA ANA</speaker>
+
+Advertid que estoy yo aquí,
+Y toca en descortesía
+Tan necio encarecimiento.
+
+<speaker>DON JUAN</speaker>
+
+Yo he dicho mi pensamiento
+Sin pensar que os ofendía.1180
+
+<speaker>CONDE</speaker>
+
+No os levantéis. ¿Dónde vais?
+
+<speaker>DOÑA ANA</speaker>
+
+Corrida me voy.
+
+<speaker>DON JUAN</speaker>
+
+¿Por qué? Sin ofensa vuestra hablé.
+
+<speaker>DOÑA ANA</speaker>
+
+Si cosas bajas amáis,
+No las igualéis conmigo. 
+
+(_Vanse doña Ana y Juana._)
+
+<div type="scene" number="xsd:int">ESCENA IV</div>
+
+<speaker>EL CONDE</speaker>, <speaker>DON JUAN</speaker>, <speaker>MARTÍN</speaker>; _después_, JUANA
+
+<speaker>CONDE</speaker>
+
+¡Por Dios, que tiene razón!
+
+<speaker>MARTÍN</speaker>
+
+Cesó la conversación.
+
+<speaker>DON JUAN</speaker>
+
+¡Porque lo que siento digo!
+
+<speaker>CONDE</speaker>
+
+Decir que no visteis dama
+Como ella, ¿no ha sido error?
+
+<speaker>DON JUAN</speaker>
+
+¿Error?
+
+(_Sale Juana._)
+
+<speaker>JUANA</speaker>
+
+Conde, mi señor,
+Entrad: mi señora os llama.
+
+<speaker>CONDE</speaker> (_á don Juan_)
+
+Ella me quiere decir
+Que no os traiga más conmigo.
+
+<speaker>DON JUAN</speaker>
+
+Si lo tiene por castigo, 
+No apelo de no venir.
+
+(_Vanse el Conde y Juana._)
+
+Di á el Conde que á verla fuí,
+(_Á Martín._)
+Ésa que á doña Ana enfada.
+
+<speaker>MARTÍN</speaker>
+
+Tú ¿quieres lo que te agrada?
+
+<speaker>DON JUAN</speaker>
+
+Sí, Martín, mil veces sí.
+
+<speaker>MARTÍN</speaker>
+
+Pues quiérela si la quieres;
+Que tal vez agrada un prado
+Más que un jardín cultivado,
+Y al fin todas son mujeres. (_Vanse._)
+
+<div type="scene" number="xsd:int">ESCENA V</div>
+
+Calle.
+
+<speaker>DOÑA MARÍA</speaker>, _en hábito humilde y devantal_; <speaker>EL INDIANO</speaker>, _siguiéndola_.
+
+<speaker>DOÑA MARÍA</speaker>
+
+_Advierta vuestra merced 
+Que si esto adelante pasa, No estoy un
+hora en su casa._
+
+<speaker>INDIANO</speaker>
+
+(_Ap._ Pensamiento, detened
+El paso; que hay honra aquí.)
+Palabra, Isabel, te doy1210
+Que no seré desde hoy
+Importuno como fuí.
+Desprecia en fin tu belleza
+Y ese donaire apacible;
+Que ya sé que es imposible1215
+Mudar la naturaleza. (_Vase._)
+
+<div type="scene" number="xsd:int">ESCENA VI</div>
+
+<speaker>DOÑA MARÍA</speaker>
+
+Tiempos de mudanzas llenos,
+Y de firmezas jamás,
+Que ya de menos á más,
+Y ya vais de más á menos,
+¿Cómo en tan breve distancia,
+Para tanto desconsuelo,
+Habéis humillado á el suelo
+Mi soberbia y arrogancia?
+El desprecio que tenía
+De cuantas cosas miraba,
+Las galas que desechaba,
+Los papeles que rompía;
+El no haber de quien pensase
+Que mi mano mereciese,
+Por servicios que me hiciese,
+Por años que me obligase;
+Toda aquella bizarría
+Que como sueño pasó,
+Á tanta humildad llegó,
+Que por mí decir podría:
+_Aprended, flores, de mí
+Lo que va de ayer á hoy;
+Que ayer maravilla fuí,
+Y hoy sombra mía aun no soy._
+Flores, que á la blanca aurora
+Con tal belleza salís,
+Que soberbias competís
+Con el mismo sol que os dora,
+Toda la vida es un hora: 
+Como vosotras me ví,
+Tan arrogante salí;
+Sucedió la noche al día:
+Mirad la desdicha mía,
+_Aprended, flores, de mí._
+Maravilla solía ser
+De toda la Andalucía;
+Ó maravilla ó María,
+Ya no soy la que era ayer.
+Flores, no os deis á entender
+Que no seréis lo que soy,
+Pues hoy en estado estoy,
+Que si en ayer me contemplo,
+Conoceréis por mi ejemplo
+_Lo que va de ayer á hoy._
+No desvanezca al clavel
+La púrpura, ni á el dorado
+La corona, ni al morado
+Lirio el hilo de oro en él;
+No te precies de cruel,
+Manutisa carmesí,
+Ni por el color turquí,
+Bárbara violeta, ignores
+Tu fin, contemplando, flores,
+_Que ayer maravilla fuí._
+De esta loca bizarría
+Quedaréis desengañadas
+Cuando con manos heladas
+Os cierre la noche fría.
+Maravilla ser solía;1275
+Pero ya lástima doy;
+Que de extremo á extremo voy,
+Y desde ser á no ser,
+Pues sol me llamaba ayer,
+_Y hoy sombra mía aun no soy._ 
+
+<div type="scene" number="xsd:int">ESCENA VII</div>
+
+<speaker>DON JUAN</speaker>.--<speaker>DOÑA MARÍA</speaker>
+
+<speaker>DON JUAN</speaker>
+
+Dicha he tenido, por Dios.--
+Isabel, ¿adónde bueno?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Adónde bueno, Isabel?
+Adonde hallase un requiebro.
+¿Pensáis que no tengo yo 
+Mi poco de entendimiento?
+
+<speaker>DON JUAN</speaker>
+
+Bien conozco que no ignoras
+Tanto; que á veces sospecho
+Que finges lo que no entiendes.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Lo que no quiero no entiendo.
+Pero á la fe que me admira
+Que un caballero tan cuerdo
+Y tan galán como vos
+Humille sus pensamientos
+Á una mujer como yo.1295
+¿Sois pobre?
+
+<speaker>DON JUAN</speaker>
+
+Pues ¿á qué efeto
+Me preguntas si soy pobre?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Porque si os falta dinero
+Para pretensiones altas,
+No tengo por mal acuerdo 
+Requebrar lo que, á la cuenta
+Del entendimiento vuestro,
+Os costará zapatillas,
+Ligas, medias y un sombrero
+Para el río con su banda,
+Avantal de lienzo grueso,
+Chinelas ya sin virillas
+(Que solía en otro tiempo
+En los pies de las mujeres
+La plata barrer el suelo),
+Castañetas, cintas, tocas;
+Que para últimos empleos
+De las damas, fondo en ángel,
+No hay plata en el alto cerro
+Del Potosí, perlas ni oro
+En los orientales reinos.
+Más pienso que os costarían
+Las randas de un telarejo
+Que una legión de fregonas.
+
+<speaker>DON JUAN</speaker>
+
+No juzgaras mis deseos
+Por el camino que dices,
+Si te dijera el espejo
+El despejo de tu talle.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Espejo y despejo? ¡Bueno!
+Ya con cuidado me habláis,
+Porque en efeto os parezco
+Mujer que os puedo entender.
+Pues yo os prometo que puedo;
+Pero el estar enseñada
+Á oir vocablos groseros
+De un indiano miserable:
+«Vé por esto, vuelve presto,
+Esto guisa, aquello deja,
+¿Limpiaste aquel ferreruelo?
+Vé por nieve, trae carbón,
+Esto está sin sal, aquello
+Sin agrio, llama á ese esclavo,
+Éste lava, y dame un lienzo,
+¿Cómo gastas tanta azúcar?
+Para madrugar me acuesto,
+Despiértame de mañana,
+Pon la mesa, luego vuelvo;»
+Y otras cosas de este porte
+Me han quitado el sentimiento
+De otras razones más grandes,
+No porque no las entiendo.
+En efeto ¿qué queréis?
+
+<speaker>DON JUAN</speaker>
+
+Que me quieras en efeto.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡Bien aforrada razón,
+Y bien dicha para presto!
+Bien digo yo que pensáis
+Que á mi corto entendimiento
+Importan resoluciones,
+Atajos, y no rodeos.
+Pues levantad el lenguaje;
+Que, como dicen los negros,
+El ánima tengo blanca,
+Aunque mal vestido el cuerpo.
+Habladme como quien sois.
+
+<speaker>DON JUAN</speaker>
+
+Yo, Isabel, así lo creo; 
+Porque, pensando en tu oficio,
+Tal vez el respeto pierdo;
+Pero en mirando á tu cara,
+Vuelvo á tenerte respeto.
+Mas no te debe enojar 
+Que te diga mi deseo;
+Que sólo son por el fin
+Todos los actos perfectos.
+¿Qué dirás deste lenguaje?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Que, aunque es el término honesto,
+No me agrada la intención
+De la suerte que la entiendo.
+Conmigo (á lo que imagino)
+Tomáis la espada á lo diestro.
+Tiré, desviasteis, huí;
+Y acometiéndome al pecho,
+Herida de conclusión
+Formó vuestro pensamiento.
+Pues no, mi señor, por vida
+De los dos, porque no quiero
+Que, asiendo la guarnición,
+Engañéis mi honesto celo.
+Esténse quedas las manos,
+Y aun los pensamientos quedos;
+Que no seremos amigos 
+En no siendo el trato honesto.
+
+<speaker>DON JUAN</speaker>
+
+Como das, Isabel mía,
+(¿Mía dije? ¡Ay Dios! que miento)
+En pensar que por ser pobre
+Te busco, te sigo y ruego,
+Dilatas á mis verdades
+El justo agradecimiento.
+Pues yo te juro, Isabel,
+Que por quererte, desprecio
+La más hermosa mujer, 
+Donaire y entendimiento
+Que tiene aqueste lugar;
+Porque más estimo y precio
+Un listón de tus chinelas
+Que las perlas de su cuello.
+Más precio en tus blancas manos
+Ver aquel cántaro puesto,
+Á la fuente del Olvido
+Pedirle cristal deshecho;
+Y ver que á tu dulce risa
+Deciende el agua riyendo,
+Envidiosa la que cae
+De fuera á la que entra dentro;
+Y ver cómo se da prisa
+El agua á henchirle de presto, 
+Por ir contigo á tu casa,
+En tus brazos ó en tus pechos,
+Que ver como cierta dama
+Baja en su coche soberbio,
+Asiendo verdes cortinas
+Por dar diamantes los dedos,
+Ó asoma por el estribo
+Los rizos de los cabellos
+En las uñas de un descanso,
+Que á tantos sirvió de anzuelo.
+Yo me contento que digas,
+Dulce Isabel: «¡Yo te quiero!»
+Que también quiero yo el alma;
+No todo el amor es cuerpo.
+¿Qué respondes, ojos míos?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Á ojos míos yo no puedo
+Responder ninguna cosa,
+Porque decís que son vuestros.
+Á lo de la voluntad,
+Pienso que licencia tengo;
+Y así, pues alma queréis,
+Digo (porque os vais con esto)
+Que el primer hombre sois vos
+Á quien amor agradezco.
+
+<speaker>DON JUAN</speaker>
+
+¿No más, Isabel?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Es poco?
+Pues vaya por contrapeso
+Que no me desagradáis.
+
+<speaker>DON JUAN</speaker>
+
+¿No más, Isabel?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Qué es esto?
+Conténtese, ó quitaréle
+Lo que le he dado primero.
+
+<speaker>DON JUAN</speaker>
+
+¿Podré tomarte una mano?
+Aunque por Dios que la temo,
+Después que la ví tan diestra
+Esgrimir el blanco acero.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Pues vos no me conocéis:
+Por Dios que algún hombre he muerto
+Aquí donde me miráis.
+
+<speaker>DON JUAN</speaker>
+
+Con los ojos, yo lo creo.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Idos; que viene mi amo.
+
+<speaker>DON JUAN</speaker>
+
+¿Dónde esta tarde te espero?
+
+<speaker>DOÑA MARÍA</speaker>
+
+En la fuente, á lo lacayo.
+
+<speaker>DON JUAN</speaker>
+
+Logre tu donaire el cielo. (_Vase._)
+
+<div type="scene" number="xsd:int">ESCENA VIII</div>
+
+<speaker>LEONOR</speaker>.--<speaker>DOÑA MARÍA</speaker>
+
+<speaker>LEONOR</speaker>
+
+Isabel...
+
+<speaker>DOÑA MARÍA</speaker>
+
+Leonor amiga...
+
+<speaker>LEONOR</speaker>
+
+¿Con éste hablabas?
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Pues bien?
+
+<speaker>LEONOR</speaker>
+
+¿Qué se hizo tu desdén?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Un amor honesto obliga.
+Y te aseguro de mí
+Que es mucho tenelle amor.
+
+<speaker>LEONOR</speaker>
+
+Su talle, ingenio y valor
+Habrán hecho riza en ti.
+Que lo merece confieso;
+Pero en la desigualdad
+No puede haber amistad.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Los elementos por eso
+No tienen paz y sosiego:
+El agua á la tierra oprime,
+El aire á el agua, y reprime
+La fuerza del aire el fuego.
+Mas como él me quiere á mí
+No más de para querer,
+¿Qué pierdo en corresponder?
+
+<speaker>LEONOR</speaker>
+
+Mucho.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Cómo?
+
+<speaker>LEONOR</speaker>
+
+Mucho.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Di.
+
+<speaker>LEONOR</speaker>
+
+Adora mi ama en él.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Quién te lo ha dicho?
+
+<speaker>LEONOR</speaker>
+
+Yo y Juana
+Lo vemos, y á ella con gana
+De casamiento, Isabel.
+Por eso, si no envidaste,
+Descarta y quédate en dos.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Sábeslo bien?
+
+<speaker>LEONOR</speaker>
+
+Sí, por Dios.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Tarde, Leonor, me avisaste;
+No porque pueda alabarse
+Del más mínimo favor,
+Sino por tenerle amor,
+Que no es fácil de olvidarse.
+Necia fuí en imaginar
+Que un don Juan tan entonado
+Para mí estaba guardado.
+
+<speaker>LEONOR</speaker>
+
+Un hombre te quiero dar
+Compañero de otro mío,
+Bravo, pero no cruel,
+Que puede ser, Isabel,
+De cuantas profesan brío.
+No pone codo en la puente
+Hombre de tales aceros,
+Ni han visto los lavaderos
+Más alentado valiente.
+Ama en tu misma región.
+¿Quién te mete con don Juanes?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Tu ama ¿trata en galanes?
+
+<speaker>LEONOR</speaker>
+
+De honesta conversación
+De un conde que la visita,
+Le nacieron los antojos.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡Quién la ve tan baja de ojos
+Á la señora viudita!
+
+<speaker>LEONOR</speaker>
+
+Hermana, enviudó ha dos meses,
+Viénele grande la cama.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Y en fin ¿le quiere tu ama?
+
+<speaker>LEONOR</speaker>
+
+Como si juntos los vieses.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Vé por el cántaro, y vamos
+Al Prado.
+
+<speaker>LEONOR</speaker>
+
+Á Pedro verás;
+Que se quedan siempre atrás
+Él y Martín de sus amos. (_Vase._)
+
+<div type="scene" number="xsd:int">ESCENA IX</div>
+
+<speaker>DOÑA MARÍA</speaker>
+
+Á mis graves desconsuelos
+Solo faltaba este amor,
+Á este amor este rigor,
+Á este rigor estos celos.
+¿No me bastaba tener,
+Para no ser conocida,
+Este género de vida,
+Sino á quien quieren querer?
+Pero andar en competencia,
+Moza de cántaro en fin,
+Cristalino serafín,
+Con vos, será impertinencia.
+Mejor es ser lo que soy,
+Pues que no soy lo que fuí:
+Aprended, flores, de mí
+Lo que vá de ayer á hoy. (_Vase._)
+
+<div type="scene" number="xsd:int">ESCENA X</div>
+
+Prado con una fuente.
+
+<speaker>MARTÍN</speaker>, <speaker>PEDRO</speaker>
+
+<speaker>PEDRO</speaker>
+
+Y ¿que tiene tan buen talle?
+
+<speaker>MARTÍN</speaker>
+
+Esto me dijo Leonor,
+Y que es la moza mejor
+Que tiene toda la calle.
+Es una perla, un asombro;
+Rinden parias á su brío
+Cuantas llevan ropa á el río
+Y llevan cántaro en hombro.
+Es mujer que este don Juan,
+Primo del Conde mi dueño,
+Pierde por hablarla el sueño,
+Desmayos de amor le dan.
+De la suerte la pasea
+Que á la dama de más partes;
+Pero en estos Durandartes
+Poco el pensamiento emplea.
+De noche la viene á ver,
+Y anda el pobre caballero,
+De su cántaro escudero,
+Sin dormir y sin comer.
+Sirve á un caballero indiano
+Tan cuidado, que consiente
+Que vaya y venga á la fuente;
+Puesto que le culpo en vano,
+Porque pienso que ella gusta
+De salir, por ver y hablar
+(Que á mozas deste lugar
+Mucho el no salir disgusta),
+Á jabonar y á lavar
+Á los pilares, á el río.
+
+<speaker>PEDRO</speaker>
+
+En fin, es moza de brío,
+Y que puede descuidar
+De camisas y valonas
+Á un hombre de mi talante.
+
+<speaker>MARTÍN</speaker>
+
+Lleva, en saliendo, delante
+Más pretendientes personas
+Que un oidor ó presidente.
+
+<speaker>PEDRO</speaker>
+
+Si yo la moza poseo,
+Luego habrá despolvoreo
+De todo amor pretendiente:
+Á ellos de cuchilladas
+Y á ella de muchas coces.
+Ya mi cólera conoces.
+
+<speaker>MARTÍN</speaker>
+
+No la has visto ¿y ya te enfadas?
+
+<speaker>PEDRO</speaker>
+
+Gente de un coche se apea.
+
+<speaker>MARTÍN</speaker>
+
+Con ellos viene don Juan.
+
+<speaker>PEDRO</speaker>
+
+¡Por vida del alazán,
+Que no es la viudilla fea!
+
+<div type="scene" number="xsd:int">ESCENA XI</div><
+
+<speaker>DOÑA ANA</speaker>, <speaker>JUANA</speaker>, <speaker>DON JUAN</speaker>.--DICHOS
+
+<speaker>DON JUAN</speaker>
+
+Por el coche os conocí,
+Y luego al Conde avisé,
+Que en la carroza dejé
+Harto envidioso de mí.
+Vine á ver lo que mandáis;
+Que apearos no habrá sido
+Sin causa.
+
+<speaker>DOÑA ANA</speaker>
+
+Causa he tenido;
+Que siempre vos me la dais.
+Quiero venir á la fuente,
+Porque sé que es el lugar
+Adonde os tengo de hallar,
+Y donde sois pretendiente.
+
+<speaker>DON JUAN</speaker>
+
+¡Buen oficio me habéis dado!
+Ó de bestia ó de aguador.
+
+<speaker>DOÑA ANA</speaker>
+
+Conociendo vuestro humor,
+Señor don Juan, he pensado
+Venir por agua también.--
+Muestra ese búcaro, Juana.
+
+<speaker>DON JUAN</speaker>
+
+Dado habéis esta mañana,
+Filos, Señora, al desdén.
+
+<speaker>DOÑA ANA</speaker>
+
+Deseando enamoraros,
+Moza de cántaro soy,
+Por agua á la fuente voy.
+
+<speaker>DON JUAN</speaker>
+
+Tenéos...
+
+<speaker>DOÑA ANA</speaker>
+
+Quiero agradaros.
+
+<speaker>DON JUAN</speaker>
+
+Es el cántaro pequeño,
+Templará poco el rigor
+Á los enfermos de amor.
+
+<div type="scene" number="xsd:int">ESCENA XII</div>
+
+<speaker>DOÑA MARÍA</speaker> _y_ <speaker>LEONOR</speaker>, _con sus cántaros_.--DICHOS
+
+<speaker>DOÑA MARÍA</speaker> (_á Leonor_)
+
+Esto me dijo mi dueño;
+Que en el patio de palacio,
+Archivo de novedades,
+Ya mentiras, ya verdades,
+Como pasean de espacio,
+Lo contaba mucha gente.
+
+<speaker>LEONOR</speaker>
+
+Y ¿que esa mujer mató
+Á el que á su padre afrentó?
+¡Bravo corazón!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Valiente.
+Dijo que había pedido
+La parte pesquisidor,
+Y que á el Rey nuestro señor
+(Cuya vida al cielo pido),
+Consultaron este caso,
+Y que no quiso que fuese
+Quien pesadumbre le diese.
+
+<speaker>LEONOR</speaker>
+
+No fué la piedad acaso,
+Si el padre estaba inocente.
+¿Y nunca más pareció
+Esa dama que mató
+Á el caballero insolente?
+
+<speaker>DOÑA MARÍA</speaker>
+
+De eso no me dijo nada.
+Yo estoy contenta de ver
+(Que en efeto soy mujer)
+Que la hubiese tan honrada.
+
+<speaker>LEONOR</speaker>
+
+¿Dijo el nombre que tenía?
+Que me alegra á mí también.
+
+<speaker>DOÑA MARÍA</speaker>
+
+No sé si me acuerdo bien...
+Aunque sí: doña María.
+
+<speaker>MARTÍN</speaker>
+
+Aquí están dos escuderos
+Para las dos.
+
+<speaker>LEONOR</speaker>
+
+Isabel,
+Este mozazo es aquel
+Que te dije.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡Oh, caballeros!...
+
+<speaker>MARTÍN</speaker> (_á Pedro_)
+
+Llega, no estés vergonzoso;
+Llega y habla.
+
+<speaker>PEDRO</speaker>
+
+Estoy mirando
+Á Isabel, y contemplando
+Su talle y su rostro hermoso.
+Téngame vuesamerced
+Por suyo desde esta tarde.
+
+<speaker>DOÑA MARÍA</speaker>
+
+(_Ap._ ¡Qué buen hombrón!) Dios le guarde.
+
+<speaker>PEDRO</speaker> (_ap._)
+
+Cayó la daifa en la red.
+Ya está perdida por mí.
+
+<speaker>DOÑA MARÍA</speaker> (_ap._)
+
+Con pocos de éstos pudiera
+Conducir una galera
+Á la China, desde aquí,
+Don Fadrique de Toledo.
+
+<speaker>PEDRO</speaker>
+
+Pido mano, doy turrón.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Mas que lleva un mojicón,
+Hombrón, si no se está quedo?
+
+<speaker>PEDRO</speaker>
+
+¡Por el agua de la mar,
+Que tiene valor la hembra!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Pues no sabe dónde siembra.
+
+<speaker>PEDRO</speaker>
+
+(_Ap._ Á el primer encuentro azar.)
+¡Voto á tus ojos serenos,
+Isabel, porque te asombres,
+Que me mate con mil hombres,
+Y esto será lo de menos!
+Ablándate, serafín.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Déjeme, no me zabuque.
+
+<speaker>PEDRO</speaker>
+
+Aquí en la esquina del Duque
+Hay turrón.--Vamos, Martín.
+
+<speaker>MARTÍN</speaker>
+
+Vamos, y gasta; que luego
+Estará como algodón.
+
+<speaker>PEDRO</speaker>
+
+Sí, mas ¡coz y mordiscón!...
+Parece rocín gallego.
+
+(_Vanse Martín y Pedro._)
+
+<div type="scene" number="xsd:int">ESCENA XIII</div>
+
+<speaker>DOÑA ANA</speaker>, <speaker>DON JUAN</speaker>, <speaker>DOÑA MARÍA</speaker>, <speaker>LEONOR</speaker>, <speaker>JUANA</speaker>
+
+<speaker>DOÑA ANA</speaker>
+
+Quedo, no os pongáis delante;
+Que ya he visto por las señas
+Que es aquélla vuestra dama.
+
+<speaker>JUANA</speaker>
+
+Pues Leonor viene con ella,
+¿Quién duda que es Isabel?
+Fuera de que no tuviera
+Ninguna aquel talle y brío.
+
+<speaker>DOÑA ANA</speaker>
+
+Disculpa tiene en quererla
+El señor don Juan.
+
+<speaker>JUANA</speaker>
+
+La moza
+En otro traje pudiera
+Hacer á cualquiera dama
+Pesadumbre y competencia.
+
+<speaker>DON JUAN</speaker>
+
+¿Es todo por darme vaya?
+
+<speaker>DOÑA ANA</speaker>
+
+Quisiérala ver más cerca.
+Dígale vuesamerced
+Que está aquí una dama enferma,
+Que se le antoja beber
+Por la cantarilla nueva;
+Que no irá de mala gana.
+
+<speaker>DON JUAN</speaker>
+
+Sólo por serviros fuera.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡Ay, Leonor!
+
+<speaker>LEONOR</speaker>
+
+¿Qué?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Tu señora
+Y aquél mi galán con ella.
+
+<speaker>LEONOR
+
+P</speaker>arece que te has turbado.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Por poco se me cayera
+El cántaro de las manos.
+
+<speaker>DON JUAN</speaker> (_á doña María_)
+
+Aquella señora os ruega
+Que la deis un poco de agua.
+
+<speaker>DOÑA MARÍA</speaker>
+
+De buena gana la diera
+Á ella el agua, y á vos
+Con el cántaro.
+
+<speaker>DON JUAN</speaker>
+
+No seas
+Necia.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Llevádsela vos,
+Y de vuestra mano beba.
+
+<speaker>DON JUAN</speaker>
+
+Mira que en público estamos,
+Y las mujeres discretas
+No hacen cosas indignas.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Iré porque nadie entienda
+Que me da celos á mí.--
+
+(_Llégase á doña Ana._)
+
+Vuesamerced beba, y crea
+Que quisiera que este barro
+Fuera cristal de Venecia;
+Pero serálo en tocando
+Esas manos y esas perlas.
+
+<speaker>DOÑA ANA</speaker>
+
+Beberé, porque he caído.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Si el agua el susto sosiega,
+Beba; que todos caeremos,
+Si no en el daño, en la cuenta.
+
+<speaker>DOÑA ANA</speaker>
+
+Yo he bebido.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Y yo también.
+
+<speaker>DOÑA ANA</speaker> (_ap._)
+
+Yo pesares.
+
+<speaker>DOÑA MARÍA</speaker> (_ap._)
+
+Yo sospechas.
+
+<speaker>DOÑA ANA</speaker>
+
+¡Qué caliente!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Vuestras manos
+De nieve servir pudieran.
+
+<speaker>DOÑA ANA</speaker> (_á Juana_)
+
+Haz que llegue el coche.
+
+<speaker>JUANA</speaker> (_llamando_)
+
+¡Ah, Hernando!
+
+<speaker>DOÑA ANA</speaker>
+
+¡Buena moza!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Buena sea
+Su vida.
+
+(_Vanse doña Ana y Juana._)
+
+<div type="scene" number="xsd:int">ESCENA XIV</div>
+
+<speaker>DOÑA MARÍA</speaker>, <speaker>DON JUAN</speaker>, <speaker>LEONOR</speaker>
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿No la acompaña?
+¡Mal galán! ¿Así se queda?
+
+<speaker>DON JUAN</speaker>
+
+Á darte satisfaciones.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Estoy yo tan satisfecha,
+Que será gastar palabras.
+
+<speaker>DON JUAN</speaker>
+
+Mira, Isabel, que esto es fuerza,
+Y que bien sabe Leonor
+(Dejo aparte mi fineza)
+Que el Conde sirve á doña Ana.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Cántaro, tened paciencia;
+Vais y venís á la fuente:
+Quien va y viene siempre á ella,
+¿De qué se espanta, si el asa
+Ó la frente se le quiebra?
+Sois barro, no hay que fiar.
+Mas ¿quién, cántaro, os dijera
+Que no os volviérades plata
+En tal boca, en tales perlas?
+Pero lo que es barro humilde,
+En fin, por barro se queda.
+No volváis más á la fuente,
+Porque estoy segura y cierta
+Que no es bien que vos hagáis
+Á los coches competencia.
+
+<speaker>DON JUAN</speaker>
+
+¿Qué dices? Mira, Isabel,
+Que sin culpa me condenas.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Yo con mi cántaro hablo;
+Si es mío, ¿de qué se queja?
+Váyase vuesamerced,
+Mire que el coche se aleja.
+
+<speaker>DON JUAN</speaker>
+
+Iréme desesperado,
+Pues haces cosas como éstas,
+Sabiendo que Leonor sabe
+Que no es posible que quiera
+Eso de que tienes celos. (_Vase._)
+
+<speaker><div type="scene" number="xsd:int">ESCENA XV</div></speaker>
+
+<speaker>DOÑA MARÍA</speaker>, <speaker>LEONOR</speaker>
+
+<speaker>LEONOR</speaker>
+
+Necia estás. ¿Por qué le dejas
+Que se vaya con disgusto?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Leonor, el alma me lleva;
+Que los celos me han picado.
+Pero no seré yo necia
+En querer desigualdades,
+Aunque me abrase y me muera.
+No he de ver más á don Juan.
+¡Esto faltaba á mis penas!
+
+<speaker>LEONOR</speaker>
+
+¡Buen lance habemos echado!
+Tú desesperada quedas,
+Y mi ama va perdida.
+
+<div type="scene" number="xsd:int">ESCENA XVI</div>
+
+<speaker>PEDRO</speaker>, <speaker>MARTÍN</speaker>--DICHAS
+
+<speaker>PEDRO</speaker>
+
+Como dos soldados juegan:
+Perdí el turrón y el dinero.
+
+<speaker>MARTÍN</speaker>
+
+Cosas la corte sustenta,
+Que no sé cómo es posible.
+¡Quién ve tantas diferencias
+De personas y de oficios,
+Vendiendo cosas diversas!
+Bolos, bolillos, bizcochos,
+Turrón, castañas, muñecas,
+Bocados de mermelada,
+Letuarios y conservas;
+Mil figurillas de azúcar,
+Flores, rosarios, rosetas,
+Rosquillas y mazapanes,
+Aguardiente, y de canela;
+Calendarios, relaciones,
+Pronósticos, obras nuevas,
+Y á _Don Alvaro de Luna_,
+Mantenedor destas fiestas.
+Mas quedo; que están aquí.
+
+<speaker>PEDRO</speaker>
+
+¡Oigan! ¿De qué es la tristeza?
+¿No estaba alegre esta moza?
+¡Qué pensativas están!
+
+<speaker>MARTÍN</speaker>
+
+Pienso que andaba don Juan
+Acechando una carroza.
+
+<speaker>PEDRO</speaker>
+
+Quien te me enojó, Isabel,
+Que con lágrimas lo pene:
+Hágote voto solene
+Que pueden doblar por él.
+Vuelve, Isabel, esos ojos;
+Que no soy yo por lo menos
+Quien á tus ojos serenos
+Quitó luz y puso enojos.
+¿Quién tan bárbara y cruel,
+Á tu hermosura atrevido,
+Causa de tu enojo ha sido?
+¿Quién te me enojó, Isabel?
+No es posible que tuviese
+Noticia de mi rigor,
+Sin que luego de temor
+Súbitamente muriese.
+Quien te enojó, ¿vida tiene?
+¿Que donde estoy, vivo esté?
+Dime quién es; que yo haré
+Que con lágrimas lo pene.
+Dime cómo y de qué suerte
+Que le mate se te antoja,
+Porque en sacando la hoja,
+Soy guadaña de la muerte.
+Si el Cid á su lado viene,
+Gigote de hombres haré,
+Y de que lo cumpliré
+Hágote voto solene.
+Si yo me enojo en Madrid
+Con quien á ti te ha enojado,
+Haz cuenta que se ha tocado
+La tumba en Valladolid.
+Porque en diciendo, Isabel,
+Que he de matalle, está muerto.
+No hay que esperar, porque es cierto
+Que pueden doblar por él.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Ven, Leonor; vamos á casa.
+
+<speaker>LEONOR</speaker>
+
+Triste vas.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Perdida estoy.
+
+<speaker>PEDRO</speaker>
+
+¿Así se va?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Así me voy.
+
+<speaker>PEDRO<speaker>
+
+Pues cuénteme lo que pasa.
+
+<speaker>DOÑA MARÍA</speaker>
+
+No quiero.
+
+<speaker>PEDRO</speaker>
+
+Tendréla.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Tome.
+
+<speaker>PEDRO</speaker>
+
+¡Ay!
+
+<speaker>MARTÍN</speaker>
+
+¿Qué fué?
+
+<speaker>PEDRO</speaker>
+
+Tamborilada.
+
+<speaker>LEONOR</speaker>
+
+¿Dístele, Isabel?
+
+<speaker>DOÑA MARÍA</speaker>
+
+No es nada.
+Pregúntale si le come.
+
+ACTO TERCERO
+
+<speaker>ESCENA PRIMERA</speaker>
+
+<speaker>PEDRO</speaker>, BERNAL, MARTÍN _y_ LORENZO, _dentro_
+
+<speaker>PEDRO</speaker>
+
+¡Fuera digo! No haya más.
+
+<speaker>LORENZO</speaker>
+
+¡Ay, que me ha descalabrado!
+
+<speaker>MARTÍN</speaker>
+
+Con el cántaro le ha dado.
+
+<speaker>BERNAL</speaker>
+
+¡Lavado, Lorenzo, vas!
+
+<speaker>LORENZO</speaker>
+
+Esto ¿se puede sufrir?
+
+<speaker>PEDRO
+
+L</speaker>lévale á curar, Bernal.
+
+<speaker>LORENZO</speaker>
+
+¡Vive Cristo, que la tal!... (_Salen._)
+
+<speaker>MARTÍN</speaker>
+
+No lo acabes de decir.
+
+<speaker>PEDRO</speaker>
+
+No queda lacayo en ser
+Donde esta mujer está.
+
+<speaker>MARTÍN
+
+B</speaker>ravas bofetadas da.
+
+<speaker>PEDRO</speaker>
+
+Dos mozas azotó ayer.
+
+<speaker>BERNAL</speaker>
+
+¡Ea, ea! Que no es nada.
+
+<speaker><div type="scene" number="xsd:int">ESCENA II</div></speaker>
+
+<speaker>DOÑA MARÍA</speaker>, <speaker>LEONOR</speaker>.--DICHOS
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡Pícaro! ¿Pellizco á mí?
+¡Fuera, digo!
+
+<speaker>LEONOR</speaker>
+
+¿Estás en ti?
+
+<speaker>LORENZO</speaker>
+
+¡Á mí, Isabel, cantarada!
+¡Voto á el hijo de la mar!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Llegue el lacayo gallina.
+
+<speaker>PEDRO</speaker>
+
+Daga trae en la pretina.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Y aun enseñada á matar.
+Llegue el barbado, y daréle
+Dos mohadas á la usanza
+De mi tierra, por la panza,
+Y hará el puñal lo que suele.
+
+<speaker>LORENZO</speaker>
+
+¡Mataréla!
+
+<speaker>PEDRO</speaker>
+
+Estoy aquí
+Á pagar de mi dinero.
+
+<speaker>LORENZO</speaker>
+
+Pues con él haberlas quiero,
+Aunque es mujer para mí.
+
+<speaker>PEDRO</speaker>
+
+¡Miente!
+
+<speaker>LORENZO</speaker>
+
+Véngase conmigo.
+
+(_Vanse los hombres._)
+
+<div type="scene" number="xsd:int">ESCENA III</div>
+
+<speaker>DOÑA MARÍA</speaker>, LEONOR
+
+<speaker>LEONOR</speaker>
+
+¡Buenos van, desafiados!
+
+<speaker>DOÑA MARÍA</speaker>
+
+¡Qué diferentes cuidados
+Me da, Leonor, mi enemigo!
+
+<speaker>LEONOR</speaker>
+
+¿No le has visto más?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Ayer.
+
+<speaker>LEONOR</speaker>
+
+Alegre quisiera hallarte,
+Porque te alcanzara parte
+De mi contento y placer.
+Ya Martín se determina,
+Y nos queremos casar:
+Mira que nos has de honrar,
+Y que has de ser la madrina.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Estoy desacomodada
+Del indiano; que si no,
+Yo lo hiciera: aquí me dió
+Su casa una amiga honrada,
+Donde de prestado estoy.
+
+<speaker>LEONOR</speaker>
+
+Mi Señora te dará
+Vestidos: vamos allá;
+Que pienso que ha de ser hoy.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Tendré vergüenza de vella.
+
+<speaker>LEONOR</speaker>
+
+Anda; que te quiere bien,
+Y sé que tiene también
+Gusto de que hables con ella.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Vamos, y de aquí á tu casa Te diré lo que pasó
+En el río.
+
+<speaker>LEONOR</speaker>
+
+No fuí yo;
+Que mujer que ya se casa,
+Ha de mostrar más recato
+Del que solía tener.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Es achaque; voy por ver
+Aquel caballero ingrato.
+Fuimos Teresa, Juana y Catalina,
+El sábado, Leonor, á Manzanares:
+Si bien yo melancólica y mohina
+De darme este don Juan tantos pesares.
+De tu dueño las partes imagina;
+Que cuando en su valor, Leonor, repares,
+Presumirás, pues no me he vuelto loca,
+Que soy muy necia ó mi afición es poca.
+Tomé el jabón con tanto desvarío
+Para lavar de un bárbaro despojos,
+Que hasta los paños me llevaba el río,
+Mayor con la creciente de mis ojos.
+Cantaban otras con alegre brío,
+Y yo, Leonor, lloraba mis enojos:
+Lavaba con lo mesmo que lloraba,
+Y al aire de suspiros lo enjugaba.
+Bajaba el sol al agua trasparente,
+Y, el claro rostro en púrpura bañado,
+Las nubes ilustraba de occidente
+De aquel vario color tornasolado;
+Cuando, despierta ya del accidente,
+Saqué la ropa, y de uno y otro lado,
+Asiendo los extremos, la torcimos,
+Y á entapizar los tendederos fuimos.
+Quedando pues por los menudos ganchos
+Las camisas y sábanas tendidas,
+Salieron cuatro mozas de sus ranchos,
+En todo la ribera conocidas;
+Luego, de angostos pies y de hombros anchos,
+Bigotes altos, perdonando vidas,
+Cuatro mozos: no hablé; que fuera mengua,
+Estando triste el alma, hablar la lengua.
+Tocó, Leonor, Juanilla el instrumento
+Que con cuadrada forma en poco pino,
+Despide alegre cuanto humilde acento,
+Cubierto de templado pergamino;
+Á cuyo son, que retumbaba el viento,
+Cantaba de un ingenio peregrino,
+En seguidillas, con destreza extraña,
+Pensamientos que envidia Italia á España.
+Bailaron luego hilando castañetas
+Lorenza y Justa y un galán barbero
+Que mira á Inés, haciendo más corvetas
+Que el Conde ayer en el caballo overo.
+¡Oh celos! todos sois venganza y tretas,
+Pues porque ví bajar el caballero
+Que adora de tu dueño la belleza,
+No le quise alegrar con mi tristeza.
+Entré en el baile con desgaire y brío,
+Que, admirándole ninfas y mozuelos,
+«¡Vítor!» dijeron, celebrando el mío:
+Y era que amor bailaba con los celos.
+Estando en esto, el contrapuesto río
+Se mueve á ver dos ángeles, dos cielos,
+Que á la Casa del Campo (Dios los guarde)
+Iban á ser auroras por la tarde.
+¿No has visto á el agua, al súbito granizo
+Esparcirse el ganado en campo ameno
+Ó volar escuadrón espantadizo
+De las palomas, en oyendo el trueno?
+Pues de la misma suerte se deshizo
+El cerco bailador, de amantes lleno,
+En oyendo que honraban la campaña
+Felipe y Isabel, gloria de España.
+¿No has visto en un jardín de varias flores
+La primavera en cuadros retratada,
+Que por la variedad de las colores,
+Aun no tienen color determinada,
+Y en medio ninfas provocando amores?
+Pues así se mostraba dilatada
+La escuadra hermosa de las damas bellas,
+Flores las galas y las ninfas ellas.
+Yo, que estaba arrobada, les decía
+Á los reyes de España: «Dios os guarde,
+Y extienda vuestra heroica monarquía
+Del clima helado á el que se abrasa y arde;»
+Cuando veo que dice: «Isabel mía,»
+Á mi lado don Juan; y tan cobarde
+Me hallé á los ecos de su voz, que luego
+Fué hielo el corazón, las venas fuego.
+«Traidor, respondo, tus iguales mira;
+Que yo soy una pobre labradora.»
+Y diciendo y haciendo, envuelta en ira,
+Sigo la puente, y me arrepiento agora:
+Verdad es que le siento que suspira
+Tal vez desde la noche hasta el aurora;
+Mas recelo, si va á decir verdades,
+Lo que se sigue á celos y amistades.(_Vanse._)
+
+<speaker><div type="scene" number="xsd:int">ESCENA IV</div></speaker>
+
+Sala en casa de doña Ana.
+
+<speaker>DOÑA MARÍA</speaker>, LEONOR; _después_, DOÑA ANA _y_ JUANA
+
+<speaker>LEONOR</speaker>
+
+Á mi casa hemos llegado:
+Después, que no puedo agora,
+Porque viene mi Señora,
+Te diré lo que ha pasado
+Por los celos en los dos.
+
+(_Salen doña Ana y Juana._)
+
+<speaker>DOÑA ANA</speaker>
+
+¿Ésta dices?
+
+<speaker>JUANA</speaker>
+
+Ésta es.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Dadme, Señora, los pies.
+
+<speaker>DOÑA ANA</speaker>
+
+Isabel, guárdela Dios.
+¿Qué se ofrece por acá?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Quiéreme hacer su madrina
+Leonor, que no me imagina
+Desacomodada ya.
+
+<speaker>DOÑA ANA</speaker>
+
+¿No está ya con el indiano?
+
+<speaker>DOÑA MARÍA</speaker>
+
+No, Señora.
+
+<speaker>DOÑA ANA</speaker>
+
+Pues ¿por qué?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Cierto atrevimiento fué,
+De hombre al fin; pero fué en vano.2000
+
+<speaker>DOÑA ANA</speaker>
+
+¿Cómo, cómo, por mi vida?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Pudiera estar satisfecho
+De mi honor y de mi pecho:
+De mi honor por bien nacida,
+De mi pecho porque, habiendo
+Entrado por los balcones
+Una noche tres ladrones,
+Que ya le estaban pidiendo
+Las llaves, tomé su espada,
+Y aunque ya se defendieron, 
+Por la ventana salieron,
+Y esto á pura cuchillada.
+Pero obligándole á amor
+Lo que pudiera á respeto,
+Me llamó una noche, á efeto 
+De no respetar mi honor.
+Que le descalzase fué
+La invención: llego á su cama,
+Donde sentado me llama,
+Y humilde le descalcé.
+Pero echándome los brazos,
+Tan descortés procedió,
+Que á arrojarle me obligó
+Donde le hiciera pedazos.
+Mas de aquellos desatinos
+Sus zapatos me vengaron,
+Cuyas voces despertaron
+La mitad de los vecinos.
+Y aunque culpando el rigor,
+Poniéndose de por medio, 
+Celebraron el remedio
+Para quitarle el amor.
+
+<speaker>DOÑA ANA</speaker>
+
+Notable debes de ser.
+Cierto que te tengo amor.
+
+<speaker>JUANA</speaker>
+
+Es el servicio mejor2035
+Y la más limpia mujer
+De cuantas andan aquí.
+Ruégale que esté contigo.
+
+<speaker>DOÑA ANA</speaker>
+
+¿No querrás estar conmigo,
+Isabel?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Señora, sí.
+
+<speaker>DOÑA ANA</speaker>
+
+¿Qué sabes hacer?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Lavar,
+Masar, cocer y traer
+Agua.
+
+<speaker>DOÑA ANA</speaker>
+
+¿No sabrás coser?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Bien sé coser y labrar.
+
+<speaker>DOÑA ANA</speaker>
+
+Pues eso será mejor.
+Manto y tocas te daré.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Señora, yo no sabré
+Servir de dueña de honor.
+Éste es un hábito agora
+De cierta desdicha mía,
+Que vos sabréis algún día. (_Vase._)
+
+<speaker>JUANA</speaker>
+
+Aquí está don Juan, Señora.
+
+<div type="scene" number="xsd:int">ESCENA V</div>
+
+<speaker>DON JUAN</speaker>, <speaker>MARTÍN</speaker> <speaker>DOÑA ANA</speaker>, <speaker>LEONOR</speaker>, <speaker>JUANA</speaker>
+
+<speaker>DON JUAN</speaker>
+
+Siempre soy embajador.
+El Conde os pide licencia,
+Y dice que de su ausencia
+Fué causa vuestro rigor;
+Que tratáis tan mal su amor,
+Que ya toma por partido,
+En la caza divertido,
+Solicitar á su daño
+Una manera de engaño
+Que á los dos parezca olvido:
+Á vos excusando el veros,
+Y á él, Señora, el cansaros.
+Pero no quiere engañaros
+Ni olvidarse de quereros:
+Visitaros y ofenderos
+Es fuerza para serviros.
+Esto me manda deciros:
+Mirad si le dais licencia;
+Que le cuesta vuestra ausencia
+Cuantos instantes, suspiros.
+
+<speaker>DOÑA ANA</speaker>
+
+Vos venís en ocasión
+Que os he hecho un gran servicio:
+Á lo menos es indicio
+De ésta mi loca pasión.
+Mirad en qué obligación
+Os pone el haber traído
+Á mi casa quien ha sido
+Lo que tanto habéis amado;
+Que os quiero ver obligado,
+Pues no puedo agradecido.
+Volved los ojos, veréis
+Á Isabel, que viene aquí,
+No para servirme á mí,
+Sino á que vos la mandéis;
+Que no quiero que os canséis
+En buscarla en fuente ó prado.
+Mirad si estáis obligado,
+Y cómo he sabido hacer
+Que vos me vengáis á ver,
+No como hasta aquí, forzado.
+
+<speaker>DON JUAN</speaker>
+
+De vuestra queja os prometo
+Que es el Conde, mi señor,
+La causa, cuyo valor
+Únicamente respeto;
+Porque ¿cuál hombre discreto
+No conociera y amara
+De vuestra belleza rara
+La divina perfección,
+Y el discurso á la razón,
+Y á vos el alma negara?
+Con esto la puse en quien
+La misma desigualdad
+Disculpe la voluntad,
+Para no quereros bien.
+Mas no me pidáis que os den
+Gracias de haberla traído
+Mis ojos; que antes ha sido
+Para no poderla ver,
+Pues testigo habéis de ser,
+Y yo menos atrevido.
+
+<div type="scene" number="xsd:int">ESCENA VI</div>
+
+<speaker>EL CONDE</speaker>.--DICHOS
+
+<speaker>CONDE</speaker>
+
+Tanto la licencia tarda,
+Que sin ella vengo á veros.
+
+<speaker>DOÑA ANA</speaker>
+
+Conde, mi señor, disculpa.
+De ausencia de tanto tiempo.--
+Llega una silla, Isabel.
+
+<speaker>DON JUAN</speaker>
+
+Aquí me estaban riñendo
+Tu ausencia.
+
+<speaker>CONDE</speaker>
+
+¡Buena criada!
+Y nueva; que no me acuerdo
+Haberla visto otra vez.
+
+<speaker>DOÑA ANA</speaker>
+
+¡Buena cara, gentil cuerpo!
+¿No es muy linda?
+
+<speaker>CONDE</speaker>
+
+¡Sí, por Dios!
+
+<speaker>DOÑA ANA</speaker>
+
+De que os agrade me huelgo;
+Que es la dama de don Juan. 
+
+<speaker>CONDE</speaker>
+
+Si es así el entendimiento,
+Disculpa tiene mi primo.
+Verla más de espacio quiero.--
+Pasad, Señora, adelante,
+¿De dónde sois?
+
+<speaker>DOÑA MARÍA</speaker>
+
+No sé cierto;
+Porque ha mucho que no soy.
+
+<speaker>CONDE</speaker>
+
+Partes en la moza veo,
+Que en otro traje pudieran,
+Con el donaire y aseo,
+Dar, fuera de vuestros ojos,
+Á muchos envidia y celos.
+Mi primo es tan singular,
+Que por bizarría ha puesto
+Las preferencias del gusto
+En tan bajos fundamentos.
+
+<speaker>MARTÍN</speaker>
+
+Á mí responder me toca.
+Perdónenme si me atrevo,
+Por el honor del fregado,
+La opinión del lavadero,
+Del cántaro y el jabón;2145
+Que más de cuatro manteos,
+De ésos con esteras de oro,
+Cubren algunos defetos.
+
+<speaker>DOÑA ANA</speaker>
+
+Cásase Martín agora
+Con mi Leonor, y por eso 
+Siente que vueseñoría
+Haga de don Juan desprecio.
+
+<speaker>DON JUAN</speaker>
+
+¡Dar en el pobre don Juan!
+
+<speaker>CONDE</speaker>
+
+Huélgome del casamiento.
+Y ¿seréis vos la madrina?
+Porque ser padrino quiero.
+
+<speaker>DOÑA ANA</speaker>
+
+No, Señor, que es Isabel;
+Que pienso que ha mucho tiempo
+Que ella y Leonor son amigas.
+
+<speaker>CONDE</speaker>
+
+Pues tócale de derecho
+Ser el padrino á don Juan.
+
+<speaker>DON JUAN</speaker>
+
+Basta; que estáis de concierto
+Todos contra mí. Pues vaya;
+Que el ser el padrino aceto.
+
+<speaker>CONDE</speaker>
+
+¿Cómo calla la madrina?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Señor, corto entendimiento
+Presto se ataja, y más donde
+Hay tantos y tan discretos.
+Allá en mi lugar un día
+Un muchacho en un jumento
+Llevaba una labradora,
+Y perdonad, que iba en pelo.
+«Hazte allá, que le maltratas,»
+Iba la madre diciendo;
+Y tanto hacia atrás se hizo,
+Que dió el muchacho en el suelo.
+Díjole: «¿Cómo caíste?»
+Y disculpóse diciendo:
+«Madre, acabóseme el asno.»
+Así yo, que hablando veo
+Á tan discretos señores,
+Hago atrás mi entendimiento,
+Hasta que he venido á dar
+Con el silencio en el suelo.
+
+<speaker>MARTÍN</speaker> (_ap._)
+
+Tomen lo que se han ganado.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Es el Conde muy discreto,
+Y la señora doña Ana
+Un ángel; pues yo ¿qué puedo
+Decir que no sea ignorancia?
+
+<speaker>DOÑA ANA</speaker>
+
+Ahora bien, Señor, hablemos 
+De la ausencia destos días.
+Ya me olvidáis, ya me quejo
+De vos al pasado amor.
+
+<speaker>CONDE</speaker>
+
+Negocios son, os prometo,
+Que me han tenido ocupado
+Por un notable suceso.
+Mató en Ronda cierta dama
+Guzmán y Portocarrero,
+Cuyo padre con el duque
+De Medina tiene deudo,
+Un caballero su amante.
+
+<speaker>DOÑA ANA</speaker>
+
+¿Con qué ocasión? ¿Fueron celos?
+
+<speaker>CONDE</speaker>
+
+Desagraviando á su padre
+De un bofetón, porque el viejo
+No estaba para las armas.
+
+<speaker>DOÑA ANA</speaker>
+
+¡Gran valor!
+
+<speaker>DON JUAN</speaker>
+
+¡Valiente esfuerzo!
+Diera por ver á esa dama
+Toda cuanta hacienda tengo.
+
+<speaker>DOÑA MARÍA</speaker> (_ap._)
+
+Turbada estoy, encubrir
+Puedo apenas lo que siento. 
+
+<speaker>CONDE</speaker>
+
+Al fin, perdonó la parte,
+Poniéndose de por medio,
+Entre deudos de unos y otros,
+Muchos nobles caballeros.
+Con esto me ha escrito el Duque,2215
+Por el mismo parentesco,
+Alcance el perdón del Rey;
+Lo que hoy, Señora, se ha hecho.
+Mándame también buscalla,
+Si entre tantos extranjeros 
+Alguna nueva se hallase,
+Siendo esta corte su centro.
+Mirad si estoy disculpado;
+Y porque me voy con esto,
+Vendré, Señora, á la noche, 
+Si me dais licencia, á veros.
+
+<speaker>DOÑA ANA</speaker>
+
+Id con Dios; volvé á la noche.
+
+<speaker>CONDE</speaker>
+
+Si haré, encanto de Babel.--
+Quedáos con vuestra Isabel; (_Á don Juan._)
+Que yo me voy en el coche.2230
+
+(_Vanse el Conde, doña Ana y los criados._)
+
+<div type="scene" number="xsd:int">ESCENA VII</div>
+
+<speaker>DOÑA MARÍA</speaker>, DON JUAN
+
+<speaker>DON JUAN</speaker>
+
+Alegre, Isabel, estás,
+Que ya el cántaro dejaste,
+Pues con la fe le mudaste,
+Y con el alma, que es más.
+Que desde que te la dí,
+De cántaro la tenía,
+Pues pienso que se decía
+Este proverbio por mí.
+Nunca quisiste trocar,
+Cuando yo lo deseaba,
+Al hábito que te daba
+El que ya quieres dejar.
+Si cuando yo te rogué,
+Hábito honrado tomaras,
+La voluntad disculparas,
+Que baja en tus prendas fué.
+Si el venir aquí son celos,
+Pensando que así me guardas,
+Son, Isabel, sombras pardas
+En ofensa de tus cielos.
+¿Qué guarda de más valor,
+Isabel, que tu hermosura,
+Si ella misma te asegura
+Que merece tanto amor?
+¡Vive Dios, que te he querido,
+Y te quiero y te querré,
+Con tanta firmeza y fe,
+Que vive mi amor corrido
+De no vencer tu rigor,
+Siendo tú tan desigual!
+
+<speaker>DOÑA MARÍA</speaker>
+
+Quien siente bien no habla mal;
+Que para tener valor
+Con que poder igualaros,
+Aunque de vuestro apellido
+Príncipes haya tenido  
+Italia y Francia tan raros,
+Sóbrame á mí el ser mujer;
+Pero si de vuestro engaño
+Á los dos resulta daño,
+Desengaño habrá de ser.
+No estoy contenta de estar
+Donde, con hacer mudanza
+Del hábito, mi esperanza
+Aspire á mejor lugar.
+Ni menos estoy celosa,
+Ni os guardo, aunque os he querido;
+Que en este humilde vestido
+Hay un alma generosa,
+Tan soberbia y arrogante,
+Que el cántaro que dejé,
+Un cielo en mis hombros fué,
+Como el que sustenta Atlante.
+Yo os quiero bien, aunque soy
+De naturaleza esquiva;
+Pero hay otro amor que priva,
+Por quien os dejo y me voy.
+No os dé pena; que os prometo
+Que no hay nieve tan helada;
+Pero he nacido obligada
+Á su amor y á su respeto.
+No puedo hacer más por vos
+Que decir que os he querido:
+En fe de lo cual os pido,
+Y del amor de los dos,
+Que una cosa hagáis por mí.
+
+<speaker>DON JUAN</speaker>
+
+¿Como ausentarte, mi bien?
+Después de tanto desdén,
+¿Esto merezco de ti?
+
+<speaker>DOÑA MARÍA</speaker>
+
+No excuso, aunque lo sintáis,
+Este camino.
+
+<speaker>DON JUAN</speaker>
+
+Isabel,
+¿Qué dices?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Que para él
+Esta joya me vendáis.
+Diamantes son: claro está
+Que justa sospecha diera
+Si á vender diamantes fuera
+Mujer que á la fuente va;
+Que con lo que ella valiere,
+Podré á mi casa llegar.
+
+<speaker>DON JUAN</speaker>
+
+Cuando pensaba esperar,
+Quiere amor que desespere.
+¡Notable desdicha mía!
+¡Tristes nuevas! ¿Quién amó
+Con la fortuna que yo?
+Mas ¿quién, sino yo, podía?
+Tened la joya y la mano,
+Que entrambas diamantes son,
+Si es la mina un corazón
+Tan firme como tirano;
+Que cuando forzosa sea
+Vuestra partida, no soy
+Hombre tan vil...
+
+<speaker>DOÑA MARÍA</speaker>
+
+Si no os doy
+La joya, don Juan, no crea
+Vuestro pecho liberal
+Obligarme con dinero;
+Que, pues de vos no lo quiero,
+Bien creeréis que me está mal.
+¡Oh, qué habréis imaginado
+De cosas, después que visteis
+La joya! Aunque no tuvisteis
+Culpa de haberlas pensado,
+Pues yo os he dado ocasión.
+
+<speaker>DON JUAN</speaker>
+
+Cuando yo, Isabel, pensara
+Tal bajeza, imaginara
+Prendas que más altas son
+De las que tenéis, bastantes
+Á abonaros; cuando fuera
+Hurto, mayor le creyera,
+Si fueran almas, diamantes.
+Algo sospecho encubierto,
+Isabel; y en duda igual,
+Que sois mujer principal
+Tengo por mayor acierto.
+Que desde el punto que os ví
+Con el cántaro, Isabel,
+Echó amor suertes en él
+Para vos y para mí.
+Vos salisteis diferente
+De lo que aquí publicáis,
+Y yo sin dicha si os vais,
+Para que yo muera ausente.
+¿Quién sois, hermosa Isabel?
+Porque cántaro y diamantes
+Son dos cosas muy distantes;
+Que hay mucha bajeza en él,
+Y en vos mucho entendimiento,
+Mucha hermosura y valor,
+Mucho respeto al honor,
+Que es más encarecimiento.
+La verdad se encubre en vano;
+Que como al que ayer traía
+Guantes de ámbar, otro día,
+Le quedó oliendo la mano;
+Así, quien señora fué,
+Trae aquel olor consigo,
+Aunque del ámbar que digo,
+Reliquias muestre por fe.
+
+<speaker>DOÑA MARÍA</speaker>
+
+No os canséis en prevenciones;
+Que yo no os he de engañar.
+
+<div type="scene" number="xsd:int">ESCENA VIII</div>
+
+<speaker>LEONOR</speaker>.--DICHOS
+
+<speaker>LEONOR</speaker>
+
+¿Cuándo piensas acabar,
+Isabel, tantas razones?2370
+Vente á vestir y á vestirme;
+Que mi señora te llama.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Voy á ponerme de dama.
+
+<speaker>DON JUAN</speaker>
+
+¿Volverás?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Á despedirme.
+
+(_Vanse los dos._)
+
+<speaker><div type="scene" number="xsd:int">ESCENA IX</div></speaker>
+
+<speaker>DON JUAN</speaker>
+
+¿Qué confusión es ésta que levanta
+Amor en mis sentidos nuevamente,
+Que á tales pensamientos adelanta
+Mi dulce cuanto bárbaro accidente?
+Así el cautivo en la cadena canta,
+Así engañado se entretiene, ausente,
+De vanas esperanzas, que algún día
+Verá la patria en que vivir solía.
+No con menos temor, menos sosiego,
+Tímido ruiseñor su esposa llama,
+Á quien el plomo en círculos de fuego
+Quitó la amada vida en verde rama,
+Que mi confuso pensamiento ciego
+En noche obscura los engaños ama,
+Esperando que llegue con el día
+La muerta luz de la esperanza mía.
+Mas ¿cómo puede haber tales engaños?
+Cómo pensar mi amor que la belleza
+No puede haber nacido en viles paños,
+Si pudo la fealdad en la nobleza?
+Así, para mayores desengaños,
+Mostró por variedad naturaleza
+De un espino la flor candida, hermosa,
+Y vestida de púrpura la rosa.
+Que darme yo á entender que la hermosura
+Que ví llevar un cántaro á la fuente,
+Por engastar el barro en nieve pura
+Del cristal de una mano trasparente,
+No pudo proceder de sangre obscura,
+Y nacer entendida humildemente,
+Es vano error, pues siempre amando veo
+Calificar bajezas el deseo.
+Pues ¿quién será Isabel, locura mía,
+Con hermosura y prendas celestiales?
+¡Oh! ¿cuándo resistió tanta porfía
+La bajeza de humildes naturales?
+No ha de pasar sin que lo sepa el día.
+Industrias hay; y si por dicha iguales
+Somos los dos, como mi amor desea,
+Tu cántaro, Isabel, mi dote sea.
+No te pienses partir, si por ventura
+No lo quieres fingir para matarme;
+Que ya no tiene estado mi locura
+Que yo pueda perderte y tú dejarme;
+Que si tienes nobleza y hermosura,
+Del cántaro por armas pienso honrarme;
+Que con el premio con que ya se trata,
+Amor le volverá de barro en plata. (_Vase._)
+
+<div type="scene" number="xsd:int">ESCENA X</div>
+
+<speaker>MARTÍN</speaker>
+
+<speaker>PEDRO</speaker>
+
+M</speaker>artín, en esta ocasión
+Me habéis desfavorecido:
+Quejoso estoy y ofendido.
+
+<speaker>MARTÍN</speaker>
+
+Pedro, no tenéis razón;
+Que el Conde gusta que sea
+Padrino con Isabel.
+
+<speaker>PEDRO</speaker>
+
+Ensancharáse con él Cuando á su lado se vea.2430
+Yo sé que si
+me casara, Padrino os hiciera á vos.
+
+<speaker>MARTÍN</speaker>
+
+Yo no pude más, por Dios.
+
+<speaker>PEDRO</speaker>
+
+Pedro ¿también no la honrara?
+¿No tengo cueras y sayos,
+Capas, calzas, que por yerro
+Quedaron en su destierro
+Vinculadas en lacayos?
+Pues ¡por el agua de Dios,
+Aunque poca me ha cabido,
+Que soy yo tan bien nacido!...
+
+<speaker>MARTÍN</speaker>
+
+¿Quién pudiera como vos
+Honrarme con Isabel?
+
+<speaker>PEDRO</speaker>
+
+¿Hay hidalgo en Mondoñedo
+Que pueda, como yo puedo,
+Volver la silla á el dosel?
+
+<speaker>MARTÍN</speaker>
+
+Dejad el enojo ya;
+Y pues que sois entendido,
+Decidme si acierto ha sido
+Casarme.
+
+<speaker>PEDRO</speaker>
+
+Pues claro está;
+Que es muy honrada Leonor,
+Aunque pide más caudal
+La talega de la sal,
+Que anda el tiempo á el rededor.
+Mas queriendo el Conde bien 
+Á doña Ana, por Leonor
+Os hará siempre favor,
+Y ella ayudará también
+De su parte á vuestra casa.
+
+<speaker>MARTÍN</speaker>
+
+P>ues con eso pasaremos.
+
+<speaker>PEDRO</speaker>
+
+¿Quién queréis que convidemos?
+
+<speaker>MARTÍN</speaker>
+
+N</speaker>o lo excusa quien se casa.
+Á Rodríguez lo primero,
+Á Galindo y á Butrón,
+Á Lorenzo y á Ramón,
+Y á Pierres, buen compañero.
+
+<speaker>PEDRO</speaker>
+
+Haced llevar un menudo;
+Que no hay hueso que dejar.
+
+<speaker>MARTÍN</speaker>
+
+Eso es darles de cenar.
+
+<speaker>PEDRO</speaker>
+
+E</speaker>n esta ocasión no dudo2470
+De que tendrán los señores
+Arriba gran colación.
+
+<speaker>MARTÍN</speaker>
+
+P</speaker>or allá conservas son
+Y confites de colores.
+
+<speaker>PEDRO</speaker>
+
+Lobos de marca mayor2475
+Tendremos en cantidad.
+
+<speaker>MARTÍN</speaker>
+
+Pedro, ésa es enfermedad
+Que no ha menester doctor. (_Vanse._)
+
+<div type="scene" number="xsd:int">ESCENA XI</div>
+
+Sala en casa de doña Ana.
+
+<speaker>DOÑA ANA</speaker>, DON JUAN
+
+<speaker>DON JUAN</speaker>
+
+Yo pienso que es condición,
+Y no amor, vuestra porfía.2480
+
+<speaker>DOÑA ANA</speaker>
+
+Y ¿quién sin amor podía
+Sufrir tanta sinrazón?
+
+<speaker>DON JUAN</speaker>
+
+No es sinrazón la ocasión
+Que me fuerza á no querer
+Lo que del Conde ha de ser. 
+
+<div type="scene" number="xsd:int">ESCENA XII</div>
+
+<speaker>EL CONDE</speaker>, _que se queda escuchando sin que le vean_.--DICHOS.
+
+<speaker>CONDE</speaker>
+
+Necios celos me han traído
+De un deudo amigo fingido
+Y de una ingrata mujer.
+
+<speaker>DON JUAN</speaker>
+
+Cuando no os quisiera bien
+El Conde, mil almas fueran
+Las que estos ojos os dieran.
+
+<speaker>DOÑA ANA</speaker>
+
+¡Oh, mal haya el Conde, amén!
+
+<speaker>CONDE</speaker> 
+
+Don Juan la muestra desdén,
+Y ella á don Juan solicita.
+
+<speaker>DOÑA ANA</speaker>
+
+Con oro en mármol escrita
+Tiene el amor una ley,
+Que como absoluto rey,
+No hay traición que no permita.
+Demás, que esto no es traición;
+Que nunca yo quise al Conde.
+
+<speaker>CONDE</speaker>
+
+En lo que agora responde
+Conoceré su intención.
+
+<speaker>DON JUAN</speaker>
+
+Ninguna loca afición
+Que se haya visto ni escrito,
+Ha disculpado el delito
+Del amigo; que el valor
+Es resistir á el amor,
+Y vencer á el apetito.
+Que yo con vos me casara
+Es sin duda, si pudiera. 
+
+<speaker>DOÑA ANA</speaker>
+
+Y ¿si el Conde lo quisiera,
+Y aun él mismo os lo mandara?
+
+<speaker>DON JUAN</speaker>
+
+Entonces es cosa clara;
+Mas cierta podéis estar
+Que no me lo ha de mandar.2515
+Y así, me voy; que no quiero
+Dar á tan gran caballero
+Ni sospecha ni pesar.
+
+<speaker>CONDE</speaker>
+
+Detente.
+
+<speaker>DON JUAN</speaker>
+
+Si habéis oído
+Lo que ya sospecho aquí, 
+Pienso que estaréis de mí
+Seguro y agradecido.
+
+<speaker>CONDE</speaker>
+
+Todo lo tengo entendido;
+Y si por quereros bien
+Trata mi amor con desdén 
+Doña Ana, no ha sido culpa,
+Porque sois vos la disculpa,
+Y mi desdicha también.
+Dice que sabe de mí
+Que os mandaré que os caséis:2530
+Dice bien, y vos lo haréis,
+Porque yo os lo mando así.
+Que á saber, cuando la ví,
+Que os tenía tanto amor,
+No la amara; aunque en rigor
+Fué engañado pensamiento
+Que con tal entendimiento
+No escogiese lo mejor.
+
+<speaker>DON JUAN</speaker>
+
+Aunque á Alejandro imitéis
+En darme lo que estimáis,
+Ni como Apeles me halláis,
+Ni enamorado me veis,
+Ni vos mandarme podéis
+Que sea lo que no fuí;
+Pues cuando pudiera aquí 
+Ser lo que no puede ser,
+No quisiera yo querer
+Á quien os deja por mí.
+
+<speaker>DOÑA ANA</speaker>
+
+Quedo, quedo; que no soy
+Tan del Conde, que me dé,
+Ni tan de don Juan, que esté
+Menos contenta ayer que hoy.
+Libre, á mí misma me doy,
+Y daré luego, si quiero,
+Á un honrado caballero
+Mujer y cien mil ducados,
+Sin suegros y sin cuñados,
+Que es otro tanto dinero.
+
+<div type="scene" number="xsd:int">ESCENA XIII</div>
+
+<speaker>DOÑA MARÍA</speaker>, _de madrina y muy bizarra, con_ LEONOR, _de la mano_;
+<speaker>MARTÍN</speaker>, <speaker>PEDRO</speaker> <speaker>LORENZO</speaker> BERNAL _y_ OTROS LACAYOS, _muy galanes_;
+ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.
+
+MÚSICOS (_cantan_)
+
+_En la villa de Madrid
+Leonor y Martín se casan:
+Corren toros y juegan cañas._
+
+<speaker>MARTÍN</speaker>
+
+¡Mala letra para novios!
+
+<speaker>PEDRO</speaker>
+
+Pues ¿no os agrada la letra?
+
+<speaker>MARTÍN</speaker>
+
+Correr toros y casarme
+Paréceme á los que llevan
+Pronósticos para el año
+Dos meses antes que venga.
+
+<speaker>CONDE</speaker>
+
+Gallarda viene la novia;
+Pero quien no conociera
+Á Isabel, imaginara,2570
+Viéndola grave y compuesta,
+Que era mujer principal.
+
+<speaker>DOÑA ANA</speaker>
+
+Juzgarse puede por ella
+Cuánto las galas importan,
+Cuánto adorna la riqueza.
+
+<speaker>CONDE</speaker>
+
+¡Qué perdido está don Juan!
+
+<speaker>DOÑA ANA</speaker>
+
+¡Qué admirado la contempla!
+
+<speaker>CONDE</speaker>
+
+P</speaker>or Dios, que tiene disculpa
+De estimarla y de quererla;
+Que la gravedad fingida
+Parece tan verdadera,
+Que, á no conocerla yo
+Y saber sus bajas prendas,
+Hiciera un alto conceto
+De su gallarda presencia.
+
+<speaker>DON JUAN</speaker>
+
+(_Para sí._ Amor, si en esta mujer
+No está oculta la nobleza,
+La calidad y la sangre
+Que por lo exterior se muestra,
+¿Qué es lo que quiso sin causa 
+Hacer la naturaleza,
+Pues pudiendo en un cristal
+Guarnecido de oro y piedras,
+Puso en un vaso de barro
+Alma tan ilustre y bella?
+Yo estoy perdido y confuso,
+Doña Ana celosa de ella,
+El Conde suspenso, hurtando
+Á su gravedad respuesta.
+Ella se parte mañana, 
+Diamantes me da que venda;
+¿Qué tienen que ver diamantes
+Con la fingida bajeza?
+Pues ¿he de quedar así,
+Amor, sin alma y sin ella?
+¿No alcanza el ingenio industria?
+No suele en dudosas pruebas,
+Por las inciertas mentiras,
+Hallarse verdades ciertas?
+Ahora bien; no ha de partirse
+Isabel sin que se entienda
+Si en exteriores tan graves
+Hay algún alma secreta.)
+Conde, el más alto poder
+Que reconoce la tierra,
+El cetro, la monarquía,
+La corona, la grandeza
+Del mayor rey de los hombres,
+Todas las historias cuentan,
+Todos los sabios afirman,
+Todos los ejemplos muestran
+Que es amor; pues siendo así,
+Y que ninguno lo niega,
+Que yo por amor me case,
+Que yo por amor me pierda,
+No es justo que á nadie admire,
+Pues cuantos viven confiesan
+Que es amor una pasión
+Incapaz de resistencia.
+Yo no soy mármol, si bien
+No soy yo quien me gobierna;
+Que obedecen á Isabel
+Mis sentidos y potencias.
+Cuando esto en público digo,
+No quiero que nadie pueda
+Contradecirme el casarme,
+Pues hoy me caso con ella.
+Sed testigos que le doy
+La mano.
+
+<speaker>CONDE</speaker>
+
+¿Qué furia es ésta?
+
+<speaker>DOÑA ANA</speaker>
+
+Loco se ha vuelto don Juan. 
+
+<speaker>CONDE</speaker>
+
+¡Vive Dios, que si es de veras,
+Que antes os quite la vida
+Que permitir tal bajeza!
+¡Hola! Criados, echad
+Esta mujer hechicera
+Por un corredor, matadla.
+
+<speaker>DON JUAN</speaker>
+
+Ninguno, infames, se atreva;
+Que le daré de estocadas.
+
+<speaker>CONDE</speaker>
+
+U</speaker>n hombre de vuestras prendas
+¡Quiere infamar su linaje!2650
+
+<speaker>DON JUAN</speaker>
+
+¡Ay Dios! Su bajeza es cierta,
+Pues calla en esta ocasión.
+Ya no es posible que pueda
+Ser más de lo que parece.
+
+<speaker>CONDE</speaker>
+
+¿Con cien mil ducados deja
+Un hombre loco mujer,
+Que me casara con ella,
+Si amor me hubiera tenido?
+
+<speaker>DOÑA MARÍA</speaker>
+
+Quedo, Conde; que me pesa
+De que me deis ocasión
+De hablar.
+
+<speaker>DON JUAN</speaker>
+
+¡Ay Dios! ¡Si ya llega
+Algún desengaño mío!
+
+<speaker>DOÑA MARÍA</speaker>
+
+No está la boda tan hecha
+Como os parece, Señor;
+Porque falta que yo quiera. 
+Para igualar a don Juan,
+¿Bastaba ser vuestra deuda
+Y del duque de Medina?
+
+<speaker>CONDE</speaker>
+
+Bastaba, si verdad fuera.
+
+<speaker>DOÑA MARÍA</speaker>
+
+¿Quién fué la dama de Ronda 
+Que mató, por la defensa
+De su padre, un caballero,
+Cuyo perdón se concierta
+Por vos, y que vos buscáis?
+
+<speaker>CONDE</speaker>
+
+Doña María, á quien deban
+Respeto cuantas historias
+Y hechos de mujeres cuentan.
+
+<speaker>DOÑA MARÍA</speaker>
+
+Pues yo soy doña María,
+Que por andar encubierta...
+
+<speaker>DON JUAN</speaker>
+
+No prosigas relaciones,
+Porque son personas necias,
+Que en noche de desposados
+Hasta las doce se quedan.
+Dame tu mano y tus brazos.
+
+<speaker>MARTÍN</speaker>
+
+Leonor, á escuras nos dejan.
+Los padrinos son los novios.
+
+<speaker>DOÑA ANA</speaker>
+
+Justo será que lo sean
+El Conde y doña Ana.
+
+<speaker>CONDE</speaker>
+
+Aquí
+Puso fin á la comedia
+Quien, si perdiere este pleito,
+_Apela á Mil y Quinientas_.
+Mil y quinientas ha escrito:
+Bien es que perdón merezca.
