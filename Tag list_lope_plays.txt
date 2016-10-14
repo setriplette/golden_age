@@ -1,0 +1,53 @@
+List of tags for Lope's plays
+
+1. Tagging persName within the play: type=hist (historical and type=myth only. Do not tag the character names in dialogue.
+
+2. Tag placeName any time we have a specific city, country, or neighborhood named. If it's "an open field," don't tag it. The idea
+would be to find coordinates for these places and plot them on a map, so if you couldn't map it, don't tag it. Tag places like "Troy," 
+"Las Indias", "Europa," and other things that would be difficult but not impossible to map.
+
+3. Tag with <emotion> nouns, verbs, and phrases for feeling with type = noun, type = verb, type = phrase, type=adj (adjective). Do not worry about
+distinguishing among emotions. Comment <!...!> if you are not sure that what you are tagging is an emotion. We're going to be broad,
+so tag the big four: happiness, sadness, fear, anger, plus subtypes (love, jealousy, melancholy, rage, gratitude, ingratitude) but
+there's always going to be some subjectivity in the determination that something is expressing emotion. For metaphors for emotion, tag
+it as a phrase.
+
+Tag forms of "gusto" and "disgusto" when they mean pleasure and displeasure. 
+
+Tag espressions for congratulations, like "parabién," "albricias" with emotion bc they are social forms that express happiness. Tag
+"lo siento" and "pésame" as emotions bc they are social forms that express sadness
+
+There might be trouble with: 
+    "el sentido" (consciousness/one of the five senses/the meaning of a word--if the word is not used to indicate 
+    a feeling, do not tag as emotion)
+
+    "querer" to want--not necessarily emotional. Decide when to tag as emotion; it can mean "to love"
+    
+    "locura" and other mental effects--don't tag if it's not used in a metaphor for emotion, but if it's clearly
+    "crazy with emotion," tag it
+    
+    "pensar" and other verbs for thinking, or nouns like "razón"--do not tag
+    
+    "admirar" usually means to wonder, to be surprised, and is thus an emotion
+    
+    forms of dead and alive--tag with emotion when a metaphor for emotion, and when not, don't
+    
+    
+4. Tag with <body> any body parts. We expect to see these close to or in phrases with expressions of emotion. Do not tag with
+body also things like "palmeta" (an open-handed slap) or "palmatoria" (cane) that have a part of the body as part of the word. That
+gets us into potential issues with etymology. We want body parts used as body parts.
+
+For now, "alma" (soul) and "mente" (mind) are not body parts, but "cerebro" (brain) is.
+
+Tag "espíritu" when it means the vital spirits that drive the beating of the heart and the circulating of the blood. This is a medical
+term in the 16th-17th centuries. The word doesn't always mean emotional spirit, but the invisible forces that make the machine of the 
+body work. Don't tag "espíritu" however, when the same word means "ghost," "soul," or "wit"
+
+Tag "sangre" with body, even if it's in a phrase that means nobility or heritage "su ilustre sangre," "pura sangre"--it's a metaphor
+using a bodily feature
+
+5. When tagging, do not include definite/indefinite articles unless you are tagging a phrase. When tagging verbs, do include both parts of 
+a compound form, as in "se sintió," "ha querido," "había amado." In the case where object pronouns are attached to verb forms, as in
+"quererme," tag the whole word, not part.
+
+6. If one of these things is part of a metaphor, give a second attribute, figure="meta". I like figure for rhetorical figure (figura retórica)
