@@ -1,25 +1,41 @@
+Document Structure:
+<TEI>
+    <teiHeader> 
+        Everything that goes in the header.
+    </teiHeader>
+    <text>
+        <body>
+            <div type="book">
+                <head>Heading</head>
+                <p>Text</p>
+                <div type="narrative">
+                    <head type="narrative">Head</head>
+                    <q><p>Story Text</p></q>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
+
 Up-Conversion Process:
 
 1.Delete the extra text at the beginning and end of the document.
 2.Searched for special characters &, <, and >. I found 2 instances of the & and replaced them with &amp;.
-3.Next I found the quotations in the text:
-    Find: "(.+?)"
-    Replace: <q>\1</q>
-4.I looked up the paragraphs:
+3.I looked up the paragraphs:
     Find: \n\n
     Replace with: </p>\0<p>
 Then I deleted the extra <p> and </p> in the document. I also manually removed the p tags around the beginning few lines like the author and title.
-5.Next I found the books and wrapped them:
+4.Next I found the books and wrapped them:
     Find: ^<p>(.+Book.+)</p>($)(\n\n)<p>(.+)</p>
     Replace with: \1\2</book>\3<book>\4
 I manually added a <book> at the beginning of the first book and a </book> at the end of the text.
-6.The chapter titles were next:
+7.The chapter titles were next:
     Find:^(<book>)(.+$)
     Replace with:\1<head>\2</head>
-7.I realized after this that <book> is incorrect with the TEI structure so I went back to change it to div:
+8.I realized after this that <book> is incorrect with the TEI structure so I went back to change it to div:
     Find:</book>
     Replace with:</div>
-8.Next I found the sub-headings that marked the start of the narratives within the books. Four out of the five were labelled as a history:
+9.Next I found the sub-headings that marked the start of the narratives within the books. Four out of the five were labelled as a history:
     Find: <p>(The History.+)</p>$
     Replace with: <head subtype="narrative">\1</head>
     Find: <p>(The History.+)$
@@ -27,4 +43,16 @@ I manually added a <book> at the beginning of the first book and a </book> at th
 The fifth narrative was titled as a story:
     Find: <p>(The Story.+)$
     Replace with: Replace with: <head subtype="narrative">\1</head>
-9.
+10.Next I found the quotations in the text:
+    Find: "([A-Z].+?)"
+    Replace: <q>\1</q>
+As I looked through the <q> tags, I realized I would have a hierarchy issue as the <q> was inside a <p> but extended past just one <p>. To fix this, I manually went through and moved the <q> and </q> tags outside of the <p> tags so the hierarchy of the document would be preserved. I also noticed that underneath two of the <head subtype="narrative"> there were <p> lacking due to no double space. I added those in.
+11. Then I decided to wrap the narratives in a separate div.
+    Find: <head type="narrative">
+    Replace with: <div type="narrative">\0
+Then:
+    Find: </q>
+    Replace with: \0</div>
+And for the continuation of some stories in the middle of the book text:
+    Find: <q>
+Then I manually added <div type="narrative"> where the quote occurred in the middle of the text.
