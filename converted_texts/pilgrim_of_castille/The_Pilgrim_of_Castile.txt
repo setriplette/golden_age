@@ -4,9 +4,9 @@ by Lope de Vega, translated and abridged by William Dutton
 
 published 1621
 
-The First Book
+<div type="book"><head>The First Book</head>
 
-Upon the shore of Barcelona, between the planks of a ship which had
+<p>Upon the shore of Barcelona, between the planks of a ship which had
 suffered wreck, there appeared as if it had been a parcel of cloth
 covered with weed: which being perceived by some fishermen, they
 took it into their bark, and carried it along the shore about the
@@ -53,9 +53,9 @@ reeds over a little brook, giving its murmuring unto the
 solitariness of the place and silence of the night; which when he
 had passed, they saluted one the other courteously, especially he
 which came (for strangers are always courteous out of necessity);
-and they sat down together upon the grass.
+and they sat down together upon the grass.</p>
 
-No sooner had the pilgrim informed himself of the name of the
+<p>No sooner had the pilgrim informed himself of the name of the
 village, of the lord thereof, and how far it was distant from
 Barcelona, when they saw two men approaching, who instead of
 saluting them presented two arquebuses to their faces, and instilled
@@ -94,11 +94,11 @@ then at the end of February became daybreak. Now that they knew the
 pilgrim's history, and he being desirous to learn from them their
 own turbulent narrative, his features and comprehension being
 pleasing to them, one among them named Ramond told it in this
-manner:
+manner:</p>
 
-The History of Doricles
+<head subtype="narrative">The History of Doricles</head>
 
-"In this famous city, which with a wonderful greatness opposeth
+<p><q>In this famous city, which with a wonderful greatness opposeth
 Italy, and astonisheth Africa, there was born a lady of noble
 parentage, who having been a firebrand unto her country, had no
 small conformity with Greek Helen. Her name was Florinda, her beauty
@@ -183,9 +183,9 @@ house, having taken away his turban and his Turkish disguise)
 declared unto her, that the incomparable force of his love had
 constrained him to have recourse to this deviousness, and did enjoy
 her beauty with assurance, although she took heaven, the trees and
-the fountains to witness the violence which was used on her.
+the fountains to witness the violence which was used on her.</p>
 
-Of no less consideration was Doricles' pain, who full of mortal
+<p>Of no less consideration was Doricles' pain, who full of mortal
 sorrow, was a thousand times by the sea's side ready to imitate the
 despair of those nymphs which saw Europa ravished; nevertheless, and
 as well to oblige unto him his mistress's parents, and to satisfy
@@ -257,9 +257,9 @@ vigorous of his person, which is much fortified by his austere and
 wild life. And that may be believed of him, which was said of
 Hercules, that without doubt he had three lives, for if he had had
 but one, it had been a miracle that he had not lost it by so many
-wounds.
+wounds.</p>
 
-This day about sunrise he came down to see what noise this was,
+<p>This day about sunrise he came down to see what noise this was,
 which the night before had sounded from the sea unto the woods, and
 he with about ten of us which followed him having found some boards
 which the sea had cast up, upon one of which was seated a young man
@@ -291,9 +291,9 @@ our companions before, who are they which found you together with
 him who conducted us hither; Doricles is now with this pilgrim; I
 cannot tell thee whether he hath gained her or no, nor whether the
 bed had made a peace between two minds so absolutely differing: but
-certain it is that they are now lodged together."
+certain it is that they are now lodged together.</q></p>
 
-The soldiers easily perceived that the pilgrim hearing this story,
+<p>The soldiers easily perceived that the pilgrim hearing this story,
 bathed his face with his tears, and with sad and violent sighings
 endeavoured to pierce heaven: they desiring the cause, he remaining
 a long time silent, and they still pressing him; in the end he began
@@ -345,9 +345,9 @@ began his prayers devoutly, having the match of one of their pieces
 about his neck near unto him who tied it to a bough of a great oak,
 only waiting for the end of his devotions: nevertheless even as he
 fastened the last knot, the fair morning rejoicing the world with
-new light, clearly discovered the amiable colour of his face.
+new light, clearly discovered the amiable colour of his face.</p>
 
-Who will believe that in the space of one night so many fortunes
+<p>Who will believe that in the space of one night so many fortunes
 should happen to one man, if it were not known that things are
 written to be marked, and that evils do seldom come alone, seeing
 that the evils which happen in one night to one unfortunate man, do
@@ -378,9 +378,9 @@ commanded that she should be carried upon the great highway; where
 the miserable woman was left, drowning herself in tears, and
 murdering her face with her hands, she made herself look with great
 deformity: from thence following the way by the seaside she went to
-Valencia.
+Valencia.</p>
 
-The pilgrim in the meantime was at Barcelona, having stayed two
+<p>The pilgrim in the meantime was at Barcelona, having stayed two
 days, to view the goodly strong walls of the city; the third day as
 he was beholding the Viceroy's palace, this fisherman, whose voice
 had so unhappily drawn him from the cabins of the other fishermen,
@@ -396,18 +396,18 @@ other, insomuch that the people ran to the noise; and as to be
 pursued with hue and cry, there needs no more cause but to be a
 stranger, so all the world believing in the natural Catalonian's
 words, the poor pilgrim was impetuously carried away by the people,
-and as a robber put into prison.
+and as a robber put into prison.</p>
 
-The infamous rabble who for crimes great or small are accustomed to
+<p>The infamous rabble who for crimes great or small are accustomed to
 possess these places, which are like so many true representations of
 Hell, put him into a dark corner worse than the worst sink of
 Constantinople, where it is impossible to recite the blows they gave
 him, and the injuries they said unto him: because having no metal
 about him but the bullet, which Doricles shot into him the night of
 his misfortune, he had not wherewith to pay his garnish or entrance,
-nor ability to find better means to appease them.
+nor ability to find better means to appease them.</p>
 
-Night victorious over human cares, imposing rest unto their labours
+<p>Night victorious over human cares, imposing rest unto their labours
 and their thoughts, and reducing their actions to a deep silence
 came amongst these barbarous people, yet the miserable stranger only
 not so much as closing his eyes: he felt not the grief of his wound,
@@ -419,9 +419,9 @@ noisome creatures, which run up and down in the prison, the fear of
 judgement to come, nor the present misfortune could wake them; our
 pilgrim only is awake, complaining against heaven, the sea, and his
 cruel fortune which had preserved his life, then, when he had no
-feeling of death, to make him suffer it now in a state so sensible.
+feeling of death, to make him suffer it now in a state so sensible.</p>
 
-At the length the sun with a countenance full of shame and as if he
+<p>At the length the sun with a countenance full of shame and as if he
 had been constrained, shone through the thick bars of the prison
 windows, showing in the pale colour of his beams, that he feared he
 should be kept there, when the pleasant blows of the jailer, and the
@@ -438,9 +438,9 @@ upon punishment, and favour importuned for delay; those who had
 wherewith went out by the air, others not having wherewith could not
 find the door; the confusion of voices, the unquietness of the
 judge, the coming in of some, the going out of others, and the noise
-of fetters, made in this discordant instrument a fearful striving.
+of fetters, made in this discordant instrument a fearful striving.</p>
 
-In this time, a knight, who for the nobleness of his blood, and the
+<p>In this time, a knight, who for the nobleness of his blood, and the
 antiquity of his imprisonment, was generally respected as the
 master, cast his eyes upon the pilgrim, and considering his deep
 melancholy, his habit and his person, incited by his good
@@ -457,59 +457,59 @@ he placed him in his chamber: where having restored his weak forces,
 with conserves which he had, he made him reveal his arm, and he
 himself healed the wound with medicines and words, which he had
 learned being a soldier; for if herbs and stones have this virtue,
-wherefore should it be wanting to holy words?
+wherefore should it be wanting to holy words?</p>
 
-The contented pilgrim afterwards turning his eyes round about the
+<p>The contented pilgrim afterwards turning his eyes round about the
 chamber, saw written upon the walls with a coal according to the
 ancient manner of prisoners, certain hieroglyphic verses, at the
 sight whereof, he knew that he who had written them was not
 ignorant. Over the picture of a young man, which had the chief
-place, was written this verse from Virgil:
+place, was written this verse from Virgil:</p>
 
-in somnis ecce ante oculos maestissimus Hector
+<p>in somnis ecce ante oculos maestissimus Hector</p>
 
-After that was painted a heart with wings, which flew after death
+<p>After that was painted a heart with wings, which flew after death
 with the letter of Aeneas, sending the body of his friend to the
-great Evander.
+great Evander.</p>
 
-mortuus Pallante
+<p>mortuus Pallante</p>
 
-Near unto that was figured Prometheus, or Titius, who being tied
+<p>Near unto that was figured Prometheus, or Titius, who being tied
 with strong chains to the rocks of Mount Caucasus, nourished an
-Eagle with his entrails, the words were from Ovid, and said thus:
+Eagle with his entrails, the words were from Ovid, and said thus:</p>
 
-Vitae dolor, vita molestiae et magnis gratos fore morte, sed mori
-non potest
+<p>Vitae dolor, vita molestiae et magnis gratos fore morte, sed mori
+non potest</p>
 
-By a river, between two infernal shores, Forgetfulness was painted,
+<p>By a river, between two infernal shores, Forgetfulness was painted,
 being a young man who carried a vessel full of remembrances, which
 he did endeavour to fling into the water, with these words of
-Lucretius:
+Lucretius:</p>
 
-Cadit iterum cum pervenit usque ad summum
+<p>Cadit iterum cum pervenit usque ad summum</p>
 
-The head and harp of Orpheus were portrayed upon a gate amongst the
+<p>The head and harp of Orpheus were portrayed upon a gate amongst the
 waves of the river Hebrus, into which he had been cast by the
-Bacchantes, they came unto Lesbos, the words were these:
+Bacchantes, they came unto Lesbos, the words were these:</p>
 
-Hic flevit gerit, feras et genimina viperarum
+<p>Hic flevit gerit, feras et genimina viperarum</p>
 
-There was also painted a lady lying dead with a sword through her
-body, with these words of Scaliger upon the death of Polyxena:
+<p>There was also painted a lady lying dead with a sword through her
+body, with these words of Scaliger upon the death of Polyxena:</p>
 
-Non satis vincere homines?
+<p>Non satis vincere homines?</p>
 
-In the distance which might be between the window and the flower,
+<p>In the distance which might be between the window and the flower,
 was painted the giant Argus with his hundred eyes, and Mercury
-charming him asleep, with this Vespasian epigram:
+charming him asleep, with this Vespasian epigram:</p>
 
-Subtilis amor maxime inutilis dolis
+<p>Subtilis amor maxime inutilis dolis</p>
 
-With such and other curiosities, which the Knight writ as aptly
+<p>With such and other curiosities, which the Knight writ as aptly
 fitting his adventures, did he adorn his chamber and pass away his
-tedious imprisonment.
+tedious imprisonment.</p>
 
-Whilst that the Pilgrim was busy in beholding these conceits, he was
+<p>Whilst that the Pilgrim was busy in beholding these conceits, he was
 called before the judges to answer the accusation against him, and
 he relating simply the truth, by the little art which he brought
 with him in his speech, he plainly showed that there was no guilt in
@@ -522,11 +522,11 @@ there is nothing which more aptly, and readily doth ease the mind
 than relation of our own misadventures. The master of the lodging
 (who could willingly have spared that name) being entreated by the
 pilgrim to relate the cause of his imprisonment, began to speak in
-this manner:
+this manner:</p>
 
-The History of Mireno
+<head subtype="narrative">The History of Mireno</head>
 
-"In a little town not far from this great city, there was a
+<p><q>In a little town not far from this great city, there was a
 gentleman named Telemachus married with a fair lady, not so chaste
 as the Roman Lucretia although she carried her name; the report was,
 that this marriage was made against her wishes, and it is likely to
@@ -617,11 +617,11 @@ what had passed, and how Lucretia having yielded to his letters,
 messages, and services had made him master of her liberty, yielding
 unto him the treasure which was so fiercely guarded by Telemachus'
 hundred eyes. Which was the reason why I placed this hieroglyphic of
-Argus and Mercury, with the epigram:
+Argus and Mercury, with the epigram:</p>
 
-Subtle love deceiveth jealousy.
+<p>Subtle love deceiveth jealousy.</p>
 
-He proceeded to tell me that when Telemachus was asleep, they talked
+<p>He proceeded to tell me that when Telemachus was asleep, they talked
 together in a garden, into which he entered by a ladder made of
 cords, which Aurelio kept, unto whom only he had imparted this
 secret, having found me so averse from succouring him. I asked what
@@ -652,11 +652,11 @@ of a free condition, amiable both on horseback, and on foot, and
 renowned beyond all of his age, for all military exercise; as for
 his face, behold this picture, wherein I assure you, the painter was
 no flatterer; I keep it here for my comfort, although it be always
-present in my soul, as you may judge by the words written:
+present in my soul, as you may judge by the words written:</p>
 
-Before my eyes in a dream, sad Hector did appear.
+<p>Before my eyes in a dream, sad Hector did appear.</p>
 
-Because truly his image did never abandon my sight, but either
+<p>Because truly his image did never abandon my sight, but either
 sleeping or waking he was represented to my eyes: in effect we fell
 into our old inwardness; but in the midst of this peace, the wife of
 Telemachus had so much power over him, that vanquished with her
@@ -681,9 +681,9 @@ in him a coldness and a carelessness in seeing her, and that he did
 divert himself by other pleasures. She (in this suspicion, which may
 be called a true jealousy) began to observe and follow him; so that
 without spoiling much, she knew, if not all that passed, at the
-least what was the subject which ravished away her Mireno.
+least what was the subject which ravished away her Mireno.</p>
 
-Who will believe so extraordinary a conceit as I shall tell you?
+<p>Who will believe so extraordinary a conceit as I shall tell you?
 Truly he only, who doth know how much the spirit of a woman is
 disposed (especially if she is in love) to any kind of industry and
 subtility: Erisila never left seeking occasion that Telemachus
@@ -726,9 +726,9 @@ knew better then she: with this Telemachus went away, confessing it
 was true that he had loved Lucretia, not knowing she had another
 lover; but now from this time forward he would hate her, and would
 settle all his affection upon her, in confirmation of which, he gave
-her a chain of gold, and a diamond.
+her a chain of gold, and a diamond.</p>
 
-By this means, Erisila thought that the husband would keep his
+<p>By this means, Erisila thought that the husband would keep his
 house, and that Mireno (by this means barred from seeing Lucretia)
 would come to visit her as he was accustomed. But the knight, whom
 it concerned to wipe away this spot from his honour by the blood of
@@ -741,9 +741,9 @@ absence might be feigned; having had so many examples in the world;
 wherefore we sent our faithful friend Aurelio secretly after him.
 But the advised Telemachus, who knew well that he was not to deceive
 fools, feigning that he went to Valencia, returned when he was
-halfway, and hid himself in Barcelona.
+halfway, and hid himself in Barcelona.</p>
 
-Now Mireno could not spend the night so assured with Lucretia but
+<p>Now Mireno could not spend the night so assured with Lucretia but
 that I kept the door, although he did entreat me not to do it; God
 knoweth how many nights I passed without pleasure; for my heart did
 always tell me that their two lives did run a dangerous fortune. But
@@ -766,11 +766,11 @@ dragging her from thence, not far from the place where Mireno lay,
 he thrust his sword into her, so that as we arrived, her breath went
 away with a last Jesu. And as he had already killed Mireno,
 methought Scaliger's verse, which is under this picture was not
-unapt:
+unapt:</p>
 
-Was it not enough to kill and vanquish men?
+<p>Was it not enough to kill and vanquish men?</p>
 
-I had not as yet seen Mireno, and searching him with mine eyes all
+<p>I had not as yet seen Mireno, and searching him with mine eyes all
 about the room, I saw him lying dead: thou may see in the tears
 which now flow from my eyes, what was then my grief, I do not know
 what I did, yet seeking for Telemachus, I did excuse him for the
@@ -784,58 +784,58 @@ the laws of the world there was but too much cause, and here they
 put me where thou now see me, and where I have lived this five
 years, desiring death, as thou may see by this winged heart of mine
 flying after this image of dead Mireno; with these words out of
-Virgil:
+Virgil:</p>
 
-My Pallas dead, I bide alive by force.
+<p>My Pallas dead, I bide alive by force.</p>
 
-My travels are figured in those of Sisyphus, and Titius, and
-represented by these words out of Ovid:
+<p>My travels are figured in those of Sisyphus, and Titius, and
+represented by these words out of Ovid:</p>
 
-O wretched state, constrain'd to live In plaints eternally: When
-Death which only help can give, Affords no power to die.
+<p>O wretched state, constrain'd to live In plaints eternally: When
+Death which only help can give, Affords no power to die.</p>
 
-The sorrow which this great city felt by the loss of Mireno is
+<p>The sorrow which this great city felt by the loss of Mireno is
 expressed in this figure of the head and heart of Orpheus, with
-these words:
+these words:</p>
 
-There wept the Woods, the Beasts, and the Serpents.
+<p>There wept the Woods, the Beasts, and the Serpents.</p>
 
-For I do not think that there was either tree or stone which were
+<p>For I do not think that there was either tree or stone which were
 not moved with this so pitiful an accident. And here will I end his
 story, with these tears which I will offer incessantly to his
-memory, and these words which I have made for Lucretia's tomb:
+memory, and these words which I have made for Lucretia's tomb:</p>
 
-Here lieth Lucretia, less chaste than the Roman, but more fair:
+<p>Here lieth Lucretia, less chaste than the Roman, but more fair:
 Tarquin did not force her, but love; and although she died for her
-infidelity, love, who was the cause, has the power to excuse her.
+infidelity, love, who was the cause, has the power to excuse her.</p>
 
-So the faire Lucretia remained in mortal rest, and her name, in my
+<p>So the faire Lucretia remained in mortal rest, and her name, in my
 imagination, is not worthy of blame: for having been overcome by the
 excellent parts of her lover, and by that unchangeable force which
-love ever useth against great and free courages."
+love ever useth against great and free courages.</q></p>
 
-The pilgrim's imprisonment had not passed at so easy a rate of his
+<p>The pilgrim's imprisonment had not passed at so easy a rate of his
 patience, had not Everard (so was the knight called that made this
 discourse) favoured his affairs: for his innocence could not gain
 him his liberty, nor good opinion, which he did deserve; so powerful
 was his only habit, to work in the judges an evil conceit of his
 person; yet Doricles (captain of those robbers) being pardoned, and
 received again into the city's favour; the pilgrim was also
-absolved, as were his confederates.
+absolved, as were his confederates.</p>
 
-His curiosity to hear the fisherman's singing having brought him to
+<p>His curiosity to hear the fisherman's singing having brought him to
 receive a hurt in his arm with a piece, into an extreme danger of
 hanging, unto three months imprisonment, which without the help of
 Everard had been insupportable. They took their leaves one of
 another, with a thousand loving embraces, and Everard having further
 obliged him with some money, he resolved to go to Montserrat, and I
-to finish this First Book.
+to finish this First Book.</p>
 
-The end of the First Book.
+The end of the First Book.</div>
 
-Book Two
+<div type="book"><head>Book Two</head>
 
-By a straight way, between thick trees and shady did the pilgrim go
+<p>By a straight way, between thick trees and shady did the pilgrim go
 towards Montserrat, who turning his head at a noise which he heard
 behind at his back, he saw two young men with palmer’s staves, whose
 fair faces and blond hair showed them to be either Germans or
@@ -861,13 +861,13 @@ adore the blessed Virgin. In this image so much renowned, through
 all the world, we cannot make a more holy voyage, nor I in better
 company than thine: let us go said the Spaniard by this path, which
 seemeth to me to be much the shorter, although a little steeper, for
-the most part of the way.
+the most part of the way.</p>
 
-This being said, they took their way towards the abbey, which they
+<p>This being said, they took their way towards the abbey, which they
 discovered shortly after, built upon the side of a sharp mountain,
-and under a great rock, which did seem to threaten it with ruin.
+and under a great rock, which did seem to threaten it with ruin.</p>
 
-When they were entered, with devotion and humility, casting their
+<p>When they were entered, with devotion and humility, casting their
 eyes upon tapestries of France, Germany, and almost all the world:
 they were astonished, to see the walls decked with so many excellent
 paintings, histories, and accompanied with a thousand several kinds
@@ -884,10 +884,10 @@ agreeable countenance and a goodly presence, whose long and well
 combed hair gave a reverent majesty unto his aspect. This man stayed
 them dinner, and after their repast, being entreated by the pilgrims
 to tell them what devotion had confined him into these solitary
-mountains, he related the history of his life, in this manner:
+mountains, he related the history of his life, in this manner:</p>
 
-The History of Aurelia
-"Amongst all the things which in the course of my life I have seen
+<head subtype="narrative">The History of Aurelia</head>
+<q>Amongst all the things which in the course of my life I have seen
 and marked, I might peradventure tell you some one, which might
 better content you. But thinking that one cannot better persuade
 than by the example of himself, I will therefore tell you a story
@@ -902,9 +902,9 @@ spirit did not live so much in myself, as in her whom I loved, nor
 found more rest out of her sight, than things do out of their
 centre; because that as the fire always sendeth the flames thereof
 to its proper sphere, so my heart addressed its desires to her
-beauty.
+beauty.</p>
 
-Now as this love was not platonic, I will not dispute whether it
+<p>Now as this love was not platonic, I will not dispute whether it
 were honest, profitable, or delightful; let it satisfy that it which
 is the cause of so much evil, seemed unto me, the greatest and
 sovereignest good in the world. This subject of my misfortunes was
@@ -925,9 +925,9 @@ because the favours which she did me, and the little which they cost
 me made me live much contented, especially seeing myself preferred
 before others of better means and merits then myself; when I went to
 see her, they gave me place, and departed courteously, leaving me
-alone with her.
+alone with her.</p>
 
-These my visitations were not agreeable unto her servants, because
+<p>These my visitations were not agreeable unto her servants, because
 they thought that thereby this rabble of youth was scattered, which
 brought them profit. And that if Aurelia should fall in love with
 me, my quality being not capable to sustain her expense, she must
@@ -940,9 +940,9 @@ this fear, by shortening the revenues of her house, to lengthen the
 reins of her pleasure. Not that all the charge of the house fell
 upon her; for I miserable man, tormenting my parents, and
 importuning my friends, did run to the preservation of this love,
-which almost always depended on money.
+which almost always depended on money.</p>
 
-The life which we led (we loving one another tenderly, and having in
+<p>The life which we led (we loving one another tenderly, and having in
 our power the liberty of enjoying) may easily be judged by my youth,
 and by Aurelia’s, who was then about twenty years old. The house
 seemed too strait for our love, and searching solitary fields, we
@@ -958,9 +958,9 @@ English Drake passed the Strait of Magellan and compassed the world
 about. If in all this time, the loyalty which she swore unto me were
 broken or no, I am not able to say, nor yet forbear to believe,
 because it seems almost a thing impossible for such women from their
-custom, to keep themselves to an orderly life.
+custom, to keep themselves to an orderly life.</p>
 
-At the end of these five years, I saw myself at the end of my means,
+<p>At the end of these five years, I saw myself at the end of my means,
 and although I was more amorous than in the beginning, yet Aurelia
 did suffer herself to be vanquished by the obligations of another,
 who had more power than my services: I say obligations, because I
@@ -981,9 +981,9 @@ well whatsoever good or bad success came unto me, it would rebound
 unto her shame, hindered him with her arms and diverted him with her
 tears, although there was no great need: for the bravest do
 unwillingly arm themselves when they are once naked; and to come out
-of a house into the street had been a manifest and mad rashness.
+of a house into the street had been a manifest and mad rashness.</p>
 
-Aurelia so prevailing in that manner, wherein others of her kind are
+<p>Aurelia so prevailing in that manner, wherein others of her kind are
 wont to prevail; and making Feliciano believe that I should be her
 husband, and that if I did perceive him she should lose me,
 persuaded him half unclothed and in the midst of January, that he
@@ -999,9 +999,9 @@ my ignorance and blockishness. Morning brought again the sun, and
 the sun the day, yet neither of them was sufficient to make me see
 my folly (so evil doth a lover discern of his own acts) I rose
 contented, and although I entered last, yet I went sooner away then
-Feliciano.
+Feliciano.</p>
 
-In the meantime Menander who had for the space of some years been
+<p>In the meantime Menander who had for the space of some years been
 Feliciano's mistress, grew extremely jealous, and hearing of this
 trick which Aurelia had put upon him, could not forbear speaking of
 it, mocking him with the cold night which he had endured, and that
@@ -1026,9 +1026,9 @@ to revenge one the other. She then feigned to love me, and I paid
 her in the like counterfeiting. Aurelia was advertised, and grew
 desperate, and Feliciano no less enraged, sought me to kill me.
 Behold how jealousies and neglects do reveal the truths which are in
-the centre of our hearts.
+the centre of our hearts.</p>
 
-Aurelia found me sooner than Feliciano did, as she who therein
+<p>Aurelia found me sooner than Feliciano did, as she who therein
 hazarded least: and staying me began in fury and in threatenings,
 yet ended in prayers and in tears. But upon so fresh an injury, I
 was rather confirmed in my neglect (seeing her yield unto my love)
@@ -1043,9 +1043,9 @@ whereinto she did not endeavour to throw me. So that oppressed with
 these pursuits, and seeing myself reduced to the contenting of her,
 after a thousand contrary deliberations, I resolved to take upon me
 a religious habit, and to prevail by his protection, in whose hands
-and feet God hath imprinted the marks of our reparation.
+and feet God hath imprinted the marks of our reparation.</p>
 
-But oh! the supreme force of a despised love, as from the holy choir
+<p>But oh! the supreme force of a despised love, as from the holy choir
 of the monastery, from the midst of the altars and images of the
 saints, the tears of Aurelia drew me again; and then I followed her,
 with more liberty and less shame then before, leaving the habit
@@ -1069,34 +1069,34 @@ escaping, we vowed ourselves to a religious life with such
 earnestness of tears, that afterwards the storm ceasing and we
 landing, she entered into the Monastery of the Conception; and I
 underwent this habit wherein you now see me, where after some years
-of probation this cell was given me."
+of probation this cell was given me.</q></p>
 
-Here Tirsis the Hermit of this happy abode stayed his discourse, and
+<p>Here Tirsis the Hermit of this happy abode stayed his discourse, and
 our pilgrims judging that it was too late to pass further, and it
 being necessary to descend into the lodging which within this holy
 house is given freely to strangers, they went unto the monastery,
 discoursing upon the hermit’s relation, determining the next day to
 go to the uttermost hermitage, which under the title of St Jerome,
-crowneth the head of the mountain.
+crowneth the head of the mountain.</p>
 
-But the misfortunes of our pilgrim, which had slept for some time,
+<p>But the misfortunes of our pilgrim, which had slept for some time,
 began to wake with more violence; for in the house where these
 strangers had lodged there were missing some jewels, with a
 maidservant of the house, and the Germans amongst others were
 pursued by the Justice, although innocent, because it was affirmed
 by some that this servant enamoured of their beauties had run away
-with them.
+with them.</p>
 
-All nations have their epithets, which being once received by the
+<p>All nations have their epithets, which being once received by the
 world can never be lost. The Scythians are called cruel, the
 Italians religious, the French noble, the Dutch industrious, the
 Persians faithless, the Turks lascivious, the Parthians curious, the
 Burgundians fierce, the Britains hardy, the Egyptians valiant, the
 Lorraines gentle, the Spaniards arrogant and the Germans beautiful.
 And this was the cause for which it was thought that the maid being
-seduced by them had run away with them.
+seduced by them had run away with them.</p>
 
-Now the Germans were easily taken, but the pilgrim desperate through
+<p>Now the Germans were easily taken, but the pilgrim desperate through
 his late long imprisonment which he had suffered in Barcelona, and
 out of the little justice which he as a stranger could expect,
 seeing them come unto him, stood upon his defence, and flourishing
@@ -1135,9 +1135,9 @@ Hardly had he courageously uttered these words, when as the Moors
 (like frogs who at the noise of passengers leap from the bank sides
 into the quiet waters of the lake) ran with all the speed they could
 to the sea to get aboard their boat, with which they easily got to
-their galley.
+their galley.</p>
 
-Full of admiration was the pilgrim, to see how happily his
+<p>Full of admiration was the pilgrim, to see how happily his
 resolution had succeeded, when from a tree which was near unto him
 he heard a voice, which said: Ah knight, help me for the mother of
 God’s sake. His valiant courage which was never astonished with any
@@ -1159,9 +1159,9 @@ heaven is the good which is done unto strangers; signified by the
 ancient philosophers in Deucalion and Pyrrha, who for having lodged
 Jupiter, were made restorers of the world; and contrarily, Diomedes
 devouring his guests with his horses, he was in the end himself
-devoured by them.
+devoured by them.</p>
 
-The pilgrim demanded of Everard how he had gotten his liberty, and
+<p>The pilgrim demanded of Everard how he had gotten his liberty, and
 he told him that with the help of some friends he had broken prison,
 and escaped away by the post of Barcelona; from whence he might well
 have gone for Italy, but being unwilling to be a runaway from his
@@ -1176,9 +1176,9 @@ Everard who understood something of the secrets (suspecting that
 this was some woman, who had been stolen away by the robbers upon
 the shore of Barcelona) assured him that he knew all the servants
 which Doricles had in his house, and that there was not one
-Castellan amongst them.
+Castellan amongst them.</p>
 
-In such and like words, which drew infinite sighs and tears from the
+<p>In such and like words, which drew infinite sighs and tears from the
 pilgrim, they arrived at the ancient Sagunto, (where at this day are
 remaining, the most famous works of the Roman period of any that are
 in Spain) and from thence they went to the city of Valencia,
@@ -1190,9 +1190,9 @@ the relation of their fortunes, until the sun rising called them
 from their rest, especially Everard, who carried with a strong
 desire of finishing his intended journey, departed with grief from
 the company of the pilgrim, whom he left no less sorrowful, in this
-flourishing city.
+flourishing city.</p>
 
-There he spent a few days in beholding the proud buildings wherewith
+<p>There he spent a few days in beholding the proud buildings wherewith
 it was embellished: and in the end he visited the hospital where mad
 folks are with more care and convenience looked unto and kept, than
 in any city in all Spain: there beholding the several humours of
@@ -1261,9 +1261,9 @@ the mountains of Barcelona, by the evil hands of Doricles’ barbarous
 soldiers? Blessed be the hour wherein I see the news is false. In
 speaking this, Nisa fell about Pamphilus’ neck, amorously embracing
 him, whose overwhelming delight was only interrupted by the presence
-of the assistants.
+of the assistants.</p>
 
-When the man (who had the charge of appeasing the mad folks’ fury)
+<p>When the man (who had the charge of appeasing the mad folks’ fury)
 saw this deportment in Nisa, he began to give her rude words and
 sharp blows. Let him alone said Pamphilus, for I am his countryman
 and his wife’s kinsman, and do not wonder that this sight of me,
@@ -1282,9 +1282,9 @@ alone can appease him; and as it is a good work, from anybody who
 hath a sickness to take away the pain, for some time, though it
 return again; so in madness, it is a good work to bring to pass,
 that he who hath lost his wits should recover them again though it
-were but for one hour.
+were but for one hour.</p>
 
-Yet neither this reason, nor many other, served him to any purpose,
+<p>Yet neither this reason, nor many other, served him to any purpose,
 for the officers had already put manacles upon Nisa's hands; and the
 master did rigorously pull her to the cage, although she had no need
 of this remedy, nor any other, but the sight of Pamphilus. But as
@@ -1304,9 +1304,9 @@ with the mad servitors, (such as having recovered their wits, do
 serve the others) fell upon him, and beating him cruelly, flung him
 into the street, where (as the fish whereof Aristotle speaks which
 being drawn out of the water, frames a humane voice and dies) he
-fetched a great sigh and fell upon the ground exhausted.
+fetched a great sigh and fell upon the ground exhausted.</p>
 
-The sun was declined low toward the west, colouring with gold and
+<p>The sun was declined low toward the west, colouring with gold and
 purple that part of the horizon, when Pamphilus returning out of his
 misery found himself in the arms of a young man, who having
 compassion of his grief, encouraged him to recover life. Pamphilus
@@ -1370,9 +1370,9 @@ desires and passions even unto the actions and thoughts, which some
 have endeavoured to prove by the authority of Boetius, who says that
 the order of destiny moves the heavens, and the stars temper the
 elements, and tie human actions to their causes by a most
-indissoluble knot.
+indissoluble knot.</p>
 
-But leaving apart a matter of so long a discourse, from whence is
+<p>But leaving apart a matter of so long a discourse, from whence is
 sprung the error of the Priscillianists, who believe that the soul
 and the body are necessarily subject to the stars, and many other
 errors which succeed this first; I desire thou shouldst know, that I
@@ -1385,10 +1385,10 @@ mouth; for thy presence and aspect is an index of thy nobleness, as
 thy tongue is of knowledge: which worketh in me a great pleasure,
 and desire to tell thee my name, my country, quality and my
 misfortunes, which if thou please to hearken unto with patience, I
-will as briefly as I can relate:
+will as briefly as I can relate:</p>
 
-The History of Pamphilus and Celio.
-"The city of Toledo, in the heart of Spain; strong by situation,
+<head subtype="narrative">The History of Pamphilus and Celio.</head>
+<q>The city of Toledo, in the heart of Spain; strong by situation,
 noble by antiquity, famous for the preservation of the Christian
 faith ever since the time of the Goths, generous both in learning
 and arms, having a temperate heaven and a fertile Earth. Environed
@@ -1408,9 +1408,9 @@ Flanders with the Archduke Albert, where he got no small reputation,
 principally in the siege of Ostend, and Nisa a daughter, and if I be
 not partial, one of most excellent beauty, who lived in that honour
 and good name unto which she was bound by the nobleness of her birth
-and the care of such parents.
+and the care of such parents.</p>
 
-Unto these terms was the young man proceeded in his discourse,
+<p>Unto these terms was the young man proceeded in his discourse,
 whereat Pamphilus exceedingly troubled covered his face with his
 hands, whereof the other demanding a reason, Pamphilus said to him,
 that his grief which had brought him unto that estate wherein he
@@ -1458,9 +1458,9 @@ his own house, that nobody could know, either where he was or what
 he did) yet so it was, that his humility, his diligent service, and
 other commendable parts which he had, gained such credit with my
 parents, that I do believe he might as easily have compassed his
-designs with his feigned poverty, as with his true riches.
+designs with his feigned poverty, as with his true riches.</p>
 
-The chiefest thing whereunto he applied himself as his whole study,
+<p>The chiefest thing whereunto he applied himself as his whole study,
 was to appear agreeable to Nisa, which was easy to be done, for who
 can guard himself from a domestic enemy? The simplicity wherewith
 this knight did begin his treason, and the good words which he used,
@@ -1497,9 +1497,9 @@ pretend, they desire solitary places, and the dens of deserts, there
 to entertain in silence their sad thoughts, without anything to
 trouble them, no not the light of heaven. But let me entreat thee to
 proceed in thy story of this knight, for I desire with passion to
-know the end.
+know the end.</p>
 
-My sister Nisa, said Celio, then (for so was the young man called)
+<p>My sister Nisa, said Celio, then (for so was the young man called)
 could play admirable well of the lute, and sang so sweetly that in
 the like danger, the dolphin would more willingly have brought her
 to the shore, then he did Arion sometimes to Corinth. Wherefore by
@@ -1537,18 +1537,18 @@ unto thee in thy curing, for thy tears doe make me pity thee. You
 may well serve to help me pitiful Nisa (said then the cunning lover,
 who might well have instructed Ovid) seeing I do not hope for it
 from any other hands than yours, and that you know the cause of my
-pain, as well as you know yourself."
+pain, as well as you know yourself.</q></p>
 
-Here Pamphilus demanded of Celio (wondering that he should tell so
+<p>Here Pamphilus demanded of Celio (wondering that he should tell so
 particularly that which passed so secretly between him and Nisa) how
 he knew the same words which they had spoken, he being at that time
 far off, following his study in Salamanca? To which Celio answered,
 that the same Pamphilus had left the story in writing with a friend
 of his, from whom having had the means since that time to get it, he
 learned all unto the least particular, and then proceeding on his
-discourse, he continued in this manner:
+discourse, he continued in this manner:</p>
 
-"The colour which came into Nisa's face when she heard Pamphilus’
+<p><q>The colour which came into Nisa's face when she heard Pamphilus’
 words, cannot be compared, but unto the red rose with milky leaves,
 although it be a poetical term, and borrowed of the same author, yet
 feigning not to understand what he said, she answered that if it
@@ -1577,9 +1577,9 @@ her face within the crystal could no longer suffer his discourse,
 nor the knight’s presence: but rising up in a fury, said unto him in
 great anger as she went away, thy boldness shall cost thee thy life.
 Can it be better employed, answered Pamphilus, than for your beauty
-to be ended?"
+to be ended?</q></p>
 
-She answered well, said the Pilgrim, if she had accomplished what
+<p>She answered well, said the Pilgrim, if she had accomplished what
 she said. She accomplished it so ill, replied Celio, that within a
 few days she loved him better than she loved herself, proving the
 verse of the famous poet Dante to be infallibly true: that love
@@ -1609,9 +1609,9 @@ knight, a Christian wise young and brave gentleman, would help
 himself with such wicked means to attain his ends. It is not likely,
 answered Celio, and it may be, that he witnessing his fidelity by
 other services, obliged her to condescend unto his will, for Nisa is
-not the only woman in this world subject to this weakness.
+not the only woman in this world subject to this weakness.</p>
 
-"Nevertheless, behold the strange accident which happened unto them
+<p><q>Nevertheless, behold the strange accident which happened unto them
 both, as a beginning of their misfortunes; for it being rumoured at
 Madrid that Pamphilus was come from Flanders, the news thereof came
 unto my father’s ears, who (desirous to make him his son in law, in
@@ -1644,9 +1644,9 @@ happen: he made choice of a dark night, and by a garden which
 answered upon the river, took her from the house, and by the same
 river went from the town, carrying her in his bark, until he came
 unto those mountains which are called Sisla: this was it which he
-writ afterwards from Valencia to a friend of his of Saragossa.
+writ afterwards from Valencia to a friend of his of Saragossa.</p>
 
-Now follows the beginning of my peregrination, which (having been
+<p>Now follows the beginning of my peregrination, which (having been
 too long in this history) I will briefly relate. At the dolorous
 letter which was written to me of this success (which was discovered
 as soon as Pamphilus was gone from Toledo) I came from Salamanca to
@@ -1676,9 +1676,9 @@ whence it followed that for safety of my life I was driven to leave
 her. Nevertheless, I am resolved whatsoever happen unto me to seek
 her, because that besides, I do love her more than myself, I owe so
 much unto her merit and virtue with which she hath faithfully
-accompanied me, through many and variable successes."
+accompanied me, through many and variable successes.</q></p>
 
-Night had spread his black veil over the face of the Earth, and the
+<p>Night had spread his black veil over the face of the Earth, and the
 houses were as full of candles, as the heaven of stars; men and
 creatures retired themselves, from their common labour, when as the
 miserable Pamphilus gave over hearing the tragedy of his love, with
@@ -1705,9 +1705,9 @@ offence which Celio had done unto him, pardoned him in his heart,
 and Celio ignorant that this was Pamphilus, was disposed to the
 pardoning of him. The resolution was with great oaths to enquire out
 one the other, and to help each other in all accidents as brothers;
-assigning the rendezvous within six months, in the city of Pamplona.
+assigning the rendezvous within six months, in the city of Pamplona.</p>
 
-So went Celio upon his enterprise; and some few days after his
+<p>So went Celio upon his enterprise; and some few days after his
 departure, Pamphilus’ sorrow increasing out of the opinion that it
 was impossible for him to recover Nisa; it happened that going one
 night from his lodging in a vain desire he had to see the windows of
@@ -1715,20 +1715,20 @@ the prison (where his happiness and joy was enclosed) he heard a
 knight cry out for help against some who would at advantage have
 killed him. He suddenly stepped unto him, and drawing out his sword
 out of his palmer’s staff with an incredible dexterity, accompanied
-with a valiant & brave courage, made them loose him whom they would
+with a valiant &amp; brave courage, made them loose him whom they would
 have killed, and save their own lives by a shameful though a safe
-flight.
+flight.</p>
 
-The knight would needs know who he was, who had delivered him from
+<p>The knight would needs know who he was, who had delivered him from
 so great danger: and although Pamphilus excused himself from telling
 his name, yet the knight’s desire and courtesy prevailed more than
 the humbleness wherewith the pilgrim did endeavour to persuade him
 that he had done him no service: to conclude, he led him to his
 house, where his good and gentle behaviour being observed, the
 knight and his parents bore such affection unto him that they did
-oblige him to become their guest.
+oblige him to become their guest.</p>
 
-There remained Pamphilus some days, at the end of which Jacinth (so
+<p>There remained Pamphilus some days, at the end of which Jacinth (so
 was this knight called) told him the history of his love unto fair
 Lucinda, and the occasion for which these assassinators wold have
 murdered him, who for this only cause, were come from Seville unto
@@ -1737,9 +1737,9 @@ lived did remain. I do believe that lovers have some sympathy one
 with another, and that they join and communicate in such manner as
 you have seen in this discourse, seeing that our pilgrim never came
 into any house where there was not someone or other tainted with
-this evil, even though it were in craggy mountains.
+this evil, even though it were in craggy mountains.</p>
 
-By this overture of Jacinth’s secret, Pamphilus was bound to reveal
+<p>By this overture of Jacinth’s secret, Pamphilus was bound to reveal
 his: and after he had made him swear that he would grant him his
 request, he said that in recompense of his life which he had saved,
 as he himself confessed, he conjured him to help him to a place, in
@@ -1757,9 +1757,9 @@ suddenly into Pamphilus’ chamber, put him in a chair, and carried
 him away in their arms. Miserable condition of this man, who after
 so many strange successes, being wise (if those who love can be so)
 to make himself to be taken and shut up willingly, as a madman,
-where all the mad folks would willingly be accounted wise.
+where all the mad folks would willingly be accounted wise.</p>
 
-All Jacinth’s house admired at this novelty, and all his family
+<p>All Jacinth’s house admired at this novelty, and all his family
 complained that this stranger, unto whom Jacinth owed his life, was
 so unworthily requited by Jacinth himself: but she who most
 complained of his cruelty and had the truest feeling of it was
@@ -1789,9 +1789,9 @@ confession, Jacinth remained in their good opinion, though the house
 was much troubled, and Tiberia was full of pitiful grief and care
 for Pamphilus’ life: who being in prison among the mad folks (in the
 judgement of many, the very centre of greatest misery) imagined
-himself to be in most glorious happiness.
+himself to be in most glorious happiness.</p>
 
-To this new madman the more ancient gave place, and Pamphilus, with
+<p>To this new madman the more ancient gave place, and Pamphilus, with
 divers feignings and counterfeitings of his face, endeavoured to
 express his madness; which fashion of his, seeming them as tokens of
 rashness, they put him into the prison with irons on his hands,
@@ -1805,13 +1805,13 @@ and beloved Finia whom he had lost, where being come, he heard the
 news of the peace which was proclaimed between the two nations,
 which made him rest that night (with more contentment out of the
 facility which it brought to his design) staying for the light of
-the morning to clear his passage over the mountains into France.
+the morning to clear his passage over the mountains into France.</p>
 
-The End of the Second Book.
+The End of the Second Book.</div>
 
-Book Three
+<div type="book"><head>Book Three</head>
 
-Whilst the sad and afflicted Celio entered into France by the
+<p>Whilst the sad and afflicted Celio entered into France by the
 mountains of Jaca to see if he could find his dear Finia, our
 pilgrim Pamphilus having gotten out of the prison, as a madman whose
 fury was over, was admitted to the table where others did eat, where
@@ -1819,9 +1819,9 @@ also sat his fair Nisa; near unto whom he did always endeavour to
 sit, and there and in all other convenient places he told her his
 fortunes. She blamed him for putting himself into this place,
 although she did acknowledge how she was tied unto him, for this his
-great folly.
+great folly.</p>
 
-Pamphilus as a true lover, who only aimed at the end of his love,
+<p>Pamphilus as a true lover, who only aimed at the end of his love,
 which was to marry her, and who had sworn by a thousand oaths to
 resist the violence of his desires until a lawful marriage would
 suffer him to accomplish them, said unto her in comforting her, that
@@ -1840,9 +1840,9 @@ appeareth little, being much neglected; especially seeing that if
 art do not polish the beautifullest and finest diamonds, and that
 they be not set in gold with enamelling and other necessary
 ornaments, they show not the lustre, grace nor beauty which they
-have being artificially cut and set in a foil by cunning workmen.
+have being artificially cut and set in a foil by cunning workmen.</p>
 
-The misery of this kind of life seemed unto our two lovers as
+<p>The misery of this kind of life seemed unto our two lovers as
 nothing in regard of the former travails which they had suffered, as
 I have heard it often said by many: and I myself know by experience
 that if two lovers may see and speak together, they have no feeling
@@ -1877,9 +1877,9 @@ failed not to promise him one, and withal to bring him to his
 lodging some of their most peaceable madmen, amongst whom were the
 pilgrim Pamphilus and the fair Nisa. The Earl joyful to see them,
 inquired of their keepers their conditions, one of whom answered
-thus:
+thus:</p>
 
-This man strong and able who you see there, was sometimes a brave
+<p>This man strong and able who you see there, was sometimes a brave
 soldier, who having served upon many occasions like a Hector,
 desired the reward of his valour which he had merited above all
 other. But he finding himself denied, and that it was given unto the
@@ -1893,9 +1893,9 @@ squadrons, cannons, muskets, pistols, corselets, pikes. This weak
 and pale man is of another humour, who having given himself too much
 to the study of philosophy, lost his understanding. Of this man the
 Earl demanded, which was the Primum Mobile, either Coelum Imperium,
-or Coelum Crystallinum? unto whom the madman answered thus:
+or Coelum Crystallinum? unto whom the madman answered thus:</p>
 
-"After moving the spheres by a local motion, the divines do teach us
+<p><q>After moving the spheres by a local motion, the divines do teach us
 that there is another heaven perpetually in rest from all motion,
 created from the beginning, and full of an innumerable thousands of
 intelligences and of happy spirits, which were created together in
@@ -1909,9 +1909,9 @@ it shineth) is the throne destined before the constitution of the
 world, and as a royal palace ordained from the beginning, for all
 those who are to reign before the face of God, the light whereof is
 so lustrous and clear, that the corporal eyes cannot behold or look
-upon it, no more than the birds of the night can the sun."
+upon it, no more than the birds of the night can the sun.</q></p>
 
-All the assistants remaining astonished at this discourse, another
+<p>All the assistants remaining astonished at this discourse, another
 one of the madmen began to cry, calling his dogs, and luring his
 hawks like the great falconer and huntsman as he had been; of whom,
 as the Earl began to laugh, Pamphilus said thus unto him; you ought
@@ -1941,9 +1941,9 @@ this man became mad, seeing that as Dion assureth the same exercise
 made the Emperor Adrian a fool. Then answered the mad hunter, that
 with more reason should he be laid in this place for a madman,
 because he would persuade madmen, and reason with them who had no
-reason.
+reason.</p>
 
-The discourse of this madman, said the Earl savouring nothing of
+<p>The discourse of this madman, said the Earl savouring nothing of
 madness, obliges me to answer: for a man must fight with those who
 give occasion, play with such as have money, and answer unto
 everyone in the same manner he speaks. But if all the madmen in
@@ -1991,9 +1991,9 @@ and their parts: for Plato, Pythagoras and Architas have thought
 that the motions and conversions of the stars cannot be without
 music. And Vitruvius is of the opinion that buildings are not framed
 without music. Leaving celestial and human, there follows
-artificial, divided into musical organs and Instruments.
+artificial, divided into musical organs and Instruments.</p>
 
-Thereupon the other madmen began to put in practice that whereof he
+<p>Thereupon the other madmen began to put in practice that whereof he
 only showed the theory, and began to make such a noise with confused
 and discording voices, that it was impossible to understand them.
 But being appeased, he who kept the madmen made great account unto
@@ -2009,9 +2009,9 @@ was called Antarctic and meridional; there was he interrupted by
 others, who would not let him proceed, and after it was not possible
 to appease them, although there were a great many more painters,
 poets and mathematicians, but above all there was an alchemist, a
-famous disciple of Raymundus Lullius.
+famous disciple of Raymundus Lullius.</p>
 
-At this time Emilio had fixed his eyes upon Nisa, and beholding the
+<p>At this time Emilio had fixed his eyes upon Nisa, and beholding the
 sadness with which she was silent, he demanded of the Master the
 humour of this mad creature? Who answered him, that love had brought
 him to his folly. Her delicate face, and the occasion of her evil,
@@ -2031,9 +2031,9 @@ well in his wits: because being oppressed with grief he told them
 plainly that he had caused himself to be brought thither only to see
 this young mad creature, whom they had accounted to be a man, but
 indeed was a woman and his wife, whom he had concealed under this
-habit for fear of her father, from whom he had stolen her away.
+habit for fear of her father, from whom he had stolen her away.</p>
 
-But they were so confirmed in their opinion of his madness, that by
+<p>But they were so confirmed in their opinion of his madness, that by
 those reasons whereby he did think they were tied to give him his
 liberty, he made them more obstinate to refuse him, until they might
 have more evident tokens of the tranquillity of his mind. Whilst he
@@ -2078,9 +2078,9 @@ wear any but pilgrim’s habit, until she had seen the Patron of Spain
 in Galicia. Emilio nevertheless did make her one of serge, and the
 pilgrim being new clothed appeared more beautiful, there being no
 new apparel which doth not embellish, nor so poor a habit new which
-doth not enrich a well-proportioned body.
+doth not enrich a well-proportioned body.</p>
 
-But by this time, a great fog with a tempestuous wind arising in the
+<p>But by this time, a great fog with a tempestuous wind arising in the
 gulf, the mariners knew by the signs which are wont to forerun such
 storms that they were likely to undergo a great hazard of drowning.
 Their presage was not vain, for the wind rose with such extremity
@@ -2094,9 +2094,9 @@ who knew not that the unfortunateness of Nisa brought forth this
 effect (clean contrary unto Caesar’s fortune, which appeased storms)
 endeavoured to save his life with much travail: and the heaven
 reserving Nisa's life to run greater fortunes, cast her as formerly
-she had been upon the shore of Barcelona.
+she had been upon the shore of Barcelona.</p>
 
-Those which remained alive were cast away in the same place: Nisa
+<p>Those which remained alive were cast away in the same place: Nisa
 having stayed some time to recover herself after this fortune went
 in pilgrimage to Marseille: where one day visiting the famous Church
 of the Penitent, whom the angels buried in the mountain where God
@@ -2161,11 +2161,11 @@ Cartagena, they had been made captives in passing to Oran and
 afterwards had to Algiers, where a Turk of Constantinople had bought
 her. And so following the story of Pamphilus which was also hers,
 from the beginning as you have heard related by Celio until their
-departure from Toledo, she began to say as follows:
+departure from Toledo, she began to say as follows:</p>
 
-The Story of Pamphilus and Nisa.
+<p>The Story of Pamphilus and Nisa.</p>
 
-"After that Pamphilus went away from Toledo with Nisa, thinking that
+<p><q>After that Pamphilus went away from Toledo with Nisa, thinking that
 her father would marry her with another, and being jealous of
 himself, he told me that suffering some of those discommodities,
 which do offer themselves unto such men as travail without their
@@ -2178,9 +2178,9 @@ which he was accustomed to bear to her chastity against the oath
 which he had solemnly sworn, and hid himself for some days out of
 her sight, during which time he was ready to grow mad; yet finding
 her again, and craving pardon with new oaths to keep the first
-inviolably, they were friends again.
+inviolably, they were friends again.</p>
 
-But Pamphilus being one day at the market place, he was recognised
+<p>But Pamphilus being one day at the market place, he was recognised
 by a merchant of Toledo, a great friend to Nisa her father, who
 going about to lay hands on him and apprehend him, Pamphilus was
 enforced to lay hand upon his sword, to defend himself from the
@@ -2196,9 +2196,9 @@ to Lisard, Nisa’s elder brother, who was now in Flanders, had
 advertisement of their coming. Although Nisa were sufficiently
 disguised, yet her countenance (to those who had formerly seen her)
 being sufficiently known, would easily reveal that which they did so
-carefully endeavour to hide.
+carefully endeavour to hide.</p>
 
-But their good fortune (which delivered them from these dangers, it
+<p>But their good fortune (which delivered them from these dangers, it
 may be to reserve them for greater) would at that time, wherein the
 captain and his friends came to search for Pamphilus, that Nisa was
 alone in the lodging, of whom having enquired her name and her
@@ -2245,9 +2245,9 @@ propounded unto himself only delight, differed little from a beast.
 Pamphilus cursed these reasons of Nisa, and sometimes out of grief,
 would go a whole day and not speak to her, until in the end overcome
 with her sweet patience, he was constrained to send a thousand sighs
-as ambassadors for a peace to her, who had the empire over him.
+as ambassadors for a peace to her, who had the empire over him.</p>
 
-Now the noble courage of this young knight, seeing himself amongst
+<p>Now the noble courage of this young knight, seeing himself amongst
 so many brave soldiers, who went every day to the wars against the
 Moors, did believe that it was a dishonour to his birth to carry a
 sword idle by his side, whilst others bathed theirs in their
@@ -2266,9 +2266,9 @@ who prayed at his departure that she might not see him return alive,
 suffered the battle to be ordered in such manner that day that the
 Christians had the worst; and Pamphilus searching death, broke into
 a squadron of Moors where being wounded and overthrown, he was taken
-and led prisoner unto Fez.
+and led prisoner unto Fez.</p>
 
-The news of this accident came speedily to Nisa’s ears, for the
+<p>The news of this accident came speedily to Nisa’s ears, for the
 report of evil successes come sooner to the ears of lovers than that
 of happy events: what her grief was it is not necessary to express,
 otherwise than in representing Nisa far from her parents, out of her
@@ -2365,9 +2365,9 @@ pass, if thou think good of it, that Ali Japha shall buy thee, and
 in his house there shall be nothing wanting unto thee but thy
 liberty; as for all other things I will use thee as myself.
 Pamphilus at these words cast himself at her feet, and by force did
-many times kiss them, thanking her for the favour which she did him.
+many times kiss them, thanking her for the favour which she did him.</p>
 
-So being departed, Nisa told Ali Japha the desire which she had unto
+<p>So being departed, Nisa told Ali Japha the desire which she had unto
 a Spanish slave who was evil entreated of Sali Murat; the Moor, who
 desired to oblige him absolutely and to satisfy his pleasure in all
 things, went the next morning to Sali Murat; to treat with him about
@@ -2409,9 +2409,9 @@ the most beautiful gentlewoman in all Morocco, and shalt be one of
 the richest men of all Africa, because that besides what my father
 left her, my uncle will give her a great part of his estate also,
 and I will give thee mine, and my wife and I will sojourn under thy
-government.
+government.</p>
 
-Pamphilus, whose intent was to make her reveal herself unto him, or
+<p>Pamphilus, whose intent was to make her reveal herself unto him, or
 else to nettle Nisa so far as that she should declare herself,
 coldly answered, that to obey her, and to requite the duty which he
 owed her, he would willingly become a Moor; as well for that reason,
@@ -2434,9 +2434,9 @@ who forsaketh God doth not injure me in forsaking me: but in the end
 after many sorrowful complaints, his satisfactions had such virtue
 that her anger being overcome by her love, they remained friends,
 with more pleasure and firmness than ever, as it always happens
-between true lovers.
+between true lovers.</p>
 
-This day passed away, followed with many others, during which time
+<p>This day passed away, followed with many others, during which time
 they entered into deliberations of the means whereby they might
 recover their liberty; which seemed to them impossible in respect of
 the love which Ali Japha bore unto Nisa, as also in respect of the
@@ -2484,9 +2484,9 @@ of Barcelona, neither is known, whether Nisa and the Moors are alive
 or dead: but Pamphilus swimming attained unto a plank of the ship,
 and within a day after, being taken up by some Moors of Bizerta,
 they carried him to Constantinople where I saw him a captive, and
-where he told me what I have related."
+where he told me what I have related.</q></p>
 
-Thus Nisa added to the truth to hide herself from Finia, knowing
+<p>Thus Nisa added to the truth to hide herself from Finia, knowing
 already by that which was related in the first Book, how she and
 Pamphilus were both taken up half drowned, one by the fishers and
 the other by captain Doricles, with their several successes in their
@@ -2496,9 +2496,9 @@ which she had told her of her brother, showing some grief for the
 death of Nisa; afterwards having concluded their return into Spain,
 they retired themselves together to Marseille, where they rested for
 some days, Finia believing always that Nisa was this Felix, whose
-name she had borrowed.
+name she had borrowed.</p>
 
-In the meantime, miserable Pamphilus suffered in prison with more
+<p>In the meantime, miserable Pamphilus suffered in prison with more
 rigorous pain than he did before, because that his fury increasing
 with his grief he was kept so much the more straitly, by how much he
 was thought to be the more mad. In the end Jacinth came to Valencia
@@ -2524,13 +2524,13 @@ Pamphilus saw there his friends with great grief, and was received
 by them with great joy. And Finia and Nisa coming from Marseille
 little by little over the craggy mountains which divide France from
 Spain, came unto Perpignan, where I leave them to their rest,
-attending the Fourth Book.
+attending the Fourth Book.</p>
 
-The End of the Third Book.
+The End of the Third Book.</div>
 
-Book Four
+<div type="book"><head>Book Four</head>
 
-Great is love amongst the gods, and amongst men marvellous says
+<p>Great is love amongst the gods, and amongst men marvellous says
 Phaedrus in Plato: Hesiod says that the two first things which were
 seen after the Chaos, were Love and the Earth. Parmenides says that
 it was engendered before the Gods; preferring it in knowledge to the
@@ -2562,9 +2562,9 @@ unto Montserrat, whether he was going in pilgrimage (as you
 peradventure may do). But besides the greatness of his crime, which
 is no less then rebellion, he was found to have in the hollow of his
 staff a sword longer then is permitted to be worn by the ordinances
-of this kingdom.
+of this kingdom.</p>
 
-I am much grieved at it, answered Nisa, for many reasons; and
+<p>I am much grieved at it, answered Nisa, for many reasons; and
 principally, because he is a Castilian; for as you may perceive by
 my tongue this pilgrim and I are both Castilians: it would more
 grieve you (said the old man) if you saw his face and his
@@ -2601,9 +2601,9 @@ expiring (which was given to Jacinth) for the verifying of
 Pamphilus’ madness, he was going towards the place of his execution,
 and by the way, is met by Jacinth (as you have seen) who hath
 brought with him sufficient proof and an express command from the
-Viceroy that he shall be taken back again to Valencia.
+Viceroy that he shall be taken back again to Valencia.</p>
 
-This news revived Nisa and Finia, who having rested themselves there
+<p>This news revived Nisa and Finia, who having rested themselves there
 all that day went the next day to see him in the prison; at the
 entrance whereof they found, that for a madman he was taken out and
 set upon a mule, to be carried to Valencia. And even upon the
@@ -2615,9 +2615,9 @@ brother, for being accounted for a madman he was not hearkened to,
 but contrariwise because he passionately cast himself from his mule
 upon the ground, he was with much cruelty tied upon his mule’s back,
 and with shrewd blows set forward in his way; their opinion of his
-madness being the more confirmed.
+madness being the more confirmed.</p>
 
-I cannot forbear wondering every time I think of this man’s
+<p>I cannot forbear wondering every time I think of this man’s
 misfortunes! He came first to Barcelona to suffer at Valencia all
 those miseries which you have formerly heard. And now it seems he
 returns that way again anew to begin the same pains. The cause of
@@ -2636,9 +2636,9 @@ feigned to be, with whose conversation and beauty she was charmed,
 confessed simply her desire (for the effect was impossible) and
 although the honesty of their conversation did appear by both their
 confessions, yet their beauty was a cruel witness against their
-innocence.
+innocence.</p>
 
-About this time came the afflicted Celio (by the mountains of
+<p>About this time came the afflicted Celio (by the mountains of
 France, the principal cities whereof he had sought for his beloved
 Finia) back to Barcelona, still continuing his quest, and only to
 inform himself if there were any pilgrims of Castile; and having
@@ -2648,9 +2648,9 @@ least of the country. His fortune would that he should first meet
 with her before he saw his Sister Nisa, and being advertised that
 see had been taken with a young man, and laid up for the suspicion
 that was had of their dishonest love, he spoke to her through an
-iron grate, which separates the men’s Prisons from the women’s.
+iron grate, which separates the men’s Prisons from the women’s.</p>
 
-Is this O Finia, the confidence which I had of thy virtue so
+<p>Is this O Finia, the confidence which I had of thy virtue so
 conformable to the nobleness of thy blood? Is it here (after having
 searched thee almost all France over, having measured step by step
 all the tedious plains and craggy mountains which did lead unto any
@@ -2703,9 +2703,9 @@ which Nisa wore deprived Celio's eyes, (already blinded with anger)
 from discerning her to be his sister Nisa, into whose body he twice
 thrust his sword, and had absolutely killed her if some passengers
 upon the way at that time had not, not only hindered him, but also
-apprehended him and put him in prison.
+apprehended him and put him in prison.</p>
 
-The miserable Nisa, who then began to have a greater feeling of her
+<p>The miserable Nisa, who then began to have a greater feeling of her
 suffered miseries, was carried to an honourable citizen’s house of
 great compassion and charity, who having given order for her
 dressing and found that her wounds were not mortal, pursued Celio so
@@ -2716,9 +2716,9 @@ lawful wife, and that having found her imprisoned with this young
 man for suspicion of incontinency, he did not think that he had done
 evil if he had killed them both. Whereupon they ordered that Finia
 should be imprisoned again; but she having some notice thereof,
-prevented it by flight.
+prevented it by flight.</p>
 
-On the other side, Pamphilus coming to Valencia recovered his
+<p>On the other side, Pamphilus coming to Valencia recovered his
 liberty by Jacinth’s means; with an extreme contentment to Tiberia,
 unto whom Pamphilus giving thanks for the care which she had of him,
 raised in her a thousand hopes which his absence and misery had
@@ -2738,9 +2738,9 @@ I am Pamphilus thy enemy, unto whom (not knowing of me) thou didst
 recite the story of thy fortunes, who have already pardoned the
 injury which thou hast done to my honour in ravishing away Finia,
 having consideration of the injury which I did thee in leading away
-Nisa.
+Nisa.</p>
 
-With less grief would Celio have heard the sentence of his death,
+<p>With less grief would Celio have heard the sentence of his death,
 than the relation which Pamphilus made; for he remained so
 astonished and silent as if he had been taken out of prison to go to
 execution. He would have justified his innocence, but being not able
@@ -2761,9 +2761,9 @@ that Pamphilus, out of the lustful courage of an ungrateful guest,
 had so far forgotten himself as to make love to her, and that she,
 yielding to his persuasions had embarked herself with more sure
 gauges, than, without the bonds of marriage, did fit either with her
-honour or the reputation of either of them.
+honour or the reputation of either of them.</p>
 
-Jacinth, angry at this evil correspondence and ungrateful
+<p>Jacinth, angry at this evil correspondence and ungrateful
 acknowledgement of his friendship, good turns and hospitality,
 sought Pamphilus as earnestly as he sought Nisa, and having found
 him, led him out of the town upon the shore side, where he showed
@@ -2797,9 +2797,9 @@ apace to see him, knowing that he was wounded). And without
 inquiring any further of Nisa, he went once again out of Barcelona,
 although much more sad; for he left his best friend whom he had
 sorely wounded with his own hand, and his dearest friend near the
-hands of death.
+hands of death.</p>
 
-Iber so called of Iberia, an ancient river of that kingdom
+<p>Iber so called of Iberia, an ancient river of that kingdom
 (sometimes very rich) not far from that place where Scipio
 vanquished the Carthaginians, and as Titus Livius affirms, joined
 Spain to the Roman Empire, running from two fountains, bathes the
@@ -2810,9 +2810,9 @@ called Iberian, near the mountain Caucasas, having abundance of gold
 within their veins. This famous flood, according to Pliny, rises
 near to the ancient Iuliobriga, and after many windings and turnings
 comes to wash the walls of Sallibinum, which Caesar called Caesar
-Augustus, and the injury of times Saragossa.
+Augustus, and the injury of times Saragossa.</p>
 
-At the course of these crystalline waters Pamphilus stayed his
+<p>At the course of these crystalline waters Pamphilus stayed his
 flight, sitting down upon the bank of the river, which began to
 swell with his tears, so pitiful to behold, that the very winds did
 seem to condole with him in his complaints by their doleful noise,
@@ -2850,9 +2850,9 @@ contrariety: yet to deny that I love is to say the sun is darkness
 and the night light, especially since I cannot say but that I have
 seen Nisa. But seeing I do confess that I have seen her, how can I
 say but that I love her? And if I love her, how can I leave her? And
-if I have left her, wherefore do I live?
+if I have left her, wherefore do I live?</p>
 
-So did Pamphilus accuse himself for having left Nisa for any danger;
+<p>So did Pamphilus accuse himself for having left Nisa for any danger;
 no more nor no less than as one who travailing upon the way
 remembers something of importance which he had forgotten at home,
 breaking off from his discourse and from his company, turns back
@@ -2866,16 +2866,16 @@ lovers’ eyes, seems to draw unto itself the very weighty and earthy
 part, despite all resistance made by the natural weight, and as the
 sun oftentimes converts into burning beams the humour which is
 concealed in the clouds, so beauty converts into fire all the tears
-and sadness of lovers.
+and sadness of lovers.</p>
 
-Few leagues had Pamphilus journeyed from the famous colony of the
+<p>Few leagues had Pamphilus journeyed from the famous colony of the
 Romans when as going down a hill, it being so late that the sun had
 left no light in the west, but as it were a golden girdle; which
 environing the horizon did seem as a crown unto the neighbouring
 night: he heard a voice grievously complaining in a meadow, which
-shadowed with high rocks, was very dark.
+shadowed with high rocks, was very dark.</p>
 
-The courageous pilgrim went into it, and saw a man lying upon the
+<p>The courageous pilgrim went into it, and saw a man lying upon the
 grass amongst the trees which were watered with a fresh brook, of
 whom demanding the cause of his complaint, he entreated him to come
 to him, if he desired to know, before he yielded up his soul, caused
@@ -2904,9 +2904,9 @@ with like dissimulation, certain bandoleers of Jara had one night
 robbed the monastery, and for that cause he could not open the gate
 without the superior’s license. Pamphilus entreated him to dispatch:
 but there being a long garden between the monastery and cell, before
-he could return the knight died in his arms.
+he could return the knight died in his arms.</p>
 
-Pamphilus looked pale, dismayed with the accident, and almost as
+<p>Pamphilus looked pale, dismayed with the accident, and almost as
 dead as he, and encouraging him to this fearful and sharp passage,
 laid a cross of two myrtle boughs on his stomach. Instantly he heard
 a troop of horse, whose masters being divided into divers paths, did
@@ -2945,9 +2945,9 @@ is the woman for whose sake he hath committed this murder, and
 Jacinth some friend who led my brother to the place. All of them
 believed what Tirsus said, and the traitor Tansiles interpreted
 Pamphilus’ despair in such sort, that everyone believed that
-Pamphilus did speak of Godfrey’s death.
+Pamphilus did speak of Godfrey’s death.</p>
 
-They led him into no town as he thought they would, but to a grange
+<p>They led him into no town as he thought they would, but to a grange
 house, about half a league from the monastery, the gate whereof was
 between two towers. Tirsus knocked, and a servant answered: tell my
 mother and sisters (said he) that I have brought my brother Godfrey
@@ -2966,9 +2966,9 @@ no words but only that he deserved this and more for forsaking Nisa.
 All this night nothing was heard but cries and complaints for
 Godfrey, and the time which was not employed in this funereal
 exercise they spent in talking of Nisa and what she should be, whom
-their prisoner had so often in his mouth.
+their prisoner had so often in his mouth.</p>
 
-The light of the morning, which very slowly enters into prisons,
+<p>The light of the morning, which very slowly enters into prisons,
 brought day to Pamphilus, not in waking him who had not slept, but
 in advertising his soul of his approaching death, the certain news
 whereof he would willingly have welcomed with gifts: when as the
@@ -2988,9 +2988,9 @@ free thee despite my mother and my brothers; who art thou, said
 Pamphilus who promises life when there is nothing but heaven which
 can give it me? I am Flerida (answered she) one of Godfrey’s sisters
 who do promise it to thee, afflicted with thy grief out of the
-assurance I have in my own imagination of thy innocence.
+assurance I have in my own imagination of thy innocence.</p>
 
-I swear unto thee by God said Pamphilus, that going in the night
+<p>I swear unto thee by God said Pamphilus, that going in the night
 through a meadow I found thy brother wounded unto death, as he told
 me by one whom he did reckon to be his best friend; I took him on my
 shoulders, and carried him to the monastery, where he died in my
@@ -3015,7 +3015,7 @@ resolved to kill him, before Tirsus’ return from the obsequies of
 his brother. But Flerida the same night gave him such strong files,
 that the fetters, staples and locks being cut asunder, and he being
 fastened to a cord, she drew him up by that hole which she had made
-by removing the planks; & all the household being in their dead
+by removing the planks; &amp; all the household being in their dead
 sleep, she opened the gates: afterwards, with honest embraces,
 shedding some tears and with many jewels which she did constrain him
 to take, she was departing from him, when he casting himself at her
@@ -3024,9 +3024,9 @@ this good turn with an immortal remembrance; and if that ever she
 had occasion to come into Castile, she should enquire for a knight
 of Madrid called Pamphilus of Luxan, that she might be assured she
 should not return without due thanks and acknowledgements for so
-perfect an obligation.
+perfect an obligation.</p>
 
-Pamphilus knowing that to proceed further in the quest of Nisa was
+<p>Pamphilus knowing that to proceed further in the quest of Nisa was
 to resist the will of heaven, which had opposed him in it with so
 many rigorous successes, went to Saragossa; resolving from thence to
 travel into Castile. If thou didst not possess O Nisa (said he to
@@ -3043,9 +3043,9 @@ do shake: let not those which shall hear this be displeased with
 him; for this was not so much a change from the love of Nisa, as a
 feeling of Flerida's goodwill: and as there is nobody so solid which
 the sun sometime doth not pierce, so there is no love so firm but
-that the first motions thereof may shake.
+that the first motions thereof may shake.</p>
 
-Pamphilus so by long travail came to Saragossa, and would not enter
+<p>Pamphilus so by long travail came to Saragossa, and would not enter
 into it before it was dark night, for fear he might be followed or
 met by someone whom he knew: and very early in the morning departed
 from thence and by unused paths, from pasture to pasture, and from
@@ -3076,9 +3076,9 @@ middle stature and age, with a long beard and hair, a gown of coarse
 cloth down to his ankles. The chapel was little with an old altar,
 the base whereof did serve him for his bed: he had a stone for his
 pillow, his staff for his companion, and a death’s head for his
-looking-glass.
+looking-glass.</p>
 
-How durst thou come into this place, said he to the pilgrim, did no
+<p>How durst thou come into this place, said he to the pilgrim, did no
 man advertise thee of the disquiet lodging which is here? I have
 been told it, answered the pilgrim, but I have suffered so much
 labour in my travels, so much cruelty in imprisonments, so many
@@ -3091,9 +3091,9 @@ amongst some cypress trees he unlocked the door of a chamber, and
 said to him, seeing thou art young and accustomed to travails, enter
 here: make the sign of the cross and be not dismayed nor astonished,
 but sleep; Pamphilus took the candle, and setting it on a stone
-which lay there, bade his host good night and shut the door.
+which lay there, bade his host good night and shut the door.</p>
 
-There was a bed in the chamber good enough to rest on, especially
+<p>There was a bed in the chamber good enough to rest on, especially
 for a man who hath lain so many nights on the ground: this invited
 him to unclothe himself, and taking one of the shirts which Flerida
 at his departure had given him, he put it on and got into the bed.
@@ -3150,9 +3150,9 @@ given you an evil night’s lodging? So ill, said Pamphilus, that I
 have not rested all night, and yet I have left them my clothes to
 pay for it. The good man received him as well as he could; telling
 him how many others with like success had been so used, and many
-other discourses, wherewith he passed away the night until morning.
+other discourses, wherewith he passed away the night until morning.</p>
 
-Those who do not know the nature, quality and condition of spirits,
+<p>Those who do not know the nature, quality and condition of spirits,
 will account this history a fable: wherefore I do not think it unfit
 to advertise them that there are some, fallen from the lowest choir
 of angels, who despite the essential pain, which is the eternal
@@ -3174,9 +3174,9 @@ in divers forms and stealing money bought him many things wherein he
 delighted. Michel Pselho makes six kinds of these spirits: fiery,
 airy, earthy, watery, subterranean and fire flying spirits: in all
 which authors one may see, their properties, their illusions, and
-their remedies.
+their remedies.</p>
 
-The light of day, which is the amiable and illustrious daughter of
+<p>The light of day, which is the amiable and illustrious daughter of
 heaven, and the only guide of mortals, did sufficiently assure
 Pamphilus that now he need not any more to fear the evil infestation
 of the spirits: then waking this good man, they both rose, and went
@@ -3190,9 +3190,9 @@ him for a great liar and a man of weak courage, departed from him,
 and thence took his way towards Guadalupe without once daring to
 turn his head towards the city, vowing to himself never to come into
 it again upon any occasion whatsoever should happen, if he were not
-assured to find his Nisa there.
+assured to find his Nisa there.</p>
 
-There are two hills in the confines of the mountain of Morena, which
+<p>There are two hills in the confines of the mountain of Morena, which
 as two strong walls environ the town and monastery of Guadalupe,
 with so many fountains which run from the rocks into the bottom of
 the valley, so much fruit and so much grain of all sorts that it
@@ -3214,11 +3214,11 @@ apprehend you, neither doth the privilege of this place permit any
 man to be arrested prisoner here. It is only a letter from a young
 lady called Flerida, which I bring you: see thereby what I am, and
 for what occasion I seek you. Pamphilus then staying took the
-letter, and having opened it, found the contents as follows:
+letter, and having opened it, found the contents as follows:</p>
 
-To the Pilgrim of Madrid:
+<p>To the Pilgrim of Madrid:</p>
 
-Thou thyself O Pamphilus may judge in what care thou left me, if
+<p>Thou thyself O Pamphilus may judge in what care thou left me, if
 thou hast had never so little thought of me since thou left me. And
 now as well to satisfy myself as to know how thy misfortunes are
 determined, have I sent this messenger to you. My brothers being
@@ -3235,9 +3235,9 @@ bewail their hard usage towards thee, and have made great search to
 find thee. If thou wilt return, they will redeem the injury of thy
 unjust Imprisonment with embraces and kind usage, and thou shalt
 thereby pay me for the desire which I continually have of thy
-welfare, and for the tears which thou hast cost me.
+welfare, and for the tears which thou hast cost me.</p>
 
-The pilgrim wondered at Tansiles’ strange fate, and was something
+<p>The pilgrim wondered at Tansiles’ strange fate, and was something
 moved in his mind with Flerida's loving desires: but fearing to
 offend Nisa, he satisfied the messenger as well as he could, giving
 him the jewels which Flerida had given him, entreating that he would
@@ -3254,9 +3254,9 @@ desire, for besides the obligations wherein he stood tied, which
 were very great and no less than for his life, she was most
 perfectly fayre; yet he continued his loving friendship by letters,
 not only with her but with her brothers also, until that she being
-married with a knight of Andalucia was carried into the Indies.
+married with a knight of Andalucia was carried into the Indies.</p>
 
-Ten times had the sun circled heaven in the time of the year when as
+<p>Ten times had the sun circled heaven in the time of the year when as
 Astrea doth equal the balances of the Equinoctial, when Pamphilus
 journeying night and day through deserts and unknown ways found
 himself one morning when the day began to smile on him at the side
@@ -3266,9 +3266,9 @@ an oak beholding the solitariness of the fields and the murmuring of
 the little brooks which fell precipitately from the mountain, he
 heard a flute played upon, to the sound whereof turning his eyes, he
 saw a man sitting between two rocks amidst a flock of sheep, which
-seemed to leave their feeding to hearken to his music.
+seemed to leave their feeding to hearken to his music.</p>
 
-But Pamphilus having other discourses in his head went to him, and
+<p>But Pamphilus having other discourses in his head went to him, and
 wishing health to him, (which he could not obtain for himself) and
 courteously again saluted by the shepherd, who having nothing that
 savoured of rusticness but his apparel, made him know in a few
@@ -3350,9 +3350,9 @@ of his intent he agreed with him for wages; and after an evil supper
 and a worse lodging he passed the night miserably. And when morning
 appeared, Pamphilus went after his oxen to the solitary fields,
 where he lived some time free from the confused noises of the
-cities, with a good leisure to meditate on his adventures.
+cities, with a good leisure to meditate on his adventures.</p>
 
-In the meantime Nisa healed of her wounds and knew that she had
+<p>In the meantime Nisa healed of her wounds and knew that she had
 received them from her own brother out of jealousy which he had
 conceived against her for Finia. And entreating her good host that
 he would have pity on her blood, by both their means his pardon and
@@ -3374,17 +3374,17 @@ his eyes other objects, and other cares to his imaginations: But as
 art is made out of many experiences which were wanting to Thesander,
 he rather found the evil than the remedy. For it is impossible that
 young men should know much, because that to be wise requires
-experience, and that is gotten with time.
+experience, and that is gotten with time.</p>
 
-Nisa was much grieved at Thesander’s passion, although he had never
+<p>Nisa was much grieved at Thesander’s passion, although he had never
 spoken to her about it. But as he which is amorous so often speaks
 as he looks on that which he loves, she easily read in his looks the
 depth of his thoughts; and willing to disabuse him so, that not
 being understood by others, she might let him understand the vanity
 of his love, one night after she was healed, being entreated by all
-the company, she sang these verses following:
+the company, she sang these verses following:</p>
 
-  I wot not what is love, nor yet his flame,
+<p>  I wot not what is love, nor yet his flame,
   Nay more, to know it I have not the mind:
   In others, twill suffice a man may find,
   The woes this tyrant in their souls doth frame.
@@ -3395,13 +3395,13 @@ the company, she sang these verses following:
   To cast his darts elsewhere, I him require,
   My heart (as rocks of brass) doth scorn his might:
   Let him not grieve, I from him take my flight,
-  Because I am all ye, and he all fire.
+  Because I am all ye, and he all fire.</p>
 
-But they rather increased the fire which was too much kindled in
+<p>But they rather increased the fire which was too much kindled in
 Thesander’s soul, who taking the lute from Nisa answered her with
-these verses, which he had conceived in his mind the night before:
+these verses, which he had conceived in his mind the night before:</p>
 
-  The great God’s supreme power to deny,
+<p>  The great God’s supreme power to deny,
   Unto my soul as rashness I do hold:
   This to deny with truth I may be bold:
   Mine evil, nor yet myself I can destroy.
@@ -3412,19 +3412,19 @@ these verses, which he had conceived in his mind the night before:
   He makes the widest breach in strongest brass,
   From coldest ice, he greatest fire can draw:
   Not one can fight him; for none ever saw,
-  Ought else his shafts in swiftness to surpass.
+  Ought else his shafts in swiftness to surpass.</p>
 
-Very aptly might Nisa at that time have revenged the motions which
+<p>Very aptly might Nisa at that time have revenged the motions which
 Pamphilus had to agree to Flerida's will: if love had been a spirit
-(as some have believed) which might have told them to her.
+(as some have believed) which might have told them to her.</p>
 
-But it was not just that so rare a faith should be spotted with any
+<p>But it was not just that so rare a faith should be spotted with any
 infamy. Thesander’s love in the meantime, springing from this first
 spark and increased by Nisa's resistance, like a fire which a little
 water makes more violent; or like palm trees growing most, when a
-weight is laid on them.
+weight is laid on them.</p>
 
-Nisa waxed strong and walked abroad, when desperate Thesander
+<p>Nisa waxed strong and walked abroad, when desperate Thesander
 revealed himself to a physician, who encouraged him either to
 manifest his evil or else as the best remedy, against his love to
 work from his imagination this deep melancholy, and to divert it by
@@ -3464,9 +3464,9 @@ this poor amorous man, in my opinion innocent, because, that in
 things natural, we do neither merit nor demerit: In brief, all the
 whole family entreated Nisa that she would have pity of Thesander’s
 young years, and that at the least she would assuage his passion
-with one amorous word.
+with one amorous word.</p>
 
-Amongst all the variable fortunes as well by land as sea which our
+<p>Amongst all the variable fortunes as well by land as sea which our
 pilgrim had suffered, there was none so difficult for her as this.
 Nevertheless she resolved to entertain Thesander until he had
 recovered some strength, that thereby he might the better be able to
@@ -3502,9 +3502,9 @@ absence. Finia thereby knew that the house wherein she was come was
 her husband’s father’s, and that he who had brought her thither was
 his brother, whereat not sufficiently wondering, she then thought
 that fortune began to look on her misfortunes with a more clear
-countenance.
+countenance.</p>
 
-The day following, Lisard resolving to seek for his sister Nisa and
+<p>The day following, Lisard resolving to seek for his sister Nisa and
 to kill Pamphilus, told his parents that he had some pretensions at
 the court, on which he built the necessity of a new voyage, showing
 them some attestations in writing of that which he had done in
@@ -3539,9 +3539,9 @@ the austere life which he led amongst these mountains, for there is
 nothing more true (as the philosophers say) than that those which
 are solitary are either gods or devils, he resolved in the end to
 accept this condition, wishing rather that he might die by Nisa's
-parents’ hands, then live any longer in these solitary deserts.
+parents’ hands, then live any longer in these solitary deserts.</p>
 
-Now you see how forward we are in bringing back our pilgrim from his
+<p>Now you see how forward we are in bringing back our pilgrim from his
 long travels, seeing that from being a courtier, he became a
 soldier; from a soldier, a captive; from a captive, a pilgrim; from
 a pilgrim, a prisoner; from a prisoner, a madman; from a madman, a
@@ -3590,15 +3590,15 @@ nor at the conquest of the New World with Cortes, yet it was no
 small valour in him to defend himself from so many different and
 perilous assaults of fortune, and in the end to have merited by so
 many labours, the rest which shortly he shall enjoy in his own
-country.
+country.</p>
 
-Whilst these things thus passed in the mountains of Toledo,
+<p>Whilst these things thus passed in the mountains of Toledo,
 Thesander was being recovered by Nisa's loving embrace, and she
 disposed to leave him, as well because his life was assured as
 because that she desired to assure hers, and deliver herself from
-the care wherewith she was searched after by her brother Celio.
+the care wherewith she was searched after by her brother Celio.</p>
 
-One night when sleep mastered her lover’s senses, and held a silence
+<p>One night when sleep mastered her lover’s senses, and held a silence
 over the whole family, she went out of the city, and took the way
 towards Lerida. But night had hardly all hid her black head, crowned
 both with sleep and fear, when the deceived Thesander waked out of
@@ -3615,9 +3615,9 @@ rest of his parents had power enough to keep him from running after.
 And so he came to Toledo a long time before Nisa, for a lover who
 follows that which he loves doth go faster than he who flies from
 that which he doth not love; because he which doth not love grows
-sorrowful in going, and he which loves by going puts off his grief.
+sorrowful in going, and he which loves by going puts off his grief.</p>
 
-In the meantime, Lisard much pleased with Pamphilus’ understanding
+<p>In the meantime, Lisard much pleased with Pamphilus’ understanding
 and person, had taken him to wait in his chamber, not suffering him
 to live in the baseness of his first office which he had given him,
 and in this quality he lived at Toledo with his master, always
@@ -3636,9 +3636,9 @@ and as immovable as stones. But shortly after this first confusion,
 Pamphilus began to speak in this manner: Sister, tell me by what
 means thou came hither, since Celio abandoning thee left thee in
 Barcelona, for I know already the whole progress of thy misfortune,
-as conformable unto mine as we are equal in birth.
+as conformable unto mine as we are equal in birth.</p>
 
-By his means whom the destinies pleased, said Finia, to whose
+<p>By his means whom the destinies pleased, said Finia, to whose
 disposing my will cannot resist: Lisard brother of my husband Celio,
 having found me on the way from Saragossa brought me hither, where I
 think I may abide his return with more honour. The same man said
@@ -3670,18 +3670,18 @@ his, nor of whose courage and fidelity he could be better assured
 of, he entreated him, and conjured him to kill him. A notable
 winding in a success so strange and so embroiled, which is so much
 the more admirable to me, who know it better then they who read it,
-how true it is.
+how true it is.</p>
 
-Pamphilus, astonished to see that he was engaged to kill Pamphilus,
+<p>Pamphilus, astonished to see that he was engaged to kill Pamphilus,
 or at the least a man who either in searching for Nisa, or else one
 who for the only disaster of his name deserved to die, endeavoured
 to find him, rather to know what he would with Nisa than with any
 mind to execute Lisard’s intent on the others innocence. His master
 did not accompany him in this action; for as Tacitus says of Nero,
 although he commanded murders, yet he always turned his sight away
-from them.
+from them.</p>
 
-Pamphilus having found Thesander privately inquired of the cause why
+<p>Pamphilus having found Thesander privately inquired of the cause why
 he searched for Nisa: Thesander recounted the story from Nisa's
 being wounded by Celio, and healed by his father, and that she had
 left them one night without bidding them adieu, paying with
@@ -3694,9 +3694,9 @@ Joyful was Pamphilus to hear of the healing of Nisa's wounds, and
 instead of killing Thesander he led him into his chamber, where
 having used him with all the courtesy that was possible, he told him
 that in this house where he remained were Nisa's parents and
-brother.
+brother.</p>
 
-Lisard having a great opinion of Pamphilus’ courage (Pamphilus whom
+<p>Lisard having a great opinion of Pamphilus’ courage (Pamphilus whom
 he called Maurice) did verily believe that he would infallibly kill
 Nisa's ravisher, which he believed to be Thesander, wherefore he
 demanded leave of his father to go, fearing that if Maurice should
@@ -3750,25 +3750,25 @@ Nisa and the great desire she had to see her children, took her
 youngest daughter Eliza with her (being her staff and her comfort in
 her afflictions, who in her brother’s absence had increased no less
 in beauty then Finia, nor in understanding than Pamphilus) and went
-all together to Toledo.
+all together to Toledo.</p>
 
-The miserable Tiberia, Jacinth’s sister, thinking that her treason
+<p>The miserable Tiberia, Jacinth’s sister, thinking that her treason
 being discovered, she should be hardly used by her brother as by the
 disgrace and danger whereunto she had unjustly exposed him she
 merited; left Valencia and with such of the family as would follow
 her, she addressed herself to that city, whether fortune already did
-seem to call these lovers.
+seem to call these lovers.</p>
 
-Celio in the meantime despairing to find Finia or satisfy Nisa, he
+<p>Celio in the meantime despairing to find Finia or satisfy Nisa, he
 for his part being more than satisfied of both their innocences,
 returned to Toledo and some days before his coming thither he met
 Tiberia, in whose company as he journeyed he heard news of the
 combat between Jacinth and Pamphilus, for which cause he offered her
 his house to retire to, until such time as that writing to her
 brother, she made her peace with him, which might be done by the
-help of his parents, whose assistance he promised.
+help of his parents, whose assistance he promised.</p>
 
-In this manner in one day, and in one time, entered into the noble
+<p>In this manner in one day, and in one time, entered into the noble
 Leonicio’s house: Aureliana, Pamphilus; mother, Nisa, Eliza,
 Jacinth, Tiberia and he who was most despaired of, Celio, of whom
 there was no news expected, being accounted as dead, or captive as
@@ -3801,14 +3801,14 @@ about fourteen years old. Celio, with joy to all, married Finia. And
 Nisa after so many divers fortunes, with the joy of both their
 parents, (which was so full that it melted them into tears, and
 almost all the company) was given into the beloved arms of her most
-dear Pamphilus.
+dear Pamphilus.</p>
 
-Happy pilgrims of love, your vows being accomplished, now rest
+<p>Happy pilgrims of love, your vows being accomplished, now rest
 happily and joyfully (after so many bitter fortunes, wherewith your
 loves have been seasoned) in the sweet repose of your native place,
 in which peace I will leave you, that you may enjoy the delights
 which you have merited: and seeing that I have left your statues in
 the temple, I will leave in the temple of renown the pen with which
-I wrote your unfortunate loves.
+I wrote your unfortunate loves.</p></div>
 
 FINIS.

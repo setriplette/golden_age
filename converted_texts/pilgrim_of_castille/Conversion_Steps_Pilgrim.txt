@@ -1,4 +1,30 @@
 Up-Conversion Process:
 
 1.Delete the extra text at the beginning and end of the document.
-2.
+2.Searched for special characters &, <, and >. I found 2 instances of the & and replaced them with &amp;.
+3.Next I found the quotations in the text:
+    Find: "(.+?)"
+    Replace: <q>\1</q>
+4.I looked up the paragraphs:
+    Find: \n\n
+    Replace with: </p>\0<p>
+Then I deleted the extra <p> and </p> in the document. I also manually removed the p tags around the beginning few lines like the author and title.
+5.Next I found the books and wrapped them:
+    Find: ^<p>(.+Book.+)</p>($)(\n\n)<p>(.+)</p>
+    Replace with: \1\2</book>\3<book>\4
+I manually added a <book> at the beginning of the first book and a </book> at the end of the text.
+6.The chapter titles were next:
+    Find:^(<book>)(.+$)
+    Replace with:\1<head>\2</head>
+7.I realized after this that <book> is incorrect with the TEI structure so I went back to change it to div:
+    Find:</book>
+    Replace with:</div>
+8.Next I found the sub-headings that marked the start of the narratives within the books. Four out of the five were labelled as a history:
+    Find: <p>(The History.+)</p>$
+    Replace with: <head subtype="narrative">\1</head>
+    Find: <p>(The History.+)$
+    Replace with: <head subtype="narrative">\1</head>
+The fifth narrative was titled as a story:
+    Find: <p>(The Story.+)$
+    Replace with: Replace with: <head subtype="narrative">\1</head>
+9.
