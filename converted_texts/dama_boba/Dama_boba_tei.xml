@@ -19,24 +19,24 @@
   <text>
       
          <front><castList><castItem>LISEO, caballero.</castItem>
-<castItem>TURÍN, lacayo.</castItem>
-<castItem>LEANDRO, caballero.</castItem>
-<castItem>OTAVIO, viejo.</castItem>
+<castItem><role xml:id="Turín_boba">TURÍN</role>, <roleDesc>lacayo</roleDesc>.</castItem>
+<castItem><role xml:id="Leandro_boba">LEANDRO</role>, <roleDesc>caballero</roleDesc>.</castItem>
+<castItem><role xml:id="Otavio_boba">OTAVIO</role>,<roleDesc> viejo.</roleDesc></castItem>
 
-<castItem>MISENO, su amigo.</castItem>
-<castItem>LAURENCIO, caballero.</castItem>
-<castItem>DUARDO, caballero.</castItem>
-<castItem>FENISO, caballero.</castItem>
+<castItem><role xml:id="Miseno_boba">MISENO</role>, <roleDesc>su amigo</roleDesc>.</castItem>
+<castItem><role xml:id="Laurencio_boba">LAURENCIO</role>, <roleDesc>caballero</roleDesc>.</castItem>
+<castItem><role xml:id="Duardo_boba">DUARDO</role>, <roleDesc>caballero</roleDesc>.</castItem>
+<castItem><role xml:id= "Feniso_boba">FENISO</role>, <roleDesc>caballero</roleDesc>.</castItem>
 
-<castItem>RUFINO, maestro.</castItem>
-<castItem>NISE, dama.</castItem>
-<castItem>FINEA, su hermana.</castItem>
-<castItem>CLARA, criada.
+<castItem><role xml:id="Rufino_boba">RUFINO</role>, <roleDesc>maestro</roleDesc>.</castItem>
+<castItem><role xml:id="Nise_boba">NISE</role>, <roleDesc>dama</roleDesc>.</castItem>
+<castItem><role xml:id="Finea_boba">FINEA</role>, <roleDesc>su hermana</roleDesc>.</castItem>
+<castItem><role xml:id="Clara_boba">CLARA</role>, <roleDesc>criada</roleDesc>.
 </castItem>
-<castItem>CELIA, criada.</castItem>
-<castItem>PEDRO, lacayo.</castItem>
-<castItem>MÚSICOS</castItem>
-<castItem>UN MAESTRO de danzar</castItem></castList></front>
+<castItem><role xml:id="Celia_boba">CELIA</role>, <roleDesc>criada</roleDesc>.</castItem>
+<castItem><role xml:id="Pedro_boba">PEDRO</role>, <roleDesc>lacayo</roleDesc>.</castItem>
+<castItem><role xml:id= "Músicos_boba">MÚSICOS</role></castItem>
+<castItem><role xml:id= "Maestro_boba">UN MAESTRO</role> <roleDesc>de danzar</roleDesc></castItem></castList></front>
 
      <body><div type="act" n="I">
 
@@ -305,7 +305,7 @@
 
 <sp><speaker>LISEO</speaker> <l>¿Tan necia es esa Finea?</l></sp>
 
-<sp><speaker>LEANDRO</speaker> <l>Mucho <emotion type="verb">sentís</emotion> que lo sea.</l></sp>
+<sp><speaker>LEANDRO</speaker> <l>Mucho <rs type="body" ana="verb">sentís</rs> que lo sea.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Contemplo, de sangre igual,</l>
 <l>dos cosas tan desiguales...</l>
@@ -350,7 +350,7 @@
 <sp><speaker>LISEO</speaker> <l>Ponte a caballo,</l>
 <l>   que ya no quiero comer.</l></sp>
 
-<sp><speaker>TURÍN</speaker> <l>No <emotion type="verb">te aflijas</emotion>, pues no es hecho.</l></sp>
+<sp><speaker>TURÍN</speaker> <l>No <rs type="body" ana="verb">te aflijas</rs>, pues no es hecho.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Que me ha de matar, sospecho,</l>
 <l>si es necia, y propia mujer.</l></sp>
@@ -365,8 +365,8 @@
 
 <sp><speaker>LISEO</speaker> <l>También advierte</l>
 <l>que, siendo tan entendida</l>
-<l>Nise, me dará la <emotion type="noun" figure="meta">vida</emotion>,</l>
-<l>si ella me diere la <emotion type="noun" figure="meta">muerte</emotion>.</l></sp>
+<l>Nise, me dará la <rs type="emotion" subtype="meta" ana="noun">vida</rs>,</l>
+<l>si ella me diere la <rs type="emotion" subtype="meta" ana="noun">muerte</rs>.</l></sp>
 
 <stage>Éntrense.</stage>
 
@@ -402,13 +402,13 @@
 
 <sp><speaker>MISENO</speaker> <l>De Nise la divina gallardía,</l>
 <l>las altas esperanzas y el conceto</l>
-<l>os deben de tener <emotion type="adj">apasionado</emotion>.</l>
+<l>os deben de tener <rs type="emotion" ana="adj">apasionado</rs>.</l>
 <l>¿Quién duda que le sois más inclinado?</l></sp>
 
 <sp><speaker>OTAVIO</speaker> <l>Mis hijas son entrambas; mas yo os juro</l>
-<l>que me <emotion type="verb">enfadan</emotion> y cansan, cada una</l>
+<l>que me <rs type="emotion" ana="verb">enfadan</rs> y cansan, cada una</l>
 <l>por su camino, cuando más procuro</l>
-<l>mostrar <emotion type="noun">amor</emotion> y <emotion type="noun">inclinación</emotion> a alguna.</l>
+<l>mostrar <rs type="emotion" ana="noun">amor</rs> y <rs type="emotion" ana="noun">inclinación</rs> a alguna.</l>
 <l>Si ser Finea simple es caso duro,</l>
 <l>ya lo suplen los bienes de Fortuna</l>
 <l>y algunos que le dio Naturaleza,</l>
@@ -467,7 +467,7 @@
 <l>apenas halla un hombre que la pida;</l>
 <l>y por Finea, simple, por instantes</l>
 <l>me solicitan tantos pretendientes</l>
-<l>-del oro más que del ingenio <emotion type="noun">amantes</emotion>-,</l>
+<l>-del oro más que del ingenio <rs type="emotion" ana="noun">amantes</rs>-,</l>
 <l>que me cansan amigos y parientes.</l></sp>
 
 <sp><speaker>MISENO</speaker> <l>Razones hay, al parecer, bastantes.</l></sp>
@@ -501,7 +501,7 @@
 <sp><speaker>MISENO</speaker> <l>Un casamiento</l>
 <l>os traigo yo.</l></sp>
 
-<sp><speaker>OTAVIO</speaker> <l>Casémosla; que <emotion type="verb">temo</emotion></l>
+<sp><speaker>OTAVIO</speaker> <l>Casémosla; que <rs type="emotion" ana="verb">temo</rs></l>
 <l>alguna necedad, de tanto estremo.</l></sp>
 
 <stage>Vanse.</stage>
@@ -544,7 +544,7 @@
 
 <sp><speaker>CELIA</speaker> <l>En fin, ¿es poeta en prosa?</l></sp>
 
-<sp><speaker>NISE</speaker> <l>Y de una historia <emotion type="adj">amorosa</emotion></l>
+<sp><speaker>NISE</speaker> <l>Y de una historia <rs type="emotion" ana="adj">amorosa</rs></l>
 <l>digna de aplauso y teatro.</l>
 <l>Hay dos prosas diferentes:</l>
 <l>poética y historial.</l>
@@ -641,7 +641,7 @@
 
 <sp><speaker>FINEA</speaker> <l>Pues, ¿si tú lo traes errado...?</l></sp>
 
-<sp><speaker>NISE</speaker> <l>(¡Con qué <emotion type="noun">pesadumbre</emotion> están!)</l></sp>
+<sp><speaker>NISE</speaker> <l>(¡Con qué <rs type="emotion" ana="noun">pesadumbre</rs> están!)</l></sp>
 
 <sp><speaker>RUFINO</speaker> <l>Di aquí: b, a, n: ban.</l></sp>
 
@@ -671,7 +671,7 @@
 
 <sp><speaker>FINEA</speaker> <l>¿Tú a mí?</l></sp>
 
-<sp><speaker>RUFINO</speaker> <l>¡Muestra la <body>mano</body>!</l>
+<sp><speaker>RUFINO</speaker> <l>¡Muestra la <rs type="body">mano</rs>!</l>
 <l> (Saca una palmatoria.)</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Hela aquí.</l></sp>
@@ -713,12 +713,12 @@
 <sp><speaker>FINEA</speaker> <l>Es verdad: ya la aprendí.</l>
 <l>   Sacó un zoquete de palo</l>
 <l>y al cabo una media bola;</l>
-<l>pidióme la <body>mano</body> sola</l>
+<l>pidióme la <rs type="body">mano</rs> sola</l>
 <l>(¡mira qué lindo regalo!),</l>
 <l>   y apenas me la tomó,</l>
 <l>cuando, ¡zas!, la bola asienta,</l>
 <l>que pica como pimienta,</l>
-<l>y la <body>mano</body> me quebró.</l></sp>
+<l>y la <rs type="body">mano</rs> me quebró.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Cuando el discípulo ignora,</l>
 <l>tiene el maestro licencia</l>
@@ -748,7 +748,7 @@
 <l>Vengo cuando dice ven,</l>
 <l>y voy cuando dice van.</l>
 <l>   ¿Qué quiere, Nise, el maestro,</l>
-<l>quebrándome la <body>cabeza</body></l>
+<l>quebrándome la <rs type="body">cabeza</rs></l>
 <l>con ban, bin, bon?</l></sp>
 
 <sp><speaker>CELIA</speaker> <stage>Aparte.</stage>
@@ -765,8 +765,8 @@
 <l>sino el nuestro; y el castigo,</l>
 <l>por darte memoria fue.</l></sp>
 
-<sp><speaker>FINEA</speaker> <l>Póngame un hilo en el <body>dedo</body></l>
-<l>y no aquel palo en la <body>palma</body>.</l></sp>
+<sp><speaker>FINEA</speaker> <l>Póngame un hilo en el <rs type="body">dedo</rs></l>
+<l>y no aquel palo en la <rs type="body">palma</rs>.</l></sp>
 
 <sp><speaker>CELIA</speaker> <l>¿Mas que se te sale el alma?</l>
 <l>Si lo sabe...</l></sp>
@@ -790,7 +790,7 @@
 <sp><speaker>CELIA</speaker> <l>A nadie quiere</l>
 <l>más, en todas las criadas.</l></sp>
 
-<sp><speaker>CLARA</speaker> <l>¡Dame <emotion type="noun">albricias</emotion>, tan bien dadas</l>
+<sp><speaker>CLARA</speaker> <l>¡Dame <rs type="emotion" ana="noun">albricias</rs>, tan bien dadas</l>
 <l>como el suceso requiere!</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Pues, ¿de qué son?</l></sp>
@@ -851,10 +851,10 @@
 <l>Vino una gata vïuda,</l>
 <l>con blanco y negro vestido</l>
 <l>-sospecho que era su agüela-,</l>
-<l>gorda y compuesta de <body>hocico</body>;</l>
+<l>gorda y compuesta de <rs type="body">hocico</rs>;</l>
 <l>y, si lo que arrastra, honra,</l>
 <l>como dicen los antiguos,</l>
-<l>tan honrada es por la <body>cola</body></l>
+<l>tan honrada es por la <rs type="body">cola</rs></l>
 <l>como otros por sus oficios.</l>
 <l>Trújole cierta manteca,</l>
 <l>desayunóse y previno</l>
@@ -864,7 +864,7 @@
 <l>tan remendados y lindos,</l>
 <l>que pudieran, a ser pías,</l>
 <l>llevar el coche más rico.</l>
-<l><emotion type="adj">Regocijados</emotion> bajaron</l>
+<l><rs type="emotion" ana="noun">Regocijados</rs> bajaron</l>
 <l>de los tejados vecinos,</l>
 <l>caballetes y terrados,</l>
 <l>todos los deudos y amigos:</l>
@@ -885,7 +885,7 @@
 <l>cuál el gorrïón astuto,</l>
 <l>cuál el simple palomino.</l>
 <l>Trazando quedan agora,</l>
-<l>para mejor <emotion type="noun">regocijo</emotion></l>
+<l>para mejor <rs type="emotion" ana="noun">regocijo</rs></l>
 <l>en el gatesco senado</l>
 <l>correr gansos cinco a cinco.</l>
 <l>Ven presto, que si los oyes,</l>
@@ -894,8 +894,8 @@
 <l>el parabién de los hijos.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>¡No me pudieras contar</l>
-<l>caso, para el <emotion type="noun">gusto</emotion> mío,</l>
-<l>de mayor <emotion type="noun">contentamiento</emotion>!</l></sp>
+<l>caso, para el <rs type="emotion" ana="noun">gusto</rs> mío,</l>
+<l>de mayor <rs type="emotion" ana="noun">contentamiento</rs>!</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>Camina.</l></sp>
 
@@ -963,14 +963,14 @@
 <l>Oíd, señora, a Eduardo.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>¡Vaya el soneto! Ya aguardo,</l>
-<l>aunque, de <emotion type="adj">indigna</emotion>, corrida.</l></sp>
+<l>aunque, de <rs type="emotion" ana="indigna">indigna</rs>, corrida.</l></sp>
 
 <sp><speaker>DUARDO</speaker> <l>La calidad elementar resiste</l>
-<l>mi <emotion type="noun">amor</emotion>, que a la virtud celeste aspira,</l>
+<l>mi <rs type="emotion" ana="noun">amor</rs>, que a la virtud celeste aspira,</l>
 <l>y en las mentes angélicas se mira,</l>
 <l>donde la idea del calor consiste.</l>
 <l>   No ya como elemento el fuego viste</l>
-<l>el alma, cuyo vuelo al sol <emotion type="verb">admira</emotion>;</l>
+<l>el alma, cuyo vuelo al sol <rs type="emotion" ana="verb">admira</rs>;</l>
 <l>que de inferiores mundos se retira,</l>
 <l>adonde el serafín ardiendo asiste.</l>
 <l>   No puede elementar fuego abrasarme.</l>
@@ -987,10 +987,10 @@
 <l>por arrogancia: «Yo sí.»</l>
 <l>   La intención, o el argumento,</l>
 <l>es pintar a quien ya llega</l>
-<l>libre del <emotion type="noun">amor</emotion>, que ciega</l>
+<l>libre del <rs type="emotion" ana="noun">amor</rs>, que ciega</l>
 <l>con luz del entendimiento,</l>
 <l>   a la alta contemplación</l>
-<l>de aquel puro <emotion type="noun">amor</emotion> sin fin,</l>
+<l>de aquel puro <rs type="emotion" ana="noun">amor</rs> sin fin,</l>
 <l>donde es fuego el serafín.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Argumento y intención</l>
@@ -1054,7 +1054,7 @@
 <sp><speaker>FENISO</speaker> <stage>A DUARDO.</stage>
 <l>Ella os ha puesto silencio.</l></sp>
 
-<sp><speaker>DUARDO</speaker> <l><emotion type="verb">Temió</emotion> las cosas escuras.</l></sp>
+<sp><speaker>DUARDO</speaker> <l><rs type="emotion" ana="verb">Temió</rs> las cosas escuras.</l></sp>
 
 <sp><speaker>FENISO</speaker> <l>¡Es mujer!</l></sp>
 
@@ -1072,12 +1072,12 @@
 <l>me eclipse el hablarte ansí.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Yo, señora, no me atrevo,</l>
-<l>por mi humildad, a tus <body>ojos</body>;</l>
+<l>por mi humildad, a tus <rs type="body">ojos</rs>;</l>
 <l>que, dando en viles despojos,</l>
 <l>se afrenta el rayo de <persName type="myth">Febo</persName>;</l>
 <l>   pero, si quieres pasar</l>
 <l>al alma, hallarásla rica</l>
-<l>de la fe que <emotion type="noun">amor</emotion> publica.</l></sp>
+<l>de la fe que <rs type="emotion" ana="noun">amor</rs> publica.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Un papel te quiero dar;</l>
 <l>   pero, ¿cómo podrá ser</l>
@@ -1085,7 +1085,7 @@
 
 <sp><speaker>LAURENCIO</speaker> <l>Si en lo que el alma desea</l>
 <l>me quieres favorecer,</l>
-<l>   <body>mano</body> y papel podré aquí</l>
+<l>   <rs type="body">mano</rs> y papel podré aquí</l>
 <l>asir juntos, atrevido,</l>
 <l>como finjas que has caído.</l></sp>
 
@@ -1099,9 +1099,9 @@
 <sp><speaker>LAURENCIO</speaker> <l>Con las obras respondiste.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Esas responden mejor,</l>
-<l>que no hay sin obras <emotion type="noun">amor</emotion>.</l></sp>
+<l>que no hay sin obras <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l><emotion type="noun">Amor</emotion> en obras consiste.</l></sp>
+<sp><speaker>LAURENCIO</speaker> <l><rs type="emotion" ana="noun">Amor</rs> en obras consiste.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Laurencio mío, adiós queda.</l>
 <l>Düardo y Feniso, adiós.</l></sp>
@@ -1156,9 +1156,9 @@
 <l>si es calidad del bien ser provechoso,</l>
 <l>una parte de tres que os falta siento.</l>
 <l>Nise, con un divino entendimiento,</l>
-<l>os enriquece de un <emotion type="noun">amor</emotion> dichoso;</l>
+<l>os enriquece de un <rs type="emotion" ana="noun">amor</rs> dichoso;</l>
 <l>mas sois de dueño pobre, y es forzoso</l>
-<l>que en la necesidad falte el <emotion type="noun">contento</emotion>.</l>
+<l>que en la necesidad falte el <rs type="emotion" ana="noun">contento</rs>.</l>
 <l>Si el oro es blanco y centro del descanso,</l>
 <l>y el descanso del gusto, yo os prometo</l>
 <l>que tarda el navegar con viento manso.</l>
@@ -1192,7 +1192,7 @@
 <l>Pues, así mi alma ya,</l>
 <l>sin hacer mudanza alguna</l>
 <l>   de la casa en que me ves,</l>
-<l>desde Nise que <emotion type="verb">ha querido</emotion>,</l>
+<l>desde Nise que <rs type="emotion" ana="verb">ha querido</rs>,</l>
 <l>a las doce se ha subido,</l>
 <l>que es número de interés.</l></sp>
 
@@ -1224,16 +1224,16 @@
 <l>   Quiero decir que Finea</l>
 <l>hora de sustento es,</l>
 <l>cuyo descanso ya ves</l>
-<l>cuánto el hombre le <emotion type="verb">desea</emotion>.</l>
+<l>cuánto el hombre le <rs type="emotion" ana="verb">desea</rs>.</l>
 <l>   Denme, pues, las doce a mí,</l>
 <l>que soy pobre, con mujer</l>
 <l>que, dándome de comer,</l>
 <l>es la mejor para mí.</l>
 <l>   Nise es <supplied>ah</supplied>ora infortunada,</l>
-<l>donde mi planeta <emotion type="adj">airado</emotion>,</l>
+<l>donde mi planeta <rs type="emotion" ana="adj">airado</rs>,</l>
 <l>de sextil y de cuadrado</l>
 <l>me mira con frente armada.</l>
-<l>   Finea es <supplied>ah</supplied>ora <emotion type="adj">dichosa</emotion>,</l>
+<l>   Finea es <supplied>ah</supplied>ora <rs type="emotion" ana="adj">dichosa</rs>,</l>
 <l>donde <persName type="myth">Júpiter</persName> benigno</l>
 <l>me está mirando de trino,</l>
 <l>con aspecto y faz hermosa.</l>
@@ -1249,12 +1249,12 @@
 
 <sp><speaker>LAURENCIO</speaker> <l>¿Cuál?</l></sp>
 
-<sp><speaker>PEDRO</speaker> <l>Que <emotion type="verb">te has de arrepentir</emotion></l>
+<sp><speaker>PEDRO</speaker> <l>Que <rs type="emotion" ana="verb">te has de arrepentir</rs></l>
 <l>por ser simple esta mujer.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>¿Quién has visto de comer,</l>
 <l>de descansar y vestir</l>
-<l>   <emotion type="adj">arrepentido</emotion> jamás?</l>
+<l>   <rs type="emotion" ana="adj">arrepentido</rs> jamás?</l>
 <l>Pues esto viene con ella.</l></sp>
 
 <sp><speaker>PEDRO</speaker> <l>A Nise, discreta y bella,</l>
@@ -1272,7 +1272,7 @@
 <l>ni hay falta en naturaleza</l>
 <l>que con la mucha pobreza</l>
 <l>no se aumente y se descubra.</l>
-<l>   Desde hoy quiero <emotion type="verb">enamorar</emotion></l>
+<l>   Desde hoy quiero <rs type="emotion" ana="verb">enamorar</rs></l>
 <l>a Finea.</l></sp>
 
 <sp><speaker>PEDRO</speaker> <l>He sospechado</l>
@@ -1289,7 +1289,7 @@
 <l>que boba.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Demos los dos</l>
-<l>en <emotion type="verb">enamoradlas</emotion>.</l></sp>
+<l>en <rs type="emotion" ana="verb">enamoradlas</rs>.</l></sp>
 
 <sp><speaker>PEDRO</speaker> <l>Creo</l>
 <l>que Clara será tercera</l>
@@ -1300,10 +1300,10 @@
 
 <sp><speaker>PEDRO</speaker> <l>Ellas vienen; disimula.</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l>Si puede ser en mi <body>mano</body>.</l></sp>
+<sp><speaker>LAURENCIO</speaker> <l>Si puede ser en mi <rs type="body">mano</rs>.</l></sp>
 
 <sp><speaker>PEDRO</speaker> <l>¡Que ha de poder un cristiano</l>
-<l><emotion type="verb">enamorar</emotion> una mula!</l></sp>
+<l><rs type="emotion" ana="verb">enamorar</rs> una mula!</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Linda cara y talle tiene.</l></sp>
 
@@ -1319,7 +1319,7 @@
 <l>conozco, hermosa señora,</l>
 <l>que no solamente viene</l>
 <l>   el sol de las orientales</l>
-<l>partes, pues de vuestros <body>ojos</body></l>
+<l>partes, pues de vuestros <rs type="body">ojos</rs></l>
 <l>sale con rayos más rojos</l>
 <l>y luces piramidales;</l>
 <l>   pero si, cuando salís</l>
@@ -1340,12 +1340,12 @@
 <l>   Acostaos siempre temprano,</l>
 <l>y dormid con tocador.</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l>¿No entendéis que os tengo <emotion type="noun">amor</emotion></l>
+<sp><speaker>LAURENCIO</speaker> <l>¿No entendéis que os tengo <rs type="emotion" ana="noun">amor</rs></l>
 <l>puro, honesto, limpio y llano?</l></sp>
 
-<sp><speaker>FINEA</speaker> <l>¿Qué es <emotion type="noun">amor</emotion>?</l></sp>
+<sp><speaker>FINEA</speaker> <l>¿Qué es <rs type="emotion" ana="noun">amor</rs>?</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l>¿<emotion type="noun">Amor</emotion>? <emotion type="noun">Deseo</emotion>.</l></sp>
+<sp><speaker>LAURENCIO</speaker> <l>¿<rs type="emotion" ana="noun">Amor</rs>? <rs type="emotion" ana="noun">Deseo</rs>.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>¿De qué?</l></sp>
 
@@ -1359,13 +1359,13 @@
 <l>que, como lo ordena Dios,</l>
 <l>para buen fin se procura;</l>
 <l>   y esta, que vos la tenéis,</l>
-<l>engendra <emotion type="noun">deseo</emotion> en mí.</l></sp>
+<l>engendra <rs type="emotion" ana="noun">deseo</rs> en mí.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Y yo, ¿qué he de hacer aquí,</l>
-<l>si sé que vos me <emotion type="verb">queréis</emotion>?</l></sp>
+<l>si sé que vos me <rs type="emotion" ana="verb">queréis</rs>?</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l><emotion type="verb">Quererme</emotion>. ¿No habéis oído</l>
-<l>que <emotion type="noun">amor</emotion> con <emotion type="noun">amor</emotion> se paga?</l></sp>
+<sp><speaker>LAURENCIO</speaker> <l><rs type="emotion" ana="verb">Quererme</rs>. ¿No habéis oído</l>
+<l>que <rs type="emotion" ana="noun">amor</rs> con <rs type="emotion" ana="noun">amor</rs> se paga?</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>No sé yo cómo se haga,</l>
 <l>porque nunca yo he querido,</l>
@@ -1377,10 +1377,10 @@
 
 <sp><speaker>FINEA</speaker> <l>Pues, ¿cómo?</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l>Destos mis <body>ojos</body></l>
+<sp><speaker>LAURENCIO</speaker> <l>Destos mis <rs type="body">ojos</rs></l>
 <l>saldrán unos rayos vivos,</l>
-<l>como <body>espíritus</body> visivos,</l>
-<l>de <body>sangre</body> y de fuego rojos,</l>
+<l>como <rs type="body">espíritus</rs> visivos,</l>
+<l>de <rs type="body">sangre</rs> y de fuego rojos,</l>
 <l>   que se entrarán por los vuestros.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>No, señor; arriedro vaya</l>
@@ -1388,53 +1388,53 @@
 
 <sp><speaker>LAURENCIO</speaker> <l>Son los espíritus nuestros,</l>
 <l>   que juntos se han de encender</l>
-<l>y causar un <emotion type="phrase" figure="meta">dulce fuego</emotion></l>
-<l>con que se pierde el <emotion type="noun">sosiego</emotion>,</l>
+<l>y causar un <rs type="emotion" subtype="meta" ana="phrase">dulce fuego</rs></l>
+<l>con que se pierde el <rs type="emotion" ana="noun">sosiego</rs>,</l>
 <l>hasta que se viene a ver</l>
 <l>   el alma en la posesión,</l>
 <l>que es el fin del casamiento;</l>
 <l>que con este santo intento</l>
-<l>justos los <emotion type="noun">amores</emotion> son,</l>
+<l>justos los <rs type="emotion" ana="noun">amores</rs> son,</l>
 <l>   porque el alma que yo tengo</l>
-<l>a vuestro <body>pecho</body> se pasa.</l></sp>
+<l>a vuestro <rs type="body">pecho</rs> se pasa.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>¿Tanto pasa quien se casa?</l></sp>
 
 <sp><speaker>PEDRO</speaker> <stage>A CLARA.</stage>
 <l>Con él, como os digo, vengo</l>
-<l>   tan <emotion type="adj" figure="meta">muerto</emotion> por vuestro <emotion type="noun">amor</emotion>,</l>
+<l>   tan <rs type="emotion" subtype="meta" ana="adj">muerto</rs> por vuestro <rs type="emotion" ana="noun">amor</rs>,</l>
 <l>que aquesta ocasión busqué.</l></sp>
 
-<sp><speaker>CLARA</speaker> <l>¿Qué es <emotion type="noun">amor</emotion>, que no lo sé?</l></sp>
+<sp><speaker>CLARA</speaker> <l>¿Qué es <rs type="emotion" ana="noun">amor</rs>, que no lo sé?</l></sp>
 
-<sp><speaker>PEDRO</speaker> <l>¿<emotion type="noun">Amor</emotion>? ¡<emotion type="noun" figure="meta">Locura</emotion>, <emotion type="noun">furor</emotion>!</l></sp>
+<sp><speaker>PEDRO</speaker> <l>¿<rs type="emotion" ana="noun">Amor</rs>? ¡<rs type="emotion" subtype="meta" ana="noun">Locura</rs>, <rs type="emotion" ana="noun">furor</rs>!</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>Pues, ¿loca tengo de estar?</l></sp>
 
-<sp><speaker>PEDRO</speaker> <l>Es una <emotion type="phrase" figure="meta">dulce locura</emotion>,</l>
+<sp><speaker>PEDRO</speaker> <l>Es una <rs type="emotion" subtype="meta" ana="phrase">dulce locura</rs>,</l>
 <l>por quien la mayor cordura</l>
 <l>suelen los hombres trocar.</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>Yo, lo que mi ama hiciere,</l>
 <l>eso haré.</l></sp>
 
-<sp><speaker>PEDRO</speaker> <l>Ciencia es <emotion type="noun">amor</emotion>,</l>
+<sp><speaker>PEDRO</speaker> <l>Ciencia es <rs type="emotion" ana="noun">amor</rs>,</l>
 <l>que el más rudo labrador</l>
 <l>a pocos cursos la adquiere.</l>
-<l>   En comenzando a <emotion type="verb">querer</emotion>,</l>
+<l>   En comenzando a <rs type="emotion" ana="verb">querer</rs>,</l>
 <l>enferma la voluntad</l>
-<l>de una <emotion type="phrase" figure="meta">dulce enfermedad</emotion>.</l></sp>
+<l>de una <rs type="emotion" subtype="meta" ana="phrase">dulce enfermedad</rs>.</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>No me la mandes tener;</l>
 <l>   que no he tenido en mi vida</l>
 <l>sino solos sabañones.</l></sp>
 
-<sp><speaker>FINEA</speaker> <l>¡<emotion type="verb">Agrádanme</emotion> las liciones!</l></sp>
+<sp><speaker>FINEA</speaker> <l>¡<rs type="emotion" ana="verb">Agrádanme</rs> las liciones!</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l>Tú verás, de mí <emotion type="verb">querida</emotion>,</l>
-<l>   cómo has de <emotion type="verb">quererme</emotion> aquí;</l>
+<sp><speaker>LAURENCIO</speaker> <l>Tú verás, de mí <rs type="emotion" ana="adj">querida</rs>,</l>
+<l>   cómo has de <rs type="emotion" ana="verb">quererme</rs> aquí;</l>
 <l>que es luz del entendimiento</l>
-<l><emotion type="noun">amor</emotion>.</l></sp>
+<l><rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Lo del casamiento</l>
 <l>me cuadra.</l></sp>
@@ -1463,15 +1463,15 @@
 <sp><speaker>LAURENCIO</speaker> <stage>Aparte.</stage>
 <l>¿Hay semejante ignorancia?</l>
 <l>Sospecho que esta ganancia</l>
-<l>camina a volverme <emotion type="noun" figure="meta">loco</emotion>.</l></sp>
-<!-- st stopped here -->
+<l>camina a volverme <rs type="emotion" subtype="meta" ana="adj">loco</rs>.</l></sp>
+
 <sp><speaker>FINEA</speaker> <l>Mi padre pienso que viene.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Pues voyme. Acordaos de mí.</l></sp>
 
 <stage>Vase.</stage>
 
-<sp><speaker>FINEA</speaker> <l>¡Que me place!</l></sp>
+<sp><speaker>FINEA</speaker> <l>¡Que me <rs type="emotion" ana="verb">place</rs>!</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>¿Fuese?</l></sp>
 
@@ -1490,12 +1490,12 @@
 <stage>CLARA, FINEA.</stage>
 
 <sp><speaker>FINEA</speaker> <l>¿Has visto, Clara,</l>
-<l>lo que es amor? ¡Quién pensara</l>
+<l>lo que es <rs type="emotion" ana="noun">amor</rs>? ¡Quién pensara</l>
 <l>tal cosa!</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>No hay pepitoria</l>
 <l>que tenga más menudencias</l>
-<l>de manos, tripas y pies.</l></sp>
+<l>de <rs type="body">manos</rs>, <rs type="body">tripas</rs> y <rs type="body">pies</rs>.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Mi padre, como lo ves,</l>
 <l>anda en mil impertinencias.</l>
@@ -1512,27 +1512,27 @@
 <l>Yo, como, en fin, no supiese</l>
 <l>esto de casar qué sea,</l>
 <l>tomé el negro del marido,</l>
-<l>que no tiene más de cara,</l>
+<l>que no tiene más de <rs type="body">cara</rs>,</l>
 <l>cuera y ropilla; mas, Clara,</l>
 <l>¿qué importa que sea pulido</l>
 <l>este marido o quien es,</l>
-<l>si todo el cuerpo no pasa</l>
+<l>si todo el <rs type="body">cuerpo</rs> no pasa</l>
 <l>de la pretina? Que en casa</l>
-<l>ninguno sin piernas ves.</l></sp>
+<l>ninguno sin <rs type="body">piernas</rs> ves.</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>¡Pardiez, que tienes razón!</l>
 <l>¿Tiénesle ahí?</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Vesle aquí.</l>
-<l>(Saca un retrato.)</l></sp>
+<stage>(Saca un retrato.)</stage></sp>
 
-<sp><speaker>CLARA</speaker> <l>¡Buena cara y cuerpo!</l></sp>
+<sp><speaker>CLARA</speaker> <l>¡Buena <rs type="body">cara</rs> y <rs type="body">cuerpo</rs>!</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Sí;</l>
 <l>mas no pasa del jubón.</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>Luego este no podrá andar.</l>
-<l>¡Ay, los ojitos que tiene!</l></sp>
+<l>¡Ay, los <rs type="body">ojitos</rs> que tiene!</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Señor, con Nise...</l></sp>
 
@@ -1541,7 +1541,7 @@
 
 <sp><speaker>FINEA</speaker> <l>No hay casar;</l>
 <l>que este que se va de aquí</l>
-<l>tiene piernas, tiene traza.</l></sp>
+<l>tiene <rs type="body">piernas</rs>, tiene traza.</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>Y más, que con perro caza;</l>
 <l>que el mozo me muerde a mí.</l></sp>
@@ -1552,27 +1552,27 @@
 
 <stage>Entre OTAVIO con NISE.- Dichas.</stage>
 
-<sp><speaker>OTAVIO</speaker> <l>Por la calle de Toledo</l>
+<sp><speaker>OTAVIO</speaker> <l>Por la calle de <placeName>Toledo</placeName></l>
 <l>dicen que entró por la posta.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Pues, ¿cómo no llega ya?</l></sp>
 
 <sp><speaker>OTAVIO</speaker> <l>Algo, por dicha, acomoda.</l>
-<l>Temblando estoy de Finea.</l></sp>
+<l><rs type="emotion" ana="verb">Temblando</rs> estoy de Finea.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Aquí está, señor, la novia.</l></sp>
 
 <sp><speaker>OTAVIO</speaker> <l>Hija, ¿no sabes?</l></sp>
 
 <sp><speaker>NISE</speaker> <l>No sabe;</l>
-<l>que esa es su desdicha toda.</l></sp>
+<l>que esa es su <rs type="emotion" ana="adj">desdicha</rs> toda.</l></sp>
 
-<sp><speaker>OTAVIO</speaker> <l>Ya está en Madrid tu marido.</l></sp>
+<sp><speaker>OTAVIO</speaker> <l>Ya está en <placeName>Madrid</placeName> tu marido.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Siempre tu memoria es poca.</l>
 <l>¿No me lo diste en un naipe?</l></sp>
 
-<sp><speaker>OTAVIO</speaker> <l>Esa es la figura sola,</l>
+<sp><speaker>OTAVIO</speaker> <l>Esa es la <rs type="body">figura</rs> sola,</l>
 <l>que estaba en él retratado;</l>
 <l>que lo vivo viene agora.</l></sp>
 
@@ -1606,25 +1606,25 @@
 <sp><speaker>FINEA</speaker> <l>¡Yo! ¿No lo ve?</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Bien merezco</l>
-<l>los brazos.</l></sp>
+<l>los <rs type="body">brazos</rs>.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Luego, ¿no importa?</l></sp>
 
-<sp><speaker>OTAVIO</speaker> <l>Bien le puedes abrazar.</l></sp>
+<sp><speaker>OTAVIO</speaker> <l>Bien le puedes <rs type="body">abrazar</rs>.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>¡Clara...!</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>¡Señora...!</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>¡Aún agora</l>
-<l>viene con piernas y pies!</l></sp>
+<l>viene con <rs type="body">piernas</rs> y <rs type="body">pies</rs>!</l></sp>
 
 <sp><speaker>CLARA</speaker> <l>Esto, ¿es burla o jerigonza?</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>El verle de medio arriba</l>
-<l>me daba mayor congoja.</l></sp>
+<l>me daba mayor <rs type="emotion" ana="noun">congoja</rs>.</l></sp>
 
-<sp><speaker>OTAVIO</speaker> <l>Abrazad vuestra cuñada.</l></sp>
+<sp><speaker>OTAVIO</speaker> <l><rs type="body">Abrazad</rs> vuestra cuñada.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>No fue la fama engañosa,</l>
 <l>que hablaba en vuestra hermosura.</l></sp>
@@ -1632,7 +1632,7 @@
 <sp><speaker>NISE</speaker> <l>Soy muy vuestra servidora.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>¡Lo que es el entendimiento!</l>
-<l>A toda España alborota.</l>
+<l>A toda <placeName>España</placeName> alborota.</l>
 <l>La divina Nise os llaman;</l>
 <l>sois discreta como hermosa,</l>
 <l>y hermosa con mucho estremo.</l></sp>
@@ -1652,7 +1652,7 @@
 
 <sp><speaker>OTAVIO</speaker> <l>¿Cómo venís del camino?</l></sp>
 
-<sp><speaker>LISEO</speaker> <l>Con los deseos enoja;</l>
+<sp><speaker>LISEO</speaker> <l>Con los <rs type="emotion" ana="noun">deseos</rs> <rs type="emotion" ana="verb">enoja</rs>;</l>
 <l>que siempre le hacen más largo.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Ese macho de la noria</l>
@@ -1664,7 +1664,7 @@
 <sp><speaker>FINEA</speaker> <l>Callad vos.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Aunque hermosa y virtüosa,</l>
-<l>es Finea de este humor.</l></sp>
+<l>es Finea de este <rs type="emotion" ana="noun">humor</rs>.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Turín, ¿trajiste las joyas?</l></sp>
 
@@ -1680,7 +1680,7 @@
 <l>tanto el jo se le acomoda.</l></sp>
 
 <sp><speaker>OTAVIO</speaker> <l>Calor traéis. ¿Queréis algo?</l>
-<l>¿Qué os aflige? ¿Qué os congoja?</l></sp>
+<l>¿Qué os <rs type="emotion" ana="verb">aflige</rs>? ¿Qué os <rs type="emotion" ana="verb">congoja</rs>?</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Agua quisiera pedir.</l></sp>
 
@@ -1695,7 +1695,7 @@
 
 <sp><speaker>OTAVIO</speaker> <l>¡Calla, necia!</l></sp>
 
-<sp><speaker>FINE</speaker><l>A: ...mucha especia, ¡linda cosa!</l></sp>
+<sp><speaker>FINEA</speaker><l>...mucha especia, ¡linda cosa!</l></sp>
 
 <stage>Entren con agua, toalla, salva y una caja.</stage>
 
@@ -1706,9 +1706,9 @@
 <sp><speaker>LISEO</speaker> <l>El verla, señor, provoca;</l>
 <l>porque con su risa dice</l>
 <l>que la beba y que no coma</l>
-<l>(Beba.)</l></sp>
+<stage>Beba.</stage></sp>
 
-<sp><speaker>FINE</speaker><l>A: Él bebe como una mula.</l></sp>
+<sp><speaker>FINEA</speaker><l> Él bebe como una mula.</l></sp>
 
 <sp><speaker>TURÍN</speaker> <stage>Aparte.</stage> <l>¡Buen requiebro!</l></sp>
 
@@ -1731,7 +1731,7 @@
 <l>llevarle de aquí a Finea.</l></sp>
 
 <sp><speaker>LISEO</speaker> <stage>Aparte.</stage> <l>Tarde el descanso se cobra,</l>
-<l>que en tal desdicha se pierde.</l></sp>
+<l>que en tal <rs type="emotion" ana="noun">desdicha</rs> se pierde.</l></sp>
 
 <sp><speaker>OTAVIO</speaker> <l>Ahora bien; entrad vosotras,</l>
 <l>y aderezad su aposento.</l></sp>
@@ -1752,7 +1752,7 @@
 
 <sp><speaker>FINEA</speaker> <l>Adiós. ¡Hola!</l></sp>
 
-<sp><speaker>LISEO</speaker> <stage>Aparte.</stage> <l>Las del mar de mi desdicha</l>
+<sp><speaker>LISEO</speaker> <stage>Aparte.</stage> <l>Las del mar de mi <rs type="emotion" ana="noun">desdicha</rs></l>
 <l>me anegan entre sus ondas.</l></sp>
 
 <sp><speaker>OTAVIO</speaker> <l>Yo también, hijo, me voy,</l>
@@ -1761,10 +1761,10 @@
 <l>con más aplauso, me tocan.</l>
 <l>Dios os guarde.</l></sp>
 
-<l>(Todos se van; queden LISEO y TURÍN.)</l>
+<stage>Todos se van; queden LISEO y TURÍN.</stage>
 
 </div>
-
+<!-- st stopped here -->
 <div type="scene" n="19">
 
 <sp><speaker>LISEO</speaker> <l>No sé yo</l>
@@ -1842,8 +1842,8 @@
 
 <sp><speaker>TURÍN</speaker> <l>¿Que no hay que tratar de esotra?</l></sp>
 
-<sp><speaker>LISEO</speaker> <l>Pues, ¿he de dejar la <emotion type="noun" figure="meta">vida</emotion></l>
-<l>por la <emotion type="noun" figure="meta">muerte</emotion> temerosa,</l>
+<sp><speaker>LISEO</speaker> <l>Pues, ¿he de dejar la <rs type="emotion" subtype="meta" ana="noun">vida</rs></l>
+<l>por la <rs type="emotion" subtype="meta" ana="noun">muerte</rs> temerosa,</l>
 <l>y por la noche enlutada</l>
 <l>el sol que los cielos dora,</l>
 <l>por los áspides las aves,</l>
@@ -2720,7 +2720,7 @@
 <l>que aunque no es la ventura de la fea,</l>
 <l>será de la ignorante la ventura;</l>
 <l>que así Dios me la dé, que no la quiero,</l>
-<l>pues desde que la vi, por Nise <emotion type="verb" figure="meta">muero</emotion>.</l></sp>
+<l>pues desde que la vi, por Nise <rs type="emotion" subtype="meta" ana="verb">muero</rs>.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>¿Por Nise?</l></sp>
 

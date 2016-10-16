@@ -2,7 +2,7 @@ List of tags for Lope's plays
 
 1. Tagging persName within the play: type=hist (historical and type=myth only. Do not tag the character names in dialogue.
 
-2. Tag placeName any time we have a specific city, country, or neighborhood named. If it's "an open field," don't tag it. The idea
+2. PlaceName type = Tag placeName any time we have a specific city, country, or neighborhood named. If it's "an open field," don't tag it. The idea
 would be to find coordinates for these places and plot them on a map, so if you couldn't map it, don't tag it. Tag places like "Troy," 
 "Las Indias", "Europa," and other things that would be difficult but not impossible to map.
 
@@ -50,4 +50,5 @@ using a bodily feature
 a compound form, as in "se sintió," "ha querido," "había amado." In the case where object pronouns are attached to verb forms, as in
 "quererme," tag the whole word, not part.
 
-6. If one of these things is part of a metaphor, give a second attribute, figure="meta". I like figure for rhetorical figure (figura retórica)
+6. Metaphor w subtype
+If one of these things is part of a metaphor, give a second attribute, figure="meta". I like figure for rhetorical figure (figura retórica)

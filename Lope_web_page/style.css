@@ -1,0 +1,73 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+
+
+html{
+	background-color: whitesmoke;
+	font-family: 'Open Sans';
+}
+
+h1{
+	color: midnightblue;
+	padding-left: 20px;
+}
+
+
+
+h2{
+    color: maroon;
+    padding-left: 20px;
+}
+
+p{
+	font-size: 16px;
+	line-height: 1.5;
+	padding-left: 20px;
+}
+
+p.menuPage {
+    
+    font-size: 16px;
+	line-height: 1.5;
+	padding-left: 20px;
+}
+
+img{
+	padding: 15px;
+	float: left;
+	width: 200px;
+}
+
+img.cc {
+    width: 100px;
+    margin: auto;
+    display: block;
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: slategray;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+	font-family: 'Open Sans';
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 16px;
+ 
+    }
+
+
+
+ul.courseList {
+    font-size: 16px;
+    line-height: 1.5;
+}
