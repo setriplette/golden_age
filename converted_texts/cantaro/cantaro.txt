@@ -4,7 +4,7 @@ POR
 
 LOPE DE VEGA
 
-_EDITED WITH INTRODUCTION AND NOTES_
+EDITED WITH INTRODUCTION AND NOTES
 
 BY
 
@@ -12,228 +12,226 @@ LA MOZA DE CÁNTARO
 
 PERSONAS
 
-<speaker>EL CONDE</speaker>  }
-<speaker>DON JUAN</speaker>  } _galanes_
-<speaker>DON DIEGO</speaker> }
-<speaker>FULGENCIO</speaker> }
+EL CONDE
+DON JUAN galanes
+DON DIEGO
+FULGENCIO
 
-<speaker>DON BERNARDO</speaker>, _viejo_
+DON BERNARDO, viejo
+PEDRO
+MARTÍN lacayos
+LORENZO BERNAL
 
-<speaker>PEDRO</speaker>  }
-<speaker>MARTÍN</speaker> } _lacayos_
-<speaker>LORENZO</speaker>}
-<speaker>BERNAL</speaker> }
+DOÑA MARÍA, dama
 
-<speaker>DOÑA MARÍA</speaker>, _dama_
+DOÑA ANA, viuda
 
-<speaker>DOÑA ANA</speaker>, _viuda_
+LÜISA 
+LEONOR, criadas
+JUANA
 
-LÜISA }
-<speaker>LEONOR</speaker>} _criadas_
-<speaker>JUANA</speaker> }
+UN ALCAIDE
 
-<speaker>UN ALCAIDE</speaker>
+UN INDIANO
 
-<speaker>UN INDIANO</speaker>
+UN MESONERO
 
-<speaker>UN MESONERO</speaker>
+UN MOZO DE MULAS
 
-<speaker>UN MOZO</speaker> DE MULAS
+<stage>MÚSICOS.--LACAYOS</stage>
 
-MÚSICOS.--LACAYOS
+<stage>ACOMPAÑAMIENTO
 
-<speaker>ACOMPAÑAMIENTO</speaker>
+La escena es en Ronda, en Adamuz y Madrid</stage>
 
-_La escena es en Ronda, en Adamuz y Madrid_
+<div type="act" number="1"</div>
 
-ACTO PRIMERO
+<stage>Sala en casa de don Bernardo, en Ronda</stage>
 
-Sala en casa de don Bernardo, en Ronda.
+<div type="scene" number="1"></div>
 
-<div type="scene" number="xsd:int">ESCENA PRIMERA</div>
+<speaker type="who"><l>DOÑA MARÍA</speaker> y <speaker type="who">LÜISA</speaker>, <stage>con unos papeles</stage></l>
 
-<speaker>DOÑA MARÍA</speaker> _y_ LÜISA, _con unos papeles_
+<speaker type="who"><l>LUISA</l></speaker>
 
-<speaker>LUISA</speaker>
+<sp><l>Es cosa lo que ha pasado
+Para <rs type="emotion" ana="verb">morirse</rs> de risa.</l></sp>
 
-Es cosa lo que ha pasado
-Para morirse de risa.
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-<speaker>DOÑA MARÍA</speaker>
+<sp><l>¿Tantos papeles, Lüisa,
+Esos Narcisos te han dado?</l></sp>
 
-¿Tantos papeles, Lüisa,
-Esos Narcisos te han dado?
+<speaker type="who"><l>LUISA</l></speaker>
 
-<speaker>LUISA</speaker>
+<sp><l>¿Lo que miras dificultas?</l></sp>
 
-¿Lo que miras dificultas?
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-<speaker>DOÑA MARÍA</speaker>
+<sp><l>¡Bravo <rs type="emotion" ana="noun">amor</rs>, brava fineza!</l></sp>
 
-¡Bravo amor, brava fineza!
+<speaker type="who"><l>LUISA</l></speaker>
 
-<speaker>LUISA</speaker>
+<sp><l>No sé si te llame alteza
+Para darte estas consultas.</l></sp>
 
-No sé si te llame alteza
-Para darte estas consultas.
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-<speaker>DOÑA MARÍA</speaker>
-
-Á señoría te inclina,
-Pues entre otras partes graves,10
+<sp><l>Á señoría te inclina,
+Pues entre otras partes graves,
 Tengo deudo, como sabes,
-Con el duque de Medina.
+Con el duque de Medina.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Es título la belleza
+<sp><l>Es título la belleza
 Tan alto, que te podría
 Llamar muy bien señoría,
-Y aspirar, Señora, á alteza.
+Y aspirar, Señora, á alteza</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¡Lindamente me conoces!
-Dasme por la vanidad.
+<sp><l>¡Lindamente me conoces!
+Dasme por la vanidad.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-No es lisonja la verdad,
+<sp><l>No es lisonja la verdad,
 Ni las digo, así te goces. 
 No hay en Ronda ni en Sevilla
-Dama como tú.
+Dama como tú.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Yo creo,
-Lüisa, tu buen deseo.
+<sp><l>Yo creo,
+Lüisa, tu buen deseo.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Tu gusto me maravilla.
-Á ninguno quieres bien. 
+<sp><l>Tu <rs type="emotion" ana="verb">gusto</rs> me maravilla.
+Á ninguno quieres bien.</l></sp> 
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Todos me parecen mal.
+<sp><l>Todos me parecen mal.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Arrogancia natural
+<sp><l>Arrogancia natural
 Te obliga á tanto desdén.--
-Éste es de don Luis.
+Éste es de don Luis.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Lo leo
-Sólo por cumplir contigo.30
+<sp><l>Lo leo
+Sólo por cumplir contigo.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Yo soy de su amor testigo.
+<sp><l>Yo soy de su <rs type="emotion" ana="noun">amor</rs> testigo.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Y yo de que es necio y feo.
+<sp><l>Y yo de que es necio y feo.</l></sp>
 
-(_Lee._) «Considerando conmigo á solas,
-señora doña María...»
+<stage>Lee.</stage> <sp><l>Considerando conmigo á solas,
+señora doña María...</l></sp>
 
-No leo. (_Rompe el papel._)
+<sp><l>No leo.</l></sp> <stage>Rompe el papel.</stage>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-¿Por qué?
+<sp><l>¿Por qué?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿No ves
+<sp><l>¿No ves
 Que comienza alguna historia,
 Ó que quiere en la memoria 
-De la muerte hablar después?
+De <rs type="emotion" ana="noun">la muerte</rs> hablar después?<sp><l>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Éste es de don Pedro.
+<sp><l>Éste es de don Pedro.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Muestra.
+<sp><l>Muestra.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Yo te aseguro que es tal,
-Que no te parezca mal.
+<sp><l>Yo te aseguro que es tal,
+Que no te parezca mal.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¡Bravos rasgos! ¡Pluma diestra!40
+<sp><l>¡Bravos rasgos! ¡Pluma diestra!</l></sp>
 
-(_Lee._) «Con hermoso, si bien severo,
+<stage>Lee.</stage><sp><l>Con hermoso, si bien severo,
 no dulce, apacible sí rostro, señora
 mía, mentida vista me miró vuestro
 desdén, absorto de toda humanidad, rígido
 empero, y no con lo brillante solícito,
 que de candor celeste clarifica vuestra
-faz, la hebdómada pasada.»
+faz, la hebdómada pasada.</l></sp>
 
-¿Qué receta es ésta, di? (_Rómpele_.)
+<sp><l>¿Qué receta es ésta, di? <stage>Rómpele.</stage>
 Qué médico te la dió?
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Pues ¿no entiendes culto?
+<sp><l>Pues ¿no entiendes culto?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Yo?
-¿Habla de aciértame aquí?
+<sp><l>¿Yo?
+¿Habla de aciértame aquí?</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Hazte boba, por tu vida.
+<sp><l>Hazte boba, por tu vida.
 ¿Puede nadie ser discreto
 Sin que envuelva su conceto
-En invención tan lucida?
+En invención tan lucida?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Ésta es lucida invención?
-Ahora bien, ¿hay más papel?
+<sp><l>¿Ésta es lucida invención?
+Ahora bien, ¿hay más papel?</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-El de don Diego, que en él
-Se cifra la discreción.
+<sp><l>El de don Diego, que en él
+Se cifra la discreción.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-(_Lee._) «Si yo fuera tan dichoso como
+<stage>Lee.</stage> <sp><l>Si yo fuera tan dichoso como
 vuestra merced hermosa, hecho estaba
-el partido.»
+el partido.</l></sp>
 
-¿Qué es partido? No prosigo. (_Rómpele._)
+<sp><l>¿Qué es partido? No prosigo.</l></sp> <stage>Rómpele.</stage>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-¿Qué nada te ha de agradar?
+<sp><l>¿Qué nada te ha de agradar?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Pienso que quiere jugar 
+<sp><l>Pienso que quiere jugar 
 Á la pelota conmigo.
 Lüisa, en resolución,
 Yo no tengo de querer
-Hombre humano.
+Hombre humano.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-¿Qué has de hacer,
-Si todos como éstos son?
+<sp><l>¿Qué has de hacer,
+Si todos como éstos son?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Estarme sola en mi casa.
+<sp><l>Estarme sola en mi casa.
 Venga de Flandes mi hermano,
 Pues siendo tan rico, en vano
 Penas inútiles pasa.
@@ -247,100 +245,100 @@ No quiere mi vanidad
 Que cosa indigna le ofenda.
 Nací con esta arrogancia.
 No me puedo sujetar,
-Si es sujetarse el casar.75
+Si es sujetarse el casar.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Hombres de mucha importancia
-Te pretenden.
+<sp><l>Hombres de mucha importancia
+Te pretenden.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Ya te digo
-Que ninguno es para mí.
+<sp><l>Ya te digo
+Que ninguno es para mí.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Pues ¿has de vivir ansí?
+<sp><l>Pues ¿has de vivir ansí?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Tan mal estaré conmigo?
+<sp><l>¿Tan mal estaré conmigo?
 Joyas y galas ¿no son
 Los polos de las mujeres?
-Si á mí me sobran, ¿qué quieres?
+Si á mí me sobran, ¿qué quieres?</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-¡Qué terrible condición!
+<sp><l>¡Qué terrible condición!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Necia estás. No he de casarme.
+<sp><l>Necia estás. No he de casarme.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Si tu padre ha dado el sí,
-¿Qué piensas hacer de ti?
+<sp><l>Si tu padre ha dado el sí,
+¿Qué piensas hacer de ti?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Puede mi padre obligarme
-Á casar sin voluntad?
+<sp><l>¿Puede mi padre obligarme
+Á casar sin voluntad?</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Ni tú tomarte licencia
-Para tanta inobediencia.
+<sp><l>Ni tú tomarte licencia
+Para tanta inobediencia.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-La primera necedad
+<sp><l>La primera necedad
 Dicen que no es de temer,
 Sino las que van tras ella,
-Pretendiendo deshacella.
+Pretendiendo deshacella.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Los padres obedecer
-Es mandamiento de Dios.
+<sp><l>Los padres obedecer
+Es mandamiento de Dios.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Ya llegas á predicarme?
+<sp><l>¿Ya llegas á predicarme?</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Nuño acaba de avisarme
-Que estaban juntos los dos...
+<sp><l>Nuño acaba de avisarme
+Que estaban juntos los dos...</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Quién?
+<sp><l>¿Quién?</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Mi señor y don Diego.
+<sp><l>Mi señor y don Diego.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Qué importa que hablando estén,
+<sp><l>¿Qué importa que hablando estén,
 Si no me parece bien,
-Y le desengaño luego?
+Y le desengaño luego?</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Y don Luis ¿no es muy galán? 
+<sp><l>Y don Luis ¿no es muy galán?</l></sp> 
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Tal salud tengas, Lüisa.
+<sp><l>Tal salud tengas, Lüisa.
 Muchas se casan aprisa,
-Que á llorar despacio van.
+Que á llorar despacio van.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Ésa es dicha, y no elección;
+<sp><l>Ésa es dicha, y no elección;
 Que mirado y escogido110
 Salió malo algún marido,
 Y otros sin ver, no lo son.
@@ -349,160 +347,159 @@ Los hombres buenos ó malos,
 Muchas que esperan regalos,
 Encuentran malas razones.
 Pero en don Pedro no creo
-Que haya más que desear.
+Que haya más que desear.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Sí hay, Lüisa...
+<sp><l>Sí hay, Lüisa...</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-¿Qué?
+<sp><l>¿Qué?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No hallar
-Á mi lado hombre tan feo. 
+<sp><l>No hallar
+Á mi lado hombre tan feo.</l></sp> 
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Mil bienes me dicen dél,
-Y tú sola dél te ríes.
+<sp><l>Mil bienes me dicen dél,
+Y tú sola dél te ríes.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Lüisa, no me porfíes;
-Que éste es don Pedro el Cruel.
+<sp><l>Lüisa, no me porfíes;
+Que éste es don Pedro el Cruel.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Tu desdén me maravilla.
+<sp><l>Tu desdén me maravilla.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Pues ten por cierta verdad
+<sp><l>Pues ten por cierta verdad
 Que es rey de la necedad,
-Como el otro de Castilla.
+Como el otro de Castilla.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Don Diego está confiado;
-Joyas te ha hecho famosas.
+<sp><l>Don Diego está confiado;
+Joyas te ha hecho famosas.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Joyas?
+<sp><l>¿Joyas?</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Y galas costosas;
-Hasta coche te ha comprado.
+<sp><l>Y galas costosas;
+Hasta coche te ha comprado.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
+<sp><l>Don Diego de noche y coche.</l></sp>
 
-Don Diego de noche y coche.
+<speaker type="who"><l>LUISA</l></speaker>
 
-<speaker>LUISA</speaker>
+<sp><l>¡De noche un gran caballero!</l></sp>
 
-¡De noche un gran caballero!
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-<speaker>DOÑA MARÍA</speaker>
-
-Mas ¡ay Dios! que no le quiero135
+<sp><l>Mas ¡ay Dios! que no le quiero
 Para don Diego de noche.
 Otra le goce, Lüisa,
-No yo. ¡De noche visiones!
+No yo. ¡De noche visiones!</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Oigo unas tristes razones.
+<sp><l>Oigo unas tristes razones.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Volvióse en llanto la risa.
-¿No es éste mi padre?
+<sp><l>Volvióse en llanto la risa.
+¿No es éste mi padre?</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Él es.
+<sp><l>Él es.</l></sp>
 
-<speaker><div type="scene" number="xsd:int">ESCENA II</div></speaker>
+<div type="scene" number="2"></div>
 
-<speaker>DON BERNARDO</speaker>, _de hábito de Santiago, con un lienzo en los
-ojos_.--DICHAS
+<speaker type="who"><l>DON BERNARDO</l></speaker>, <stage>de hábito de Santiago, con un lienzo en los
+<rs type="body">ojos</rs>.--DICHAS</stage>
 
-<speaker>DON BERNARDO</speaker>
+<speaker type="who"><l>DON BERNARDO</l></speaker>
 
-¡Ay de mí!
+<sp><l>¡Ay de mí!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Señor, ¿qué es esto?
+<sp><l>Señor, ¿qué es esto?
 Vos llorando y descompuesto,
-¡Y yo no estoy á esos pies!
-¿Qué tenéis, padre y señor,145
-Mi solo y único bien?
+¡Y yo no estoy á esos <rs type="body">pies</rs>!
+¿Qué tenéis, padre y señor,
+Mi solo y único bien?</l></sp>
 
-<speaker>DON BERNARDO</speaker>
+<speaker type="who"><l>DON BERNARDO</l></speaker>
 
-Vergüenza de que me ven
-Venir vivo y sin honor.
+<sp><l>Vergüenza de que me ven
+Venir vivo y sin honor.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Cómo sin honor?
+<sp><l>¿Cómo sin honor?</l></sp>
 
-<speaker>DON BERNARDO</speaker>
+<speaker type="who"><l>DON BERNARDO</l></speaker>
 
-No sé.
-Déjame, por Dios, María.150
+<sp><l>No sé.
+Déjame, por Dios, María.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Siendo vos vida en la mía,
+<sp><l>Siendo vos vida en la mía,
 ¿Cómo dejaros podré?
 ¿Habéis acaso caído?
-Que los años muchos son.
+Que los años muchos son.</l></sp>
 
-<speaker>DON BERNARDO</speaker>
+<speaker type="who"><l>DON BERNARDO</l></speaker>
 
-Cayó toda la opinión
+<sp><l>Cayó toda la opinión
 Y nobleza que he tenido.
-No es de los hombres llorar;
+No es de los hombres llorar;mano
 Pero lloro un hijo mío
 Que está en Flandes, de quien fío
 Que me supiera vengar. 
 Siendo hombre, llorar me agrada;
 Porque los viejos, María,
 Somos niños desde el día
-Que nos quitamos la espada.
+Que nos quitamos la espada.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Sin color, y el alma en calma,165
+<sp><l>Sin color, y el alma en calma,165
 Os oigo, padre y señor;
 Mas ¿qué mucho sin color,
 Si ya me tenéis sin alma?
 ¿Qué había de hacer mi hermano?
-¿De quién os ha de vengar?
+¿De quién os ha de vengar?</l></sp>
 
-<speaker>DON BERNARDO</speaker>
+<speaker type="who"><l>DON BERNARDO</l></speaker>
 
-Hija, ¿quiéresme dejar?
+<sp><l>Hija, ¿quiéresme dejar?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Porfías, Señor, en vano.
+<sp><l>Porfías, Señor, en vano.
 Antes de llorar se causa
 La excusa, pero no agora;
 Que siempre quiere el que llora 
-Que le pregunten la causa.
+Que le pregunten la causa.</l></sp>
 
-<speaker>DON BERNARDO</speaker>
+<speaker type="who"><l>DON BERNARDO</l></speaker>
 
-Don Diego me habló, María...
+<sp><l>Don Diego me habló, María...
 Contigo casarse intenta...
-Respondíle que tu gusto
+Respondíle que tu <rs type="emotion" ana="verb">gusto</rs>
 Era la primer licencia,
 Y la segunda del Duque.
 Escribí, fué la respuesta
@@ -528,18 +525,18 @@ Dijo que el Duque sabía
 Su calidad y nobleza;
 Que le enseñase la carta,
 Ó que era mía la afrenta
-De la disculpa engañosa.205
+De la disculpa engañosa.
 Yo, por quitar la sospecha,
 Saqué la carta del pecho,
 Y turbado leyó en ella
 Estas razones, María.--
-Quien tal mostró, que tal tenga.-- 
+Quien tal mostró, que tal tenga.
 
-«Muy honrado caballero
+Muy honrado caballero
 Es don Diego; pero sea
 El que ha de ser vuestro yerno
 Tal, que al hábito os suceda
-Como á vuestra noble casa.»
+Como á vuestra noble casa.
 
 Entonces don Diego, vuelta
 La color en nieve, dice,
@@ -552,9 +549,9 @@ No hacen comparación
 Con los príncipes; que es necia.
 Desdecíos, ó le escribo
 Á don Alonso que venga
-Desde Flandes á mataros.»
-Aquí su mano soberbia...
-Pero prosigan mis ojos
+Desde Flandes á <rs type="emotion" ana="noun">matar</rs>os.»
+Aquí su <rs type="body">mano</rs> soberbia...
+Pero prosigan mis <rs type="body">ojos</rs>
 Lo que no puede la lengua.
 Déjame; que tantas veces
 Una afrenta se renueva,
@@ -566,15 +563,15 @@ Esclavo soy de la infamia,
 Cautivo soy de la afrenta.
 El eco sonó en el alma;
 Que si es la cara la puerta, 
-Han respondido los ojos,
+Han respondido los <rs type="body">ojos</rs>,
 Viendo que llaman en ella.
 Alcé el báculo... Dijeron
 Que lo alcancé... no lo creas;
-Que mienten á el afrentado,245
+Que mienten á el afrentado,
 Pensando que le consuelan.
 Prendióle allí la justicia,
 Y preso en la cárcel queda:
-¡Pluguiera á Dios que la mano
+¡Pluguiera á Dios que la <rs type="body">mano</rs>
 Desde hoy estuviera presa!
 ¡Ay, hijo del alma mía!
 ¡Ay, Alonso! ¡Si estuvieras
@@ -584,192 +581,190 @@ Salid, lágrimas, salid...
 Mas no es posible que puedan
 Borrar afrentas del rostro,
 Porque son moldes de letras,
-Que aunque se aparta la mano,
-Quedan en al alma impresas. (_Vase._) 
+Que aunque se aparta la <rs type="body">mano</rs>,
+Quedan en al alma impresas.</l></sp><stage>Vase.</stage>
 
-<speaker><div type="scene" number="xsd:int">ESCENA III</div></speaker>
+<div type="scene" number="3"></div>
 
-<speaker>DOÑA MARÍA</speaker>, <speaker>LÜISA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <speaker type="who"><l>LÜISA</l></speaker>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Fuése.
+<sp><l>Fuése.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Déjame de suerte
-Que no pude responder.
+<sp><l>Déjame de suerte
+Que no pude responder.</l></sp>
 
-<speaker>LUISA</speaker>
+<speaker type="who"><l>LUISA</l></speaker>
 
-Vé tras él; que puede ser
-Que intente darse la muerte,
-Viendo perdido su honor.265
+<sp><l>Vé tras él; que puede ser
+Que intente darse <rs type="emotion" ana="noun">la muerte</rs>,
+Viendo perdido su honor.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Bien dices: seguirle quiero;
+<sp><l>Bien dices: seguirle quiero;
 Que no es menester acero
-Adonde sobra el valor. (_Vanse._)
+Adonde sobra el valor.</l></sp><stage>Vanse.</stage>
 
-<div type="scene" number="xsd:int">ESCENA IV</div>
+<div type="scene" number="4"></div>
 
-Cuarto en la cárcel de Ronda.
+<sp><l>Cuarto en la cárcel de Ronda.</l></sp>
 
-<speaker>DON DIEGO</speaker>, FULGENCIO
+<speaker type="who"><l>DON DIEGO</l></speaker>, <speaker type="who"><l>FULGENCIO</l></speaker>
 
-<speaker>FULGENCIO</speaker>
+<sp><l>La razón es un espejo
+De consejos y de avisos.</l></sp>
 
-La razón es un espejo
-De consejos y de avisos.
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-<speaker>DON DIEGO</speaker>
+<sp><l>En los casos improvisos
+¿Quién puede tomar consejo?</l></sp>
 
-En los casos improvisos
-¿Quién puede tomar consejo?
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-<speaker>FULGENCIO</speaker>
+<sp><l>Los años de don Bernardo
+Os ponen culpa, don Diego.</l></sp>
 
-Los años de don Bernardo
-Os ponen culpa, don Diego.
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-<speaker>DON DIEGO</speaker>
+<sp><l>Confieso que estuve ciego.</l></sp>
 
-Confieso que estuve ciego.
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-<speaker>FULGENCIO</speaker>
+<sp><l>Es don Alonso gallardo
+Y gran soldado.</l></sp>
 
-Es don Alonso gallardo
-Y gran soldado.
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-<speaker>DON DIEGO</speaker>
+<sp><l>Ya es hecho,
+Y yo me sabré guardar.</l></sp>
 
-Ya es hecho,
-Y yo me sabré guardar.
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-<speaker>FULGENCIO</speaker>
+<sp><l>Un consejo os quiero dar
+Para asegurar el pecho.</l></sp>
 
-Un consejo os quiero dar
-Para asegurar el pecho.
-
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
 ¿Cómo?
 
-<speaker>FULGENCIO</speaker>
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-Que dejéis á España
-Luego que salgáis de aquí.
+<sp><l>Que dejéis á España
+Luego que salgáis de aquí.</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-¿Á España, Fulgencio?
+<sp><l>¿Á España, Fulgencio?</l></sp>
 
-<speaker>FULGENCIO</speaker>
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-Sí;
+<sp><l>Sí;
 Porque será loca hazaña
 Que á don Alonso esperéis;
 Que, fuera de la razón
 Que él tiene en esta ocasión,
 Pocos amigos tendréis.
-Toda Ronda os pone culpa.
+Toda Ronda os pone culpa.</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-Claro está, soy desdichado...
+<sp><l>Claro está, soy desdichado...
 Pues el haberme afrentado
-Era bastante disculpa.
+Era bastante disculpa.</l></sp>
 
-<speaker>FULGENCIO</speaker>
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-Mostraros la carta fué
-Yerro de un hombre mayor.
+<sp><l>Mostraros la carta fué
+Yerro de un hombre mayor.</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-En los lances del honor
-¿Quién hay que seguro esté?
+<sp><l>En los lances del honor
+¿Quién hay que seguro esté?</l></sp>
 
-<speaker>FULGENCIO</speaker>
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-El tiempo suele curar
-Las cosas irremediables.
+<sp><l>El tiempo suele curar
+Las cosas irremediables.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA V</div>
+<div type="scene" number="5"></div>
 
-EL ALCAIDE DE LA CÁRCEL, _con barba y bastón_.--DICHOS
+<stage>EL ALCAIDE DE LA CÁRCEL, con barba y bastón.--DICHOS</stage>
 
-<speaker>ALCAIDE</speaker> (_á don Diego_)
+<speaker type="who"><l>ALCAIDE</l></speaker> <stage>á don Diego</stage>
 
-Una mujer está aquí
-Que quiere hablaros.
+<sp><l>Una mujer está aquí
+Que quiere hablaros.</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-Dejadme,
-Fulgencio, si sois servido.
+<sp><l>Dejadme,
+Fulgencio, si sois servido.</l></sp>
 
-<speaker>FULGENCIO</speaker>
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-Á veros vendré á la tarde. (_Vase_.)
+<sp><l>Á veros vendré á la tarde.</l></sp><stage>Vase.</stage>
 
-<speaker>ALCAIDE</speaker>
+<speaker type="who"><l>ALCAIDE</l></speaker>
 
-Llegó á la puerta cubierta;
+<sp><l>Llegó á la puerta cubierta;
 Pedíle que se destape,
 Y dijo que no quería.305
 Parecióme de buen talle
 Y cosa segura; en fin,
 Gustó de que la acompañe
-Á vuestro aposento.
+Á vuestro aposento.</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-Que entre
+<sp><l>Que entre
 La decid, y perdonadme;
 Que es persona principal,
-Si es quien pienso.
+Si es quien pienso.</l></sp>
 
-<speaker>ALCAIDE
+<speaker type="who"><l>ALCAIDE</l></speaker>
 
-E</speaker>n casos tales
-Se muestra el amor. (_Vase._)
+<sp><l>En casos tales
+Se muestra el <rs type="emotion" ana="noun">amor</rs>.</l></sp><stage>Vase.</stage>
 
-(_Dentro._ Entrad.)
+<stage>Dentro. Entrad.</stage>
 
-<div type="scene" number="xsd:int">ESCENA VI</div>
+<div type="scene" number="6"></div>
 
-<speaker>DOÑA MARÍA</speaker>, _cubierta con su manto_.--DON DIEGO.
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <stage>cubierta con su manto.</stage>--<speaker type="who"><l>DON DIEGO.</l></speaker>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-¡Sola, mi señora, á hablarme,
+<sp><l>¡Sola, mi señora, á hablarme,
 Y en parte tan desigual
-De vuestra persona y traje!
+De vuestra persona y traje!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Dan ocasión los sucesos
-Para desatinos tales.
+<sp><l>Dan ocasión los sucesos
+Para desatinos tales.</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-Descubríos, por mi vida,
+<sp><l>Descubríos, por mi vida,
 Advirtiendo que no hay nadie 
-Que aquí pueda conoceros.
+Que aquí pueda conoceros.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Yo soy.
+<sp><l>Yo soy.</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-Pues ¡vos en la cárcel!
+<sp><l>Pues ¡vos en la cárcel!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-El amor que me debéis
+<sp><l>El <rs type="emotion" ana="noun">amor</rs> que me debéis
 Desta manera me trae;
 Que agradecida del vuestro,325
 Me fuerza á que me declare.
@@ -786,16 +781,16 @@ Que suelen en las ciudades
 Engendrar bandos, de quien
 Tan tristes sucesos nacen.
 Vos quedaréis con la honra
-Que es justo y que Ronda sabe,340
+Que es justo y que Ronda sabe,
 Satisfecho el señor Duque,
 Desenojado mi padre,
 Y yo con tan buen marido,
 Que pueda mi casa honrarse
-Y don Alonso mi hermano.345
+Y don Alonso mi hermano.</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-¿Quién pudiera sino un ángel,
+<sp><l>¿Quién pudiera sino un ángel,
 Señora doña María,
 Hacer tan presto las paces?
 Vuestro gran entendimiento,
@@ -809,177 +804,177 @@ Honrados cuando me case.
 No será mucha licencia
 Que á el altar dichoso abrace,
 Sagrado de mis deseos,
-Donde está amor por imagen,360
-Pues ya decís que sois mía.
+Donde está <rs type="emotion" ana="noun">amor</rs> por imagen,
+Pues ya decís que sois mía.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Quien supo determinarse
+<sp><l>Quien supo determinarse
 Á ser vuestra, no habrá cosa
-Que á vuestro gusto dilate.
+Que á vuestro <rs type="emotion" ana="verb">gusto</rs> dilate.
 Confirmaré lo que digo 
-Con los brazos.--Muere, infame.
+Con los <rs type="body">brazos</rs>.--Muere, infame.</l></sp>
 
-(_Al abrazarle, saca una daga y dale con
-ella._)
+<stage>Al abrazarle, saca una daga y dale con
+ella.</stage>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-¡Jesus! ¡Muerto soy! ¡Traición!
+<sp><l>¡Jesus! ¡Muerto soy! ¡Traición!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¡En canas tan venerables
-Pusiste la mano, perro!
-Pues estas hazañas hacen370
+<sp><l>¡En canas tan venerables
+Pusiste la <rs type="body">mano</rs>, perro!
+Pues estas hazañas hacen
 Las mujeres varoniles.
-Yo salgo.--¡Cielo, ayudadme! (_Vase._)
+Yo salgo.--¡Cielo, ayudadme!</l></sp><stage>Vase.</stage>
 
-<div type="scene" number="xsd:int">ESCENA VII</div>
+<div type="scene" number="7"></div>
 
-Fulgencio.--Don Diego, _moribundo_
+<stage>Fulgencio.--Don Diego, moribundo</stage>
 
-<speaker>FULGENCIO</speaker>
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-Paréceme que he sentido
+<sp><l>Paréceme que he <rs type="emotion" ana="noun">sentido</rs>
 Una voz, y que salió
 Esta mujer que aquí entró 
-(Que no sin sospecha ha sido)
+<stage>Que no sin sospecha ha sido</stage>
 Más turbada y descompuesta
-Que piden casos de amor.--
+Que piden casos de <rs type="emotion" ana="noun">amor</rs>.--
 No fué vano mi temor.
-¡Don Diego!... ¿Qué sangre es ésta?
+¡Don Diego!... ¿Qué sangre es ésta?</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-Matóme doña María,
-La hija de don Bernardo.
+<sp><l>Matóme doña María,
+La hija de don Bernardo.</l></sp>
 
-<speaker>FULGENCIO</speaker>
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-¡Alcaide! ¡Gente! ¿Qué aguardo?
+<sp><l>¡Alcaide! ¡Gente! ¿Qué aguardo?</l></sp>
 
-(_Ap._ Mas cosa injusta sería
-Ocasionar su prisión.385
-Esperar que salga quiero;
-Que esto ya es hecho.)
+<sp><l>Mas cosa injusta sería
+Ocasionar su prisión.
+Esperar que salga quiero;</l></sp>
+Que esto ya es hecho.
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-Yo muero
+<sp><l>Yo muero
 Con razón, aunque á traición.
 Muy justa venganza ha sido,
 Por fiarme de mujer.
-Mas no la dejéis prender.
+Mas no la dejéis prender.</l></sp>
 
-<speaker>FULGENCIO</speaker>
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-Yo pienso que habrá salido.
+<sp><l>Yo pienso que habrá salido.
 Pero ¿por qué no queréis
-Que la prendan?
+Que la prendan?</l></sp>
 
-<speaker>DON DIEGO</speaker>
+<speaker type="who"><l>DON DIEGO</l></speaker>
 
-Ha vengado
+<sp><l>Ha vengado
 Las canas de un padre honrado.
 Esto en viéndole diréis...
 Y que yo soy, cuanto á mí,
 Su yerno, pues se casó
 Conmigo, aunque me mató
-Cuando los brazos la dí.400
+Cuando los <rs type="body">brazos</rs> la dí.
 Con esto vuelvo á su fama
-Lo que afrentarla pudiera.
+Lo que afrentarla pudiera.</l></sp>
 
-<speaker>FULGENCIO</speaker>
+<speaker type="who"><l>FULGENCIO</l></speaker>
 
-Toda la cárcel se altera.
-Quiero buscar esta dama.
+<sp><l>Toda la cárcel se altera.
+Quiero buscar esta dama.</l></sp>
 
-(_Se lleva á don Diego._)
+<stage>Se lleva á don Diego.</stage>
 
-<speaker><div type="scene" number="xsd:int">ESCENA VIII</div></speaker>
+<div type="scene" number="8"></div>
 
-Una calle de Madrid.
+<stage>Una calle de Madrid.</stage>
 
-<speaker>EL CONDE</speaker>, <speaker>DON JUAN</speaker>
+<speaker type="who"><l>EL CONDE</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¡Hermosa viuda, don Juan! 
-No he visto cosa más bella.
+<sp><l>¡Hermosa viuda, don Juan! 
+No he visto cosa más bella.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Con razón, Conde, por ella
-Esos desmayos os dan.
+<sp><l>Con razón, Conde, por ella
+Esos desmayos os dan.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Hay tal gracia de monjil?
-Que es de azabache, repara,410
+<sp><l>¿Hay tal gracia de monjil?
+Que es de azabache, repara,
 Imagen, menos la cara
-Y manos, que son marfil.
+Y <rs type="body">mano</rs>s, que son marfil.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Vos tenéis un gran sugeto
-Para versos.
+<sp><l>Vos tenéis un gran sugeto
+Para versos.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-No he pensado
+<sp><l>No he pensado
 Meterme en ese cuidado;
-Que pienso andar más discreto.
+Que pienso andar más discreto.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Cómo?
+<sp><l>¿Cómo?</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Remitirme á el oro,
-Que es excelente poeta.
+<sp><l>Remitirme á el oro,
+Que es excelente poeta.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Dicen que es rica y discreta:
-Guardadle más el decoro.420
+<sp><l>Dicen que es rica y discreta:
+Guardadle más el decoro.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Fué vuestro criado allá?
+<sp><l>¿Fué vuestro criado allá?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Con una criada habló,
+<sp><l>Con una criada habló,
 Y á estas horas pienso yo
-Que bien informado está.
+Que bien informado está.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Mejor entre sus iguales
+<sp><l>Mejor entre sus iguales
 Suele hablar más libremente
-Este género de gente.
+Este género de gente.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA IX</div>
+<div type="scene" number="9"></div>
 
-<speaker>MARTÍN</speaker>.--DICHOS
+<speaker type="who"><l>MARTÍN</l></speaker>.<stage>DICHOS</stage>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Qué hay, Martín? Contento sales.
+<sp><l>¿Qué hay, Martín? Contento sales.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Servir á el Conde deseo.
+<sp><l>Servir á el Conde deseo.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Yo estimo tu buen amor.
+<sp><l>Yo estimo tu buen <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Hablé con la tal Leonor,
+<sp><l>Hablé con la tal Leonor,
 Como si fuera en mi empleo,
 Estando en larga oración
 La retórica lacaya,
@@ -1010,48 +1005,48 @@ Era todo su cuidado,
 Y díjome que había estado
 Sólo dos meses casada; 
 Porque su noble marido,
-De enamorado, murió.
+De en<rs type="emotion" ana="noun">amor</rs>ado, murió.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-No envidio la muerte yo,
-La causa sí.
+<sp><l>No envidio <rs type="emotion" ana="noun">la muerte</rs> yo,
+La causa sí.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Necio ha sido,
-Pues tanto tiempo tenía.465
+<sp><l>Necio ha sido,
+Pues tanto tiempo tenía.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Poca edad y mucho amor,
+<sp><l>Poca edad y mucho <rs type="emotion" ana="noun">amor</rs>,
 Toda la vida, Señor,
-Remiten á solo un día.
+Remiten á solo un día.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Cómo trae tan pequeñas
-Tocas?
+<sp><l>¿Cómo trae tan pequeñas
+Tocas?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Más hermosa está.
+<sp><l>Más hermosa está.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Porque las largas son ya
+<sp><l>Porque las largas son ya
 Para beatas y dueñas.
 Y las cortas en la corte
-No se traen sin ocasión.
+No se traen sin ocasión.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Qué ocasión dará razón
-Que para disculpa importe?
+<sp><l>¿Qué ocasión dará razón
+Que para disculpa importe?</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Muriósele á una casada
+<sp><l>Muriósele á una casada
 Su marido, y no quedó
 Muy triste, pues le envolvió,
 Como si fuera pescada, 
@@ -1064,7 +1059,7 @@ Pero el muerto, mal contento,
 Del sepulcro á su aposento
 Se trasladó aquella noche,
 Y díjole: «¡Vos Holanda,
-Y yo anjeo, picarona!490
+Y yo anjeo, picarona!
 ¿No mereció mi persona
 Una sábana más blanda?»
 Esto diciendo, el difunto
@@ -1074,52 +1069,52 @@ Ocasión desde aquel punto
 Con que sin tocas las veo;
 Y cuerdo temor ha sido,
 Porque no vuelva el marido
-Á dejarlas el anjeo.
+Á dejarlas el anjeo.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Cuanto la licencia alargas,
-La obligación disimulas.
+<sp><l>Cuanto la licencia alargas,
+La obligación disimulas.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Señor, en dueñas y en mulas
-Están bien las tocas largas.
+<sp><l>Señor, en dueñas y en mulas
+Están bien las tocas largas.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Mucha honestidad promete, 
-Y es decoro justo y santo.
+<sp><l>Mucha honestidad promete, 
+Y es decoro justo y santo.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Una viuda con un manto
+<sp><l>Una viuda con un manto
 Es obispo con roquete.
 Fuera de esto, aquel estar
 Siempre en una misma acción510
 No mueve la inclinación
 Que el traje suele obligar.
 Ver siempre de una manera
-Á una mujer es cansarse.
+Á una mujer es cansarse.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Pues ¿puede el rostro mudarse?
+<sp><l>Pues ¿puede el rostro mudarse?</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Pues ¿no se muda y altera,
-Mudando el traje, el semblante?
+<sp><l>Pues ¿no se muda y altera,
+Mudando el traje, el semblante?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Conde, Martín dice bien;
+<sp><l>Conde, Martín dice bien;
 Porque el varïar tan bien
-Da novedad á el amante.
+Da novedad á el amante.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-De mi condición advierte
+<sp><l>De mi condición advierte
 Que me pudren las pinturas,
 Porque siempre las figuras
 Están de una misma suerte.
@@ -1132,164 +1127,164 @@ Entre dos viejos desnuda,
 Y que ninguno se muda
 Á defender ni á forzar?
 Linda cosa es la mudanza
-Del traje.
+Del traje.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-La viuda, en fin,
-¿Es conversable, Martín?
+<sp><l>La viuda, en fin,
+¿Es conversable, Martín?</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-No me quitó la esperanza,
+<sp><l>No me quitó la esperanza,
 Si entráis con algún enredo;
 Que dice que da lugar
-Que la puedan visitar.
+Que la puedan visitar.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Yo le buscaré, si puedo.540
+<sp><l>Yo le buscaré, si puedo.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Como visto no te hubiera,
-Fácil remedio se hallara.
+<sp><l>Como visto no te hubiera,
+Fácil remedio se hallara.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Si en que me ha visto repara,
+<sp><l>Si en que me ha visto repara,
 Fingirme enojarla fuera.
 Llama; que yo he prevenido
-Con que me pueda creer.
+Con que me pueda creer.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No lo echemos á perder.
+<sp><l>No lo echemos á perder.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-No puedo estar más perdido. (_Vanse._)
+<sp><l>No puedo estar más perdido.</l></sp> <stage>Vanse.</stage>
 
-<div type="scene" number="xsd:int">ESCENA X</div>
+<div type="scene" number="10"></div>
 
-_Sala en casa de doña Ana_.
+<stage>Sala en casa de doña Ana.</stage>
 
-<speaker>EL CONDE</speaker>, <speaker>DON JUAN</speaker>, <speaker>MARTÍN</speaker>; _y luego_, <speaker>DOÑA ANA</speaker>, _de viuda_;
-<speaker>LEONOR</speaker> _y_ <speaker>JUANA</speaker>
+<speaker type="who"><l>EL CONDE</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>, <speaker type="who"><l>MARTÍN</l></speaker>; <stage>y luego,</stage> <speaker type="who"><l>DOÑA ANA</l></speaker>, <stage>de viuda;</stage>
+<speaker type="who"><l>LEONOR</l></speaker> y <speaker type="who"><l>JUANA</l></speaker>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Ya te ha visto: á verte sale.
-No le has parecido mal.
+<sp><l>Ya te ha visto: á verte sale.
+No le has parecido mal.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Hay jazmín, rosa y cristal
-Que á la viudilla se iguale?
+<sp><l>¿Hay jazmín, rosa y cristal
+Que á la viudilla se iguale?</l></sp>
 
-(_Salen doña Ana, de viuda, Leonor y Juana._)
+<stage>Salen doña Ana, de viuda, Leonor y Juana.</stage>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Novedad me ha parecido;
-Vueseñoría perdone.
+<sp><l>Novedad me ha parecido;
+Vueseñoría perdone.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-No hay novedad que no abone
+<sp><l>No hay novedad que no abone
 El deseo que he tenido
 De serviros, si yo fuese,
-Para que no os cause enojos,
-Tan dichoso en vuestros ojos,
-Que serviros mereciese.
+Para que no os cause en<rs type="body">ojos</rs>,
+Tan dichoso en vuestros <rs type="body">ojos</rs>,
+Que serviros mereciese.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Leonor, sillas.
+<sp><l>Leonor, sillas.</l></sp>
 
-<speaker>MARTÍN</speaker> (_ap. á don Juan_)
+<speaker type="who"><l>MARTÍN</l></speaker> (ap. á don Juan)
 
-No va mal,
-Pues piden sillas.
+<sp><l>No va mal,
+Pues piden sillas.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Martín,
+<sp><l>Martín,
 La viudilla es serafín
-De perlas y de coral.
+De perlas y de coral.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-¿Agrádate á ti también?
+<sp><l>¿Agrádate á ti también?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Á esa pregunta responde
-Que está enamorado el Conde,
-Y yo no.
+<sp><l>Á esa pregunta responde
+Que está en<rs type="emotion" ana="noun">amor</rs>ado el Conde,
+Y yo no.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Dices muy bien.
+<sp><l>Dices muy bien.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¿Quién es este caballero?
+<sp><l>¿Quién es este caballero?</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Mi primo don Juan.
+<sp><l>Mi primo don Juan.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Señor,
-Perdonad.
+<sp><l>Señor,
+Perdonad.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No ha sido error.
-Hablad; que estorbar no quiero.
+<sp><l>No ha sido error.
+Hablad; que estorbar no quiero.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Vos no podéis estorbar,
-Ni aquí tendréis ocasión.
+<sp><l>Vos no podéis estorbar,
+Ni aquí tendréis ocasión.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No lo mandéis.
+<sp><l>No lo mandéis.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Es razón.
+<sp><l>Es razón.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No me tengo de sentar.
+<sp><l>No me tengo de sentar.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Ahora bien, yo no porfío.
+<sp><l>Ahora bien, yo no porfío.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Decísme que necio soy.
+<sp><l>Decísme que necio soy.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Oidme.
+<sp><l>Oidme.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Oyéndoos estoy.
+<sp><l>Oyéndoos estoy.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Por lo mismo me desvío.
+<sp><l>Por lo mismo me desvío.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Señora, aunque os he mirado
+<sp><l>Señora, aunque os he mirado
 Mil veces sin conoceros,
 Antes que viniera á veros
 Tuve de veros cuidado.
@@ -1297,118 +1292,118 @@ Vuestro esposo, que Dios tiene,
 Era mi amigo: jugamos
 Una noche; comenzamos
 Por una rifa, que viene
-Á ser, como en los amores,
+Á ser, como en los <rs type="emotion" ana="noun">amor</rs>es,
 La tercera que concierta, 
 Ó á lo menos que dispierta
-El gusto á los jugadores.
+El <rs type="emotion" ana="verb">gusto</rs> á los jugadores.
 Perdió, picóse, sacó
 Unos escudos, y luego,
 Terciando mi primo el juego, 
 Cuatro sortijas perdió.
-Mas vamos á lo que importa.
+Mas vamos á lo que importa.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Esas sortijas eché
+<sp><l>Esas sortijas eché
 Menos: pesadumbre fué
-(Tan mal amor se reporta),
+<stage>Tan mal <rs type="emotion" ana="noun">amor</rs> se report</stage>,
 Porque vine á sospechar
-Que á alguna dama las dió.
+Que á alguna dama las dió.</l></sp>
 
-<speaker>DON JUAN</speaker> (_ap. á Martín_)
+<speaker type="who"><l>DON JUAN</l></speaker><stage>ap. á Martín</stage>
 
-Bien la mentira salió.
+<sp><l>Bien la mentira salió.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-¿Hay cosa como atinar
-Las sortijas que faltaron?
+<sp><l>¿Hay cosa como atinar
+Las sortijas que faltaron?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Hay dichosos en mentir.
+<sp><l>Hay dichosos en mentir.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Á cuantas supe decir,
+<sp><l>Á cuantas supe decir,
 Con el hurto me pescaron.
 No he mentido sin que luego
-No se me echase de ver.
+No se me echase de ver.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Así se vino á encender
+<sp><l>Así se vino á encender
 Con esta pérdida el juego,
 Que perdió seis mil ducados
 Sobre palabra segura,
-De que tengo una escritura.615
+De que tengo una escritura.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Más enredos y cuidados
+<sp><l>Más enredos y cuidados
 Que días vivió conmigo
 Don Sebastián me dejó.
-¿Seis mil ducados?
+¿Seis mil ducados?</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Si yo
+<sp><l>Si yo
 Basto, que soy quien lo digo,
-Y los testigos presentes.
+Y los testigos presentes.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Al firmarla estuve allí
-Tan presente como aquí.
+<sp><l>Al firmarla estuve allí
+Tan presente como aquí.</l></sp>
 
-<speaker>DON JUAN</speaker> (_ap. á Martín_)
+<speaker type="who"><l>DON JUAN</l></speaker> <stage>ap. á Martín</stage>
 
-¡Con qué desvergüenza mientes!
+<sp><l>¡Con qué desvergüenza mientes!</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-¡Qué gracia! El buen mentidor
+<sp><l>¡Qué gracia! El buen mentidor
 Ha de ser, señor don Juan,
 Descarado á lo truhán,
-Y libre á lo historiador.
+Y libre á lo historiador.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Pensé que vueseñoría
-Me venía hacer merced. 
+<sp><l>Pensé que vueseñoría
+Me venía hacer merced.</l></sp> 
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Que os he de servir creed;
+<sp><l>Que os he de servir creed;
 Que ésa fué la intención mía.
 No os dé pena la escritura,
 Puesto que fué de mayor;
 Que no tiene mal fiador
-La paga en vuestra hermosura.
+La paga en vuestra hermosura.</l></sp>
 
-<speaker>MARTÍN</speaker> (_ap. á don Juan_)
+<speaker type="who"><l>MARTÍN</l></speaker> <stage>ap. á don Juan</stage>
 
-¿Hay oficial de escritorios
-Que encaje el marfil ansí?
+<sp><l>¿Hay oficial de escritorios
+Que encaje el marfil ansí?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-En amando, para mí
-Son los engaños notorios. 
+<sp><l>En amando, para mí
+Son los engaños notorios.</l></sp> 
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-¿Amor se funda en engaños?
+<sp><l>¿Amor se funda en engaños?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Primero que el amor fueron;
+<sp><l>Primero que el <rs type="emotion" ana="noun">amor</rs> fueron;
 Pues desde que ellos nacieron,
-El mundo cuenta sus daños.
+El mundo cuenta sus daños.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Si yo, Señora, creyera 
+<sp><l>Si yo, Señora, creyera 
 Cobrar la deuda de vos,
 Sin conocernos los dos,
 Por otro estilo pudiera.
@@ -1420,159 +1415,159 @@ Sólo os suplico me deis
 Licencia de visitaros,
 Si fuere parte á obligaros
 Confesar que me debéis,
-No dineros, sino amor.
+No dineros, sino <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Yo quedo tan obligada,
+<sp><l>Yo quedo tan obligada,
 Como deudora y pagada
-De vuestro heroico valor. 
+De vuestro heroico valor.</l></sp> 
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Bésoos las manos.
+<sp><l>Bésoos las <rs type="body">manos.</rs></l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-El cielo
-Os guarde.
+<sp><l>El cielo
+Os guarde.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Vendré?
+<sp><l>¿Vendré?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Venid.
+<sp><l>Venid.</l></sp>
 
-(_Vase el Conde._)
+<stage>Vase el Conde.</stage>
 
-<div type="scene" number="xsd:int">ESCENA XI</div>
+<div type="scene" number="11"></div>
 
-<speaker>DOÑA ANA</speaker>, <speaker>DON JUAN</speaker>, <speaker>LEONOR</speaker>, <speaker>JUANA</speaker>, <speadker>MARTÍN</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>, <speaker type="who"><l>LEONOR</l></speaker>, <speaker type="who"><l>JUANA</l></speaker>, <speadker>MARTÍN</l></speaker>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Ah, señor don Juan! Oid.
+<sp><l>¡Ah, señor don Juan! Oid.</l></sp>
 
-<speaker>MARTÍN</speaker> (_ap._)
+<speaker type="who"><l>MARTÍN</l></speaker> <stage>ap<stage>
 
-Cayó el pez en el anzuelo.
+<sp><l>Cayó el pez en el anzuelo.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿En qué os sirvo?
+<sp><l>¿En qué os sirvo?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Bien sé yo 
-Que todo aquesto es mentira.
+<sp><l>Bien sé yo 
+Que todo aquesto es mentira.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Y yo sé que el Conde os mira;
-Esto de la deuda no.
+<sp><l>Y yo sé que el Conde os mira;
+Esto de la deuda no.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Mala entrada de galán,
-Entrar mintiendo!
+<sp><l>¡Mala entrada de galán,
+Entrar mintiendo!</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Señora, 
-Mi primo el Conde os adora.
+<sp><l>Señora, 
+Mi primo el Conde os adora.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Id con Dios, señor don Juan;
-Que yerra el Conde en traeros.
+<sp><l>Id con Dios, señor don Juan;
+Que yerra el Conde en traeros.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Desacredítole yo?
+<sp><l>¿Desacredítole yo?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Cuando el Conde me miró,675
-Me dió ocasión de quereros.
+<sp><l>Cuando el Conde me miró,
+Me dió ocasión de quereros.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Aunque deudos, nos preciamos
+<sp><l>Aunque deudos, nos preciamos
 Mucho más de ser amigos,
 Aunque envidias ni enemigos
 No quieren que lo seamos. 
 Queredle bien; que merece,
-Señora, que lo queráis.
+Señora, que lo queráis.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Lo que por él negociáis,
-Al Conde desfavorece.
+<sp><l>Lo que por él negociáis,
+Al Conde desfavorece.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Voy; que en la carroza aguarda. 
+<sp><l>Voy; que en la carroza aguarda. 
 Dad licencia que os visite,
-Y que yo lo solicite.
+Y que yo lo solicite.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Si vuelve con vos, ya tarda.
+<sp><l>Si vuelve con vos, ya tarda.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Tanto favor da á entender
-Que por él queréis honrarme. 
+<sp><l>Tanto favor da á entender
+Que por él queréis honrarme.</l></sp> 
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Por vos quiero yo obligarme
-Para que me vuelva á ver.
+<sp><l>Por vos quiero yo obligarme
+Para que me vuelva á ver.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Todo se lo digo ansí.
+<sp><l>Todo se lo digo ansí.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Yo os tengo por más discreto.
+<sp><l>Yo os tengo por más discreto.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Volverá el Conde en efeto?695
+<sp><l>¿Volverá el Conde en efeto?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-No sin vos, y con vos sí.
+<sp><l>No sin vos, y con vos sí.</l></sp>
 
-(_Vanse don Juan y Martín._)
+<stage>Vanse don Juan y Martín.</stage>
 
-<div type="scene" number="xsd:int">ESCENA XII</div>
+<div type="scene" number="12"></div>
 
-<speaker>DOÑA ANA</speaker>, <speaker>LEONOR</speaker>, <speaker>JUANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>, <speaker type="who"><l>LEONOR</l></speaker>, <speaker type="who"><l>JUANA</l></speaker>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Mucho le has favorecido,
-Para ser la vez primera.
+<sp><l>Mucho le has favorecido,
+Para ser la vez primera.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Cuando él me favoreciera,
+<sp><l>Cuando él me favoreciera,
 Mi favor lo hubiera sido; 
 Mas no me quiso entender:
-Tomo la amistad del Conde.
+Tomo la amistad del Conde.</l></sp>
 
-<speaker>JUANA</speaker>
+<speaker type="who"><l>JUANA</l></speaker>
 
-Agora tibio responde.
-Aun no ha llegado á querer.
+<sp><l>Agora tibio responde.
+Aun no ha llegado á querer.</l></sp>
 
-<speaker>DOÑA ANA</speaker> (_para sí_)
+<speaker type="who"><l>DOÑA ANA</l></speaker> <stage>para sí</stage>
 
-Necio pensamiento mío, 
+<sp><l>Necio pensamiento mío, 
 Que en tal locura habéis dado,
 Volved atrás, afrentado
 De ver tan necio desvío.
@@ -1582,7 +1577,7 @@ Pensamiento, poco á poco,
 No diga el honor que pierdo
 Que sois con desdenes cuerdo,
 Ya que quisistes ser loco.
-Dieron los ojos en ver,
+Dieron los <rs type="body">ojos</rs> en ver,
 Puesto que en lugar sagrado,
 Al hombre más recatado
 De mirar y de entender;
@@ -1607,79 +1602,79 @@ Hombre tan fino y helado,
 Que por lo helado me ha dado
 Tristes memorias del muerto.
 Pero si á cogerle acierto
-Con mirar y con rogar...740
+Con mirar y con rogar...
 Guárdese pues de llegar;
 Que, agraviada una mujer,
 Quiere hasta que ve querer,
-Por vengarse en olvidar. (_Vanse._)
+Por vengarse en olvidar.</l></sp><stage>Vanse.</stage>
 
-<div type="scene" number="xsd:int">ESCENA XIII</div>
+<div type="scene" number="13"></div>
 
-Patio de un mesón de Adamuz.
+<sp><l>Patio de un mesón de Adamuz.</l></sp>
 
-<speaker>UN INDIANO</speaker>, _y_ <speaker>UN MOZO DE MULAS</speaker>; _después_, <speaker>UN MESONERO</speaker>
+<speaker type="who"><l>UN INDIANO</l></speaker>, y <speaker type="who"><l>UN MOZO DE MULAS</l></speaker>; <stage>después</stage>, <speaker type="who"><l>UN MESONERO</l></speaker>
 
-<speaker>INDIANO
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Pasaremos de Adamuz,
-Si este recado nos dan.
+<sp><l>Pasaremos de Adamuz,
+Si este recado nos dan.</l></sp>
 
-<speaker>MOZO</speaker>
+<speaker type="who"><l>MOZO</l></speaker>
 
-Por eso dice el refrán:
-«Adamuz, pueblo sin luz.»
+<sp><l>Por eso dice el refrán:
+Adamuz, pueblo sin luz.
 Mas mira que desde aquí
-Comienza Sierra-Morena.
+Comienza Sierra-Morena.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Tú las jornadas ordena;
-Eso no corre por mí.
+<sp><l>Tú las jornadas ordena;
+Eso no corre por mí.</l></sp>
 
-(_Sale el Mesonero._)
+<stage>Sale el Mesonero.</stage>
 
-<speaker>MESONERO</speaker>
+<speaker type="who"><l>MESONERO</l></speaker>
 
-Bien venidos, caballeros.
+<sp><l>Bien venidos, caballeros.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Pues, huésped, ¿qué hay que comer?
+<sp><l>Pues, huésped, ¿qué hay que comer?</l></sp>
 
-<speaker>MESONERO</speaker>
+<speaker type="who"><l>MESONERO</l></speaker>
 
-Desde hoy á el amanecer
+<sp><l>Desde hoy á el amanecer
 Dos mozos, seis perdigueros
 Vienen con un perdigón,
-De que estoy desesperado.
+De que estoy desesperado.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Para mí basta.
+<sp><l>Para mí basta.</l></sp>
 
-<speaker>MESONERO</speaker>
+<speaker type="who"><l>MESONERO</l></speaker>
 
-Ha llegado
+<sp><l>Ha llegado
 Á hurtaros la bendición
-Una mujer que le tiene.
+Una mujer que le tiene.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Y cuando yo le tuviera,
+<sp><l>Y cuando yo le tuviera,
 Por ser mujer se le diera.
-¿Viene sola?
+¿Viene sola?</l></sp>
 
-<speaker>MESONERO</speaker>
+<speaker type="who"><l>MESONERO</l></speaker>
 
-Sola viene.
+<sp><l>Sola viene.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-¡Sola! ¿De qué calidad?
+<sp><l>¡Sola! ¿De qué calidad?</l></sp>
 
-<speaker>MESONERO</speaker>
+<speaker type="who"><l>MESONERO</l></speaker>
 
-Pobre, y de brío gallarda;
+<sp><l>Pobre, y de brío gallarda;
 Porque en un rocín de albarda
 (El término perdonad)
 Como un soldado venía.
@@ -1687,60 +1682,60 @@ Ella propria se apeó,770
 Le ató y de comer le dió
 Con despejo y bizarría.
 Volvíla á mirar y ví
-Que un arcabuz arrimaba.
+Que un arcabuz arrimaba.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-¿Que es tan brava?
+<sp><l>¿Que es tan brava?</l></sp>
 
-<speaker>MESONERO</speaker>
+<speaker type="who"><l>MESONERO</l></speaker>
 
-Aunque es tan brava,
+<sp><l>Aunque es tan brava,
 Os aseguro de mí
 Que más su cara temiera
-Que su arcabuz.
+Que su arcabuz.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-¿Habéis sido
-Galán?
+<sp><l>¿Habéis sido
+Galán</l></sp>?
 
-<speaker>MESONERO</speaker>
+<speaker type="who"><l>MESONERO</l></speaker>
 
-Bien me han parecido.
-Ya pasó la primavera,780
+<sp><l>Bien me han parecido.
+Ya pasó la primavera,
 Y estamos en el estío:
-Así los años se van.
+Así los años se van.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-¿Qué traje trae?
+<sp><l>¿Qué traje trae?</l></sp>
 
-<speaker>MESONERO</speaker>
+<speaker type="who"><l>MESONERO</l></speaker>
 
-Un gabán
+<sp><l>Un gabán
 Que cubre el traje, no el brío;
 Un sombrero razonable...
 Todo de poco valor;
 Al fin, parece, Señor,
 De buena suerte y afable,
-Menos aquel arcabuz.
+Menos aquel arcabuz.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-¿Es ésta?
+<sp><l>¿Es ésta?</l></sp>
 
-<speaker>MESONERO</speaker>
+<speaker type="who"><l>MESONERO</l></speaker>
 
-La misma es.
+<sp><l>La misma es.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA XIV</div>
+<div type="scene" number="14"></div>
 
-<speaker>DOÑA MARÍA</speaker>, _con sombrero, gabán y un arcabuz_.--DICHOS
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <stage>con sombrero, gabán y un arcabuz.--DICHOS<stage>
 
-<speaker>DOÑA MARÍA</speaker> (_ap._)
+<speaker type="who"><l>DOÑA MARÍA</l></speaker> <stage>ap.</stage>
 
-Temerosa voy, después
+<sp><l>Temerosa voy, después
 Que he entrado por Adamuz,
 Por ser camino real,
 Á que nunca me atreví;
@@ -1749,7 +1744,7 @@ Ha sido el ánimo igual
 Al peligro que he tenido.
 ¡Ay, padre, y cuánto dolor
 Me da el verte sin favor,
-Si no es que el Duque lo ha sido!800
+Si no es que el Duque lo ha sido!
 Suelen faltar los amigos
 En la mejor ocasión;
 Mas ¡ay! que tus años son
@@ -1757,48 +1752,48 @@ Los mayores enemigos.
 Los de mi hermano pudieran
 Suplir los tuyos, Señor,
 Aunque no para tu honor
-Más que mis manos hicieran.
+Más que mis <rs type="body">manos</rs> hicieran.
 Yo cumplí su obligación;
 Mas defenderte no puedo,810
 Por no acrecentar el miedo
 De mi muerte ó mi prisión.
 Al fin, bien está lo hecho.
 ¿De qué me lamento en vano?
-¡Traidor don Diego! ¡Á un anciano815
+¡Traidor don Diego! ¡Á un anciano
 Con una cruz en el pecho!...
 Así para quien se atreve
 Á las edades ancianas;
 Que es atreverse á unas canas
 Violar un templo de nieve.
-Pero la mano piadosa
+Pero la <rs type="body">mano</rs> piadosa
 Del cielo quiere que espante
 Á un Holofernes gigante
-Una Judit valerosa.
+Una Judit valerosa.</l></sp>
 
-<speaker>INDIANO</speaker> (_á doña María_)
+<speaker type="who"><l>INDIANO</l></speaker> <stage>á doña María<stage>
 
-Como suelen los caminos
+<sp><l>Como suelen los caminos
 Dar licencia á los que pasan
 Para entretener las horas,
 Que por ellos son tan largas,
 Á preguntaros me atrevo
-Si lo ha de ser la jornada,830
+Si lo ha de ser la jornada,
 Ó por ventura tenéis
-Cerca de aquí vuestra casa.
+Cerca de aquí vuestra casa.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No soy, Señor, desta tierra.
+<sp><l>No soy, Señor, desta tierra.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Como os ví sola, pensaba
+<sp><l>Como os ví sola, pensaba
 Que érades de alguna aldea
-De aquesta fértil comarca.
+De aquesta fértil comarca.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No, Señor; que yo nací
+<sp><l>No, Señor; que yo nací
 De esa parte de Granada,
 Y á servir en ella vine;
 Que cuando los padres faltan 
@@ -1808,17 +1803,17 @@ No se cansó mi fortuna,
 Pues cuando contenta estaba
 Del buen dueño que tenía, 
 Persona de órdenes sacras,
-Le llevó también la muerte,
+Le llevó también <rs type="emotion" ana="noun">la muerte</rs>,
 Que para mayor mudanza
-Me dió ocasión, como veis.
+Me dió ocasión, como veis.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Y ¿dónde vais?
+<sp><l>Y ¿dónde vais?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Siempre hablaba
+<sp><l>Siempre hablaba
 Esta persona que digo,
 Con notables alabanzas
 De la corte y de Madrid:
@@ -1830,36 +1825,36 @@ Determiné de dar traza
 De ir á servir á la corte.
 Y una vez determinada, 
 Lo que viviendo tenía
-El buen cura (que Dios haya)
-Para su regalo y gusto,
+El buen cura <stage>que Dios haya</stage>
+Para su regalo y <rs type="emotion" ana="verb">gusto</rs>,
 Arcabuz, rocín de caza
 Y este gabán, tomé luego, 
 Y voy con notables ansias
-De ver lo que alaban todos.
+De ver lo que alaban todos.</l></sp>
 
-<speaker>MOZO</speaker>
+<speaker type="who"><l>MOZO</l></speaker>
 
-El camino de Granada
-No es éste.
+<sp><l>El camino de Granada
+No es éste.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Decís muy bien;
+<sp><l>Decís muy bien;
 Mas vine por ver si estaba
-En Córdoba un deudo mío.
+En Córdoba un deudo mío.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-¡Determinación extraña
-De una mujer!
+<sp><l>¡Determinación extraña
+De una mujer!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Soy mujer.
+<sp><l>Soy mujer.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Decís muy bien, eso basta.
+<sp><l>Decís muy bien, eso basta.
 Yo voy también á Madrid:
 Traigo jornada más larga,
 Porque vengo de las Indias;
@@ -1872,175 +1867,175 @@ El premio á las pretensiones
 Que la ocupación dilata,
 Casa tengo de poner:
 Si en el camino os agrada
-Mi trato, servidme á mí.
+Mi trato, servidme á mí.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-El cielo por vos me ampara.
+<sp><l>El cielo por vos me ampara.
 Desde hoy soy criada vuestra,
 Y creed que soy criada 
-Que os excusaré de muchas.
+Que os excusaré de muchas.</l></sp>
 
-<speaker>MOZO</speaker> (_áp._)
+<speaker type="who"><l>MOZO</l></speaker><stage>áp.</stage>
 
-Convertirse quiere en ama.
+<sp><l>Convertirse quiere en ama.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No habrá cosa que no sepa.
+<sp><l>No habrá cosa que no sepa.</l></sp>
 
-<speaker>MOZO</speaker>
+<speaker type="who"><l>MOZO</l></speaker>
 
-Y yo salgo á la fianza;
+<sp><l>Y yo salgo á la fianza;
 Que la buena habilidad 
-Se le conoce en la cara.
+Se le conoce en la cara.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Hanme dicho que en la corte
+<sp><l>Hanme dicho que en la corte
 Hay ocasiones que gastan
 Inútilmente la hacienda,
 Y yo querría guardarla;
-Que cuesta mucho adquirirla.
+Que cuesta mucho adquirirla.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-La familia es excusada
+<sp><l>La familia es excusada
 Donde hay tanta confusión,
 Pues no se repara en nada.
 Yo sola basto á serviros: 
 No habrá cosa que no haga,
 De cuantas haciendas tiene
-El gobierno de una casa.
+El gobierno de una casa.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-Pues partamos en comiendo,
-Y fiad de mí la paga.910
+<sp><l>Pues partamos en comiendo,
+Y fiad de mí la paga.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker> (_áp._)
+<speaker type="who"><l>DOÑA MARÍA</l></speaker><stage>áp.</stage>
 
-¡Ay fortuna! ¿dónde llevas
+<sp><l>¡Ay fortuna! ¿dónde llevas
 Una mujer desdichada?
 Pero no fueras fortuna,
-Á saber en lo que paras.
+Á saber en lo que paras.</l></sp>
 
-ACTO SEGUNDO
+<div type="act" number="2"</div>
 
-Sala en casa de doña Ana.
+<stage>Sala en casa de doña Ana.</stage>
 
-ESCENA PRIMERA
+<div type="scene" number="1"></div>
 
-<speaker>EL CONDE</speaker>, <speaker>DON JUAN</speaker>
+<speaker type="who"><l>EL CONDE</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Compiten con sus virtudes 
-Sus gracias y perfecciones.
+<sp><l>Compiten con sus virtudes 
+Sus gracias y perfecciones.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Que tantas persecuciones,
+<sp><l>¿Que tantas persecuciones,
 Visitas, solicitudes,
 Celos, desvelos, requiebros,
 Tengan por premio su olvido, 
 Hasta verme convertido,
 De Amadís, en Beltenebros?
-No he visto tales aceros.
+No he visto tales aceros.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Conde, no habéis de cansaros;
+<sp><l>Conde, no habéis de cansaros;
 Que el estado de estimaros
-Ya es principio de quereros.
+Ya es principio de quereros.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Á los principios me estoy
+<sp><l>Á los principios me estoy
 Á el cabo de tres semanas.
 ¿Adonde, esperanzas vanas,
-Con este imposible voy?
+Con este imposible voy?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Todas son penas posibles,
-Pues que sin celos amáis.
+<sp><l>Todas son penas posibles,
+Pues que sin celos amáis.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¡Ay, ojos, celos me dais,
+<sp><l>¡Ay, <rs type="body">ojos</rs>, celos me dais,
 Aunque celos invisibles!
-Quéjase de amor doña Ana, 
-Y á mí no me tiene amor:
-Esto es celos en rigor.
+Quéjase de <rs type="emotion" ana="noun">amor</rs> doña Ana, 
+Y á mí no me tiene <rs type="emotion" ana="noun">amor</rs>:
+Esto es celos en rigor.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Por qué, si es sospecha vana?
+<sp><l>¿Por qué, si es sospecha vana?</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Es celos lo que imagino;
+<sp><l>Es celos lo que imagino;
 Que no es celos lo que sé:
 Cosa que pienso que fué,
-Y que en mi daño adivino.
+Y que en mi daño adivino.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA II</div>
+<div type="scene" number="2"></div>
 
-<speaker>MARTÍN</speaker>.--DICHOS
+<speaker type="who"><l>MARTÍN</l></speaker>.<stage>DICHOS</stage>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Por poco tuviera calma
+<sp><l>Por poco tuviera calma
 La nave de tu deseo.
 Entro, y á doña Ana veo,
 Venus de marfil con alma.
 ¿Cómo te podré pintar
 De la suerte que la ví?
 Cultas musas, dadme aquí
-Un ramo blanco de azahar950
+Un ramo blanco de azahar
 De las huertas de Valencia
 Ó jardines de Sevilla.
 Comience una zapatilla
 De la Vera de Plasencia,
-Porque entremos por la basa955
+Porque entremos por la basa
 Á esta coluna de nieve,
 Agentado azul, pie breve,
-Que de tres puntos no pasa.
+Que de tres puntos no pasa.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Tres puntos? Necio, repara...
+<sp><l>¿Tres puntos? Necio, repara...</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Pues lo digo, yo lo sé:
+<sp><l>Pues lo digo, yo lo sé:
 Puntos son que de aquel pie
-Los tomara por la cara.
+Los tomara por la cara.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Cómo lo viste?
+<sp><l>¿Cómo lo viste?</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Un manteo
+<sp><l>Un manteo
 Esta licencia me dió,
 Donde cuanto supo obró 
 La riqueza y el aseo.
 Pero pidió los chapines
 Porque mirarla me vió,
 Y entre las cintas metió
-Cinco pares de jazmines.970
+Cinco pares de jazmines.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-De escarpines presumí,
-Según anda el algodón.
+<sp><l>De escarpines presumí,
+Según anda el algodón.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Ésos paragambas son;
+<sp><l>Ésos paragambas son;
 Que á cierta dama que ví
 Con cañafístolas tales,
 Que se pudiera, aunque bellas,
@@ -2053,19 +2048,19 @@ Y con risueño semblante
 Me dijo: «No es gentileza;
 Pero cosa no ha de haber
 En una honrada mujer
-Que se note por flaqueza.»
+Que se note por flaqueza.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¡Linda disculpa!
+<sp><l>¡Linda disculpa!</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Extremada.
+<sp><l>Extremada.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-La ropa de levantar,
+<sp><l>La ropa de levantar,
 Con tanto fino alamar,
 Era una colcha bordada.
 Finalmente, no quería
@@ -2077,156 +2072,156 @@ De trájico embajador,
 Porfié, y saldrá, Señor,
 Si la haces pleito homenaje
 De sola conversación,
-Como quedó concertado.
+Como quedó concertado.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¡Qué ejercicio tan cansado
-Para mi loca afición!
+<sp><l>¡Qué ejercicio tan cansado
+Para mi loca afición!</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Música y versos quedaron
-Para esta noche de acuerdo.
+<sp><l>Música y versos quedaron
+Para esta noche de acuerdo.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-En tenerme por tan cuerdo
-Muchos locos la engañaron.
+<sp><l>En tenerme por tan cuerdo
+Muchos locos la engañaron.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA III</div>
+<div type="scene" number="3"></div>
 
-<speaker>DOÑA ANA</speaker>, _en hábito galán_; <speake>JUANA</speaker>, MÚSICOS.--DICHOS
+<speaker type="who"><l>DOÑA ANA</l></speaker>, en hábito galán; <speake>JUANA</l></speaker>, <stage>MÚSICOS.--DICHOS</stage>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-No dirá vueseñoría
-Que no le fían el talle.
+<sp><l>No dirá vueseñoría
+Que no le fían el talle.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Quien tan bien puede fialle,
+<sp><l>Quien tan bien puede fialle,
 Agravio á los dos haría: 
 Á vos por seguridad,
 Y á mí por justo deseo.
-¡Gracias á amor, que en vos veo
-Señas de más amistad!
+¡Gracias á <rs type="emotion" ana="noun">amor</rs>, que en vos veo
+Señas de más amistad!</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Siéntese vueseñoría;
+<sp><l>Siéntese vueseñoría;
 Que no le quiero galán
 Esta noche, que nos dan
 La música y la poesía
 Los sugetos que han de hacer
-Un rato conversación. 
+Un rato conversación.</l></sp> 
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Dice mi imaginación
-Que no quiere más de ver.
+<sp><l>Dice mi imaginación
+Que no quiere más de ver.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Señor don Juan, ¿no os sentáis?--
-¡Qué esquivo primo tenéis! (_Al Conde._)
+<sp><l>Señor don Juan, ¿no os sentáis?--
+¡Qué esquivo primo tenéis!</l></sp><stage>Al Conde.</stage>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-La culpa que me ponéis,
+<sp><l>La culpa que me ponéis,
 Para disculpa me dais;
-Pero quiero obedeceros.
+Pero quiero obedeceros.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Canten, y hablemos yo y vos.
+<sp><l>Canten, y hablemos yo y vos.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Y los tres, porque los dos
-No parezcamos groseros.
+<sp><l>Y los tres, porque los dos
+No parezcamos groseros.</l></sp>
 
-MÚSICOS. (_Cantan._)
+<stage>MÚSICOS. Cantan.</stage>
 
-_¿De qué sirve, ojos serenos,
+<sp><l>¿De qué sirve, <rs type="body">ojos</rs> serenos,
 Que no me miréis jamás?
 De que yo padezca más,
-Y no de que os quiera menos._
+Y no de que os quiera menos.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-No me agrada que á los ojos 
-Llamen serenos.
+<sp><l>No me agrada que á los <rs type="body">ojos</rs> 
+Llamen serenos.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Por qué,
+<sp><l>¿Por qué,
 Si el cielo, cuando se ve
-Libre de azules enojos,
-Se llama así?
+Libre de azules enojos</rs>,
+Se llama así?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-En una dama
+<sp><l>En una dama
 No apruebo vuestro argumento,
 Si es el alma el movimiento
 Que á cuantos los miran llama,
 Y si al cielo en su azul velo
 La serenidad cuadró,
 Á el sol y á la luna no, 
-Que son los ojos del cielo;
-Porque éstos siempre se mueven.
+Que son los <rs type="body">ojos</rs> del cielo;
+Porque éstos siempre se mueven.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Perdonad á la canción
+<sp><l>Perdonad á la canción
 No ser de vuestra opinión:
-Tanto los versos se atreven.
+Tanto los versos se atreven.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Díganse á varios sugetos,
-Como quedó concertado.
+<sp><l>Díganse á varios sugetos,
+Como quedó concertado.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Comience el Conde.
+<sp><l>Comience el Conde.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-He buscado
+<sp><l>He buscado
 En vuestro loor seis concetos.
-Oid.
+Oid.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-No por vida mía;
-Escritos me los daréis.
+<sp><l>No por vida mía;
+Escritos me los daréis.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-No sea, pues no queréis.
+<sp><l>No sea, pues no queréis.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Emplead vuestra poesía
-Adonde más partes haya.
+<sp><l>Emplead vuestra poesía
+Adonde más partes haya.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Pues oid, si sois servida,1060
+<sp><l>Pues oid, si sois servida,1060
 Un soneto á la venida
-Del inglés á Cádiz.
+Del inglés á Cádiz.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Vaya.
+<sp><l>Vaya.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Atrevióse el inglés, de engaño armado
+<sp><l>Atrevióse el inglés, de engaño armado
 Porque al león de España vió en el nido,
-Las uñas en el ámbar, y vestido,1065
+Las uñas en el ámbar, y vestido,
 En vez de pieles, del tusón dorado.
 
 Con débil caña, no con fresno herrado,
@@ -2239,59 +2234,59 @@ De España asir por las arenas solas
 Del mar, cuyo cristal ciñe esmeralda;
 
 Mas viendo en las colunas españolas
-La sombra del león, volvió la espalda,1075
-Sembrando las banderas por las olas.
+La sombra del león, volvió la <rs type="body">espalda</rs>,
+Sembrando las banderas por las olas.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¡Levantó la pluma el vuelo!
+<sp><l>¡Levantó la pluma el vuelo!</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Gran soneto á toda ley!
+<sp><l>¡Gran soneto á toda ley!</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¡Qué bien pinta á nuestro rey!
+<sp><l>¡Qué bien pinta á nuestro rey!</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Mejor le ha pintado el cielo.1080
+<sp><l>Mejor le ha pintado el cielo.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-¡Gran soneto!
+<sp><l>¡Gran soneto!</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-No le he dado,
+<sp><l>No le he dado,
 Porque no estoy dél contento.--
-Decid vos.
+Decid vos.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Qué atrevimiento!
-Donde vos habéis hablado!
+<sp><l>¡Qué atrevimiento!
+Donde vos habéis hablado!</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Excusad tales excusas.
+<sp><l>Excusad tales excusas.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¿Mas qué os ha de causar risa?
+<sp><l>¿Mas qué os ha de causar risa?</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Hablad, divina poetisa.
+<sp><l>Hablad, divina poetisa.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Silencio; que hablan las musas.
+<sp><l>Silencio; que hablan las musas.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Amaba Filis á quien no la amaba,
+<sp><l>Amaba Filis á quien no la amaba,
 Y á quien la amaba ingrata aborrecía;
 Hablaba á quien jamás la respondía,
 Sin responder jamás á quien la hablaba.
@@ -2301,125 +2296,125 @@ Dejaba á quien amando la seguía;
 Por quien la despreciaba se perdía,
 Y á el perdido por ella despreciaba.
 
-Concierta, amor, si ya posible fuere,
+Concierta, <rs type="emotion" ana="noun">amor</rs>, si ya posible fuere,
 Desigualdad que tu poder infama:
 Muera quien vive, y vivirá quien muere.
 
-Da hielo á hielo, amor, y llama á llama,
+Da hielo á hielo, <rs type="emotion" ana="noun">amor</rs>, y llama á llama,
 Porque pueda querer á quien la quiere
-Ó pueda aborrecer á quien desama.
+Ó pueda aborrecer á quien desama.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Vos os podéis alabar;
-Que nadie puede, Señora.
+<sp><l>Vos os podéis alabar;
+Que nadie puede, Señora.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Hablará don Juan agora.
+<sp><l>Hablará don Juan agora.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Dejádmele imaginar.
+<sp><l>Dejádmele imaginar.
 
 Una moza de cántaro y del río,
 Más limpia que la plata que en él lleva,
 Recién herrada de chinela nueva,
 Honor del devantal, reina del brío;
 
-Con manos de marfil, con señorío,
+Con <rs type="body">manos</rs> de marfil, con señorío,
 Que no hay tan gran Señor que se le atreva,
-Pues donde lava, dice amor que nieva,
+Pues donde lava, dice <rs type="emotion" ana="noun">amor</rs> que nieva,
 Es alma ilustre al pensamiento mío.
 
 Por estrella, por fe, por accidente, 
 Viéndola henchir el cántaro, en despojos
-Rendí la vida á el brazo trasparente;
+Rendí la vida á el <rs type="body">brazo</rs> trasparente;
 
 Y, envidiosos del agua mis enojos,
 Dije: «¿Por qué la coges de la fuente,
-Si la tienes, más cerca, de mis ojos?
+Si la tienes, más cerca, de mis <rs type="body">ojos</rs>?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Malos versos!
+<sp><l>¡Malos versos!</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No sé más.
+<sp><l>No sé más.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Un caballero discreto
+<sp><l>Un caballero discreto
 ¿Escribe á tan vil sugeto?
-No lo creyera jamás.
+No lo creyera jamás.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Tiene doña Ana razón. 
+<sp><l>Tiene doña Ana razón.</l></sp> 
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Si hubiérades visto el brío
+<sp><l>Si hubiérades visto el brío
 Del nuevo sugeto mío,
 La hermosura y discreción,
 Dijérades que tenía
 Tanta razón de querer,
 Que no supe encarecer
-Lo menos que merecía.
+Lo menos que merecía.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Si es disfrazar vuestra dama,
+<sp><l>Si es disfrazar vuestra dama,
 Como suelen los poetas,
 Por tratar cosas secretas
 Sin ofensa de su fama,
 Está bien; pero si no,
-Bajo pensamiento ha sido.
+Bajo pensamiento ha sido.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Ninguna cosa he fingido,
+<sp><l>Ninguna cosa he fingido,
 Ni tengo la culpa yo; 
 Porque no lejos de aquí
 Vive la hermosa Isabel,
-Por quien el amor cruel
+Por quien el <rs type="emotion" ana="noun">amor</rs> cruel
 Hace estos lances en mí.
 Sirve á un indiano, que viene
 Á la corte á pretender.
 No sé qué puede querer
-Quien tanta riqueza tiene.
+Quien tanta riqueza tiene.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Á tal sugeto ¡tal fe!
+<sp><l>Á tal sugeto ¡tal fe!</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-La que me ha muerto y rendido, 
+<sp><l>La que me ha muerto y rendido, 
 Moza de cántaro ha sido,
 Moza de cántaro fué.
-En él este amor bebí,
+En él este <rs type="emotion" ana="noun">amor</rs> bebí,
 Todo me abrasó con él;
 Ella fué Sirena, y él 
 El mar en que me perdí.
 Con él veneno me ha dado,
-Con él me mató.
+Con él me mató.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Si fuera
+<sp><l>Si fuera
 Martín quien eso dijera,
 Estuviera disculpado; 
 Pero ¡un caballero, un hombre
-Como vos!...
+Como vos!...</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No es elección
+<sp><l>No es elección
 Amor; diferentes son
 Los efetos de su nombre.
-Es desde el cabello al pie1165
+Es desde el cabello al pie
 Tan bizarra y aliñosa,
 Que no es tan limpia la rosa,
 Por más que al alba lo esté.
@@ -2428,131 +2423,131 @@ En medio desta humildad,
 Que aumenta su honestidad
 Y no deshace su brío.
 Finalmente, yo no ví
-Dama que merezca amor
-Con más fe, con más rigor.1175
+Dama que merezca <rs type="emotion" ana="noun">amor</rs>
+Con más fe, con más rigor.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Advertid que estoy yo aquí,
+<sp><l>Advertid que estoy yo aquí,
 Y toca en descortesía
-Tan necio encarecimiento.
+Tan necio encarecimiento.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Yo he dicho mi pensamiento
-Sin pensar que os ofendía.1180
+<sp><l>Yo he dicho mi pensamiento
+Sin pensar que os ofendía.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-No os levantéis. ¿Dónde vais?
+<sp><l>No os levantéis. ¿Dónde vais?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Corrida me voy.
+<sp><l>Corrida me voy.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Por qué? Sin ofensa vuestra hablé.
+<sp><l>¿Por qué? Sin ofensa vuestra hablé.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Si cosas bajas amáis,
-No las igualéis conmigo. 
+<sp><l>Si cosas bajas amáis,
+No las igualéis conmigo.</l></sp>
 
-(_Vanse doña Ana y Juana._)
+<stage>Vanse doña Ana y Juana.</stage>
 
-<div type="scene" number="xsd:int">ESCENA IV</div>
+<div type="scene" number="4"></div>
 
-<speaker>EL CONDE</speaker>, <speaker>DON JUAN</speaker>, <speaker>MARTÍN</speaker>; _después_, JUANA
+<speaker type="who"><l>EL CONDE</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>, <speaker type="who"><l>MARTÍN</l></speaker>; <stage>después,</stage> <speaker type="who"><l>JUANA</l></speaker>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¡Por Dios, que tiene razón!
+<sp><l>¡Por Dios, que tiene razón!</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Cesó la conversación.
+<sp><l>Cesó la conversación.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¡Porque lo que siento digo!
+<sp><l>¡Porque lo que siento digo!</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Decir que no visteis dama
-Como ella, ¿no ha sido error?
+<sp><l>Decir que no visteis dama
+Como ella, ¿no ha sido error?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Error?
+<sp><l>¿Error?</l></sp>
 
-(_Sale Juana._)
+<stage>Sale Juana.</stage>
 
-<speaker>JUANA</speaker>
+<speaker type="who"><l>JUANA</l></speaker>
 
-Conde, mi señor,
-Entrad: mi señora os llama.
+<sp><l>Conde, mi señor,
+Entrad: mi señora os llama.</l></sp>
 
-<speaker>CONDE</speaker> (_á don Juan_)
+<speaker type="who"><l>CONDE</l></speaker> <stage>á don Juan</stage>
 
-Ella me quiere decir
-Que no os traiga más conmigo.
+<sp><l>Ella me quiere decir
+Que no os traiga más conmigo.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Si lo tiene por castigo, 
-No apelo de no venir.
+<sp><l>Si lo tiene por castigo, 
+No apelo de no venir.</l></sp>
 
-(_Vanse el Conde y Juana._)
+<stage>Vanse el Conde y Juana.</stage>
 
-Di á el Conde que á verla fuí,
-(_Á Martín._)
-Ésa que á doña Ana enfada.
+<sp><l>Di á el Conde que á verla fuí,
+<stage>Á Martín.</stage>
+Ésa que á doña Ana enfada.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Tú ¿quieres lo que te agrada?
+<sp><l>Tú ¿quieres lo que te agrada?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Sí, Martín, mil veces sí.
+<sp><l>Sí, Martín, mil veces sí.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Pues quiérela si la quieres;
+<sp><l>Pues quiérela si la quieres;
 Que tal vez agrada un prado
 Más que un jardín cultivado,
-Y al fin todas son mujeres. (_Vanse._)
+Y al fin todas son mujeres.</l></sp> <stage>Vanse.</stage>
 
-<div type="scene" number="xsd:int">ESCENA V</div>
+<div type="scene" number="5"></div>
 
-Calle.
+<stage>Calle.</stage>
 
-<speaker>DOÑA MARÍA</speaker>, _en hábito humilde y devantal_; <speaker>EL INDIANO</speaker>, _siguiéndola_.
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <stage>en hábito humilde y devantal</stage>; <speaker type="who"><l>EL INDIANO</l></speaker>, <stage>siguiéndola.</stage>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-_Advierta vuestra merced 
+<sp><l>Advierta vuestra merced 
 Que si esto adelante pasa, No estoy un
-hora en su casa._
+hora en su casa.</l></sp>
 
-<speaker>INDIANO</speaker>
+<speaker type="who"><l>INDIANO</l></speaker>
 
-(_Ap._ Pensamiento, detened
-El paso; que hay honra aquí.)
-Palabra, Isabel, te doy1210
+<stage>Ap. Pensamiento, detened
+El paso; que hay honra aquí.</stage>
+<sp><l>Palabra, Isabel, te doy
 Que no seré desde hoy
 Importuno como fuí.
 Desprecia en fin tu belleza
 Y ese donaire apacible;
-Que ya sé que es imposible1215
-Mudar la naturaleza. (_Vase._)
+Que ya sé que es imposible
+Mudar la naturaleza.</l></sp> <stage>Vase.</stage>
 
-<div type="scene" number="xsd:int">ESCENA VI</div>
+<div type="scene" number="6"></div>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Tiempos de mudanzas llenos,
+<sp><l>Tiempos de mudanzas llenos,
 Y de firmezas jamás,
 Que ya de menos á más,
 Y ya vais de más á menos,
@@ -2565,17 +2560,17 @@ De cuantas cosas miraba,
 Las galas que desechaba,
 Los papeles que rompía;
 El no haber de quien pensase
-Que mi mano mereciese,
+Que mi <rs type="body">mano</rs> mereciese,
 Por servicios que me hiciese,
 Por años que me obligase;
 Toda aquella bizarría
 Que como sueño pasó,
 Á tanta humildad llegó,
 Que por mí decir podría:
-_Aprended, flores, de mí
+Aprended, flores, de mí
 Lo que va de ayer á hoy;
 Que ayer maravilla fuí,
-Y hoy sombra mía aun no soy._
+Y hoy sombra mía aun no soy.
 Flores, que á la blanca aurora
 Con tal belleza salís,
 Que soberbias competís
@@ -2585,7 +2580,7 @@ Como vosotras me ví,
 Tan arrogante salí;
 Sucedió la noche al día:
 Mirad la desdicha mía,
-_Aprended, flores, de mí._
+Aprended, flores, de mí.
 Maravilla solía ser
 De toda la Andalucía;
 Ó maravilla ó María,
@@ -2595,7 +2590,7 @@ Que no seréis lo que soy,
 Pues hoy en estado estoy,
 Que si en ayer me contemplo,
 Conoceréis por mi ejemplo
-_Lo que va de ayer á hoy._
+Lo que va de ayer á hoy.
 No desvanezca al clavel
 La púrpura, ni á el dorado
 La corona, ni al morado
@@ -2605,58 +2600,58 @@ Manutisa carmesí,
 Ni por el color turquí,
 Bárbara violeta, ignores
 Tu fin, contemplando, flores,
-_Que ayer maravilla fuí._
+Que ayer maravilla fuí.
 De esta loca bizarría
 Quedaréis desengañadas
-Cuando con manos heladas
+Cuando con <rs type="body">mano</rs>s heladas
 Os cierre la noche fría.
-Maravilla ser solía;1275
+Maravilla ser solía;
 Pero ya lástima doy;
 Que de extremo á extremo voy,
 Y desde ser á no ser,
 Pues sol me llamaba ayer,
-_Y hoy sombra mía aun no soy._ 
+Y hoy sombra mía aun no soy.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA VII</div>
+<div type="scene" number="7"></div>
 
-<speaker>DON JUAN</speaker>.--<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>.--<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Dicha he tenido, por Dios.--
-Isabel, ¿adónde bueno?
+<sp><l>Dicha he tenido, por Dios.--
+Isabel, ¿adónde bueno?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Adónde bueno, Isabel?
+<sp><l>¿Adónde bueno, Isabel?
 Adonde hallase un requiebro.
 ¿Pensáis que no tengo yo 
-Mi poco de entendimiento?
+Mi poco de entendimiento?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Bien conozco que no ignoras
+<sp><l>Bien conozco que no ignoras
 Tanto; que á veces sospecho
-Que finges lo que no entiendes.
+Que finges lo que no entiendes.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Lo que no quiero no entiendo.
-Pero á la fe que me admira
+<sp><l>Lo que no quiero no entiendo.
+Pero á la fe que me <rs type="emotion" ana="noun">admira</rs>
 Que un caballero tan cuerdo
 Y tan galán como vos
 Humille sus pensamientos
-Á una mujer como yo.1295
-¿Sois pobre?
+Á una mujer como yo.
+¿Sois pobre?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Pues ¿á qué efeto
-Me preguntas si soy pobre?
+<sp><l>Pues ¿á qué efeto
+Me preguntas si soy pobre?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Porque si os falta dinero
+<sp><l>Porque si os falta dinero
 Para pretensiones altas,
 No tengo por mal acuerdo 
 Requebrar lo que, á la cuenta
@@ -2666,9 +2661,9 @@ Ligas, medias y un sombrero
 Para el río con su banda,
 Avantal de lienzo grueso,
 Chinelas ya sin virillas
-(Que solía en otro tiempo
-En los pies de las mujeres
-La plata barrer el suelo),
+<stage>Que solía en otro tiempo
+En los <rs type="body">pies</rs> de las mujeres
+La plata barrer el suelo</stage>,
 Castañetas, cintas, tocas;
 Que para últimos empleos
 De las damas, fondo en ángel,
@@ -2677,18 +2672,18 @@ Del Potosí, perlas ni oro
 En los orientales reinos.
 Más pienso que os costarían
 Las randas de un telarejo
-Que una legión de fregonas.
+Que una legión de fregonas.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No juzgaras mis deseos
+<sp><l>No juzgaras mis deseos
 Por el camino que dices,
 Si te dijera el espejo
-El despejo de tu talle.
+El despejo de tu talle.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Espejo y despejo? ¡Bueno!
+<sp><l>¿Espejo y despejo? ¡Bueno!
 Ya con cuidado me habláis,
 Porque en efeto os parezco
 Mujer que os puedo entender.
@@ -2706,20 +2701,20 @@ Sin agrio, llama á ese esclavo,
 ¿Cómo gastas tanta azúcar?
 Para madrugar me acuesto,
 Despiértame de mañana,
-Pon la mesa, luego vuelvo;»
+Pon la mesa, luego vuelvo;
 Y otras cosas de este porte
 Me han quitado el sentimiento
 De otras razones más grandes,
 No porque no las entiendo.
-En efeto ¿qué queréis?
+En efeto ¿qué queréis?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Que me quieras en efeto.
+<sp><l>Que me quieras en efeto.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¡Bien aforrada razón,
+<sp><l>¡Bien aforrada razón,
 Y bien dicha para presto!
 Bien digo yo que pensáis
 Que á mi corto entendimiento
@@ -2729,11 +2724,11 @@ Pues levantad el lenguaje;
 Que, como dicen los negros,
 El ánima tengo blanca,
 Aunque mal vestido el cuerpo.
-Habladme como quien sois.
+Habladme como quien sois.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Yo, Isabel, así lo creo; 
+<sp><l>Yo, Isabel, así lo creo; 
 Porque, pensando en tu oficio,
 Tal vez el respeto pierdo;
 Pero en mirando á tu cara,
@@ -2742,14 +2737,14 @@ Mas no te debe enojar
 Que te diga mi deseo;
 Que sólo son por el fin
 Todos los actos perfectos.
-¿Qué dirás deste lenguaje?
+¿Qué dirás deste lenguaje?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Que, aunque es el término honesto,
+<sp><l>Que, aunque es el término honesto,
 No me agrada la intención
 De la suerte que la entiendo.
-Conmigo (á lo que imagino)
+Conmigo <stage>á lo que imagino</stage>
 Tomáis la espada á lo diestro.
 Tiré, desviasteis, huí;
 Y acometiéndome al pecho,
@@ -2759,15 +2754,15 @@ Pues no, mi señor, por vida
 De los dos, porque no quiero
 Que, asiendo la guarnición,
 Engañéis mi honesto celo.
-Esténse quedas las manos,
+Esténse quedas las <rs type="body">manos</rs>,
 Y aun los pensamientos quedos;
 Que no seremos amigos 
-En no siendo el trato honesto.
+En no siendo el trato honesto.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Como das, Isabel mía,
-(¿Mía dije? ¡Ay Dios! que miento)
+<sp><l>Como das, Isabel mía,
+<stage>¿Mía dije? ¡Ay Dios! que miento</stage>
 En pensar que por ser pobre
 Te busco, te sigo y ruego,
 Dilatas á mis verdades
@@ -2779,8 +2774,8 @@ Donaire y entendimiento
 Que tiene aqueste lugar;
 Porque más estimo y precio
 Un listón de tus chinelas
-Que las perlas de su cuello.
-Más precio en tus blancas manos
+Que las perlas de su <rs type="body">cuello</rs>.
+Más precio en tus blancas <rs type="body">manos</rs>
 Ver aquel cántaro puesto,
 Á la fuente del Olvido
 Pedirle cristal deshecho;
@@ -2791,11 +2786,11 @@ De fuera á la que entra dentro;
 Y ver cómo se da prisa
 El agua á henchirle de presto, 
 Por ir contigo á tu casa,
-En tus brazos ó en tus pechos,
+En tus <rs type="body">brazos</rs> ó en tus pechos,
 Que ver como cierta dama
 Baja en su coche soberbio,
 Asiendo verdes cortinas
-Por dar diamantes los dedos,
+Por dar diamantes los <rs type="body">dedos</rs>,
 Ó asoma por el estribo
 Los rizos de los cabellos
 En las uñas de un descanso,
@@ -2803,177 +2798,177 @@ Que á tantos sirvió de anzuelo.
 Yo me contento que digas,
 Dulce Isabel: «¡Yo te quiero!»
 Que también quiero yo el alma;
-No todo el amor es cuerpo.
-¿Qué respondes, ojos míos?
+No todo el <rs type="emotion" ana="noun">amor</rs> es cuerpo.
+¿Qué respondes, <rs type="body">ojos</rs> míos?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Á ojos míos yo no puedo
+<sp><l>Á <rs type="body">ojos</rs> míos yo no puedo
 Responder ninguna cosa,
 Porque decís que son vuestros.
 Á lo de la voluntad,
 Pienso que licencia tengo;
 Y así, pues alma queréis,
-Digo (porque os vais con esto)
+Digo <stage>porque os vais con esto</stage>
 Que el primer hombre sois vos
-Á quien amor agradezco.
+Á quien <rs type="emotion" ana="noun">amor</rs> agradezco.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿No más, Isabel?
+<sp><l>¿No más, Isabel?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Es poco?
+<sp><l>¿Es poco?
 Pues vaya por contrapeso
-Que no me desagradáis.
+Que no me desagradáis.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿No más, Isabel?
+<sp><l>¿No más, Isabel?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Qué es esto?
+<sp><l>¿Qué es esto?
 Conténtese, ó quitaréle
-Lo que le he dado primero.
+Lo que le he dado primero.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Podré tomarte una mano?
+<sp><l>¿Podré tomarte una <rs type="body">mano</rs>?
 Aunque por Dios que la temo,
 Después que la ví tan diestra
-Esgrimir el blanco acero.
+Esgrimir el blanco acero.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Pues vos no me conocéis:
+<sp><l>Pues vos no me conocéis:
 Por Dios que algún hombre he muerto
-Aquí donde me miráis.
+Aquí donde me miráis.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Con los ojos, yo lo creo.
+<sp><l>Con los <rs type="body">ojos</rs>, yo lo creo.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Idos; que viene mi amo.
+<sp><l>Idos; que viene mi amo.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Dónde esta tarde te espero?
+<sp><l>¿Dónde esta tarde te espero?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-En la fuente, á lo lacayo.
+<sp><l>En la fuente, á lo lacayo.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Logre tu donaire el cielo. (_Vase._)
+<sp><l>Logre tu donaire el cielo.</l></sp> <stage>Vase.</stage>
 
-<div type="scene" number="xsd:int">ESCENA VIII</div>
+<div type="scene" number="8"></div>
 
-<speaker>LEONOR</speaker>.--<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>LEONOR</l></speaker><speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Isabel...
+<sp><l>Isabel...</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Leonor amiga...
+<sp><l>Leonor amiga...</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¿Con éste hablabas?
+<sp><l>¿Con éste hablabas?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Pues bien?
+<sp><l>¿Pues bien?</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¿Qué se hizo tu desdén?
+<sp><l>¿Qué se hizo tu desdén?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Un amor honesto obliga.
+<sp><l>Un <rs type="emotion" ana="noun">amor</rs> honesto obliga.
 Y te aseguro de mí
-Que es mucho tenelle amor.
+Que es mucho tenelle <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Su talle, ingenio y valor
+<sp><l>Su talle, ingenio y valor
 Habrán hecho riza en ti.
 Que lo merece confieso;
 Pero en la desigualdad
-No puede haber amistad.
+No puede haber amistad.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Los elementos por eso
+<sp><l>Los elementos por eso
 No tienen paz y sosiego:
 El agua á la tierra oprime,
 El aire á el agua, y reprime
 La fuerza del aire el fuego.
 Mas como él me quiere á mí
 No más de para querer,
-¿Qué pierdo en corresponder?
+¿Qué pierdo en corresponder?</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Mucho.
+<sp><l>Mucho.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Cómo?
+<sp><l>¿Cómo?</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Mucho.
+<sp><l>Mucho.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Di.
+<sp><l>Di.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Adora mi ama en él.
+<sp><l>Adora mi ama en él.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Quién te lo ha dicho?
+<sp><l>¿Quién te lo ha dicho?</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Yo y Juana
+<sp><l>Yo y Juana
 Lo vemos, y á ella con gana
 De casamiento, Isabel.
 Por eso, si no envidaste,
-Descarta y quédate en dos.
+Descarta y quédate en dos.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Sábeslo bien?
+<sp><l>¿Sábeslo bien?</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Sí, por Dios.
+<sp><l>Sí, por Dios.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Tarde, Leonor, me avisaste;
+<sp><l>Tarde, Leonor, me avisaste;
 No porque pueda alabarse
 Del más mínimo favor,
-Sino por tenerle amor,
+Sino por tenerle <rs type="emotion" ana="noun">amor</rs>,
 Que no es fácil de olvidarse.
 Necia fuí en imaginar
 Que un don Juan tan entonado
-Para mí estaba guardado.
+Para mí estaba guardado.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Un hombre te quiero dar
+<sp><l>Un hombre te quiero dar
 Compañero de otro mío,
 Bravo, pero no cruel,
 Que puede ser, Isabel,
@@ -2983,54 +2978,54 @@ Hombre de tales aceros,
 Ni han visto los lavaderos
 Más alentado valiente.
 Ama en tu misma región.
-¿Quién te mete con don Juanes?
+¿Quién te mete con don Juanes?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Tu ama ¿trata en galanes?
+<sp><l>Tu ama ¿trata en galanes?</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-De honesta conversación
+<sp><l>De honesta conversación
 De un conde que la visita,
-Le nacieron los antojos.
+Le nacieron los antojos.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¡Quién la ve tan baja de ojos
-Á la señora viudita!
+<sp><l>¡Quién la ve tan baja de <rs type="body">ojos</rs>
+Á la señora viudita!</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Hermana, enviudó ha dos meses,
-Viénele grande la cama.
+<sp><l>Hermana, enviudó ha dos meses,
+Viénele grande la cama.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Y en fin ¿le quiere tu ama?
+<sp><l>Y en fin ¿le quiere tu ama?</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Como si juntos los vieses.
+<sp><l>Como si juntos los vieses.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Vé por el cántaro, y vamos
-Al Prado.
+<sp><l>Vé por el cántaro, y vamos
+Al Prado.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Á Pedro verás;
+<sp><l>Á Pedro verás;
 Que se quedan siempre atrás
-Él y Martín de sus amos. (_Vase._)
+Él y Martín de sus amos.</l></sp> <stage>Vase.</stage>
 
-<div type="scene" number="xsd:int">ESCENA IX</div>
+<div type="scene" number="9"></div>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Á mis graves desconsuelos
-Solo faltaba este amor,
-Á este amor este rigor,
+<sp><l>Á mis graves desconsuelos
+Solo faltaba este <rs type="emotion" ana="noun">amor</rs>,
+Á este <rs type="emotion" ana="noun">amor</rs> este rigor,
 Á este rigor estos celos.
 ¿No me bastaba tener,
 Para no ser conocida,
@@ -3043,31 +3038,31 @@ Con vos, será impertinencia.
 Mejor es ser lo que soy,
 Pues que no soy lo que fuí:
 Aprended, flores, de mí
-Lo que vá de ayer á hoy. (_Vase._)
+Lo que vá de ayer á hoy.</l></sp> <stage>Vase.</stage>
 
-<div type="scene" number="xsd:int">ESCENA X</div>
+<div type="scene" number="10"></div>
 
-Prado con una fuente.
+<sp><l>Prado con una fuente.</l></sp>
 
-<speaker>MARTÍN</speaker>, <speaker>PEDRO</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>, <speaker type="who"><l>PEDRO</l></speaker>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Y ¿que tiene tan buen talle?
+<sp><l>Y ¿que tiene tan buen talle?</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Esto me dijo Leonor,
+<sp><l>Esto me dijo Leonor,
 Y que es la moza mejor
 Que tiene toda la calle.
 Es una perla, un asombro;
 Rinden parias á su brío
 Cuantas llevan ropa á el río
-Y llevan cántaro en hombro.
+Y llevan cántaro en <rs type="body">hombro</rs>.
 Es mujer que este don Juan,
 Primo del Conde mi dueño,
 Pierde por hablarla el sueño,
-Desmayos de amor le dan.
+Desmayos de <rs type="emotion" ana="noun">amor</rs> le dan.
 De la suerte la pasea
 Que á la dama de más partes;
 Pero en estos Durandartes
@@ -3082,447 +3077,447 @@ Que vaya y venga á la fuente;
 Puesto que le culpo en vano,
 Porque pienso que ella gusta
 De salir, por ver y hablar
-(Que á mozas deste lugar
-Mucho el no salir disgusta),
+<stage>Que á mozas deste lugar
+Mucho el no salir disgusta</stage>,
 Á jabonar y á lavar
-Á los pilares, á el río.
+Á los pilares, á el río.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-En fin, es moza de brío,
+<sp><l>En fin, es moza de brío,
 Y que puede descuidar
 De camisas y valonas
-Á un hombre de mi talante.
+Á un hombre de mi talante.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Lleva, en saliendo, delante
+<sp><l>Lleva, en saliendo, delante
 Más pretendientes personas
-Que un oidor ó presidente.
+Que un oidor ó presidente.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Si yo la moza poseo,
+<sp><l>Si yo la moza poseo,
 Luego habrá despolvoreo
-De todo amor pretendiente:
+De todo <rs type="emotion" ana="noun">amor</rs> pretendiente:
 Á ellos de cuchilladas
 Y á ella de muchas coces.
-Ya mi cólera conoces.
+Ya mi cólera conoces.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-No la has visto ¿y ya te enfadas?
+<sp><l>No la has visto ¿y ya te enfadas?</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Gente de un coche se apea.
+<sp><l>Gente de un coche se apea.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Con ellos viene don Juan.
+<sp><l>Con ellos viene don Juan.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-¡Por vida del alazán,
-Que no es la viudilla fea!
+<sp><l>¡Por vida del alazán,
+Que no es la viudilla fea!</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA XI</div><
+<div type="scene" number="11"></div><
 
-<speaker>DOÑA ANA</speaker>, <speaker>JUANA</speaker>, <speaker>DON JUAN</speaker>.--DICHOS
+<speaker type="who"><l>DOÑA ANA</l></speaker>, <speaker type="who"><l>JUANA</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>.<stage>DICHOS</stage>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Por el coche os conocí,
+<sp><l>Por el coche os conocí,
 Y luego al Conde avisé,
 Que en la carroza dejé
 Harto envidioso de mí.
 Vine á ver lo que mandáis;
 Que apearos no habrá sido
-Sin causa.
+Sin causa.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Causa he tenido;
+<sp><l>Causa he tenido;
 Que siempre vos me la dais.
 Quiero venir á la fuente,
 Porque sé que es el lugar
 Adonde os tengo de hallar,
-Y donde sois pretendiente.
+Y donde sois pretendiente.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¡Buen oficio me habéis dado!
-Ó de bestia ó de aguador.
+<sp><l>¡Buen oficio me habéis dado!
+Ó de bestia ó de aguador.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Conociendo vuestro humor,
+<sp><l>Conociendo vuestro humor,
 Señor don Juan, he pensado
-Venir por agua también.--
-Muestra ese búcaro, Juana.
+Venir por agua también.
+Muestra ese búcaro, Juana.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Dado habéis esta mañana,
-Filos, Señora, al desdén.
+<sp><l>Dado habéis esta mañana,
+Filos, Señora, al desdén.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Deseando enamoraros,
+<sp><l>Deseando en<rs type="emotion" ana="noun">amor</rs>aros,
 Moza de cántaro soy,
-Por agua á la fuente voy.
+Por agua á la fuente voy.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Tenéos...
+<sp><l>Tenéos...</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Quiero agradaros.
+<sp><l>Quiero agradaros.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Es el cántaro pequeño,
+<sp><l>Es el cántaro pequeño,
 Templará poco el rigor
-Á los enfermos de amor.
+Á los enfermos de <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA XII</div>
+<div type="scene" number="12"></div>
 
-<speaker>DOÑA MARÍA</speaker> _y_ <speaker>LEONOR</speaker>, _con sus cántaros_.--DICHOS
+<speaker type="who"><l>DOÑA MARÍA</l></speaker> y <speaker type="who"><l>LEONOR</l></speaker>, <stage>con sus cántaros.--DICHOS</stage>
 
-<speaker>DOÑA MARÍA</speaker> (_á Leonor_)
+<speaker type="who"><l>DOÑA MARÍA</l></speaker> <stage>á Leonor</stage>
 
-Esto me dijo mi dueño;
+<sp><l>Esto me dijo mi dueño;
 Que en el patio de palacio,
 Archivo de novedades,
 Ya mentiras, ya verdades,
 Como pasean de espacio,
-Lo contaba mucha gente.
+Lo contaba mucha gente.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Y ¿que esa mujer mató
+<sp><l>Y ¿que esa mujer mató
 Á el que á su padre afrentó?
-¡Bravo corazón!
+¡Bravo corazón!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Valiente.
+<sp><l>Valiente.
 Dijo que había pedido
 La parte pesquisidor,
 Y que á el Rey nuestro señor
-(Cuya vida al cielo pido),
+<stage>Cuya vida al cielo pido</stage>,
 Consultaron este caso,
 Y que no quiso que fuese
-Quien pesadumbre le diese.
+Quien pesadumbre le diese.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-No fué la piedad acaso,
+<sp><l>No fué la piedad acaso,
 Si el padre estaba inocente.
 ¿Y nunca más pareció
 Esa dama que mató
-Á el caballero insolente?
+Á el caballero insolente?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-De eso no me dijo nada.
+<sp><l>De eso no me dijo nada.
 Yo estoy contenta de ver
-(Que en efeto soy mujer)
-Que la hubiese tan honrada.
+<stage>Que en efeto soy mujer</stage>
+Que la hubiese tan honrada.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¿Dijo el nombre que tenía?
-Que me alegra á mí también.
+<sp><l>¿Dijo el nombre que tenía?
+Que me alegra á mí también.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No sé si me acuerdo bien...
-Aunque sí: doña María.
+<sp><l>No sé si me acuerdo bien...
+Aunque sí: doña María.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Aquí están dos escuderos
-Para las dos.
+<sp><l>Aquí están dos escuderos
+Para las dos.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Isabel,
+<sp><l>Isabel,
 Este mozazo es aquel
-Que te dije.
+Que te dije.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¡Oh, caballeros!...
+<sp><l>¡Oh, caballeros!...</l></sp>
 
-<speaker>MARTÍN</speaker> (_á Pedro_)
+<speaker type="who"><l>MARTÍN</l></speaker> <stage>á Pedro</stage>
 
-Llega, no estés vergonzoso;
-Llega y habla.
+<sp><l>Llega, no estés vergonzoso;
+Llega y habla.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Estoy mirando
+<sp><l>Estoy mirando
 Á Isabel, y contemplando
 Su talle y su rostro hermoso.
 Téngame vuesamerced
-Por suyo desde esta tarde.
+Por suyo desde esta tarde.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-(_Ap._ ¡Qué buen hombrón!) Dios le guarde.
+<stage>Ap.¡Qué buen hombrón!</stage> <sp><l>Dios le guarde.</l></sp>
 
-<speaker>PEDRO</speaker> (_ap._)
+<speaker type="who"><l>PEDRO</l></speaker> <stage>ap.</stage>
 
-Cayó la daifa en la red.
-Ya está perdida por mí.
+<sp><l>Cayó la daifa en la red.
+Ya está perdida por mí.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker> (_ap._)
+<speaker type="who"><l>DOÑA MARÍA</l></speaker> <stage>ap.</stage>
 
-Con pocos de éstos pudiera
+<sp><l>Con pocos de éstos pudiera
 Conducir una galera
 Á la China, desde aquí,
-Don Fadrique de Toledo.
+Don Fadrique de Toledo.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Pido mano, doy turrón.
+<sp><l>Pido <rs type="body">mano</rs>, doy turrón.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Mas que lleva un mojicón,
-Hombrón, si no se está quedo?
+<sp><l>¿Mas que lleva un mojicón,
+Hombrón, si no se está quedo?</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-¡Por el agua de la mar,
-Que tiene valor la hembra!
+<sp><l>¡Por el agua de la mar,
+Que tiene valor la hembra!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Pues no sabe dónde siembra.
+<sp><l>Pues no sabe dónde siembra.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-(_Ap._ Á el primer encuentro azar.)
-¡Voto á tus ojos serenos,
+<stage>Ap.Á el primer encuentro azar.</stage>
+<sp><l>¡Voto á tus <rs type="body">ojos</rs> serenos,
 Isabel, porque te asombres,
 Que me mate con mil hombres,
 Y esto será lo de menos!
-Ablándate, serafín.
+Ablándate, serafín.<sp><l>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Déjeme, no me zabuque.
+<sp><l>Déjeme, no me zabuque.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Aquí en la esquina del Duque
-Hay turrón.--Vamos, Martín.
+<sp><l>Aquí en la esquina del Duque
+Hay turrón.--Vamos, Martín.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Vamos, y gasta; que luego
-Estará como algodón.
+<sp><l>Vamos, y gasta; que luego
+Estará como algodón.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Sí, mas ¡coz y mordiscón!...
-Parece rocín gallego.
+<sp><l>Sí, mas ¡coz y mordiscón!...
+Parece rocín gallego.</l></sp>
 
-(_Vanse Martín y Pedro._)
+<stage>Vanse Martín y Pedro.</stage>
 
-<div type="scene" number="xsd:int">ESCENA XIII</div>
+<div type="scene" number="13"></div>
 
-<speaker>DOÑA ANA</speaker>, <speaker>DON JUAN</speaker>, <speaker>DOÑA MARÍA</speaker>, <speaker>LEONOR</speaker>, <speaker>JUANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>, <speaker type="who"><l>DOÑA MARÍA</l></speaker>, <speaker type="who"><l>LEONOR</l></speaker>, <speaker type="who"><l>JUANA</l></speaker>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Quedo, no os pongáis delante;
+<sp><l>Quedo, no os pongáis delante;
 Que ya he visto por las señas
-Que es aquélla vuestra dama.
+Que es aquélla vuestra dama.</l></sp>
 
-<speaker>JUANA</speaker>
+<speaker type="who"><l>JUANA</l></speaker>
 
-Pues Leonor viene con ella,
+P<sp><l>ues Leonor viene con ella,
 ¿Quién duda que es Isabel?
 Fuera de que no tuviera
-Ninguna aquel talle y brío.
+Ninguna aquel talle y brío.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Disculpa tiene en quererla
-El señor don Juan.
+<sp><l>Disculpa tiene en quererla
+El señor don Juan.</l></sp>
 
-<speaker>JUANA</speaker>
+<speaker type="who"><l>JUANA</l></speaker>
 
-La moza
+<sp><l>La moza
 En otro traje pudiera
 Hacer á cualquiera dama
-Pesadumbre y competencia.
+Pesadumbre y competencia.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Es todo por darme vaya?
+<sp><l>¿Es todo por darme vaya?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Quisiérala ver más cerca.
+<sp><l>Quisiérala ver más cerca.
 Dígale vuesamerced
 Que está aquí una dama enferma,
 Que se le antoja beber
 Por la cantarilla nueva;
-Que no irá de mala gana.
+Que no irá de mala gana.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Sólo por serviros fuera.
+<sp><l>Sólo por serviros fuera.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¡Ay, Leonor!
+<sp><l>¡Ay, Leonor!</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¿Qué?
+<sp><l>¿Qué?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Tu señora
-Y aquél mi galán con ella.
+<sp><l>Tu señora
+Y aquél mi galán con ella.</l></sp>
 
-<speaker>LEONOR
+<speaker type="who"><l>LEONOR</l></speaker>
 
-P</speaker>arece que te has turbado.
+<sp><l>Parece que te has turbado.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Por poco se me cayera
-El cántaro de las manos.
+<sp><l>Por poco se me cayera
+El cántaro de las <rs type="body">manos</rs>.</l></sp>
 
-<speaker>DON JUAN</speaker> (_á doña María_)
+<speaker type="who"><l>DON JUAN</l></speaker> <stage>á doña María</stage>
 
-Aquella señora os ruega
-Que la deis un poco de agua.
+<sp><l>Aquella señora os ruega
+Que la deis un poco de agua.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-De buena gana la diera
+<sp><l>De buena gana la diera
 Á ella el agua, y á vos
-Con el cántaro.
+Con el cántaro.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No seas
-Necia.
+<sp><l>No seas
+Necia.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Llevádsela vos,
-Y de vuestra mano beba.
+<sp><l>Llevádsela vos,
+Y de vuestra <rs type="body">mano</rs> beba.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Mira que en público estamos,
+<sp><l>Mira que en público estamos,
 Y las mujeres discretas
-No hacen cosas indignas.
+No hacen cosas indignas.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Iré porque nadie entienda
-Que me da celos á mí.--
+<sp><l>Iré porque nadie entienda
+Que me da celos á mí.</l></sp>
 
-(_Llégase á doña Ana._)
+<stage>Llégase á doña Ana.</stage>
 
-Vuesamerced beba, y crea
+<sp><l>Vuesamerced beba, y crea
 Que quisiera que este barro
 Fuera cristal de Venecia;
 Pero serálo en tocando
-Esas manos y esas perlas.
+Esas <rs type="body">mano</rs>s y esas perlas.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Beberé, porque he caído.
+<sp><l>Beberé, porque he caído.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Si el agua el susto sosiega,
+<sp><l>Si el agua el susto sosiega,
 Beba; que todos caeremos,
-Si no en el daño, en la cuenta.
+Si no en el daño, en la cuenta.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Yo he bebido.
+<sp><l>Yo he bebido.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Y yo también.
+<sp><l>Y yo también.</l></sp>
 
-<speaker>DOÑA ANA</speaker> (_ap._)
+<speaker type="who"><l>DOÑA ANA</l></speaker> <stage>ap.</stage>
 
-Yo pesares.
+<sp><l>Yo pesares.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker> (_ap._)
+<speaker type="who"><l>DOÑA MARÍA</l></speaker> <stage>ap.</stage>
 
-Yo sospechas.
+<sp><l>Yo sospechas.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Qué caliente!
+<sp><l>¡Qué caliente!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Vuestras manos
-De nieve servir pudieran.
+<sp><l>Vuestras <rs type="body">manos</rs>
+De nieve servir pudieran.</l></sp>
 
-<speaker>DOÑA ANA</speaker> (_á Juana_)
+<speaker type="who"><l>DOÑA ANA</l></speaker> <stage>á Juana</stage>
 
-Haz que llegue el coche.
+<sp><l>Haz que llegue el coche.</l></sp>
 
-<speaker>JUANA</speaker> (_llamando_)
+<speaker type="who"><l>JUANA</l></speaker> <stage>llamando</stage>
 
-¡Ah, Hernando!
+<sp><l>¡Ah, Hernando!</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Buena moza!
+<sp><l>¡Buena moza!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Buena sea
-Su vida.
+<sp><l>Buena sea
+Su vida.</l></sp>
 
-(_Vanse doña Ana y Juana._)
+<stage>Vanse doña Ana y Juana.</stage>
 
-<div type="scene" number="xsd:int">ESCENA XIV</div>
+<div type="scene" number="14"></div>
 
-<speaker>DOÑA MARÍA</speaker>, <speaker>DON JUAN</speaker>, <speaker>LEONOR</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>, <speaker type="who"><l>LEONOR</l></speaker>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿No la acompaña?
-¡Mal galán! ¿Así se queda?
+<sp><l>¿No la acompaña?
+¡Mal galán! ¿Así se queda?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Á darte satisfaciones.
+<sp><l>Á darte satisfaciones.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Estoy yo tan satisfecha,
-Que será gastar palabras.
+<sp><l>Estoy yo tan satisfecha,
+Que será gastar palabras.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Mira, Isabel, que esto es fuerza,
+<sp><l>Mira, Isabel, que esto es fuerza,
 Y que bien sabe Leonor
-(Dejo aparte mi fineza)
-Que el Conde sirve á doña Ana.
+<stage>Dejo aparte mi fineza</stage>
+Que el Conde sirve á doña Ana.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Cántaro, tened paciencia;
+<sp><l>Cántaro, tened paciencia;
 Vais y venís á la fuente:
 Quien va y viene siempre á ella,
 ¿De qué se espanta, si el asa
@@ -3536,65 +3531,65 @@ En fin, por barro se queda.
 No volváis más á la fuente,
 Porque estoy segura y cierta
 Que no es bien que vos hagáis
-Á los coches competencia.
+Á los coches competencia.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Qué dices? Mira, Isabel,
-Que sin culpa me condenas.
+<sp><l>¿Qué dices? Mira, Isabel,
+Que sin culpa me condenas.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Yo con mi cántaro hablo;
+<sp><l>Yo con mi cántaro hablo;
 Si es mío, ¿de qué se queja?
 Váyase vuesamerced,
-Mire que el coche se aleja.
+Mire que el coche se aleja.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Iréme desesperado,
+<sp><l>Iréme desesperado,
 Pues haces cosas como éstas,
 Sabiendo que Leonor sabe
 Que no es posible que quiera
-Eso de que tienes celos. (_Vase._)
+Eso de que tienes celos.</l></sp> <stage>Vase.</stage>
 
-<speaker><div type="scene" number="xsd:int">ESCENA XV</div></speaker>
+<div type="scene" number="15"></div>
 
-<speaker>DOÑA MARÍA</speaker>, <speaker>LEONOR</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <speaker type="who"><l>LEONOR</l></speaker>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Necia estás. ¿Por qué le dejas
-Que se vaya con disgusto?
+<sp><l>Necia estás. ¿Por qué le dejas
+Que se vaya con dis<rs type="emotion" ana="verb">gusto</rs>?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Leonor, el alma me lleva;
+<sp><l>Leonor, el alma me lleva;
 Que los celos me han picado.
 Pero no seré yo necia
 En querer desigualdades,
 Aunque me abrase y me muera.
 No he de ver más á don Juan.
-¡Esto faltaba á mis penas!
+¡Esto faltaba á mis penas!</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¡Buen lance habemos echado!
+<sp><l>¡Buen lance habemos echado!
 Tú desesperada quedas,
-Y mi ama va perdida.
+Y mi ama va perdida.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA XVI</div>
+<div type="scene" number="16"></div>
 
-<speaker>PEDRO</speaker>, <speaker>MARTÍN</speaker>--DICHAS
+<speaker type="who"><l>PEDRO</l></speaker>, <speaker type="who"><l>MARTÍN</l></speaker> <stage>DICHAS</stage>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Como dos soldados juegan:
-Perdí el turrón y el dinero.
+<sp><l>Como dos soldados juegan:
+Perdí el turrón y el dinero.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Cosas la corte sustenta,
+<sp><l>Cosas la corte sustenta,
 Que no sé cómo es posible.
 ¡Quién ve tantas diferencias
 De personas y de oficios,
@@ -3609,30 +3604,30 @@ Rosquillas y mazapanes,
 Aguardiente, y de canela;
 Calendarios, relaciones,
 Pronósticos, obras nuevas,
-Y á _Don Alvaro de Luna_,
+Y á Don Alvaro de Luna,
 Mantenedor destas fiestas.
-Mas quedo; que están aquí.
+Mas quedo; que están aquí.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-¡Oigan! ¿De qué es la tristeza?
+<sp><l>¡Oigan! ¿De qué es la tristeza?
 ¿No estaba alegre esta moza?
-¡Qué pensativas están!
+¡Qué pensativas están!</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Pienso que andaba don Juan
-Acechando una carroza.
+<sp><l>Pienso que andaba don Juan
+Acechando una carroza.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Quien te me enojó, Isabel,
+<sp><l>Quien te me enojó, Isabel,
 Que con lágrimas lo pene:
 Hágote voto solene
 Que pueden doblar por él.
-Vuelve, Isabel, esos ojos;
+Vuelve, Isabel, esos <rs type="body">ojos</rs>;
 Que no soy yo por lo menos
-Quien á tus ojos serenos
+Quien á tus <rs type="body">ojos</rs> serenos
 Quitó luz y puso enojos.
 ¿Quién tan bárbara y cruel,
 Á tu hermosura atrevido,
@@ -3649,7 +3644,7 @@ Que con lágrimas lo pene.
 Dime cómo y de qué suerte
 Que le mate se te antoja,
 Porque en sacando la hoja,
-Soy guadaña de la muerte.
+Soy guadaña de <rs type="emotion" ana="noun">la muerte</rs>.
 Si el Cid á su lado viene,
 Gigote de hombres haré,
 Y de que lo cumpliré
@@ -3661,248 +3656,248 @@ La tumba en Valladolid.
 Porque en diciendo, Isabel,
 Que he de matalle, está muerto.
 No hay que esperar, porque es cierto
-Que pueden doblar por él.
+Que pueden doblar por él.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Ven, Leonor; vamos á casa.
+<sp><l>Ven, Leonor; vamos á casa.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Triste vas.
+<sp><l>Triste vas.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Perdida estoy.
+<sp><l>Perdida estoy.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-¿Así se va?
+<sp><l>¿Así se va?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Así me voy.
+<sp><l>Así me voy.</l></sp>
 
-<speaker>PEDRO<speaker>
+<speaker type="who"><l>PEDRO<speaker type="who"><l>
 
-Pues cuénteme lo que pasa.
+<sp><l>Pues cuénteme lo que pasa.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No quiero.
+<sp><l>No quiero.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Tendréla.
+<sp><l>Tendréla.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Tome.
+<sp><l>Tome.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-¡Ay!
+<sp><l>¡Ay!</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-¿Qué fué?
+<sp><l>¿Qué fué?</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Tamborilada.
+<sp><l>Tamborilada.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¿Dístele, Isabel?
+<sp><l>¿Dístele, Isabel?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No es nada.
-Pregúntale si le come.
+<sp><l>No es nada.
+Pregúntale si le come.</l></sp>
 
-ACTO TERCERO
+<div type="act" number="3"</div>
 
-<speaker>ESCENA PRIMERA</speaker>
+<div type+"scene" number+"xsd:int">ESCENA PRIMERA</div>
 
-<speaker>PEDRO</speaker>, BERNAL, MARTÍN _y_ LORENZO, _dentro_
+<speaker type="who"><l>PEDRO</l></speaker>, <speaker type="who"><l>BERNAL</l></speaker>, <speaker type="who"><l>MARTÍN</l></speaker> y <speaker type="who"><l>LORENZO</l></speaker>, <stage>dentro</stage>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-¡Fuera digo! No haya más.
+<sp><l>¡Fuera digo! No haya más.</l></sp>
 
-<speaker>LORENZO</speaker>
+<speaker type="who"><l>LORENZO</l></speaker>
 
-¡Ay, que me ha descalabrado!
+<sp><l>¡Ay, que me ha descalabrado!</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Con el cántaro le ha dado.
+<sp><l>Con el cántaro le ha dado.</l></sp>
 
-<speaker>BERNAL</speaker>
+<speaker type="who"><l>BERNAL</l></speaker>
 
-¡Lavado, Lorenzo, vas!
+<sp><l>¡Lavado, Lorenzo, vas!</l></sp>
 
-<speaker>LORENZO</speaker>
+<speaker type="who"><l>LORENZO</l></speaker>
 
-Esto ¿se puede sufrir?
+<sp><l>Esto ¿se puede sufrir?</l></sp>
 
-<speaker>PEDRO
+<speaker type="who"><l>PEDRO</l></speaker>
 
-L</speaker>lévale á curar, Bernal.
+<sp><l>Llévale á curar, Bernal.</l></sp>
 
-<speaker>LORENZO</speaker>
+<speaker type="who"><l>LORENZO</l></speaker>
 
-¡Vive Cristo, que la tal!... (_Salen._)
+<sp><l>¡Vive Cristo, que la tal!... </l></sp><stage>Salen.</stage>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-No lo acabes de decir.
+<sp><l>No lo acabes de decir.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-No queda lacayo en ser
-Donde esta mujer está.
+<sp><l>No queda lacayo en ser
+Donde esta mujer está.</l></sp>
 
-<speaker>MARTÍN
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-B</speaker>ravas bofetadas da.
+<sp><l>Bravas bofetadas da.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Dos mozas azotó ayer.
+<sp><l>Dos mozas azotó ayer.</l></sp>
 
-<speaker>BERNAL</speaker>
+<speaker type="who"><l>BERNAL</l></speaker>
 
-¡Ea, ea! Que no es nada.
+<sp><l>¡Ea, ea! Que no es nada.</l></sp>
 
-<speaker><div type="scene" number="xsd:int">ESCENA II</div></speaker>
+<div type="scene" number="2"></div>
 
-<speaker>DOÑA MARÍA</speaker>, <speaker>LEONOR</speaker>.--DICHOS
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <speaker type="who"><l>LEONOR</l></speaker>.<stage>DICHOS</stage>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¡Pícaro! ¿Pellizco á mí?
-¡Fuera, digo!
+<sp><l>¡Pícaro! ¿Pellizco á mí?
+¡Fuera, digo!</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¿Estás en ti?
+<sp><l>¿Estás en ti?</l></sp>
 
-<speaker>LORENZO</speaker>
+<speaker type="who"><l>LORENZO</l></speaker>
 
-¡Á mí, Isabel, cantarada!
-¡Voto á el hijo de la mar!
+<sp><l>¡Á mí, Isabel, cantarada!
+¡Voto á el hijo de la mar!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Llegue el lacayo gallina.
+<sp><l>Llegue el lacayo gallina.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Daga trae en la pretina.
+<sp><l>Daga trae en la pretina.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Y aun enseñada á matar.
+<sp><l>Y aun enseñada á <rs type="emotion" ana="noun">matar</rs>.
 Llegue el barbado, y daréle
 Dos mohadas á la usanza
 De mi tierra, por la panza,
-Y hará el puñal lo que suele.
+Y hará el puñal lo que suele.</l></sp>
 
-<speaker>LORENZO</speaker>
+<speaker type="who"><l>LORENZO</l></speaker>
 
-¡Mataréla!
+<sp><l>¡Mataréla!</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Estoy aquí
-Á pagar de mi dinero.
+<sp><l>Estoy aquí
+Á pagar de mi dinero.</l></sp>
 
-<speaker>LORENZO</speaker>
+<speaker type="who"><l>LORENZO</l></speaker>
 
-Pues con él haberlas quiero,
-Aunque es mujer para mí.
+<sp><l>Pues con él haberlas quiero,
+Aunque es mujer para mí.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-¡Miente!
+<sp><l>¡Miente!</l></sp>
 
-<speaker>LORENZO</speaker>
+<speaker type="who"><l>LORENZO</l></speaker>
 
-Véngase conmigo.
+<sp><l>Véngase conmigo.</l></sp>
 
-(_Vanse los hombres._)
+<stage>Vanse los hombres.</stage>
 
-<div type="scene" number="xsd:int">ESCENA III</div>
+<div type="scene" number="3"></div>
 
-<speaker>DOÑA MARÍA</speaker>, LEONOR
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <speaker type="who"><l>LEONOR</l></speaker>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¡Buenos van, desafiados!
+<sp><l>¡Buenos van, desafiados!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¡Qué diferentes cuidados
-Me da, Leonor, mi enemigo!
+<sp><l>¡Qué diferentes cuidados
+Me da, Leonor, mi enemigo!</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¿No le has visto más?
+<sp><l>¿No le has visto más?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Ayer.
+<sp><l>Ayer.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Alegre quisiera hallarte,
+<sp><l>Alegre quisiera hallarte,
 Porque te alcanzara parte
 De mi contento y placer.
 Ya Martín se determina,
 Y nos queremos casar:
 Mira que nos has de honrar,
-Y que has de ser la madrina.
+Y que has de ser la madrina.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Estoy desacomodada
+<sp><l>Estoy desacomodada
 Del indiano; que si no,
 Yo lo hiciera: aquí me dió
 Su casa una amiga honrada,
-Donde de prestado estoy.
+Donde de prestado estoy.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Mi Señora te dará
+<sp><l>Mi Señora te dará
 Vestidos: vamos allá;
-Que pienso que ha de ser hoy.
+Que pienso que ha de ser hoy.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Tendré vergüenza de vella.
+<sp><l>Tendré vergüenza de vella.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Anda; que te quiere bien,
+<sp><l>Anda; que te quiere bien,
 Y sé que tiene también
-Gusto de que hables con ella.
+Gusto de que hables con ella.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Vamos, y de aquí á tu casa Te diré lo que pasó
-En el río.
+<sp><l>Vamos, y de aquí á tu casa Te diré lo que pasó
+En el río.</l></sp>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-No fuí yo;
+<sp><l>No fuí yo;
 Que mujer que ya se casa,
 Ha de mostrar más recato
-Del que solía tener.
+Del que solía tener.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Es achaque; voy por ver
+<sp><l>Es achaque; voy por ver
 Aquel caballero ingrato.
 Fuimos Teresa, Juana y Catalina,
 El sábado, Leonor, á Manzanares:
@@ -3915,7 +3910,7 @@ Que soy muy necia ó mi afición es poca.
 Tomé el jabón con tanto desvarío
 Para lavar de un bárbaro despojos,
 Que hasta los paños me llevaba el río,
-Mayor con la creciente de mis ojos.
+Mayor con la creciente de mis <rs type="body">ojos</rs>.
 Cantaban otras con alegre brío,
 Y yo, Leonor, lloraba mis enojos:
 Lavaba con lo mesmo que lloraba,
@@ -3932,7 +3927,7 @@ Quedando pues por los menudos ganchos
 Las camisas y sábanas tendidas,
 Salieron cuatro mozas de sus ranchos,
 En todo la ribera conocidas;
-Luego, de angostos pies y de hombros anchos,
+Luego, de angostos <rs type="body">pies</rs> y de <rs type="body">hombros</rs> anchos,
 Bigotes altos, perdonando vidas,
 Cuatro mozos: no hablé; que fuera mengua,
 Estando triste el alma, hablar la lengua.
@@ -3955,10 +3950,10 @@ No le quise alegrar con mi tristeza.
 Entré en el baile con desgaire y brío,
 Que, admirándole ninfas y mozuelos,
 «¡Vítor!» dijeron, celebrando el mío:
-Y era que amor bailaba con los celos.
+Y era que <rs type="emotion" ana="noun">amor</rs> bailaba con los celos.
 Estando en esto, el contrapuesto río
 Se mueve á ver dos ángeles, dos cielos,
-Que á la Casa del Campo (Dios los guarde)
+Que á la Casa del Campo <stage>Dios los guarde</stage>
 Iban á ser auroras por la tarde.
 ¿No has visto á el agua, al súbito granizo
 Esparcirse el ganado en campo ameno
@@ -3972,7 +3967,7 @@ Felipe y Isabel, gloria de España.
 La primavera en cuadros retratada,
 Que por la variedad de las colores,
 Aun no tienen color determinada,
-Y en medio ninfas provocando amores?
+Y en medio ninfas provocando <rs type="emotion" ana="noun">amor</rs>es?
 Pues así se mostraba dilatada
 La escuadra hermosa de las damas bellas,
 Flores las galas y las ninfas ellas.
@@ -3991,71 +3986,71 @@ Sigo la puente, y me arrepiento agora:
 Verdad es que le siento que suspira
 Tal vez desde la noche hasta el aurora;
 Mas recelo, si va á decir verdades,
-Lo que se sigue á celos y amistades.(_Vanse._)
+Lo que se sigue á celos y amistades.</l></sp><stage>Vanse.</stage>
 
-<speaker><div type="scene" number="xsd:int">ESCENA IV</div></speaker>
+<div type="scene" number="4"></div>
 
-Sala en casa de doña Ana.
+<sp><l>Sala en casa de doña Ana.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>, LEONOR; _después_, DOÑA ANA _y_ JUANA
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <speaker type="who"><l>LEONOR</l></speaker>; <stage>después</stage>, <speaker type="who"><l>DOÑA ANA</l></speaker> y <speaker type="who"><l>JUANA</l></speaker>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-Á mi casa hemos llegado:
+<sp><l>Á mi casa hemos llegado:
 Después, que no puedo agora,
 Porque viene mi Señora,
 Te diré lo que ha pasado
-Por los celos en los dos.
+Por los celos en los dos.</l></sp>
 
-(_Salen doña Ana y Juana._)
+<stage>Salen doña Ana y Juana.</stage>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¿Ésta dices?
+<sp><l>¿Ésta dices?</l></sp>
 
-<speaker>JUANA</speaker>
+<speaker type="who"><l>JUANA</l></speaker>
 
-Ésta es.
+<sp><l>Ésta es.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Dadme, Señora, los pies.
+<sp><l>Dadme, Señora, los <rs type="body">pies</rs>.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Isabel, guárdela Dios.
-¿Qué se ofrece por acá?
+<sp><l>Isabel, guárdela Dios.
+¿Qué se ofrece por acá?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Quiéreme hacer su madrina
+<sp><l>Quiéreme hacer su madrina
 Leonor, que no me imagina
-Desacomodada ya.
+Desacomodada ya.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¿No está ya con el indiano?
+<sp><l>¿No está ya con el indiano?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No, Señora.
+<sp><l>No, Señora.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Pues ¿por qué?
+<sp><l>Pues ¿por qué?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Cierto atrevimiento fué,
-De hombre al fin; pero fué en vano.2000
+<sp><l>Cierto atrevimiento fué,
+De hombre al fin; pero fué en vano.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¿Cómo, cómo, por mi vida?
+<sp><l>¿Cómo, cómo, por mi vida?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Pudiera estar satisfecho
+<sp><l>Pudiera estar satisfecho
 De mi honor y de mi pecho:
 De mi honor por bien nacida,
 De mi pecho porque, habiendo
@@ -4066,7 +4061,7 @@ Las llaves, tomé su espada,
 Y aunque ya se defendieron, 
 Por la ventana salieron,
 Y esto á pura cuchillada.
-Pero obligándole á amor
+Pero obligándole á <rs type="emotion" ana="noun">amor</rs>
 Lo que pudiera á respeto,
 Me llamó una noche, á efeto 
 De no respetar mi honor.
@@ -4074,7 +4069,7 @@ Que le descalzase fué
 La invención: llego á su cama,
 Donde sentado me llama,
 Y humilde le descalcé.
-Pero echándome los brazos,
+Pero echándome los <rs type="body">brazos</rs>,
 Tan descortés procedió,
 Que á arrojarle me obligó
 Donde le hiciera pedazos.
@@ -4085,75 +4080,75 @@ La mitad de los vecinos.
 Y aunque culpando el rigor,
 Poniéndose de por medio, 
 Celebraron el remedio
-Para quitarle el amor.
+Para quitarle el <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Notable debes de ser.
-Cierto que te tengo amor.
+<sp><l>Notable debes de ser.
+Cierto que te tengo <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
-<speaker>JUANA</speaker>
+<speaker type="who"><l>JUANA</l></speaker>
 
-Es el servicio mejor2035
+<sp><l>Es el servicio mejor
 Y la más limpia mujer
 De cuantas andan aquí.
-Ruégale que esté contigo.
+Ruégale que esté contigo.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¿No querrás estar conmigo,
-Isabel?
+<sp><l>¿No querrás estar conmigo,
+Isabel?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Señora, sí.
+<sp><l>Señora, sí.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¿Qué sabes hacer?
+<sp><l>¿Qué sabes hacer?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Lavar,
+<sp><l>Lavar,
 Masar, cocer y traer
-Agua.
+Agua.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¿No sabrás coser?
+<sp><l>¿No sabrás coser?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Bien sé coser y labrar.
+<sp><l>Bien sé coser y labrar.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Pues eso será mejor.
-Manto y tocas te daré.
+<sp><l>Pues eso será mejor.
+Manto y tocas te daré.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Señora, yo no sabré
+<sp><l>Señora, yo no sabré
 Servir de dueña de honor.
 Éste es un hábito agora
 De cierta desdicha mía,
-Que vos sabréis algún día. (_Vase._)
+Que vos sabréis algún día.</l></sp><stage>Vase.</stage>
 
-<speaker>JUANA</speaker>
+<speaker type="who"><l>JUANA</l></speaker>
 
-Aquí está don Juan, Señora.
+<sp><l>Aquí está don Juan, Señora.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA V</div>
+<div type="scene" number="5"></div>
 
-<speaker>DON JUAN</speaker>, <speaker>MARTÍN</speaker> <speaker>DOÑA ANA</speaker>, <speaker>LEONOR</speaker>, <speaker>JUANA</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>, <speaker type="who"><l>MARTÍN</l></speaker> <speaker type="who"><l>DOÑA ANA</l></speaker>, <speaker type="who"><l>LEONOR</l></speaker>, <speaker type="who"><l>JUANA</l></speaker>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Siempre soy embajador.
+<sp><l>Siempre soy embajador.
 El Conde os pide licencia,
 Y dice que de su ausencia
 Fué causa vuestro rigor;
-Que tratáis tan mal su amor,
+Que tratáis tan mal su <rs type="emotion" ana="noun">amor</rs>,
 Que ya toma por partido,
 En la caza divertido,
 Solicitar á su daño
@@ -4168,11 +4163,11 @@ Es fuerza para serviros.
 Esto me manda deciros:
 Mirad si le dais licencia;
 Que le cuesta vuestra ausencia
-Cuantos instantes, suspiros.
+Cuantos instantes, suspiros.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Vos venís en ocasión
+<sp><l>Vos venís en ocasión
 Que os he hecho un gran servicio:
 Á lo menos es indicio
 De ésta mi loca pasión.
@@ -4182,7 +4177,7 @@ Os pone el haber traído
 Lo que tanto habéis amado;
 Que os quiero ver obligado,
 Pues no puedo agradecido.
-Volved los ojos, veréis
+Volved los <rs type="body">ojos</rs>, veréis
 Á Isabel, que viene aquí,
 No para servirme á mí,
 Sino á que vos la mandéis;
@@ -4191,11 +4186,11 @@ En buscarla en fuente ó prado.
 Mirad si estáis obligado,
 Y cómo he sabido hacer
 Que vos me vengáis á ver,
-No como hasta aquí, forzado.
+No como hasta aquí, forzado.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-De vuestra queja os prometo
+<sp><l>De vuestra queja os prometo
 Que es el Conde, mi señor,
 La causa, cuyo valor
 Únicamente respeto;
@@ -4211,128 +4206,128 @@ Disculpe la voluntad,
 Para no quereros bien.
 Mas no me pidáis que os den
 Gracias de haberla traído
-Mis ojos; que antes ha sido
+Mis <rs type="body">ojos</rs>; que antes ha sido
 Para no poderla ver,
 Pues testigo habéis de ser,
-Y yo menos atrevido.
+Y yo menos atrevido.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA VI</div>
+<div type="scene" number="6"></div>
 
-<speaker>EL CONDE</speaker>.--DICHOS
+<speaker type="who"><l>EL CONDE</l></speaker>.<stage>DICHOS</stage>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Tanto la licencia tarda,
-Que sin ella vengo á veros.
+<sp><l>Tanto la licencia tarda,
+Que sin ella vengo á veros.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Conde, mi señor, disculpa.
+<sp><l>Conde, mi señor, disculpa.
 De ausencia de tanto tiempo.--
-Llega una silla, Isabel.
+Llega una silla, Isabel.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Aquí me estaban riñendo
-Tu ausencia.
+<sp><l>Aquí me estaban riñendo
+Tu ausencia.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¡Buena criada!
+<sp><l>¡Buena criada!
 Y nueva; que no me acuerdo
-Haberla visto otra vez.
+Haberla visto otra vez.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Buena cara, gentil cuerpo!
-¿No es muy linda?
+<sp><l>¡Buena cara, gentil cuerpo!
+¿No es muy linda?</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¡Sí, por Dios!
+<sp><l>¡Sí, por Dios!</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-De que os agrade me huelgo;
-Que es la dama de don Juan. 
+<sp><l>De que os agrade me huelgo;
+Que es la dama de don Juan.</l></sp> 
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Si es así el entendimiento,
+<sp><l>Si es así el entendimiento,
 Disculpa tiene mi primo.
 Verla más de espacio quiero.--
 Pasad, Señora, adelante,
-¿De dónde sois?
+¿De dónde sois?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No sé cierto;
-Porque ha mucho que no soy.
+<sp><l>No sé cierto;
+Porque ha mucho que no soy.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Partes en la moza veo,
+<sp><l>Partes en la moza veo,
 Que en otro traje pudieran,
 Con el donaire y aseo,
-Dar, fuera de vuestros ojos,
+Dar, fuera de vuestros <rs type="body">ojos</rs>,
 Á muchos envidia y celos.
 Mi primo es tan singular,
 Que por bizarría ha puesto
-Las preferencias del gusto
-En tan bajos fundamentos.
+Las preferencias del <rs type="emotion" ana="verb">gusto</rs>
+En tan bajos fundamentos.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Á mí responder me toca.
+<sp><l>Á mí responder me toca.
 Perdónenme si me atrevo,
 Por el honor del fregado,
 La opinión del lavadero,
-Del cántaro y el jabón;2145
+Del cántaro y el jabón;
 Que más de cuatro manteos,
 De ésos con esteras de oro,
-Cubren algunos defetos.
+Cubren algunos defetos.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Cásase Martín agora
+<sp><l>Cásase Martín agora
 Con mi Leonor, y por eso 
 Siente que vueseñoría
-Haga de don Juan desprecio.
+Haga de don Juan desprecio.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¡Dar en el pobre don Juan!
+<sp><l>¡Dar en el pobre don Juan!</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Huélgome del casamiento.
+<sp><l>Huélgome del casamiento.
 Y ¿seréis vos la madrina?
-Porque ser padrino quiero.
+Porque ser padrino quiero.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-No, Señor, que es Isabel;
+<sp><l>No, Señor, que es Isabel;
 Que pienso que ha mucho tiempo
-Que ella y Leonor son amigas.
+Que ella y Leonor son amigas.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Pues tócale de derecho
-Ser el padrino á don Juan.
+<sp><l>Pues tócale de derecho
+Ser el padrino á don Juan.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Basta; que estáis de concierto
+<sp><l>Basta; que estáis de concierto
 Todos contra mí. Pues vaya;
-Que el ser el padrino aceto.
+Que el ser el padrino aceto.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Cómo calla la madrina?
+<sp><l>¿Cómo calla la madrina?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Señor, corto entendimiento
+<sp><l>Señor, corto entendimiento
 Presto se ataja, y más donde
 Hay tantos y tan discretos.
 Allá en mi lugar un día
@@ -4350,69 +4345,69 @@ Así yo, que hablando veo
 Á tan discretos señores,
 Hago atrás mi entendimiento,
 Hasta que he venido á dar
-Con el silencio en el suelo.
+Con el silencio en el suelo.</l></sp>
 
-<speaker>MARTÍN</speaker> (_ap._)
+<speaker type="who"><l>MARTÍN</l></speaker> <stage>ap.</stage>
 
-Tomen lo que se han ganado.
+<sp><l>Tomen lo que se han ganado.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Es el Conde muy discreto,
+<sp><l>Es el Conde muy discreto,
 Y la señora doña Ana
 Un ángel; pues yo ¿qué puedo
-Decir que no sea ignorancia?
+Decir que no sea ignorancia?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Ahora bien, Señor, hablemos 
+<sp><l>Ahora bien, Señor, hablemos 
 De la ausencia destos días.
 Ya me olvidáis, ya me quejo
-De vos al pasado amor.
+De vos al pasado <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Negocios son, os prometo,
+<sp><l>Negocios son, os prometo,
 Que me han tenido ocupado
 Por un notable suceso.
 Mató en Ronda cierta dama
 Guzmán y Portocarrero,
 Cuyo padre con el duque
 De Medina tiene deudo,
-Un caballero su amante.
+Un caballero su amante.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¿Con qué ocasión? ¿Fueron celos?
+<sp><l>¿Con qué ocasión? ¿Fueron celos?</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Desagraviando á su padre
+<sp><l>Desagraviando á su padre
 De un bofetón, porque el viejo
-No estaba para las armas.
+No estaba para las armas.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Gran valor!
+<sp><l>¡Gran valor!</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¡Valiente esfuerzo!
+<sp><l>¡Valiente esfuerzo!
 Diera por ver á esa dama
-Toda cuanta hacienda tengo.
+Toda cuanta hacienda tengo.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker> (_ap._)
+<speaker type="who"><l>DOÑA MARÍA</l></speaker> <stage>ap.</stage>
 
-Turbada estoy, encubrir
-Puedo apenas lo que siento. 
+<sp><l>Turbada estoy, encubrir
+Puedo apenas lo que siento.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Al fin, perdonó la parte,
+<sp><l>Al fin, perdonó la parte,
 Poniéndose de por medio,
 Entre deudos de unos y otros,
 Muchos nobles caballeros.
-Con esto me ha escrito el Duque,2215
+Con esto me ha escrito el Duque,
 Por el mismo parentesco,
 Alcance el perdón del Rey;
 Lo que hoy, Señora, se ha hecho.
@@ -4423,27 +4418,27 @@ Siendo esta corte su centro.
 Mirad si estoy disculpado;
 Y porque me voy con esto,
 Vendré, Señora, á la noche, 
-Si me dais licencia, á veros.
+Si me dais licencia, á veros.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Id con Dios; volvé á la noche.
+<sp><l>Id con Dios; volvé á la noche.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Si haré, encanto de Babel.--
-Quedáos con vuestra Isabel; (_Á don Juan._)
-Que yo me voy en el coche.2230
+<sp><l>Si haré, encanto de Babel.
+Quedáos con vuestra Isabel; <stage>Á don Juan.</stage>
+Que yo me voy en el coche.</l></sp>
 
-(_Vanse el Conde, doña Ana y los criados._)
+<stage>Vanse el Conde, doña Ana y los criados.</stage>
 
-<div type="scene" number="xsd:int">ESCENA VII</div>
+<div type="scene" number="7"></div>
 
-<speaker>DOÑA MARÍA</speaker>, DON JUAN
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Alegre, Isabel, estás,
+<sp><l>Alegre, Isabel, estás,
 Que ya el cántaro dejaste,
 Pues con la fe le mudaste,
 Y con el alma, que es más.
@@ -4466,21 +4461,21 @@ En ofensa de tus cielos.
 ¿Qué guarda de más valor,
 Isabel, que tu hermosura,
 Si ella misma te asegura
-Que merece tanto amor?
+Que merece tanto <rs type="emotion" ana="noun">amor</rs>?
 ¡Vive Dios, que te he querido,
 Y te quiero y te querré,
 Con tanta firmeza y fe,
-Que vive mi amor corrido
+Que vive mi <rs type="emotion" ana="noun">amor</rs> corrido
 De no vencer tu rigor,
-Siendo tú tan desigual!
+Siendo tú tan desigual!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Quien siente bien no habla mal;
+<sp><l>Quien siente bien no habla mal;
 Que para tener valor
 Con que poder igualaros,
 Aunque de vuestro apellido
-Príncipes haya tenido  
+Príncipes haya tenido
 Italia y Francia tan raros,
 Sóbrame á mí el ser mujer;
 Pero si de vuestro engaño
@@ -4496,68 +4491,68 @@ Que en este humilde vestido
 Hay un alma generosa,
 Tan soberbia y arrogante,
 Que el cántaro que dejé,
-Un cielo en mis hombros fué,
+Un cielo en mis <rs type="body">hombros</rs> fué,
 Como el que sustenta Atlante.
 Yo os quiero bien, aunque soy
 De naturaleza esquiva;
-Pero hay otro amor que priva,
+Pero hay otro <rs type="emotion" ana="noun">amor</rs> que priva,
 Por quien os dejo y me voy.
 No os dé pena; que os prometo
 Que no hay nieve tan helada;
 Pero he nacido obligada
-Á su amor y á su respeto.
+Á su <rs type="emotion" ana="noun">amor</rs> y á su respeto.
 No puedo hacer más por vos
 Que decir que os he querido:
 En fe de lo cual os pido,
-Y del amor de los dos,
-Que una cosa hagáis por mí.
+Y del <rs type="emotion" ana="noun">amor</rs> de los dos,
+Que una cosa hagáis por mí.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Como ausentarte, mi bien?
+<sp><l>¿Como ausentarte, mi bien?
 Después de tanto desdén,
-¿Esto merezco de ti?
+¿Esto merezco de ti?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No excuso, aunque lo sintáis,
-Este camino.
+<sp><l>No excuso, aunque lo sintáis,
+Este camino.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Isabel,
-¿Qué dices?
+<sp><l>Isabel,
+¿Qué dices?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Que para él
+<sp><l>Que para él
 Esta joya me vendáis.
 Diamantes son: claro está
 Que justa sospecha diera
 Si á vender diamantes fuera
 Mujer que á la fuente va;
 Que con lo que ella valiere,
-Podré á mi casa llegar.
+Podré á mi casa llegar.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Cuando pensaba esperar,
-Quiere amor que desespere.
+<sp><l>Cuando pensaba esperar,
+Quiere <rs type="emotion" ana="noun">amor</rs> que desespere.
 ¡Notable desdicha mía!
 ¡Tristes nuevas! ¿Quién amó
 Con la fortuna que yo?
 Mas ¿quién, sino yo, podía?
-Tened la joya y la mano,
+Tened la joya y la <rs type="body">mano</rs>,
 Que entrambas diamantes son,
 Si es la mina un corazón
 Tan firme como tirano;
 Que cuando forzosa sea
 Vuestra partida, no soy
-Hombre tan vil...
+Hombre tan vil...</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Si no os doy
+<sp><l>Si no os doy
 La joya, don Juan, no crea
 Vuestro pecho liberal
 Obligarme con dinero;
@@ -4567,11 +4562,11 @@ Bien creeréis que me está mal.
 De cosas, después que visteis
 La joya! Aunque no tuvisteis
 Culpa de haberlas pensado,
-Pues yo os he dado ocasión.
+Pues yo os he dado ocasión.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Cuando yo, Isabel, pensara
+<sp><l>Cuando yo, Isabel, pensara
 Tal bajeza, imaginara
 Prendas que más altas son
 De las que tenéis, bastantes
@@ -4584,7 +4579,7 @@ Que sois mujer principal
 Tengo por mayor acierto.
 Que desde el punto que os ví
 Con el cántaro, Isabel,
-Echó amor suertes en él
+Echó <rs type="emotion" ana="noun">amor</rs> suertes en él
 Para vos y para mí.
 Vos salisteis diferente
 De lo que aquí publicáis,
@@ -4601,48 +4596,48 @@ Que es más encarecimiento.
 La verdad se encubre en vano;
 Que como al que ayer traía
 Guantes de ámbar, otro día,
-Le quedó oliendo la mano;
+Le quedó oliendo la <rs type="body">mano</rs>;
 Así, quien señora fué,
 Trae aquel olor consigo,
 Aunque del ámbar que digo,
-Reliquias muestre por fe.
+Reliquias muestre por fe.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No os canséis en prevenciones;
-Que yo no os he de engañar.
+<sp><l>No os canséis en prevenciones;
+Que yo no os he de engañar.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA VIII</div>
+<div type="scene" number="8"></div>
 
-<speaker>LEONOR</speaker>.--DICHOS
+<speaker type="who"><l>LEONOR</l></speaker>.<stage>DICHOS</stage>
 
-<speaker>LEONOR</speaker>
+<speaker type="who"><l>LEONOR</l></speaker>
 
-¿Cuándo piensas acabar,
-Isabel, tantas razones?2370
+<sp><l>¿Cuándo piensas acabar,
+Isabel, tantas razones?
 Vente á vestir y á vestirme;
-Que mi señora te llama.
+Que mi señora te llama.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Voy á ponerme de dama.
+<sp><l>Voy á ponerme de dama.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Volverás?
+<sp><l>¿Volverás?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Á despedirme.
+<sp><l>Á despedirme.</l></sp>
 
-(_Vanse los dos._)
+<stage>Vanse los dos.</stage>
 
-<speaker><div type="scene" number="xsd:int">ESCENA IX</div></speaker>
+<div type="scene" number="9"></div>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¿Qué confusión es ésta que levanta
-Amor en mis sentidos nuevamente,
+<sp><l>¿Qué confusión es ésta que levanta
+Amor en mis <rs type="emotion" ana="noun">sentido</rs>s nuevamente,
 Que á tales pensamientos adelanta
 Mi dulce cuanto bárbaro accidente?
 Así el cautivo en la cadena canta,
@@ -4658,7 +4653,7 @@ En noche obscura los engaños ama,
 Esperando que llegue con el día
 La muerta luz de la esperanza mía.
 Mas ¿cómo puede haber tales engaños?
-Cómo pensar mi amor que la belleza
+Cómo pensar mi <rs type="emotion" ana="noun">amor</rs> que la belleza
 No puede haber nacido en viles paños,
 Si pudo la fealdad en la nobleza?
 Así, para mayores desengaños,
@@ -4668,7 +4663,7 @@ Y vestida de púrpura la rosa.
 Que darme yo á entender que la hermosura
 Que ví llevar un cántaro á la fuente,
 Por engastar el barro en nieve pura
-Del cristal de una mano trasparente,
+Del cristal de una <rs type="body">mano</rs> trasparente,
 No pudo proceder de sangre obscura,
 Y nacer entendida humildemente,
 Es vano error, pues siempre amando veo
@@ -4679,75 +4674,75 @@ Con hermosura y prendas celestiales?
 La bajeza de humildes naturales?
 No ha de pasar sin que lo sepa el día.
 Industrias hay; y si por dicha iguales
-Somos los dos, como mi amor desea,
+Somos los dos, como mi <rs type="emotion" ana="noun">amor</rs> desea,
 Tu cántaro, Isabel, mi dote sea.
 No te pienses partir, si por ventura
-No lo quieres fingir para matarme;
+No lo quieres fingir para <rs type="emotion" ana="noun"><rs type="emotion" ana="noun">matar</rs>me</rs>;
 Que ya no tiene estado mi locura
 Que yo pueda perderte y tú dejarme;
 Que si tienes nobleza y hermosura,
 Del cántaro por armas pienso honrarme;
 Que con el premio con que ya se trata,
-Amor le volverá de barro en plata. (_Vase._)
+Amor le volverá de barro en plata.</l></sp><stage>Vase.</stage>
 
-<div type="scene" number="xsd:int">ESCENA X</div>
+<div type="scene" number="10"></div>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-M</speaker>artín, en esta ocasión
+<sp><l>Martín, en esta ocasión
 Me habéis desfavorecido:
-Quejoso estoy y ofendido.
+Quejoso estoy y ofendido.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Pedro, no tenéis razón;
+<sp><l>Pedro, no tenéis razón;
 Que el Conde gusta que sea
-Padrino con Isabel.
+Padrino con Isabel.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Ensancharáse con él Cuando á su lado se vea.2430
+<sp><l>Ensancharáse con él Cuando á su lado se vea.
 Yo sé que si
-me casara, Padrino os hiciera á vos.
+me casara, Padrino os hiciera á vos.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Yo no pude más, por Dios.
+<sp><l>Yo no pude más, por Dios.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Pedro ¿también no la honrara?
+<sp><l>Pedro ¿también no la honrara?
 ¿No tengo cueras y sayos,
 Capas, calzas, que por yerro
 Quedaron en su destierro
 Vinculadas en lacayos?
 Pues ¡por el agua de Dios,
 Aunque poca me ha cabido,
-Que soy yo tan bien nacido!...
+Que soy yo tan bien nacido!...</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-¿Quién pudiera como vos
-Honrarme con Isabel?
+<sp><l>¿Quién pudiera como vos
+Honrarme con Isabel?</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-¿Hay hidalgo en Mondoñedo
+<sp><l>¿Hay hidalgo en Mondoñedo
 Que pueda, como yo puedo,
-Volver la silla á el dosel?
+Volver la silla á el dosel?</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Dejad el enojo ya;
+<sp><l>Dejad el enojo ya;
 Y pues que sois entendido,
 Decidme si acierto ha sido
-Casarme.
+Casarme.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Pues claro está;
+<sp><l>Pues claro está;
 Que es muy honrada Leonor,
 Aunque pide más caudal
 La talega de la sal,
@@ -4756,186 +4751,186 @@ Mas queriendo el Conde bien
 Á doña Ana, por Leonor
 Os hará siempre favor,
 Y ella ayudará también
-De su parte á vuestra casa.
+De su parte á vuestra casa.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-P>ues con eso pasaremos.
+<sp><l>Pues con eso pasaremos.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-¿Quién queréis que convidemos?
+<sp><l>¿Quién queréis que convidemos?</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-N</speaker>o lo excusa quien se casa.
+<sp><l>No lo excusa quien se casa.
 Á Rodríguez lo primero,
 Á Galindo y á Butrón,
 Á Lorenzo y á Ramón,
-Y á Pierres, buen compañero.
+Y á Pierres, buen compañero.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Haced llevar un menudo;
-Que no hay hueso que dejar.
+<sp><l>Haced llevar un menudo;
+Que no hay hueso que dejar.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Eso es darles de cenar.
+<sp><l>Eso es darles de cenar.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-E</speaker>n esta ocasión no dudo2470
+<sp><l>En esta ocasión no dudo
 De que tendrán los señores
-Arriba gran colación.
+Arriba gran colación.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-P</speaker>or allá conservas son
-Y confites de colores.
+<sp><l>Por allá conservas son
+Y confites de colores.</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Lobos de marca mayor2475
-Tendremos en cantidad.
+<sp><l>Lobos de marca mayor
+Tendremos en cantidad.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Pedro, ésa es enfermedad
-Que no ha menester doctor. (_Vanse._)
+<sp><l>Pedro, ésa es enfermedad
+Que no ha menester doctor.</l></sp> <stage>Vanse.</stage>
 
-<div type="scene" number="xsd:int">ESCENA XI</div>
+<div type="scene" number="11"></div>
 
-Sala en casa de doña Ana.
+<sp><l>Sala en casa de doña Ana.</l></sp>
 
-<speaker>DOÑA ANA</speaker>, DON JUAN
+<speaker type="who"><l>DOÑA ANA</l></speaker>, <speaker type="who"><l>DON JUAN</l></speaker>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Yo pienso que es condición,
-Y no amor, vuestra porfía.2480
+<sp><l>Yo pienso que es condición,
+Y no <rs type="emotion" ana="noun">amor</rs>, vuestra porfía.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Y ¿quién sin amor podía
-Sufrir tanta sinrazón?
+<sp><l>Y ¿quién sin <rs type="emotion" ana="noun">amor</rs> podía
+Sufrir tanta sinrazón?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No es sinrazón la ocasión
+<sp><l>No es sinrazón la ocasión
 Que me fuerza á no querer
-Lo que del Conde ha de ser. 
+Lo que del Conde ha de ser.</l></sp> 
 
-<div type="scene" number="xsd:int">ESCENA XII</div>
+<div type="scene" number="12"></div>
 
-<speaker>EL CONDE</speaker>, _que se queda escuchando sin que le vean_.--DICHOS.
+<speaker type="who"><l>EL CONDE</l></speaker>, <stage>que se queda escuchando sin que le vean.--DICHOS.</stage>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Necios celos me han traído
+<sp><l>Necios celos me han traído
 De un deudo amigo fingido
-Y de una ingrata mujer.
+Y de una ingrata mujer.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Cuando no os quisiera bien
+<sp><l>Cuando no os quisiera bien
 El Conde, mil almas fueran
-Las que estos ojos os dieran.
+Las que estos <rs type="body">ojos</rs> os dieran.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Oh, mal haya el Conde, amén!
+<sp><l>¡Oh, mal haya el Conde, amén!</l></sp>
 
-<speaker>CONDE</speaker> 
+<speaker type="who"><l>CONDE</l></speaker> 
 
-Don Juan la muestra desdén,
-Y ella á don Juan solicita.
+<sp><l>Don Juan la muestra desdén,
+Y ella á don Juan solicita.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Con oro en mármol escrita
-Tiene el amor una ley,
+<sp><l>Con oro en mármol escrita
+Tiene el <rs type="emotion" ana="noun">amor</rs> una ley,
 Que como absoluto rey,
 No hay traición que no permita.
 Demás, que esto no es traición;
-Que nunca yo quise al Conde.
+Que nunca yo quise al Conde.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-En lo que agora responde
-Conoceré su intención.
+<sp><l>En lo que agora responde
+Conoceré su intención.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Ninguna loca afición
+<sp><l>Ninguna loca afición
 Que se haya visto ni escrito,
 Ha disculpado el delito
 Del amigo; que el valor
-Es resistir á el amor,
+Es resistir á el <rs type="emotion" ana="noun">amor</rs>,
 Y vencer á el apetito.
 Que yo con vos me casara
-Es sin duda, si pudiera. 
+Es sin duda, si pudiera.</l></sp> 
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Y ¿si el Conde lo quisiera,
-Y aun él mismo os lo mandara?
+<sp><l>Y ¿si el Conde lo quisiera,
+Y aun él mismo os lo mandara?</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Entonces es cosa clara;
+<sp><l>Entonces es cosa clara;
 Mas cierta podéis estar
-Que no me lo ha de mandar.2515
+Que no me lo ha de mandar.
 Y así, me voy; que no quiero
 Dar á tan gran caballero
-Ni sospecha ni pesar.
+Ni sospecha ni pesar.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Detente.
+<sp><l>Detente.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Si habéis oído
+<sp><l>Si habéis oído
 Lo que ya sospecho aquí, 
 Pienso que estaréis de mí
-Seguro y agradecido.
+Seguro y agradecido.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Todo lo tengo entendido;
+<sp><l>Todo lo tengo entendido;
 Y si por quereros bien
-Trata mi amor con desdén 
+Trata mi <rs type="emotion" ana="noun">amor</rs> con desdén 
 Doña Ana, no ha sido culpa,
 Porque sois vos la disculpa,
 Y mi desdicha también.
 Dice que sabe de mí
-Que os mandaré que os caséis:2530
+Que os mandaré que os caséis:
 Dice bien, y vos lo haréis,
 Porque yo os lo mando así.
 Que á saber, cuando la ví,
-Que os tenía tanto amor,
+Que os tenía tanto <rs type="emotion" ana="noun">amor</rs>,
 No la amara; aunque en rigor
 Fué engañado pensamiento
 Que con tal entendimiento
-No escogiese lo mejor.
+No escogiese lo mejor.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Aunque á Alejandro imitéis
+<sp><l>Aunque á Alejandro imitéis
 En darme lo que estimáis,
 Ni como Apeles me halláis,
-Ni enamorado me veis,
+Ni en<rs type="emotion" ana="noun">amor</rs>ado me veis,
 Ni vos mandarme podéis
 Que sea lo que no fuí;
 Pues cuando pudiera aquí 
 Ser lo que no puede ser,
 No quisiera yo querer
-Á quien os deja por mí.
+Á quien os deja por mí.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Quedo, quedo; que no soy
+<sp><l>Quedo, quedo; que no soy
 Tan del Conde, que me dé,
 Ni tan de don Juan, que esté
 Menos contenta ayer que hoy.
@@ -4944,71 +4939,69 @@ Y daré luego, si quiero,
 Á un honrado caballero
 Mujer y cien mil ducados,
 Sin suegros y sin cuñados,
-Que es otro tanto dinero.
+Que es otro tanto dinero.</l></sp>
 
-<div type="scene" number="xsd:int">ESCENA XIII</div>
+<div type="scene" number="13"></div>
 
-<speaker>DOÑA MARÍA</speaker>, _de madrina y muy bizarra, con_ LEONOR, _de la mano_;
-<speaker>MARTÍN</speaker>, <speaker>PEDRO</speaker> <speaker>LORENZO</speaker> BERNAL _y_ OTROS LACAYOS, _muy galanes_;
-ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>, <stage>de madrina y muy bizarra, con</stage> <speaker type="who"><l>LEONOR</l></speaker>, <stage>de la <rs type="body">mano</rs></stage>;
+<speaker type="who"><l>MARTÍN</l></speaker>, <speaker type="who"><l>PEDRO</l></speaker> <speaker type="who"><l>LORENZO</l></speaker> <speaker type="who"><l>BERNAL</l></speaker> y <speaker type="who"><l>OTROS LACAYOS</l></speaker>, <stage>muy galanes;
+ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS. MÚSICOS cantan</stage>
 
-MÚSICOS (_cantan_)
-
-_En la villa de Madrid
+<stage>En la villa de Madrid
 Leonor y Martín se casan:
-Corren toros y juegan cañas._
+Corren toros y juegan cañas.</stage>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-¡Mala letra para novios!
+<sp><l>¡Mala letra para novios!</l></sp>
 
-<speaker>PEDRO</speaker>
+<speaker type="who"><l>PEDRO</l></speaker>
 
-Pues ¿no os agrada la letra?
+<sp><l>Pues ¿no os agrada la letra?</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Correr toros y casarme
+<sp><l>Correr toros y casarme
 Paréceme á los que llevan
 Pronósticos para el año
-Dos meses antes que venga.
+Dos meses antes que venga.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Gallarda viene la novia;
+<sp><l>Gallarda viene la novia;
 Pero quien no conociera
-Á Isabel, imaginara,2570
+Á Isabel, imaginara,
 Viéndola grave y compuesta,
-Que era mujer principal.
+Que era mujer principal.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Juzgarse puede por ella
+<sp><l>Juzgarse puede por ella
 Cuánto las galas importan,
-Cuánto adorna la riqueza.
+Cuánto adorna la riqueza.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¡Qué perdido está don Juan!
+<sp><l>¡Qué perdido está don Juan!</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-¡Qué admirado la contempla!
+<sp><l>¡Qué <rs type="emotion" ana="noun"><rs type="emotion" ana="noun">admira</rs>do</rs> la contempla!</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-P</speaker>or Dios, que tiene disculpa
+<sp><l>Por Dios, que tiene disculpa
 De estimarla y de quererla;
 Que la gravedad fingida
 Parece tan verdadera,
 Que, á no conocerla yo
 Y saber sus bajas prendas,
 Hiciera un alto conceto
-De su gallarda presencia.
+De su gallarda presencia.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-(_Para sí._ Amor, si en esta mujer
+<stage>Para sí.</stage><sp><l>Amor, si en esta mujer
 No está oculta la nobleza,
 La calidad y la sangre
 Que por lo exterior se muestra,
@@ -5035,7 +5028,7 @@ Hallarse verdades ciertas?
 Ahora bien; no ha de partirse
 Isabel sin que se entienda
 Si en exteriores tan graves
-Hay algún alma secreta.)
+Hay algún alma secreta.
 Conde, el más alto poder
 Que reconoce la tierra,
 El cetro, la monarquía,
@@ -5044,132 +5037,132 @@ Del mayor rey de los hombres,
 Todas las historias cuentan,
 Todos los sabios afirman,
 Todos los ejemplos muestran
-Que es amor; pues siendo así,
+Que es <rs type="emotion" ana="noun">amor</rs>; pues siendo así,
 Y que ninguno lo niega,
-Que yo por amor me case,
-Que yo por amor me pierda,
+Que yo por <rs type="emotion" ana="noun">amor</rs> me case,
+Que yo por <rs type="emotion" ana="noun">amor</rs> me pierda,
 No es justo que á nadie admire,
 Pues cuantos viven confiesan
-Que es amor una pasión
+Que es <rs type="emotion" ana="noun">amor</rs> una pasión
 Incapaz de resistencia.
 Yo no soy mármol, si bien
 No soy yo quien me gobierna;
 Que obedecen á Isabel
-Mis sentidos y potencias.
+Mis <rs type="emotion" ana="noun">sentido</rs>s y potencias.
 Cuando esto en público digo,
 No quiero que nadie pueda
 Contradecirme el casarme,
 Pues hoy me caso con ella.
 Sed testigos que le doy
-La mano.
+La <rs type="body">mano</rs>.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Qué furia es ésta?
+<sp><l>¿Qué furia es ésta?</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Loco se ha vuelto don Juan. 
+<sp><l>Loco se ha vuelto don Juan.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¡Vive Dios, que si es de veras,
+<sp><l>¡Vive Dios, que si es de veras,
 Que antes os quite la vida
 Que permitir tal bajeza!
 ¡Hola! Criados, echad
 Esta mujer hechicera
-Por un corredor, matadla.
+Por un corredor, matadla.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-Ninguno, infames, se atreva;
-Que le daré de estocadas.
+<sp><l>Ninguno, infames, se atreva;
+Que le daré de estocadas.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-U</speaker>n hombre de vuestras prendas
-¡Quiere infamar su linaje!2650
+<sp><l>Un hombre de vuestras prendas
+¡Quiere infamar su linaje!</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¡Ay Dios! Su bajeza es cierta,
+<sp><l>¡Ay Dios! Su bajeza es cierta,
 Pues calla en esta ocasión.
 Ya no es posible que pueda
-Ser más de lo que parece.
+Ser más de lo que parece.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-¿Con cien mil ducados deja
+<sp><l>¿Con cien mil ducados deja
 Un hombre loco mujer,
 Que me casara con ella,
-Si amor me hubiera tenido?
+Si <rs type="emotion" ana="noun">amor</rs> me hubiera tenido?</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Quedo, Conde; que me pesa
+<sp><l>Quedo, Conde; que me pesa
 De que me deis ocasión
-De hablar.
+De hablar.</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-¡Ay Dios! ¡Si ya llega
-Algún desengaño mío!
+<sp><l>¡Ay Dios! ¡Si ya llega
+Algún desengaño mío!</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-No está la boda tan hecha
+<sp><l>No está la boda tan hecha
 Como os parece, Señor;
 Porque falta que yo quiera. 
 Para igualar a don Juan,
 ¿Bastaba ser vuestra deuda
-Y del duque de Medina?
+Y del duque de Medina?</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Bastaba, si verdad fuera.
+<sp><l>Bastaba, si verdad fuera.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-¿Quién fué la dama de Ronda 
+<sp><l>¿Quién fué la dama de Ronda 
 Que mató, por la defensa
 De su padre, un caballero,
 Cuyo perdón se concierta
-Por vos, y que vos buscáis?
+Por vos, y que vos buscáis?</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Doña María, á quien deban
+<sp><l>Doña María, á quien deban
 Respeto cuantas historias
-Y hechos de mujeres cuentan.
+Y hechos de mujeres cuentan.</l></sp>
 
-<speaker>DOÑA MARÍA</speaker>
+<speaker type="who"><l>DOÑA MARÍA</l></speaker>
 
-Pues yo soy doña María,
-Que por andar encubierta...
+<sp><l>Pues yo soy doña María,
+Que por andar encubierta...</l></sp>
 
-<speaker>DON JUAN</speaker>
+<speaker type="who"><l>DON JUAN</l></speaker>
 
-No prosigas relaciones,
+<sp><l>No prosigas relaciones,
 Porque son personas necias,
 Que en noche de desposados
 Hasta las doce se quedan.
-Dame tu mano y tus brazos.
+Dame tu <rs type="body">mano</rs> y tus <rs type="body">brazos</rs>.</l></sp>
 
-<speaker>MARTÍN</speaker>
+<speaker type="who"><l>MARTÍN</l></speaker>
 
-Leonor, á escuras nos dejan.
-Los padrinos son los novios.
+<sp><l>Leonor, á escuras nos dejan.
+Los padrinos son los novios.</l></sp>
 
-<speaker>DOÑA ANA</speaker>
+<speaker type="who"><l>DOÑA ANA</l></speaker>
 
-Justo será que lo sean
-El Conde y doña Ana.
+<sp><l>Justo será que lo sean
+El Conde y doña Ana.</l></sp>
 
-<speaker>CONDE</speaker>
+<speaker type="who"><l>CONDE</l></speaker>
 
-Aquí
+<sp><l>Aquí
 Puso fin á la comedia
 Quien, si perdiere este pleito,
-_Apela á Mil y Quinientas_.
+Apela á Mil y Quinientas.
 Mil y quinientas ha escrito:
-Bien es que perdón merezca.
+Bien es que perdón merezca.</l></sp>
