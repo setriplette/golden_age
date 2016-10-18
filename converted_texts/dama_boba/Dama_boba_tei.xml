@@ -1698,6 +1698,7 @@
 <sp><speaker>FINEA</speaker><l>...mucha especia, ¡linda cosa!</l></sp>
 
 <stage>Entren con agua, toalla, salva y una caja.</stage>
+   <!-- #st begin reference to Don Quixote, parodic beard washing-->
 
 <sp><speaker>CELIA</speaker> <l>El agua está aquí.</l></sp>
 
@@ -1724,6 +1725,8 @@
 
 <sp><speaker>LISEO</speaker> <stage>Aparte.</stage> <l>¡Media barba me ha quitado!</l>
 <l>¡Lindamente me enamora!</l></sp>
+   <!-- #st I think this is a reference to the beard-washing scene in the house of the Duchess in
+   Don Quixote Part II-->
 
 <sp><speaker>OTAVIO</speaker> <l>Que descanséis es razón.</l>
 <stage>Aparte.</stage>
@@ -1764,21 +1767,21 @@
 <stage>Todos se van; queden LISEO y TURÍN.</stage>
 
 </div>
-<!-- st stopped here -->
+
 <div type="scene" n="19">
 
 <sp><speaker>LISEO</speaker> <l>No sé yo</l>
 <l>de qué manera disponga</l>
-<l>mi desventura. ¡Ay de mí!</l></sp>
+<l>mi desventura. <rs type="emotion" ana="phrase">¡Ay de mí!</rs></l></sp>
 
 <sp><speaker>TURÍN</speaker> <l>¿Quieres quitarte las botas?</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>No, Turín; sino la vida.</l>
 <l>¿Hay boba tan espantosa?</l></sp>
 
-<sp><speaker>TURÍN</speaker> <l>Lástima me ha dado a mí,</l>
+<sp><speaker>TURÍN</speaker> <l><rs type="emotion" ana="noun">Lástima</rs> me ha dado a mí,</l>
 <l>considerando que ponga</l>
-<l>en un cuerpo tan hermoso</l>
+<l>en un <rs type="body">cuerpo</rs> tan hermoso</l>
 <l>el cielo un alma tan loca.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Aunque estuviera casado</l>
@@ -1804,9 +1807,11 @@
 <l>por experiencias y historias,</l>
 <l>mil hijos de padres sabios,</l>
 <l>que de necios los deshonran.</l></sp>
+   <!--#st Juan Huarte de San Juan talks about this in his medical text; children who don't have the same 
+      talent as parents, consequence of imbalance of humors-->
 
-<sp><speaker>LISEO</speaker> <l>Verdad es que Cicerón</l>
-<l>tuvo a Marco Tulio en Roma,</l>
+<sp><speaker>LISEO</speaker> <l>Verdad es que <persName type="hist">Cicerón</persName></l>
+<l>tuvo a <persName type="hist">Marco Tulio</persName> en <placeName>Roma</placeName>,</l>
 <l>que era un caballo, un camello.</l></sp>
 
 <sp><speaker>TURÍN</speaker> <l>De la misma suerte consta</l>
@@ -1823,27 +1828,28 @@
 <l>Nise...</l></sp>
 
 <sp><speaker>TURÍN</speaker> <l>¡Oh, qué bien te reportas!</l>
-<l>Dicen que si a un hombre airado,</l>
-<l>que colérico se arroja,</l>
+<l>Dicen que si a un hombre <rs type="emotion" ana="adj">airado</rs>,</l>
+<l>que <rs type="body" subtype="humor">colérico</rs> se arroja,</l>
+   <!-- #st This is the name of one of the four humors, associated with anger. It is both emotion and body, really -->
 <l>le pusiesen un espejo,</l>
 <l>en mirando en él la sombra</l>
-<l>que representa su cara,</l>
-<l>se tiempla y desapasiona;</l>
-<l>así tú, como tu gusto</l>
+<l>que representa su <rs type="body">cara</rs>,</l>
+<l>se <rs type="emotion" ana="verb">tiempla</rs> y <rs type="emotion" ana="verb">desapasiona</rs>;</l>
+<l>así tú, como tu <rs type="emotion" ana="noun">gusto</rs></l>
 <l>miraste en su hermana hermosa</l>
-<l>-que el gusto es cara del alma,</l>
+<l>-que el <rs type="emotion" ana="noun">gusto</rs> es <rs type="body">cara</rs> del alma,</l>
 <l>pues su libertad se nombra-,</l>
-<l>luego templaste la tuya.</l></sp>
+<l>luego <rs type="emotion" ana="verb">templaste</rs> la tuya.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Bien dices, porque ella sola</l>
-<l>el enojo de su padre,</l>
-<l>que, como ves, me alborota,</l>
+<l>el <rs type="emotion" ana="noun">enojo</rs> de su padre,</l>
+<l>que, como ves, me <rs type="emotion" ana="verb">alborota</rs>,</l>
 <l>me puede quitar, Turín.</l></sp>
 
 <sp><speaker>TURÍN</speaker> <l>¿Que no hay que tratar de esotra?</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Pues, ¿he de dejar la <rs type="emotion" subtype="meta" ana="noun">vida</rs></l>
-<l>por la <rs type="emotion" subtype="meta" ana="noun">muerte</rs> temerosa,</l>
+<l>por la <rs type="emotion" subtype="meta" ana="noun">muerte</rs> <rs type="emotion" ana="adj">temerosa</rs>,</l>
 <l>y por la noche enlutada</l>
 <l>el sol que los cielos dora,</l>
 <l>por los áspides las aves,</l>
@@ -1851,7 +1857,7 @@
 <l>y por un demonio un ángel?</l></sp>
 
 <sp><speaker>TURÍN</speaker> <l>Digo que razón te sobra:</l>
-<l>que no está el gusto en el oro;</l>
+<l>que no está el <rs type="emotion" ana="noun">gusto</rs> en el oro;</l>
 <l>que son el oro y las horas</l>
 <l>muy diversas.</l></sp>
 
@@ -1871,64 +1877,64 @@
 <sp><speaker>FENISO</speaker> <l>En fin, ha pasado un mes</l>
 <l>y no se casa Liseo.</l></sp>
 
-<sp><speaker>DUARDO</speaker> <l>No siempre mueve el deseo</l>
+<sp><speaker>DUARDO</speaker> <l>No siempre mueve el <rs type="emotion" ana="noun">deseo</rs></l>
 <l>el codicioso interés.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>De Nise la enfermedad</l>
 <l>ha sido causa bastante.</l></sp>
 
 <sp><speaker>FENISO</speaker> <l>Ver a Finea ignorante</l>
-<l>templará su voluntad.</l></sp>
+<l><rs type="emotion" ana="verb">templará</rs> su <rs type="emotion" ana="noun">voluntad</rs>.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Menos lo está que solía.</l>
-<l>Temo que amor ha de ser</l>
+<l><rs type="emotion" ana="verb">Temo</rs> que <rs type="emotion" ana="noun">amor</rs> ha de ser</l>
 <l>artificioso a encender</l>
 <l>piedra tan helada y fría.</l></sp>
 
 <sp><speaker>DUARDO</speaker> <l>¡Tales milagros ha hecho</l>
-<l>en gente rústica amor!</l></sp>
+<l>en gente rústica <rs type="emotion" ana="noun">amor</rs>!</l></sp>
 
 <sp><speaker>FENISO</speaker> <l>No se tendrá por menor</l>
-<l>dar alma a su rudo pecho.</l></sp>
+<l>dar alma a su rudo <rs type="body">pecho</rs>.</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l>Amor, señores, ha sido</l>
+<sp><speaker>LAURENCIO</speaker> <l><rs type="emotion" ana="noun">Amor</rs>, señores, ha sido</l>
 <l>aquel ingenio profundo,</l>
 <l>que llaman alma del mundo,</l>
 <l>y es el dotor que ha tenido</l>
 <l>   la cátedra de las ciencias;</l>
-<l>porque solo con amor</l>
+<l>porque solo con <rs type="emotion" ana="noun">amor</rs></l>
 <l>aprende el hombre mejor</l>
 <l>sus divinas diferencias.</l>
-<l>   Así lo sintió Platón;</l>
-<l>esto Aristóteles dijo;</l>
+<l>   Así lo sintió <persName type="hist">Platón</persName>;</l>
+<l>esto <persName type="hist">Aristóteles</persName> dijo;</l>
 <l>que, como del cielo es hijo,</l>
 <l>es todo contemplación.</l>
-<l>   De ella nació el admirarse,</l>
-<l>y de admirarse nació</l>
+<l>   De ella nació el <rs type="emotion" ana="verb">admirarse</rs>,</l>
+<l>y de <rs type="emotion" ana="verb">admirarse</rs> nació</l>
 <l>el filosofar, que dio</l>
 <l>luz con que pudo fundarse</l>
 <l>   toda ciencia artificial.</l>
-<l>Y a amor se ha de agradecer</l>
-<l>que el deseo de saber</l>
+<l>Y a <rs type="emotion" ana="noun">amor</rs> se ha de agradecer</l>
+<l>que el <rs type="emotion" ana="noun">deseo</rs> de saber</l>
 <l>es al hombre natural.</l>
-<l>   Amor con fuerza süave</l>
-<l>dio al hombre el saber sentir,</l>
+<l>   <rs type="emotion" ana="noun">Amor</rs> con fuerza süave</l>
+<l>dio al hombre el saber <rs type="emotion" ana="verb">sentir</rs>,</l>
 <l>dio leyes para vivir</l>
 <l>político, honesto y grave.</l>
-<l>   Amor repúblicas hizo;</l>
+<l>   <rs type="emotion" ana="noun">Amor</rs> repúblicas hizo;</l>
 <l>que la concordia nació</l>
-<l>de amor, con que a ser volvió</l>
+<l>de <rs type="emotion" ana="noun">amor</rs>, con que a ser volvió</l>
 <l>lo que la guerra deshizo.</l>
-<l>   Amor dio lengua a las aves,</l>
+<l>   <rs type="emotion" ana="noun">Amor</rs> dio <rs type="body">lengua</rs> a las aves,</l>
 <l>vistió la tierra de frutos,</l>
 <l>y, como prados enjutos,</l>
 <l>rompió el mar con fuertes naves.</l>
-<l>   Amor enseñó a escribir</l>
+<l>   <rs type="emotion" ana="noun">Amor</rs> enseñó a escribir</l>
 <l>altos y dulces concetos,</l>
 <l>como de su causa efetos.</l>
-<l>Amor enseñó a vestir</l>
+<l><rs type="emotion" ana="noun">Amor</rs> enseñó a vestir</l>
 <l>   al más rudo, al más grosero;</l>
-<l>de la elegancia fue amor</l>
+<l>de la elegancia fue <rs type="emotion" ana="noun">amor</rs></l>
 <l>el maestro; el inventor</l>
 <l>fue de los versos primero;</l>
 <l>   la música se le debe</l>
@@ -1936,19 +1942,19 @@
 <l>dejará de saber bien,</l>
 <l>como sus efetos pruebe?</l>
 <l>   No dudo de que a Finea,</l>
-<l>como ella comience a amar,</l>
-<l>la deje amor de enseñar,</l>
+<l>como ella comience a <rs type="emotion" ana="verb">amar</rs>,</l>
+<l>la deje <rs type="emotion" ana="noun">amor</rs> de enseñar,</l>
 <l>por imposible que sea.</l></sp>
 
 <sp><speaker>FENISO</speaker> <l>Está bien pensado ansí,</l>
 <l>y su padre lleva intento,</l>
 <l>por dicha, en el casamiento,</l>
-<l>que ame y sepa.</l></sp>
+<l>que <rs type="emotion" ana="verb">ame</rs> y sepa.</l></sp>
 
 <sp><speaker>DUARDO</speaker> <l>Y yo de aquí,</l>
-<l>   infamando amores locos,</l>
+<l>   infamando <rs type="emotion" ana="noun">amores</rs> locos,</l>
 <l>en limpio vengo a sacar</l>
-<l>que pocos deben de amar</l>
+<l>que pocos deben de <rs type="emotion" ana="verb">amar</rs></l>
 <l>en lugar que saben pocos.</l></sp>
 
 <sp><speaker>FENISO</speaker> <l>¡Linda malicia!</l></sp>
@@ -1985,19 +1991,19 @@
 <stage>NISE, CELIA.- Dichos.</stage>
 
 <sp><speaker>NISE</speaker> <stage>Aparte a CELIA.</stage>
-<l>Mucho la historia me admira.</l></sp>
+<l>Mucho la historia me <rs type="emotion" ana="verb">admira</rs>.</l></sp>
 
-<sp><speaker>CELIA</speaker> <l>Amores pienso que son,</l>
+<sp><speaker>CELIA</speaker> <l><rs type="emotion" ana="noun">Amores</rs> pienso que son,</l>
 <l>   fundados en el dinero.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Nunca fundó su valor</l>
-<l>sobre dineros amor,</l>
+<l>sobre dineros <rs type="emotion" ana="noun">amor</rs>,</l>
 <l>que busca el alma primero.</l></sp>
 
 <sp><speaker>DUARDO</speaker> <l>Señora, a vuestra salud,</l>
 <l>hoy cuantas cosas os ven</l>
-<l>dan alegre parabién</l>
-<l>y tienen vida y quietud;</l>
+<l>dan <rs type="emotion" ana="adj">alegre</rs> <rs type="emotion" ana="noun">parabién</rs></l>
+<l>y tienen vida y <rs type="emotion" ana="noun">quietud</rs>;</l>
 <l>que como vuestra virtud</l>
 <l>era el sol que se la dio,</l>
 <l>mientras el mal le eclipsó</l>
@@ -2005,7 +2011,7 @@
 <l>que hasta ver vuestras estrellas</l>
 <l>fortuna el tiempo corrió.</l>
 <l>   Mas como la primavera</l>
-<l>sale con pies de marfil,</l>
+<l>sale con <rs type="body">pies</rs> de marfil,</l>
 <l>y el vario velo sutil</l>
 <l>tiende en la verde ribera,</l>
 <l>corre el agua lisonjera</l>
@@ -2017,7 +2023,7 @@
 
 <sp><speaker>FENISO</speaker> <l>Ya se ríen estas fuentes,</l>
 <l>y son perlas las que fueron</l>
-<l>lágrimas, con que sintieron</l>
+<l><rs type="body">lágrimas</rs>, con que <rs type="emotion" ana="verb">sintieron</rs></l>
 <l>esas estrellas ausentes;</l>
 <l>y a las aves sus corrientes</l>
 <l>hacen instrumentos claros</l>
@@ -2030,23 +2036,23 @@
 <l>donde no hay alma, señora,</l>
 <l>más de la que vos ponéis,</l>
 <l>en mí, ¿qué muestras haréis,</l>
-<l>qué señales de alegría,</l>
+<l>qué señales de <rs type="emotion" ana="noun">alegría</rs>,</l>
 <l>este venturoso día,</l>
-<l>después de tantos enojos,</l>
-<l>siendo vos sol de mis ojos,</l>
+<l>después de tantos <rs type="emotion" ana="noun">enojos</rs>,</l>
+<l>siendo vos sol de mis <rs type="body">ojos</rs>,</l>
 <l>siendo vos alma en la mía?</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>A estar sin vida llegué</l>
 <l>el tiempo que no os serví;</l>
-<l>que fue lo más que sentí,</l>
+<l>que fue lo más que <rs type="emotion" ana="verb">sentí</rs>,</l>
 <l>aunque sin mi culpa fue.</l>
 <l>Yo vuestros males pasé,</l>
-<l>como cuerpo que animáis;</l>
+<l>como <rs type="body">cuerpo</rs> que animáis;</l>
 <l>vos movimiento me dais,</l>
 <l>yo soy instrumento vuestro,</l>
 <l>que en mi vida y salud muestro</l>
 <l>todo lo que vos pasáis.</l>
-<l>   Parabién me den a mí</l>
+<l>   <rs type="emotion" ana="noun">Parabién</rs> me den a mí</l>
 <l>de la salud que hay en vos,</l>
 <l>pues que pasamos los dos</l>
 <l>el mismo mal en que os vi.</l>
@@ -2055,10 +2061,10 @@
 <l>en que este mal que fue nuestro,</l>
 <l>solo tenerle debía,</l>
 <l>no vos, que sois alma mía,</l>
-<l>yo sí, que soy cuerpo vuestro.</l></sp>
+<l>yo sí, que soy <rs type="body">cuerpo</rs> vuestro.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>Pienso que de oposición</l>
-<l>me dais los tres parabién.</l></sp>
+<l>me dais los tres <rs type="emotion" ana="noun">parabién</rs>.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Y es bien, pues lo sois por quien</l>
 <l>viven los que vuestros son.</l></sp>
@@ -2070,18 +2076,18 @@
 <l>   de este jardín, porque quiero</l>
 <l>hablar a Laurencio un poco.</l></sp>
 
-<sp><speaker>DUARDO</speaker> <l>Quien ama y sufre, o es loco</l>
+<sp><speaker>DUARDO</speaker> <l>Quien <rs type="emotion" ana="verb">ama</rs> y sufre, o es loco</l>
 <l>o necio.</l></sp>
 
 <sp><speaker>FENISO</speaker> <l>Tal premio espero.</l></sp>
 
 <sp><speaker>DUARDO</speaker> <l>No son vanos mis recelos.</l></sp>
 
-<sp><speaker>FENISO</speaker> <l>Ella le quiere.</l></sp>
+<sp><speaker>FENISO</speaker> <l>Ella le <rs type="emotion" ana="verb">quiere</rs>.</l></sp>
 
 <sp><speaker>DUARDO</speaker> <l>Yo haré</l>
 <l>un ramillete de fe,</l>
-<l>pero sembrado de celos.</l></sp>
+<l>pero sembrado de <rs type="emotion" ana="noun">celos</rs>.</l></sp>
 
 <stage>Vanse DUARDO y FENISO.</stage>
 
@@ -2092,8 +2098,8 @@
 <stage>LAURENCIO, NISE.</stage>
 
 <sp><speaker>LAURENCIO</speaker> <l>Ya se han ido. ¿Podré yo,</l>
-<l>Nise, con mis brazos darte</l>
-<l>parabién de tu salud?</l></sp>
+<l>Nise, con mis <rs type="body">brazos</rs> darte</l>
+<l><rs type="emotion" ana="noun">parabién</rs> de tu salud?</l></sp>
 
 <sp><speaker>NISE</speaker> <l>¡Desvía, fingido, fácil,</l>
 <l>lisonjero, engañador,</l>
@@ -2107,7 +2113,7 @@
 <l>con que creíste mi muerte,</l>
 <l>y, si mi muerte pensaste,</l>
 <l>con gracioso sentimiento,</l>
-<l>pagaste el amor que sabes,</l>
+<l>pagaste el <rs type="emotion" ana="noun">amor</rs> que sabes,</l>
 <l>mudando el tuyo en Finea.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>¿Qué dices?</l></sp>
@@ -2117,6 +2123,7 @@
 <l>ella rica y ignorante;</l>
 <l>buscaste lo que no tienes,</l>
 <l>y lo que tienes dejaste.</l>
+   <!--#st This corresponds to Huarte's theory of how one should select a mate; search for the opposite.-->
 <l>Discreción tienes, y en mí</l>
 <l>la que celebrabas antes</l>
 <l>dejas con mucha razón;</l>
@@ -2127,7 +2134,7 @@
 <l>que a los hombres debe darse?</l>
 <l>El oro que no tenías,</l>
 <l>tenerle solicitaste</l>
-<l>enamorando a Finea.</l></sp>
+<l><rs type="emotion" ana="verb">enamorando</rs> a Finea.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Escucha...</l></sp>
 
@@ -2142,13 +2149,13 @@
 <l>sin intereses mortales,</l>
 <l>y en un mes, y aun algo menos,</l>
 <l>está creciente y menguante.</l>
-<l>Tú en la tierra, y de Madrid,</l>
+<l>Tú en la tierra, y de <placeName>Madrid</placeName>,</l>
 <l>donde hay tantos vendavales</l>
 <l>de intereses en los hombres,</l>
 <l>no fue milagro mudarte.</l>
 <l>Dile, Celia, lo que has visto.</l></sp>
 
-<sp><speaker>CELIA</speaker> <l>Ya, Laurencio, no te espantes</l>
+<sp><speaker>CELIA</speaker> <l>Ya, Laurencio, <rs type="emotion" ana="verb">no te espantes</rs></l>
 <l>de que Nise, mi señora,</l>
 <l>de esta manera te trate:</l>
 <l>yo sé que has dicho a Finea</l>
@@ -2162,15 +2169,15 @@
 <l>ingratamente pagaste,</l>
 <l>pero tu Pedro, el que tiene</l>
 <l>de tus secretos las llaves,</l>
-<l>ama a Clara tiernamente.</l>
+<l><rs type="emotion" ana="verb">ama</rs> a Clara <rs type="emotion" ana="adv">tiernamente</rs>.</l>
 <l>¿Quieres que más te declare?</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l>Tus celos han sido, Celia,</l>
+<sp><speaker>LAURENCIO</speaker> <l>Tus <rs type="emotion" ana="noun">celos</rs> han sido, Celia,</l>
 <l>y quieres que yo los pague.</l>
 <l>¿Pedro a Clara, aquella boba?</l></sp>
-
+   
 <sp><speaker>NISE</speaker> <l>Laurencio, si le enseñaste,</l>
-<l>¿por qué te afrentas de aquello</l>
+<l>¿por qué <rs type="emotion" ana="verb">te afrentas</rs> de aquello</l>
 <l>en que de ciego no caes?</l>
 <l>Astrólogo me pareces,</l>
 <l>que siempre de ajenos males,</l>
@@ -2185,13 +2192,13 @@
 <l>porque un discreto y un necio</l>
 <l>no pueden ser consonantes.</l>
 <l>¡Ay Laurencio, qué buen pago</l>
-<l>de fe y amor tan notable!</l>
+<l>de fe y <rs type="emotion" ana="noun">amor</rs> tan notable!</l>
 <l>Bien dicen que a los amigos,</l>
 <l>prueba la cama y la cárcel.</l>
-<l>Yo enfermé de mis tristezas,</l>
+<l>Yo enfermé de mis <rs type="emotion" ana="noun">tristezas</rs>,</l>
 <l>y, de no verte ni hablarte,</l>
-<l>sangráronme muchas veces.</l>
-<l>¡Bien me alegraste la sangre!</l>
+<l><rs type="body">sangráronme</rs> muchas veces.</l>
+<l>¡Bien me <rs type="emotion" ana="verb">alegraste</rs> la <rs type="body">sangre</rs>!</l>
 <l>Por regalos tuyos tuve</l>
 <l>mudanzas, traiciones, fraudes;</l>
 <l>pero, pues tan duros fueron,</l>
@@ -2216,7 +2223,7 @@
 <sp><speaker>LISEO</speaker> <stage>Aparte.</stage>
 <l>Esperaba tarde</l>
 <l>los desengaños; mas ya</l>
-<l>no quiere amor que me engañe.</l></sp>
+<l>no quiere <rs type="emotion" ana="noun">amor</rs> que me engañe.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>¡Suelta!</l></sp>
 
@@ -2246,12 +2253,12 @@
 
 <stage>LAURENCIO y LISEO.</stage>
 
-<sp><speaker>LAURENCIO</speaker> <l>¡Qué airada!</l></sp>
+<sp><speaker>LAURENCIO</speaker> <l>¡Qué <rs type="emotion" ana="adj">airada</rs>!</l></sp>
 
-<sp><speaker>LISEO</speaker> <l>Yo me espanto que te trate</l>
+<sp><speaker>LISEO</speaker> <l>Yo <rs type="emotion" ana="noun">me espanto</rs> que te trate</l>
 <l>con estos rigores Nise.</l></sp>
 
-<sp><speaker>LAURENCIO</speaker> <l>Pues, Liseo, no te espantes:</l>
+<sp><speaker>LAURENCIO</speaker> <l>Pues, Liseo, <rs type="emotion" ana="verb">no te espantes</rs>:</l>
 <l>que es defeto en los discretos</l>
 <l>tal vez el no ser afables.</l></sp>
 
@@ -2260,18 +2267,18 @@
 <sp><speaker>LAURENCIO</speaker> <l>Poco o nada.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Pues vámonos esta tarde</l>
-<l>por el Prado arriba.</l></sp>
+<l>por el <placeName>Prado</placeName> arriba.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Vamos</l>
 <l>donde quiera que tú mandes.</l></sp>
 
-<sp><speaker>LISEO</speaker> <l>Detrás de los Recoletos</l>
+<sp><speaker>LISEO</speaker> <l>Detrás de los <placeName>Recoletos</placeName></l>
 <l>quiero hablarte.</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Si el hablarme</l>
-<l>no es con las lenguas que dicen,</l>
-<l>sino con lenguas que hacen,</l>
-<l>aunque me espanto que sea,</l>
+<l>no es con las <rs type="body">lengua</rs>s que dicen,</l>
+<l>sino con <rs type="body">lenguas</rs> que hacen,</l>
+<l>aunque <rs type="emotion" ana="verb">me espanto</rs> que sea,</l>
 <l>dejaré caballo y pajes.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Bien puedes.</l></sp>
@@ -2288,7 +2295,7 @@
 <l>¡Qué celoso y qué arrogante!</l>
 <l>Finea es boba, y, sin duda,</l>
 <l>de haberle contado nace</l>
-<l>mis amores y papeles.</l>
+<l>mis <rs type="emotion" ana="noun">amores</rs> y papeles.</l>
 <l>Ya para consejo es tarde;</l>
 <l>que deudas y desafíos</l>
 <l>a que los honrados salen,</l>
@@ -2309,10 +2316,10 @@
 <l>Y no quiero danzar más.</l></sp>
 
 <sp><speaker>MAESTRO</speaker> <l>Como no danza a compás,</l>
-<l>hase enfadado de sí.</l></sp>
+   <l><rs type="emotion" ana="verb">hase enfadado</rs> de sí.</l></sp>
 
-<sp><speaker>FINEA</speaker> <l>¡Por poco diera de hocicos,</l>
-<l>saltando! Enfadada vengo.</l>
+<sp><speaker>FINEA</speaker> <l>¡Por poco diera de <rs type="body">hocicos</rs>,</l>
+<l>saltando! <rs type="emotion" ana="adj">Enfadada</rs> vengo.</l>
 <l>¿Soy yo urraca, que andar tengo</l>
 <l>por casa, dando salticos?</l>
 <l>   Un paso, otro contrapaso,</l>
@@ -2341,14 +2348,14 @@
 
 <sp><speaker>MAESTRO</speaker> <l>Es muy de caballos eso.</l></sp>
 
-<sp><speaker>FINEA</speaker> <l>Haced vos lo que me agrada,</l>
+<sp><speaker>FINEA</speaker> <l>Haced vos lo que me <rs type="emotion" ana="verb">agrada</rs>,</l>
 <l>   que no es mucha rustiqueza</l>
-<l>el traellos en los pies.</l>
+<l>el traellos en los <rs type="body">pies</rs>.</l>
 <l>Harto peor pienso que es</l>
-<l>traellos en la cabeza.</l></sp>
+<l>traellos en la <rs type="body">cabeza</rs>.</l></sp>
 
 <sp><speaker>MAESTRO</speaker> <stage>Aparte.</stage>
-<l>   (Quiero seguirle el humor.)</l>
+<l>   (Quiero seguirle el <rs type="emotion" ana="noun">humor</rs>.)</l>
 <l>Yo haré lo que mandáis.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Id danzando cuando os vais.</l></sp>
@@ -2388,7 +2395,7 @@
 
 <sp><speaker>FINEA</speaker> <l>¿Qué es mentecata, villano?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¡Señora, tened la mano!</l>
+<sp><speaker>MAESTRO</speaker> <l>¡Señora, tened la <rs type="body">mano</rs>!</l>
 <l>Es una dama que trata</l>
 <l>   con gravedad y rigor</l>
 <l>a quien la sirve.</l></sp>
@@ -2396,7 +2403,7 @@
 <sp><speaker>FINEA</speaker> <l>¿Esa es?</l></sp>
 
 <sp><speaker>MAESTRO</speaker> <l>Puesto que vuelve después</l>
-<l>con más blandura y amor.</l></sp>
+<l>con más blandura y <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
 <sp><speaker>FINEA</speaker> <l>¿Es eso cierto?</l></sp>
 
@@ -2412,7 +2419,7 @@
 <stage>Váyase y entre CLARA.</stage>
 
 </div>
-
+  <!-- #st stopped here -->
 <div type="scene" n="8">
 
 <stage>CLARA y FINEA.</stage>
