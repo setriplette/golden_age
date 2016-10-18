@@ -1,10 +1,10 @@
-The Pilgrim of Castile, or El Pelegrino in Su Patria
+<TEI><teiHeader><fileDesc><titleStmt><title>The Pilgrim of Castile, or El Pelegrino in Su Patria</title></titleStmt><publicationStmt><p>
 
-by Lope de Vega, translated and abridged by William Dutton
+by Lope de Vega, translated and abridged by William Dutton</p></publicationStmt><sourceDesc><p>
 
-published 1621
+published 1621</p></sourceDesc></fileDesc></teiHeader>
 
-<div type="book"><head>The First Book</head>
+<text><body><div type="book"><head>The First Book</head>
 
 <p>Upon the shore of Barcelona, between the planks of a ship which had
 suffered wreck, there appeared as if it had been a parcel of cloth
@@ -96,7 +96,7 @@ own turbulent narrative, his features and comprehension being
 pleasing to them, one among them named Ramond told it in this
 manner:</p>
 
-<div type="narrative"><head type="narrative">The History of Doricles</head>
+<floatingText type="narrative"><body><head type="narrative">The History of Doricles</head>
 
 <q><p>In this famous city, which with a wonderful greatness opposeth
 Italy, and astonisheth Africa, there was born a lady of noble
@@ -291,7 +291,7 @@ our companions before, who are they which found you together with
 him who conducted us hither; Doricles is now with this pilgrim; I
 cannot tell thee whether he hath gained her or no, nor whether the
 bed had made a peace between two minds so absolutely differing: but
-certain it is that they are now lodged together.</p></q></div>
+certain it is that they are now lodged together.</p></q></body></floatingText>
 
 <p>The soldiers easily perceived that the pilgrim hearing this story,
 bathed his face with his tears, and with sad and violent sighings
@@ -524,7 +524,7 @@ than relation of our own misadventures. The master of the lodging
 pilgrim to relate the cause of his imprisonment, began to speak in
 this manner:</p>
 
-<div type="narrative"><head type="narrative">The History of Mireno</head>
+<floatingText type="narrative"><body><head type="narrative">The History of Mireno</head>
 
 <q><p>In a little town not far from this great city, there was a
 gentleman named Telemachus married with a fair lady, not so chaste
@@ -812,7 +812,7 @@ infidelity, love, who was the cause, has the power to excuse her.</p>
 <p>So the faire Lucretia remained in mortal rest, and her name, in my
 imagination, is not worthy of blame: for having been overcome by the
 excellent parts of her lover, and by that unchangeable force which
-love ever useth against great and free courages.</p></q></div>
+love ever useth against great and free courages.</p></q></body></floatingText>
 
 <p>The pilgrim's imprisonment had not passed at so easy a rate of his
 patience, had not Everard (so was the knight called that made this
@@ -831,7 +831,7 @@ another, with a thousand loving embraces, and Everard having further
 obliged him with some money, he resolved to go to Montserrat, and I
 to finish this First Book.</p>
 
-The end of the First Book.</div>
+<p>The end of the First Book.</p></div>
 
 <div type="book"><head>Book Two</head>
 
@@ -886,7 +886,7 @@ them dinner, and after their repast, being entreated by the pilgrims
 to tell them what devotion had confined him into these solitary
 mountains, he related the history of his life, in this manner:</p>
 
-<div type="narrative"><head type="narrative">The History of Aurelia</head>
+<floatingText type="narrative"><body><head type="narrative">The History of Aurelia</head>
 <q><p>Amongst all the things which in the course of my life I have seen
 and marked, I might peradventure tell you some one, which might
 better content you. But thinking that one cannot better persuade
@@ -1069,7 +1069,7 @@ escaping, we vowed ourselves to a religious life with such
 earnestness of tears, that afterwards the storm ceasing and we
 landing, she entered into the Monastery of the Conception; and I
 underwent this habit wherein you now see me, where after some years
-of probation this cell was given me.</p></q></div>
+of probation this cell was given me.</p></q></body></floatingText>
 
 <p>Here Tirsis the Hermit of this happy abode stayed his discourse, and
 our pilgrims judging that it was too late to pass further, and it
@@ -1387,7 +1387,7 @@ and desire to tell thee my name, my country, quality and my
 misfortunes, which if thou please to hearken unto with patience, I
 will as briefly as I can relate:</p>
 
-<div type="narrative"><head type="narrative">The History of Pamphilus and Celio.</head>
+<floatingText type="narrative"><body><head type="narrative">The History of Pamphilus and Celio.</head>
 <q><p>The city of Toledo, in the heart of Spain; strong by situation,
 noble by antiquity, famous for the preservation of the Christian
 faith ever since the time of the Goths, generous both in learning
@@ -1537,7 +1537,7 @@ unto thee in thy curing, for thy tears doe make me pity thee. You
 may well serve to help me pitiful Nisa (said then the cunning lover,
 who might well have instructed Ovid) seeing I do not hope for it
 from any other hands than yours, and that you know the cause of my
-pain, as well as you know yourself.</p></q></div>
+pain, as well as you know yourself.</p></q></body></floatingText>
 
 <p>Here Pamphilus demanded of Celio (wondering that he should tell so
 particularly that which passed so secretly between him and Nisa) how
@@ -1548,7 +1548,7 @@ of his, from whom having had the means since that time to get it, he
 learned all unto the least particular, and then proceeding on his
 discourse, he continued in this manner:</p>
 
-<div type="narrative"><q><p>The colour which came into Nisa's face when she heard Pamphilus’
+<floatingText type="narrative"><body><q><p>The colour which came into Nisa's face when she heard Pamphilus’
 words, cannot be compared, but unto the red rose with milky leaves,
 although it be a poetical term, and borrowed of the same author, yet
 feigning not to understand what he said, she answered that if it
@@ -1577,7 +1577,7 @@ her face within the crystal could no longer suffer his discourse,
 nor the knight’s presence: but rising up in a fury, said unto him in
 great anger as she went away, thy boldness shall cost thee thy life.
 Can it be better employed, answered Pamphilus, than for your beauty
-to be ended?</p></q></div>
+to be ended?</p></q></body></floatingText>
 
 <p>She answered well, said the Pilgrim, if she had accomplished what
 she said. She accomplished it so ill, replied Celio, that within a
@@ -1611,7 +1611,7 @@ answered Celio, and it may be, that he witnessing his fidelity by
 other services, obliged her to condescend unto his will, for Nisa is
 not the only woman in this world subject to this weakness.</p>
 
-<div type="narrative"><p>Nevertheless, behold the strange accident which happened unto them
+<floatingText type="narrative"><body><q><p>Nevertheless, behold the strange accident which happened unto them
 both, as a beginning of their misfortunes; for it being rumoured at
 Madrid that Pamphilus was come from Flanders, the news thereof came
 unto my father’s ears, who (desirous to make him his son in law, in
@@ -1676,7 +1676,7 @@ whence it followed that for safety of my life I was driven to leave
 her. Nevertheless, I am resolved whatsoever happen unto me to seek
 her, because that besides, I do love her more than myself, I owe so
 much unto her merit and virtue with which she hath faithfully
-accompanied me, through many and variable successes.</p></q></div>
+accompanied me, through many and variable successes.</p></q></body></floatingText>
 
 <p>Night had spread his black veil over the face of the Earth, and the
 houses were as full of candles, as the heaven of stars; men and
@@ -1807,7 +1807,7 @@ which made him rest that night (with more contentment out of the
 facility which it brought to his design) staying for the light of
 the morning to clear his passage over the mountains into France.</p>
 
-The End of the Second Book.</div>
+<p>The End of the Second Book.</p></div>
 
 <div type="book"><head>Book Three</head>
 
@@ -1895,7 +1895,7 @@ to the study of philosophy, lost his understanding. Of this man the
 Earl demanded, which was the Primum Mobile, either Coelum Imperium,
 or Coelum Crystallinum? unto whom the madman answered thus:</p>
 
-<div type="narrative"><q><p>After moving the spheres by a local motion, the divines do teach us
+<floatingText type="narrative"><body><q><p>After moving the spheres by a local motion, the divines do teach us
 that there is another heaven perpetually in rest from all motion,
 created from the beginning, and full of an innumerable thousands of
 intelligences and of happy spirits, which were created together in
@@ -1909,7 +1909,7 @@ it shineth) is the throne destined before the constitution of the
 world, and as a royal palace ordained from the beginning, for all
 those who are to reign before the face of God, the light whereof is
 so lustrous and clear, that the corporal eyes cannot behold or look
-upon it, no more than the birds of the night can the sun.</p></q></div>
+upon it, no more than the birds of the night can the sun.</p></q></body></floatingText>
 
 <p>All the assistants remaining astonished at this discourse, another
 one of the madmen began to cry, calling his dogs, and luring his
@@ -2163,7 +2163,7 @@ her. And so following the story of Pamphilus which was also hers,
 from the beginning as you have heard related by Celio until their
 departure from Toledo, she began to say as follows:</p>
 
-<p>The Story of Pamphilus and Nisa.</p>
+<floatingText type="narrative"> <body><head type="narrative">The Story of Pamphilus and Nisa.</head>
 
 <q><p>After that Pamphilus went away from Toledo with Nisa, thinking that
 her father would marry her with another, and being jealous of
@@ -2484,7 +2484,7 @@ of Barcelona, neither is known, whether Nisa and the Moors are alive
 or dead: but Pamphilus swimming attained unto a plank of the ship,
 and within a day after, being taken up by some Moors of Bizerta,
 they carried him to Constantinople where I saw him a captive, and
-where he told me what I have related.</p></q></div>
+where he told me what I have related.</p></q></body></floatingText>
 
 <p>Thus Nisa added to the truth to hide herself from Finia, knowing
 already by that which was related in the first Book, how she and
@@ -2526,7 +2526,7 @@ little by little over the craggy mountains which divide France from
 Spain, came unto Perpignan, where I leave them to their rest,
 attending the Fourth Book.</p>
 
-The End of the Third Book.</div>
+<p>The End of the Third Book.</p></div>
 
 <div type="book"><head>Book Four</head>
 
@@ -3809,6 +3809,6 @@ loves have been seasoned) in the sweet repose of your native place,
 in which peace I will leave you, that you may enjoy the delights
 which you have merited: and seeing that I have left your statues in
 the temple, I will leave in the temple of renown the pen with which
-I wrote your unfortunate loves.</p></div>
+I wrote your unfortunate loves.</p>
 
-FINIS.
+<p>FINIS.</p></div></body></text></TEI>

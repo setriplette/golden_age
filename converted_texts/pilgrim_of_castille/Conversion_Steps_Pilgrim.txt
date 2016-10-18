@@ -1,17 +1,29 @@
 Document Structure:
 <TEI>
-    <teiHeader> 
-        Everything that goes in the header.
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Pilgrim of Castile, or El Pelegrino in Su Patria</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Translated and abridged by William Dutton. Published 1621.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Digital text based on Project Gutenberg https://www.gutenberg.org/ebooks/49847</p>
+            </sourceDesc>
+        </fileDesc>
     </teiHeader>
     <text>
         <body>
             <div type="book">
                 <head>Heading</head>
                 <p>Text</p>
-                <div type="narrative">
-                    <head type="narrative">Head</head>
-                    <q><p>Story Text</p></q>
-                </div>
+                <floatingText type="narrative">
+                    <body>
+                        <head type="narrative">Head</head>
+                        <q><p>Story Text</p></q>
+                    </body>
+                </floatingText>
             </div>
         </body>
     </text>
@@ -56,3 +68,30 @@ Then:
 And for the continuation of some stories in the middle of the book text:
     Find: <q>
 Then I manually added <div type="narrative"> where the quote occurred in the middle of the text.
+12.I found that <div> did not work around the narrative so I changed them to floating text:
+    Find: <div type="narrative">
+    Replace with: <floatingText type="narrative">
+    
+    Find: (</q>)</div>
+    Replace with: \1</body></floatingText>
+    
+    Find: <q>
+    Replace with: <body>\0
+I went through everything once again to make sure all 8 separate blocks of text related to the narratives were correctly tagged according to the structure above.
+13. To finish off the tagging of the body, I enclosed the whole text in <text><body> elements:
+    Find: <div type="book"><head>The First Book
+    Replace with: <text><body>\0
+Then I manually added the tags </body></text> to the end of the text
+14.Next I focused on creating a TEI header. I started with the beginning of the text:
+    Find: ^The Pilgrim of Castile.+$
+    Replace with: <TEI><teiHeader><fileDesc><titleStmt><title>\0</title></titleStmt><publicationStmt><p>
+I then continued on:
+    Find: ^by Lope.+$
+    Replace with:\0</p></publicationStmt><sourceDesc><p>
+    
+    Find: ^published.+$
+    Replace with: \0</p></sourceDesc></fileDesc></teiHeader>
+15.For my final step with the basic structure was to add a </TEI> to the very end of the text.
+16.I converted the text to XML and found a few issues in the text. I went through manually and fixed them. I had to go through and move the <body> tags outside of the <head type="narrative"> tags as this was a strucutural issue.
+17.Another issue was I was missing some <p> tags around the lines that announced the end of the books. I went through manually and added them where needed.
+18.I converted the document once again and found Oxygen was all green and good to go.
