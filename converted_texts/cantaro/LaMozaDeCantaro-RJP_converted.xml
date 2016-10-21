@@ -16,6 +16,7 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <!-- RJP:2016-10-21: Note in the teiHeader (when this is flushed out) that the parentheses in the text are grammatical/syntax pseudomarkup. Similarly there are hyphens, double hyphens, and ellipses that have all been left in the text from the source document. The pseudo,arkup removed from this file were parentheses and underscores that were used in indicating stage directions. -->
     <text>
 
         <front>
@@ -50,7 +51,7 @@
             </castList>
         </front>
         <body>
-            
+
             <div type="act" n="I">
                 <stage>La escena es en Ronda, en Adamuz y Madrid</stage>
                 <stage>Sala en casa de don Bernardo, en Ronda.</stage>
