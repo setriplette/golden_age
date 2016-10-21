@@ -16,7 +16,7 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-    <!-- RJP:2016-10-21: Note in the teiHeader (when this is flushed out) that the parentheses in the text are grammatical/syntax pseudomarkup. Similarly there are hyphens, double hyphens, and ellipses that have all been left in the text from the source document. The pseudo,arkup removed from this file were parentheses and underscores that were used in indicating stage directions. -->
+    <!-- RJP:2016-10-21: Note in the teiHeader (when this is flushed out) that the parentheses in the text are grammatical/syntax pseudo markup. Similarly, there are hyphens, double hyphens, and ellipses that have all been left in the text from the source document. The pseudo markup removed from this file were parentheses and underscores that were used in indicating stage directions. -->
     <text>
 
         <front>
@@ -856,7 +856,7 @@
                         <l><stage type="aside">Ap.</stage> Mas cosa injusta sería</l>
                         <l>Ocasionar su prisión.</l>
                         <l>Esperar que salga quiero;</l>
-                        <l>Que esto ya es hecho.<milestone unit="line" type="asideEnd"/></l>
+                        <l>Que esto ya es hecho.<milestone unit="line" n="4" type="asideEnd"/></l>
                     </sp>
                     <sp>
                         <speaker>DON DIEGO</speaker>
@@ -2512,7 +2512,8 @@
                     <sp>
                         <speaker>INDIANO</speaker>
                         <l><stage type="aside">Ap.</stage> Pensamiento, detened</l>
-                        <l>El paso; que hay honra aquí.<milestone unit="line" type="asideEnd"/></l>
+                        <l>El paso; que hay honra aquí.<milestone unit="line" n="2" type="asideEnd"
+                            /></l>
                         <l>Palabra, Isabel, te doy</l>
                         <l>Que no seré desde hoy</l>
                         <l>Importuno como fuí.</l>
@@ -2741,7 +2742,7 @@
                         <speaker>DON JUAN</speaker>
                         <l>Como das, Isabel mía,</l>
                         <l><stage type="aside">Ap.</stage> ¿Mía dije? ¡Ay Dios! que miento<milestone
-                                unit="line" type="asideEnd"/></l>
+                                unit="line" n="1" type="asideEnd"/></l>
                         <l>En pensar que por ser pobre</l>
                         <l>Te busco, te sigo y ruego,</l>
                         <l>Dilatas á mis verdades</l>
@@ -3246,7 +3247,7 @@
                     <sp>
                         <speaker>DOÑA MARÍA</speaker>
                         <l><stage type="aside">Ap.</stage> ¡Qué buen hombrón!<milestone unit="line"
-                                type="asideEnd"/> Dios le guarde.</l>
+                                n="1" type="asideEnd"/> Dios le guarde.</l>
                     </sp>
                     <sp>
                         <speaker>PEDRO</speaker>
@@ -3283,7 +3284,7 @@
                     <sp>
                         <speaker>PEDRO</speaker>
                         <l><stage type="aside">Ap.</stage> Á el primer encuentro azar.<milestone
-                                unit="line" type="asideEnd"/></l>
+                                unit="line" n="1" type="asideEnd"/></l>
                         <l>¡Voto á tus ojos serenos,</l>
                         <l>Isabel, porque te asombres,</l>
                         <l>Que me mate con mil hombres,</l>
@@ -5006,7 +5007,8 @@
                         <l>Ahora bien; no ha de partirse</l>
                         <l>Isabel sin que se entienda</l>
                         <l>Si en exteriores tan graves</l>
-                        <l>Hay algún alma secreta.<milestone unit="line" type="asideEnd"/></l>
+                        <l>Hay algún alma secreta.<milestone unit="line" n="28" type="asideEnd"
+                            /></l>
                         <l>Conde, el más alto poder</l>
                         <l>Que reconoce la tierra,</l>
                         <l>El cetro, la monarquía,</l>
