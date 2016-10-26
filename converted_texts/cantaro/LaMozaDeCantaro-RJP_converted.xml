@@ -84,14 +84,14 @@ ACT III
 <stage>DOÑA MARÍA y LÜISA, con unos papeles</stage>
 <sp><speaker>LÜISA</speaker>
 <l>Es cosa lo que ha pasado</l>
-<l>Para morirse de risa.</l></sp>
+<l>Para <rs type="emotion">morirse</rs> de risa.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>¿Tantos papeles, Lüisa,</l>
 <l>Esos Narcisos te han dado?</l></sp>
 <sp><speaker>LÜISA</speaker>
 <l>¿Lo que miras dificultas?</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
-<l>¡Bravo amor, brava fineza!</l></sp>
+<l>¡Bravo <rs type="emotion"><rs type="emotion">amor</rs></rs>, brava fineza!</l></sp>
 <sp><speaker>LÜISA</speaker>
 <l>No sé si te llame alteza</l>
 <l>Para darte estas consultas.</l></sp>
@@ -117,7 +117,7 @@ ACT III
 <l>Yo creo,</l>
 <l>Lüisa, tu buen deseo.</l></sp>
 <sp><speaker>LÜISA</speaker>
-<l>Tu gusto me maravilla.</l>
+<l>Tu <rs type="emotion">gusto</rs> me maravilla.</l>
 <l>Á ninguno quieres bien.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Todos me parecen mal.</l></sp>
@@ -129,7 +129,7 @@ ACT III
 <l>Lo leo</l>
 <l>Sólo por cumplir contigo.</l></sp>
 <sp><speaker>LÜISA</speaker>
-<l>Yo soy de su amor testigo.</l></sp>
+<l>Yo soy de su <rs type="emotion">amor</rs> testigo.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Y yo de que es necio y feo.</l>
 <l><stage>Lee.</stage>Considerando conmigo á solas,</l>
@@ -309,14 +309,14 @@ ACT III
 <l>Otra le goce, Lüisa,</l>
 <l>No yo. ¡De noche visiones!</l></sp>
 <sp><speaker>LÜISA</speaker>
-<l>Oigo unas tristes razones.</l></sp>
+<l>Oigo unas <rs type="emotion"><rs type="emotion">triste</rs>s</rs> razones.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Volvióse en llanto la risa.</l>
 <l>¿No es éste mi padre?</l></sp>
 <sp><speaker>LÜISA</speaker>
 <l>Él es.</l></sp>
 </div><div type="scene" n="II">
-<stage>DON BERNARDO, de hábito de Santiago, con un lienzo en los ojos.--DICHAS</stage>
+<stage>DON BERNARDO, de hábito de Santiago, con un lienzo en <rs type="body">los ojos</rs>.--DICHAS</stage>
 <sp><speaker>DON BERNARDO</speaker>
 <l>¡Ay de mí!</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
@@ -367,7 +367,7 @@ ACT III
 <sp><speaker>DON BERNARDO</speaker>
 <l>Don Diego me habló, María...</l>
 <l>Contigo casarse intenta...</l>
-<l>Respondíle que tu gusto</l>
+<l>Respondíle que tu <rs type="emotion">gusto</rs></l>
 <l>Era la primer licencia,</l>
 <l>Y la segunda del Duque.</l>
 <l>Escribí, fué la respuesta</l>
@@ -395,7 +395,7 @@ ACT III
 <l>Ó que era mía la afrenta</l>
 <l>De la disculpa engañosa.</l>
 <l>Yo, por quitar la sospecha,</l>
-<l>Saqué la carta del pecho,</l>
+<l>Saqué la carta <rs type="body">del pecho</rs>,</l>
 <l>Y turbado leyó en ella</l>
 <l>Estas razones, María.--</l>
 <l>Quien tal mostró, que tal tenga.--</l>
@@ -418,7 +418,7 @@ ACT III
 <l>Desde Flandes á mataros.</l>
 <l>Aquí su mano soberbia...</l>
 <l>Pero prosigan mis ojos</l>
-<l>Lo que no puede la lengua.</l>
+<l>Lo que no puede <rs type="body">la lengua</rs>.</l>
 <l>Déjame; que tantas veces</l>
 <l>Una afrenta se renueva,</l>
 <l>Cuantas el que la recibe</l>
@@ -429,7 +429,7 @@ ACT III
 <l>Cautivo soy de la afrenta.</l>
 <l>El eco sonó en el alma;</l>
 <l>Que si es la cara la puerta,</l>
-<l>Han respondido los ojos,</l>
+<l>Han respondido <rs type="body">los ojos</rs>,</l>
 <l>Viendo que llaman en ella.</l>
 <l>Alcé el báculo... Dijeron</l>
 <l>Que lo alcancé... no lo creas;</l>
@@ -437,7 +437,7 @@ ACT III
 <l>Pensando que le consuelan.</l>
 <l>Prendióle allí la justicia,</l>
 <l>Y preso en la cárcel queda:</l>
-<l>¡Pluguiera á Dios que la mano</l>
+<l>¡Pluguiera á Dios que <rs type="body">la mano</rs></l>
 <l>Desde hoy estuviera presa!</l>
 <l>¡Ay, hijo del alma mía!</l>
 <l>¡Ay, Alonso! ¡Si estuvieras</l>
@@ -447,7 +447,7 @@ ACT III
 <l>Mas no es posible que puedan</l>
 <l>Borrar afrentas del rostro,</l>
 <l>Porque son moldes de letras,</l>
-<l>Que aunque se aparta la mano,</l>
+<l>Que aunque se aparta <rs type="body">la mano</rs>,</l>
 <l>Quedan en al alma impresas. <stage>Vase.</stage></l></sp>
 </div><div type="scene" n="III">
 <stage>DOÑA MARÍA, LÜISA</stage>
@@ -540,7 +540,7 @@ ACT III
 <l>Si es quien pienso.</l></sp>
 <sp><speaker>ALCAIDE</speaker>
 <l>En casos tales</l>
-<l>Se muestra el amor. <stage>Vase.</stage></l></sp>
+<l>Se muestra el <rs type="emotion">amor</rs>. <stage>Vase.</stage></l></sp>
 <stage>Dentro. Entrad.</stage>
 </div><div type="scene" n="VI">
 <stage>DOÑA MARÍA, cubierta con su manto.--DON DIEGO.</stage>
@@ -560,7 +560,7 @@ ACT III
 <sp><speaker>DON DIEGO</speaker>
 <l>Pues ¡vos en la cárcel!</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
-<l>El amor que me debéis</l>
+<l>El <rs type="emotion">amor</rs> que me debéis</l>
 <l>Desta manera me trae;</l>
 <l>Que agradecida del vuestro,</l>
 <l>Me fuerza á que me declare.</l>
@@ -575,7 +575,7 @@ ACT III
 <l>Con esto venganzas cesan,</l>
 <l>Que suelen en las ciudades</l>
 <l>Engendrar bandos, de quien</l>
-<l>Tan tristes sucesos nacen.</l>
+<l>Tan <rs type="emotion"><rs type="emotion">triste</rs>s</rs> sucesos nacen.</l>
 <l>Vos quedaréis con la honra</l>
 <l>Que es justo y que Ronda sabe,</l>
 <l>Satisfecho el señor Duque,</l>
@@ -598,12 +598,12 @@ ACT III
 <l>No será mucha licencia</l>
 <l>Que á el altar dichoso abrace,</l>
 <l>Sagrado de mis deseos,</l>
-<l>Donde está amor por imagen,</l>
+<l>Donde está <rs type="emotion">amor</rs> por imagen,</l>
 <l>Pues ya decís que sois mía.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Quien supo determinarse</l>
 <l>Á ser vuestra, no habrá cosa</l>
-<l>Que á vuestro gusto dilate.</l>
+<l>Que á vuestro <rs type="emotion">gusto</rs> dilate.</l>
 <l>Confirmaré lo que digo</l>
 <l>Con los brazos.--Muere, infame.</l>
 <l>(Al abrazarle, saca una daga y dale con</l>
@@ -612,18 +612,18 @@ ACT III
 <l>¡Jesus! ¡Muerto soy! ¡Traición!</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>¡En canas tan venerables</l>
-<l>Pusiste la mano, perro!</l>
+<l>Pusiste <rs type="body">la mano</rs>, perro!</l>
 <l>Pues estas hazañas hacen</l>
 <l>Las mujeres varoniles.</l>
 <l>Yo salgo.--¡Cielo, ayudadme! <stage>Vase.</stage></l></sp></div><div type="scene" n="VII">
 <stage>Fulgencio.--Don Diego, moribundo</stage>
 <sp><speaker>FULGENCIO</speaker>
-<l>Paréceme que he sentido</l>
+<l>Paréceme que he <rs type="emotion">sentido</rs></l>
 <l>Una voz, y que salió</l>
 <l>Esta mujer que aquí entró</l>
 <l>(Que no sin sospecha ha sido)</l>
 <l>Más turbada y descompuesta</l>
-<l>Que piden casos de amor.--</l>
+<l>Que piden casos de <rs type="emotion">amor</rs>.--</l>
 <l>No fué vano mi temor.</l>
 <l>¡Don Diego!... ¿Qué sangre es ésta?</l></sp>
 <sp><speaker>DON DIEGO</speaker>
@@ -703,7 +703,7 @@ ACT III
 <sp><speaker>MARTÍN</speaker>
 <l>Servir á el Conde deseo.</l></sp>
 <sp><speaker>CONDE</speaker>
-<l>Yo estimo tu buen amor.</l></sp>
+<l>Yo estimo tu buen <rs type="emotion">amor</rs>.</l></sp>
 <sp><speaker>MARTÍN</speaker>
 <l>Hablé con la tal Leonor,</l>
 <l>Como si fuera en mi empleo,</l>
@@ -717,7 +717,7 @@ ACT III
 <l>De sus chinelas seguía;</l>
 <l>Y que bailando en el río</l>
 <l>De la castañeta al son,</l>
-<l>Me entró por el corazón</l>
+<l>Me entró por el <rs type="body">corazón</rs></l>
 <l>Y por toda el alma el brío.</l>
 <l>Cuando ya la tuve tierna,</l>
 <l>Pregunté la condición</l>
@@ -736,7 +736,7 @@ ACT III
 <l>Y díjome que había estado</l>
 <l>Sólo dos meses casada;</l>
 <l>Porque su noble marido,</l>
-<l>De enamorado, murió.</l></sp>
+<l>De en<rs type="emotion">amor</rs>ado, murió.</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>No envidio la muerte yo,</l>
 <l>La causa sí.</l></sp>
@@ -744,7 +744,7 @@ ACT III
 <l>Necio ha sido,</l>
 <l>Pues tanto tiempo tenía.</l></sp>
 <sp><speaker>MARTÍN</speaker>
-<l>Poca edad y mucho amor,</l>
+<l>Poca edad y mucho <rs type="emotion">amor</rs>,</l>
 <l>Toda la vida, Señor,</l>
 <l>Remiten á solo un día.</l></sp>
 <sp><speaker>CONDE</speaker>
@@ -763,14 +763,14 @@ ACT III
 <sp><speaker>MARTÍN</speaker>
 <l>Muriósele á una casada</l>
 <l>Su marido, y no quedó</l>
-<l>Muy triste, pues le envolvió,</l>
+<l>Muy <rs type="emotion">triste</rs>, pues le envolvió,</l>
 <l>Como si fuera pescada,</l>
 <l>En un pedazo de anjeo;</l>
 <l>Y sin que cumpliese manda,</l>
 <l>Con largas tocas de Holanda</l>
 <l>Salió vertiendo poleo</l>
 <l>En un reverendo coche.</l>
-<l>Pero el muerto, mal contento,</l>
+<l>Pero el muerto, mal <rs type="emotion">contento</rs>,</l>
 <l>Del sepulcro á su aposento</l>
 <l>Se trasladó aquella noche,</l>
 <l>Y díjole:¡Vos Holanda,</l>
@@ -842,7 +842,7 @@ ACT III
 <l>Fácil remedio se hallara.</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>Si en que me ha visto repara,</l>
-<l>Fingirme enojarla fuera.</l>
+<l>Fingirme <rs type="emotion"><rs type="emotion">enojar</rs>la</rs> fuera.</l>
 <l>Llama; que yo he prevenido</l>
 <l>Con que me pueda creer.</l></sp>
 <sp><speaker>DON JUAN</speaker>
@@ -881,7 +881,7 @@ ACT III
 <l>¿Agrádate á ti también?</l></sp>
 <sp><speaker>DON JUAN</speaker>
 <l>Á esa pregunta responde</l>
-<l>Que está enamorado el Conde,</l>
+<l>Que está en<rs type="emotion">amor</rs>ado el Conde,</l>
 <l>Y yo no.</l></sp>
 <sp><speaker>MARTÍN</speaker>
 <l>Dices muy bien.</l></sp>
@@ -923,10 +923,10 @@ ACT III
 <l>Era mi amigo: jugamos</l>
 <l>Una noche; comenzamos</l>
 <l>Por una rifa, que viene</l>
-<l>Á ser, como en los amores,</l>
+<l>Á ser, como en los <rs type="emotion">amor</rs>es,</l>
 <l>La tercera que concierta,</l>
 <l>Ó á lo menos que dispierta</l>
-<l>El gusto á los jugadores.</l>
+<l>El <rs type="emotion">gusto</rs> á los jugadores.</l>
 <l>Perdió, picóse, sacó</l>
 <l>Unos escudos, y luego,</l>
 <l>Terciando mi primo el juego,</l>
@@ -935,7 +935,7 @@ ACT III
 <sp><speaker>DOÑA ANA</speaker>
 <l>Esas sortijas eché</l>
 <l>Menos: pesadumbre fué</l>
-<l>(Tan mal amor se reporta),</l>
+<l>(Tan mal <rs type="emotion">amor</rs> se reporta),</l>
 <l>Porque vine á sospechar</l>
 <l>Que á alguna dama las dió.</l></sp>
 <sp><speaker>DON JUAN</speaker><stage>ap. á Martín</stage>
@@ -994,7 +994,7 @@ ACT III
 <sp><speaker>MARTÍN</speaker>
 <l>¿Amor se funda en engaños?</l></sp>
 <sp><speaker>DON JUAN</speaker>
-<l>Primero que el amor fueron;</l>
+<l>Primero que el <rs type="emotion">amor</rs> fueron;</l>
 <l>Pues desde que ellos nacieron,</l>
 <l>El mundo cuenta sus daños.</l></sp>
 <sp><speaker>CONDE</speaker>
@@ -1010,7 +1010,7 @@ ACT III
 <l>Licencia de visitaros,</l>
 <l>Si fuere parte á obligaros</l>
 <l>Confesar que me debéis,</l>
-<l>No dineros, sino amor.</l></sp>
+<l>No dineros, sino <rs type="emotion">amor</rs>.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
 <l>Yo quedo tan obligada,</l>
 <l>Como deudora y pagada</l>
@@ -1097,7 +1097,7 @@ ACT III
 <l>Aun no ha llegado á querer.</l></sp>
 <sp><speaker>DOÑA ANA</speaker><stage>para sí</stage>
 <l>Necio pensamiento mío,</l>
-<l>Que en tal locura habéis dado,</l>
+<l>Que en tal <rs type="emotion">locura</rs> habéis dado,</l>
 <l>Volved atrás, afrentado</l>
 <l>De ver tan necio desvío.</l>
 <l>Yo, que de tantos me río,</l>
@@ -1106,7 +1106,7 @@ ACT III
 <l>No diga el honor que pierdo</l>
 <l>Que sois con desdenes cuerdo,</l>
 <l>Ya que quisistes ser loco.</l>
-<l>Dieron los ojos en ver,</l>
+<l>Dieron <rs type="body">los ojos</rs> en ver,</l>
 <l>Puesto que en lugar sagrado,</l>
 <l>Al hombre más recatado</l>
 <l>De mirar y de entender;</l>
@@ -1244,7 +1244,7 @@ ACT III
 <l>Á las edades ancianas;</l>
 <l>Que es atreverse á unas canas</l>
 <l>Violar un templo de nieve.</l>
-<l>Pero la mano piadosa</l>
+<l>Pero <rs type="body">la mano</rs> piadosa</l>
 <l>Del cielo quiere que espante</l>
 <l>Á un Holofernes gigante</l>
 <l>Una Judit valerosa.</l></sp>
@@ -1271,7 +1271,7 @@ ACT III
 <l>En tierna edad á los pobres,</l>
 <l>No tienen otra esperanza.</l>
 <l>No se cansó mi fortuna,</l>
-<l>Pues cuando contenta estaba</l>
+<l>Pues cuando <rs type="emotion">contenta</rs> estaba</l>
 <l>Del buen dueño que tenía,</l>
 <l>Persona de órdenes sacras,</l>
 <l>Le llevó también la muerte,</l>
@@ -1293,7 +1293,7 @@ ACT III
 <l>Y una vez determinada,</l>
 <l>Lo que viviendo tenía</l>
 <l>El buen cura (que Dios haya)</l>
-<l>Para su regalo y gusto,</l>
+<l>Para su regalo y <rs type="emotion">gusto</rs>,</l>
 <l>Arcabuz, rocín de caza</l>
 <l>Y este gabán, tomé luego,</l>
 <l>Y voy con notables ansias</l>
@@ -1392,8 +1392,8 @@ ACT III
 <sp><speaker>CONDE</speaker>
 <l>¡Ay, ojos, celos me dais,</l>
 <l>Aunque celos invisibles!</l>
-<l>Quéjase de amor doña Ana,</l>
-<l>Y á mí no me tiene amor:</l>
+<l>Quéjase de <rs type="emotion">amor</rs> doña Ana,</l>
+<l>Y á mí no me tiene <rs type="emotion">amor</rs>:</l>
 <l>Esto es celos en rigor.</l></sp>
 <sp><speaker>DON JUAN</speaker>
 <l>¿Por qué, si es sospecha vana?</l></sp>
@@ -1424,7 +1424,7 @@ ACT III
 <l>¿Tres puntos? Necio, repara...</l></sp>
 <sp><speaker>MARTÍN</speaker>
 <l>Pues lo digo, yo lo sé:</l>
-<l>Puntos son que de aquel pie</l>
+<l>Puntos son que de aquel <rs type="body">pie</rs></l>
 <l>Los tomara por la cara.</l></sp>
 <sp><speaker>DON JUAN</speaker>
 <l>¿Cómo lo viste?</l></sp>
@@ -1449,7 +1449,7 @@ ACT III
 <l>Por drogas medicinales,</l>
 <l>Pregunté si era importante</l>
 <l>Traer damas delicadas</l>
-<l>Las pantorrillas preñadas.</l>
+<l>Las <rs type="body">pantorrillas</rs> preñadas.</l>
 <l>Y con risueño semblante</l>
 <l>Me dijo:No es gentileza;</l>
 <l>Pero cosa no ha de haber</l>
@@ -1491,7 +1491,7 @@ ACT III
 <l>Agravio á los dos haría:</l>
 <l>Á vos por seguridad,</l>
 <l>Y á mí por justo deseo.</l>
-<l>¡Gracias á amor, que en vos veo</l>
+<l>¡Gracias á <rs type="emotion">amor</rs>, que en vos veo</l>
 <l>Señas de más amistad!</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
 <l>Siéntese vueseñoría;</l>
@@ -1521,7 +1521,7 @@ ACT III
 <l>De que yo padezca más,</l>
 <l>Y no de que os quiera menos.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
-<l>No me agrada que á los ojos</l>
+<l>No me agrada que á <rs type="body">los ojos</rs></l>
 <l>Llamen serenos.</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>¿Por qué,</l>
@@ -1536,7 +1536,7 @@ ACT III
 <l>Y si al cielo en su azul velo</l>
 <l>La serenidad cuadró,</l>
 <l>Á el sol y á la luna no,</l>
-<l>Que son los ojos del cielo;</l>
+<l>Que son <rs type="body">los ojos</rs> del cielo;</l>
 <l>Porque éstos siempre se mueven.</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>Perdonad á la canción</l>
@@ -1568,7 +1568,7 @@ ACT III
 <sp><speaker>CONDE</speaker>
 <l>Atrevióse el inglés, de engaño armado</l>
 <l>Porque al león de España vió en el nido,</l>
-<l>Las uñas en el ámbar, y vestido,</l>
+<l>Las <rs type="body">uñas</rs> en el ámbar, y vestido,</l>
 <l>En vez de pieles, del tusón dorado.</l>
 <l>Con débil caña, no con fresno herrado,</l>
 <l>Vió á Marte en forma de español Cupido,</l>
@@ -1578,7 +1578,7 @@ ACT III
 <l>De España asir por las arenas solas</l>
 <l>Del mar, cuyo cristal ciñe esmeralda;</l>
 <l>Mas viendo en las colunas españolas</l>
-<l>La sombra del león, volvió la espalda,</l>
+<l>La sombra del león, volvió <rs type="body">la espalda</rs>,</l>
 <l>Sembrando las banderas por las olas.</l></sp>
 <sp><speaker>DON JUAN</speaker>
 <l>¡Levantó la pluma el vuelo!</l></sp>
@@ -1592,7 +1592,7 @@ ACT III
 <l>¡Gran soneto!</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>No le he dado,</l>
-<l>Porque no estoy dél contento.--</l>
+<l>Porque no estoy dél <rs type="emotion">contento</rs>.--</l>
 <l>Decid vos.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
 <l>¡Qué atrevimiento!</l>
@@ -1614,10 +1614,10 @@ ACT III
 <l>Dejaba á quien amando la seguía;</l>
 <l>Por quien la despreciaba se perdía,</l>
 <l>Y á el perdido por ella despreciaba.</l>
-<l>Concierta, amor, si ya posible fuere,</l>
+<l>Concierta, <rs type="emotion">amor</rs>, si ya posible fuere,</l>
 <l>Desigualdad que tu poder infama:</l>
 <l>Muera quien vive, y vivirá quien muere.</l>
-<l>Da hielo á hielo, amor, y llama á llama,</l>
+<l>Da hielo á hielo, <rs type="emotion">amor</rs>, y llama á llama,</l>
 <l>Porque pueda querer á quien la quiere</l>
 <l>Ó pueda aborrecer á quien desama.</l></sp>
 <sp><speaker>CONDE</speaker>
@@ -1633,11 +1633,11 @@ ACT III
 <l>Honor del devantal, reina del brío;</l>
 <l>Con manos de marfil, con señorío,</l>
 <l>Que no hay tan gran Señor que se le atreva,</l>
-<l>Pues donde lava, dice amor que nieva,</l>
+<l>Pues donde lava, dice <rs type="emotion">amor</rs> que nieva,</l>
 <l>Es alma ilustre al pensamiento mío.</l>
 <l>Por estrella, por fe, por accidente,</l>
 <l>Viéndola henchir el cántaro, en despojos</l>
-<l>Rendí la vida á el brazo trasparente;</l>
+<l>Rendí la vida á <rs type="body">el brazo</rs> trasparente;</l>
 <l>Y, envidiosos del agua mis enojos,</l>
 <l>Dije:¿Por qué la coges de la fuente,</l>
 <l>Si la tienes, más cerca, de mis ojos?</l></sp>
@@ -1671,7 +1671,7 @@ ACT III
 <l>Ni tengo la culpa yo;</l>
 <l>Porque no lejos de aquí</l>
 <l>Vive la hermosa Isabel,</l>
-<l>Por quien el amor cruel</l>
+<l>Por quien el <rs type="emotion">amor</rs> cruel</l>
 <l>Hace estos lances en mí.</l>
 <l>Sirve á un indiano, que viene</l>
 <l>Á la corte á pretender.</l>
@@ -1683,7 +1683,7 @@ ACT III
 <l>La que me ha muerto y rendido,</l>
 <l>Moza de cántaro ha sido,</l>
 <l>Moza de cántaro fué.</l>
-<l>En él este amor bebí,</l>
+<l>En él este <rs type="emotion">amor</rs> bebí,</l>
 <l>Todo me abrasó con él;</l>
 <l>Ella fué Sirena, y él</l>
 <l>El mar en que me perdí.</l>
@@ -1708,7 +1708,7 @@ ACT III
 <l>Que aumenta su honestidad</l>
 <l>Y no deshace su brío.</l>
 <l>Finalmente, yo no ví</l>
-<l>Dama que merezca amor</l>
+<l>Dama que merezca <rs type="emotion">amor</rs></l>
 <l>Con más fe, con más rigor.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
 <l>Advertid que estoy yo aquí,</l>
@@ -1733,7 +1733,7 @@ ACT III
 <sp><speaker>MARTÍN</speaker>
 <l>Cesó la conversación.</l></sp>
 <sp><speaker>DON JUAN</speaker>
-<l>¡Porque lo que siento digo!</l></sp>
+<l>¡Porque lo que <rs type="emotion">siento</rs> digo!</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>Decir que no visteis dama</l>
 <l>Como ella, ¿no ha sido error?</l></sp>
@@ -1859,7 +1859,7 @@ ACT III
 <l>Que finges lo que no entiendes.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Lo que no quiero no entiendo.</l>
-<l>Pero á la fe que me admira</l>
+<l>Pero á la fe que me <rs type="emotion">admira</rs></l>
 <l>Que un caballero tan cuerdo</l>
 <l>Y tan galán como vos</l>
 <l>Humille sus pensamientos</l>
@@ -1880,7 +1880,7 @@ ACT III
 <l>Avantal de lienzo grueso,</l>
 <l>Chinelas ya sin virillas</l>
 <l>(Que solía en otro tiempo</l>
-<l>En los pies de las mujeres</l>
+<l>En <rs type="body">los pies</rs> de las mujeres</l>
 <l>La plata barrer el suelo),</l>
 <l>Castañetas, cintas, tocas;</l>
 <l>Que para últimos empleos</l>
@@ -1933,7 +1933,7 @@ ACT III
 <l>Pues levantad el lenguaje;</l>
 <l>Que, como dicen los negros,</l>
 <l>El ánima tengo blanca,</l>
-<l>Aunque mal vestido el cuerpo.</l>
+<l>Aunque mal vestido <rs type="body">el cuerpo</rs>.</l>
 <l>Habladme como quien sois.</l></sp>
 <sp><speaker>DON JUAN</speaker>
 <l>Yo, Isabel, así lo creo;</l>
@@ -1941,7 +1941,7 @@ ACT III
 <l>Tal vez el respeto pierdo;</l>
 <l>Pero en mirando á tu cara,</l>
 <l>Vuelvo á tenerte respeto.</l>
-<l>Mas no te debe enojar</l>
+<l>Mas no te debe <rs type="emotion">enojar</rs></l>
 <l>Que te diga mi deseo;</l>
 <l>Que sólo son por el fin</l>
 <l>Todos los actos perfectos.</l>
@@ -1994,15 +1994,15 @@ ACT III
 <l>Que ver como cierta dama</l>
 <l>Baja en su coche soberbio,</l>
 <l>Asiendo verdes cortinas</l>
-<l>Por dar diamantes los dedos,</l>
+<l>Por dar diamantes los <rs type="body">dedos</rs>,</l>
 <l>Ó asoma por el estribo</l>
 <l>Los rizos de los cabellos</l>
-<l>En las uñas de un descanso,</l>
+<l>En las <rs type="body">uñas</rs> de un descanso,</l>
 <l>Que á tantos sirvió de anzuelo.</l>
-<l>Yo me contento que digas,</l>
+<l>Yo me <rs type="emotion">contento</rs> que digas,</l>
 <l>Dulce Isabel:¡Yo te quiero!</l>
 <l>Que también quiero yo el alma;</l>
-<l>No todo el amor es cuerpo.</l>
+<l>No todo el <rs type="emotion">amor</rs> es cuerpo.</l>
 <l>¿Qué respondes, ojos míos?</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Á ojos míos yo no puedo</l>
@@ -2013,7 +2013,7 @@ ACT III
 <l>Y así, pues alma queréis,</l>
 <l>Digo (porque os vais con esto)</l>
 <l>Que el primer hombre sois vos</l>
-<l>Á quien amor agradezco.</l></sp>
+<l>Á quien <rs type="emotion">amor</rs> agradezco.</l></sp>
 <sp><speaker>DON JUAN</speaker>
 <l>¿No más, Isabel?</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
@@ -2036,7 +2036,7 @@ ACT III
 <l>Por Dios que algún hombre he muerto</l>
 <l>Aquí donde me miráis.</l></sp>
 <sp><speaker>DON JUAN</speaker>
-<l>Con los ojos, yo lo creo.</l></sp>
+<l>Con <rs type="body">los ojos</rs>, yo lo creo.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Idos; que viene mi amo.</l></sp>
 <sp><speaker>DON JUAN</speaker>
@@ -2057,9 +2057,9 @@ ACT III
 <sp><speaker>LEONOR</speaker>
 <l>¿Qué se hizo tu desdén?</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
-<l>Un amor honesto obliga.</l>
+<l>Un <rs type="emotion">amor</rs> honesto obliga.</l>
 <l>Y te aseguro de mí</l>
-<l>Que es mucho tenelle amor.</l></sp>
+<l>Que es mucho tenelle <rs type="emotion">amor</rs>.</l></sp>
 <sp><speaker>LEONOR</speaker>
 <l>Su talle, ingenio y valor</l>
 <l>Habrán hecho riza en ti.</l>
@@ -2101,7 +2101,7 @@ ACT III
 <l>Tarde, Leonor, me avisaste;</l>
 <l>No porque pueda alabarse</l>
 <l>Del más mínimo favor,</l>
-<l>Sino por tenerle amor,</l>
+<l>Sino por tenerle <rs type="emotion">amor</rs>,</l>
 <l>Que no es fácil de olvidarse.</l>
 <l>Necia fuí en imaginar</l>
 <l>Que un don Juan tan entonado</l>
@@ -2112,7 +2112,7 @@ ACT III
 <l>Bravo, pero no cruel,</l>
 <l>Que puede ser, Isabel,</l>
 <l>De cuantas profesan brío.</l>
-<l>No pone codo en la puente</l>
+<l><rs type="body">codo</rs> en la puente</l>
 <l>Hombre de tales aceros,</l>
 <l>Ni han visto los lavaderos</l>
 <l>Más alentado valiente.</l>
@@ -2143,8 +2143,8 @@ ACT III
 <l>Él y Martín de sus amos. <stage>Vase.</stage></l></sp></div><div type="scene" n="IX">
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Á mis graves desconsuelos</l>
-<l>Solo faltaba este amor,</l>
-<l>Á este amor este rigor,</l>
+<l>Solo faltaba este <rs type="emotion">amor</rs>,</l>
+<l>Á este <rs type="emotion">amor</rs> este rigor,</l>
 <l>Á este rigor estos celos.</l>
 <l>¿No me bastaba tener,</l>
 <l>Para no ser conocida,</l>
@@ -2173,7 +2173,7 @@ ACT III
 <l>Es mujer que este don Juan,</l>
 <l>Primo del Conde mi dueño,</l>
 <l>Pierde por hablarla el sueño,</l>
-<l>Desmayos de amor le dan.</l>
+<l>Desmayos de <rs type="emotion">amor</rs> le dan.</l>
 <l>De la suerte la pasea</l>
 <l>Que á la dama de más partes;</l>
 <l>Pero en estos Durandartes</l>
@@ -2204,7 +2204,7 @@ ACT III
 <sp><speaker>PEDRO</speaker>
 <l>Si yo la moza poseo,</l>
 <l>Luego habrá despolvoreo</l>
-<l>De todo amor pretendiente:</l>
+<l>De todo <rs type="emotion">amor</rs> pretendiente:</l>
 <l>Á ellos de cuchilladas</l>
 <l>Y á ella de muchas coces.</l>
 <l>Ya mi cólera conoces.</l></sp>
@@ -2245,7 +2245,7 @@ ACT III
 <l>Dado habéis esta mañana,</l>
 <l>Filos, Señora, al desdén.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
-<l>Deseando enamoraros,</l>
+<l>Deseando en<rs type="emotion">amor</rs>aros,</l>
 <l>Moza de cántaro soy,</l>
 <l>Por agua á la fuente voy.</l></sp>
 <sp><speaker>DON JUAN</speaker>
@@ -2255,7 +2255,7 @@ ACT III
 <sp><speaker>DON JUAN</speaker>
 <l>Es el cántaro pequeño,</l>
 <l>Templará poco el rigor</l>
-<l>Á los enfermos de amor.</l></sp></div><div type="scene" n="XII">
+<l>Á los enfermos de <rs type="emotion">amor</rs>.</l></sp></div><div type="scene" n="XII">
 <stage>DOÑA MARÍA y LEONOR, con sus cántaros.--DICHOS</stage>
 <sp><speaker>DOÑA MARÍA</speaker><stage>á Leonor</stage>
 <l>Esto me dijo mi dueño;</l>
@@ -2267,7 +2267,7 @@ ACT III
 <sp><speaker>LEONOR</speaker>
 <l>Y ¿que esa mujer mató</l>
 <l>Á el que á su padre afrentó?</l>
-<l>¡Bravo corazón!</l></sp>
+<l>¡Bravo <rs type="body">corazón</rs>!</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Valiente.</l>
 <l>Dijo que había pedido</l>
@@ -2285,7 +2285,7 @@ ACT III
 <l>Á el caballero insolente?</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>De eso no me dijo nada.</l>
-<l>Yo estoy contenta de ver</l>
+<l>Yo estoy <rs type="emotion">contenta</rs> de ver</l>
 <l>(Que en efeto soy mujer)</l>
 <l>Que la hubiese tan honrada.</l></sp>
 <sp><speaker>LEONOR</speaker>
@@ -2494,7 +2494,7 @@ ACT III
 <stage>DOÑA MARÍA, LEONOR</stage>
 <sp><speaker>LEONOR</speaker>
 <l>Necia estás. ¿Por qué le dejas</l>
-<l>Que se vaya con disgusto?</l></sp>
+<l>Que se vaya con <rs type="emotion">disgusto</rs>?</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Leonor, el alma me lleva;</l>
 <l>Que los celos me han picado.</l>
@@ -2532,8 +2532,8 @@ ACT III
 <l>Mantenedor destas fiestas.</l>
 <l>Mas quedo; que están aquí.</l></sp>
 <sp><speaker>PEDRO</speaker>
-<l>¡Oigan! ¿De qué es la tristeza?</l>
-<l>¿No estaba alegre esta moza?</l>
+<l>¡Oigan! ¿De qué es la <rs type="emotion"><rs type="emotion">triste</rs>za</rs>?</l>
+<l>¿No estaba <rs type="emotion">alegre</rs> esta moza?</l>
 <l>¡Qué pensativas están!</l></sp>
 <sp><speaker>MARTÍN</speaker>
 <l>Pienso que andaba don Juan</l>
@@ -2568,7 +2568,7 @@ ACT III
 <l>Y de que lo cumpliré</l>
 <l>Hágote voto solene.</l>
 <l>Si yo me enojo en Madrid</l>
-<l>Con quien á ti te ha enojado,</l>
+<l>Con quien á ti te ha <rs type="emotion">enojado,</rs></l>
 <l>Haz cuenta que se ha tocado</l>
 <l>La tumba en Valladolid.</l>
 <l>Porque en diciendo, Isabel,</l>
@@ -2678,7 +2678,7 @@ ACT III
 <sp><speaker>LEONOR</speaker>
 <l>Alegre quisiera hallarte,</l>
 <l>Porque te alcanzara parte</l>
-<l>De mi contento y placer.</l>
+<l>De mi <rs type="emotion">contento</rs> y placer.</l>
 <l>Ya Martín se determina,</l>
 <l>Y nos queremos casar:</l>
 <l>Mira que nos has de honrar,</l>
@@ -2722,7 +2722,7 @@ ACT III
 <l>Para lavar de un bárbaro despojos,</l>
 <l>Que hasta los paños me llevaba el río,</l>
 <l>Mayor con la creciente de mis ojos.</l>
-<l>Cantaban otras con alegre brío,</l>
+<l>Cantaban otras con <rs type="emotion">alegre</rs> brío,</l>
 <l>Y yo, Leonor, lloraba mis enojos:</l>
 <l>Lavaba con lo mesmo que lloraba,</l>
 <l>Y al aire de suspiros lo enjugaba.</l>
@@ -2741,10 +2741,10 @@ ACT III
 <l>Luego, de angostos pies y de hombros anchos,</l>
 <l>Bigotes altos, perdonando vidas,</l>
 <l>Cuatro mozos: no hablé; que fuera mengua,</l>
-<l>Estando triste el alma, hablar la lengua.</l>
+<l>Estando <rs type="emotion">triste</rs> el alma, hablar <rs type="body">la lengua</rs>.</l>
 <l>Tocó, Leonor, Juanilla el instrumento</l>
 <l>Que con cuadrada forma en poco pino,</l>
-<l>Despide alegre cuanto humilde acento,</l>
+<l>Despide <rs type="emotion">alegre</rs> cuanto humilde acento,</l>
 <l>Cubierto de templado pergamino;</l>
 <l>Á cuyo son, que retumbaba el viento,</l>
 <l>Cantaba de un ingenio peregrino,</l>
@@ -2757,11 +2757,11 @@ ACT III
 <l>¡Oh celos! todos sois venganza y tretas,</l>
 <l>Pues porque ví bajar el caballero</l>
 <l>Que adora de tu dueño la belleza,</l>
-<l>No le quise alegrar con mi tristeza.</l>
+<l>No le quise alegrar con mi <rs type="emotion"><rs type="emotion">triste</rs>za</rs>.</l>
 <l>Entré en el baile con desgaire y brío,</l>
 <l>Que, admirándole ninfas y mozuelos,</l>
 <l>¡Vítor! dijeron, celebrando el mío:</l>
-<l>Y era que amor bailaba con los celos.</l>
+<l>Y era que <rs type="emotion">amor</rs> bailaba con los celos.</l>
 <l>Estando en esto, el contrapuesto río</l>
 <l>Se mueve á ver dos ángeles, dos cielos,</l>
 <l>Que á la Casa del Campo (Dios los guarde)</l>
@@ -2778,7 +2778,7 @@ ACT III
 <l>La primavera en cuadros retratada,</l>
 <l>Que por la variedad de las colores,</l>
 <l>Aun no tienen color determinada,</l>
-<l>Y en medio ninfas provocando amores?</l>
+<l>Y en medio ninfas provocando <rs type="emotion">amor</rs>es?</l>
 <l>Pues así se mostraba dilatada</l>
 <l>La escuadra hermosa de las damas bellas,</l>
 <l>Flores las galas y las ninfas ellas.</l>
@@ -2789,12 +2789,12 @@ ACT III
 <l>Cuando veo que dice:Isabel mía,</l>
 <l>Á mi lado don Juan; y tan cobarde</l>
 <l>Me hallé á los ecos de su voz, que luego</l>
-<l>Fué hielo el corazón, las venas fuego.</l>
+<l>Fué hielo el <rs type="body">corazón</rs>, las venas fuego.</l>
 <l>Traidor, respondo, tus iguales mira;</l>
 <l>Que yo soy una pobre labradora.</l>
 <l>Y diciendo y haciendo, envuelta en ira,</l>
 <l>Sigo la puente, y me arrepiento agora:</l>
-<l>Verdad es que le siento que suspira</l>
+<l>Verdad es que le <rs type="emotion">siento</rs> que suspira</l>
 <l>Tal vez desde la noche hasta el aurora;</l>
 <l>Mas recelo, si va á decir verdades,</l>
 <l>Lo que se sigue á celos y amistades.      <stage>Vanse.</stage></l></sp></div><div type="scene" n="IV">
@@ -2812,7 +2812,7 @@ ACT III
 <sp><speaker>JUANA</speaker>
 <l>Ésta es.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
-<l>Dadme, Señora, los pies.</l></sp>
+<l>Dadme, Señora, <rs type="body">los pies</rs>.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
 <l>Isabel, guárdela Dios.</l>
 <l>¿Qué se ofrece por acá?</l></sp>
@@ -2843,7 +2843,7 @@ ACT III
 <l>Y aunque ya se defendieron,</l>
 <l>Por la ventana salieron,</l>
 <l>Y esto á pura cuchillada.</l>
-<l>Pero obligándole á amor</l>
+<l>Pero obligándole á <rs type="emotion">amor</rs></l>
 <l>Lo que pudiera á respeto,</l>
 <l>Me llamó una noche, á efeto</l>
 <l>De no respetar mi honor.</l>
@@ -2862,10 +2862,10 @@ ACT III
 <l>Y aunque culpando el rigor,</l>
 <l>Poniéndose de por medio,</l>
 <l>Celebraron el remedio</l>
-<l>Para quitarle el amor.</l></sp>
+<l>Para quitarle el <rs type="emotion">amor</rs>.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
 <l>Notable debes de ser.</l>
-<l>Cierto que te tengo amor.</l></sp>
+<l>Cierto que te tengo <rs type="emotion">amor</rs>.</l></sp>
 <sp><speaker>JUANA</speaker>
 <l>Es el servicio mejor</l>
 <l>Y la más limpia mujer</l>
@@ -2903,7 +2903,7 @@ ACT III
 <l>El Conde os pide licencia,</l>
 <l>Y dice que de su ausencia</l>
 <l>Fué causa vuestro rigor;</l>
-<l>Que tratáis tan mal su amor,</l>
+<l>Que tratáis tan mal su <rs type="emotion">amor</rs>,</l>
 <l>Que ya toma por partido,</l>
 <l>En la caza divertido,</l>
 <l>Solicitar á su daño</l>
@@ -2929,8 +2929,8 @@ ACT III
 <l>Á mi casa quien ha sido</l>
 <l>Lo que tanto habéis amado;</l>
 <l>Que os quiero ver obligado,</l>
-<l>Pues no puedo agradecido.</l>
-<l>Volved los ojos, veréis</l>
+<l>Pues no puedo <rs type="emotion">agradecido</rs>.</l>
+<l>Volved <rs type="body">los ojos</rs>, veréis</l>
 <l>Á Isabel, que viene aquí,</l>
 <l>No para servirme á mí,</l>
 <l>Sino á que vos la mandéis;</l>
@@ -2977,7 +2977,7 @@ ACT III
 <l>Y nueva; que no me acuerdo</l>
 <l>Haberla visto otra vez.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
-<l>¡Buena cara, gentil cuerpo!</l>
+    <l>¡Buena cara, gentil <rs type="body">cuerpo!</rs></l>
 <l>¿No es muy linda?</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>¡Sí, por Dios!</l></sp>
@@ -3001,7 +3001,7 @@ ACT III
 <l>Á muchos envidia y celos.</l>
 <l>Mi primo es tan singular,</l>
 <l>Que por bizarría ha puesto</l>
-<l>Las preferencias del gusto</l>
+<l>Las preferencias del <rs type="emotion">gusto</rs></l>
 <l>En tan bajos fundamentos.</l></sp>
 <sp><speaker>MARTÍN</speaker>
 <l>Á mí responder me toca.</l>
@@ -3067,7 +3067,7 @@ ACT III
 <l>Ahora bien, Señor, hablemos</l>
 <l>De la ausencia destos días.</l>
 <l>Ya me olvidáis, ya me quejo</l>
-<l>De vos al pasado amor.</l></sp>
+<l>De vos al pasado <rs type="emotion">amor</rs>.</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>Negocios son, os prometo,</l>
 <l>Que me han tenido ocupado</l>
@@ -3091,7 +3091,7 @@ ACT III
 <l>Toda cuanta hacienda tengo.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker><stage>ap.</stage>
 <l>Turbada estoy, encubrir</l>
-<l>Puedo apenas lo que siento.</l></sp>
+<l>Puedo apenas lo que <rs type="emotion">siento</rs>.</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>Al fin, perdonó la parte,</l>
 <l>Poniéndose de por medio,</l>
@@ -3141,11 +3141,11 @@ ACT III
 <l>¿Qué guarda de más valor,</l>
 <l>Isabel, que tu hermosura,</l>
 <l>Si ella misma te asegura</l>
-<l>Que merece tanto amor?</l>
+<l>Que merece tanto <rs type="emotion">amor</rs>?</l>
 <l>¡Vive Dios, que te he querido,</l>
 <l>Y te quiero y te querré,</l>
 <l>Con tanta firmeza y fe,</l>
-<l>Que vive mi amor corrido</l>
+<l>Que <rs type="emotion">vive mi <rs type="emotion">amor</rs> corrido</rs></l>
 <l>De no vencer tu rigor,</l>
 <l>Siendo tú tan desigual!</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
@@ -3159,7 +3159,7 @@ ACT III
 <l>Pero si de vuestro engaño</l>
 <l>Á los dos resulta daño,</l>
 <l>Desengaño habrá de ser.</l>
-<l>No estoy contenta de estar</l>
+<l>No estoy <rs type="emotion">contenta</rs> de estar</l>
 <l>Donde, con hacer mudanza</l>
 <l>Del hábito, mi esperanza</l>
 <l>Aspire á mejor lugar.</l>
@@ -3173,16 +3173,16 @@ ACT III
 <l>Como el que sustenta Atlante.</l>
 <l>Yo os quiero bien, aunque soy</l>
 <l>De naturaleza esquiva;</l>
-<l>Pero hay otro amor que priva,</l>
+<l>Pero hay otro <rs type="emotion">amor</rs> que priva,</l>
 <l>Por quien os dejo y me voy.</l>
 <l>No os dé pena; que os prometo</l>
 <l>Que no hay nieve tan helada;</l>
 <l>Pero he nacido obligada</l>
-<l>Á su amor y á su respeto.</l>
+<l>Á su <rs type="emotion">amor</rs> y á su respeto.</l>
 <l>No puedo hacer más por vos</l>
 <l>Que decir que os he querido:</l>
 <l>En fe de lo cual os pido,</l>
-<l>Y del amor de los dos,</l>
+<l>Y del <rs type="emotion">amor</rs> de los dos,</l>
 <l>Que una cosa hagáis por mí.</l></sp>
 <sp><speaker>DON JUAN</speaker>
 <l>¿Como ausentarte, mi bien?</l>
@@ -3205,14 +3205,14 @@ ACT III
 <l>Podré á mi casa llegar.</l></sp>
 <sp><speaker>DON JUAN</speaker>
 <l>Cuando pensaba esperar,</l>
-<l>Quiere amor que desespere.</l>
+<l>Quiere <rs type="emotion">amor</rs> que desespere.</l>
 <l>¡Notable desdicha mía!</l>
 <l>¡Tristes nuevas! ¿Quién amó</l>
 <l>Con la fortuna que yo?</l>
 <l>Mas ¿quién, sino yo, podía?</l>
-<l>Tened la joya y la mano,</l>
+<l>Tened la joya y <rs type="body">la mano</rs>,</l>
 <l>Que entrambas diamantes son,</l>
-<l>Si es la mina un corazón</l>
+<l>Si es la mina un <rs type="body">corazón</rs></l>
 <l>Tan firme como tirano;</l>
 <l>Que cuando forzosa sea</l>
 <l>Vuestra partida, no soy</l>
@@ -3243,7 +3243,7 @@ ACT III
 <l>Tengo por mayor acierto.</l>
 <l>Que desde el punto que os ví</l>
 <l>Con el cántaro, Isabel,</l>
-<l>Echó amor suertes en él</l>
+<l>Echó <rs type="emotion">amor</rs> suertes en él</l>
 <l>Para vos y para mí.</l>
 <l>Vos salisteis diferente</l>
 <l>De lo que aquí publicáis,</l>
@@ -3260,7 +3260,7 @@ ACT III
 <l>La verdad se encubre en vano;</l>
 <l>Que como al que ayer traía</l>
 <l>Guantes de ámbar, otro día,</l>
-<l>Le quedó oliendo la mano;</l>
+<l>Le quedó oliendo <rs type="body">la mano</rs>;</l>
 <l>Así, quien señora fué,</l>
 <l>Trae aquel olor consigo,</l>
 <l>Aunque del ámbar que digo,</l>
@@ -3283,7 +3283,7 @@ ACT III
 <stage>Vanse los dos.</stage></sp></div><div type="scene" n="IX">
 <sp><speaker>DON JUAN</speaker>
 <l>¿Qué confusión es ésta que levanta</l>
-<l>Amor en mis sentidos nuevamente,</l>
+<l>Amor en mis <rs type="emotion">sentido</rs>s nuevamente,</l>
 <l>Que á tales pensamientos adelanta</l>
 <l>Mi dulce cuanto bárbaro accidente?</l>
 <l>Así el cautivo en la cadena canta,</l>
@@ -3299,7 +3299,7 @@ ACT III
 <l>Esperando que llegue con el día</l>
 <l>La muerta luz de la esperanza mía.</l>
 <l>Mas ¿cómo puede haber tales engaños?</l>
-<l>Cómo pensar mi amor que la belleza</l>
+<l>Cómo pensar mi <rs type="emotion">amor</rs> que la belleza</l>
 <l>No puede haber nacido en viles paños,</l>
 <l>Si pudo la fealdad en la nobleza?</l>
 <l>Así, para mayores desengaños,</l>
@@ -3314,17 +3314,17 @@ ACT III
 <l>Y nacer entendida humildemente,</l>
 <l>Es vano error, pues siempre amando veo</l>
 <l>Calificar bajezas el deseo.</l>
-<l>Pues ¿quién será Isabel, locura mía,</l>
+<l>Pues ¿quién será Isabel, <rs type="emotion">locura</rs> mía,</l>
 <l>Con hermosura y prendas celestiales?</l>
 <l>¡Oh! ¿cuándo resistió tanta porfía</l>
 <l>La bajeza de humildes naturales?</l>
 <l>No ha de pasar sin que lo sepa el día.</l>
 <l>Industrias hay; y si por dicha iguales</l>
-<l>Somos los dos, como mi amor desea,</l>
+<l>Somos los dos, como mi <rs type="emotion">amor</rs> desea,</l>
 <l>Tu cántaro, Isabel, mi dote sea.</l>
 <l>No te pienses partir, si por ventura</l>
 <l>No lo quieres fingir para matarme;</l>
-<l>Que ya no tiene estado mi locura</l>
+<l>Que ya no tiene estado mi <rs type="emotion">locura</rs></l>
 <l>Que yo pueda perderte y tú dejarme;</l>
 <l>Que si tienes nobleza y hermosura,</l>
 <l>Del cántaro por armas pienso honrarme;</l>
@@ -3390,7 +3390,7 @@ ACT III
 <l>Y á Pierres, buen compañero.</l></sp>
 <sp><speaker>PEDRO</speaker>
 <l>Haced llevar un menudo;</l>
-<l>Que no hay hueso que dejar.</l></sp>
+<l>Que no hay <rs type="body">hueso</rs> que dejar.</l></sp>
 <sp><speaker>MARTÍN</speaker>
 <l>Eso es darles de cenar.</l></sp>
 <sp><speaker>PEDRO</speaker>
@@ -3410,9 +3410,9 @@ ACT III
 <stage>DOÑA ANA, DON JUAN</stage>
 <sp><speaker>DON JUAN</speaker>
 <l>Yo pienso que es condición,</l>
-<l>Y no amor, vuestra porfía.</l></sp>
+<l>Y no <rs type="emotion">amor</rs>, vuestra porfía.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
-<l>Y ¿quién sin amor podía</l>
+<l>Y ¿quién sin <rs type="emotion">amor</rs> podía</l>
 <l>Sufrir tanta sinrazón?</l></sp>
 <sp><speaker>DON JUAN</speaker>
 <l>No es sinrazón la ocasión</l>
@@ -3434,7 +3434,7 @@ ACT III
 <l>Y ella á don Juan solicita.</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
 <l>Con oro en mármol escrita</l>
-<l>Tiene el amor una ley,</l>
+<l>Tiene el <rs type="emotion">amor</rs> una ley,</l>
 <l>Que como absoluto rey,</l>
 <l>No hay traición que no permita.</l>
 <l>Demás, que esto no es traición;</l>
@@ -3447,7 +3447,7 @@ ACT III
 <l>Que se haya visto ni escrito,</l>
 <l>Ha disculpado el delito</l>
 <l>Del amigo; que el valor</l>
-<l>Es resistir á el amor,</l>
+<l>Es resistir á el <rs type="emotion">amor</rs>,</l>
 <l>Y vencer á el apetito.</l>
 <l>Que yo con vos me casara</l>
 <l>Es sin duda, si pudiera.</l></sp>
@@ -3467,11 +3467,11 @@ ACT III
 <l>Si habéis oído</l>
 <l>Lo que ya sospecho aquí,</l>
 <l>Pienso que estaréis de mí</l>
-<l>Seguro y agradecido.</l></sp>
+<l>Seguro y <rs type="emotion">agradecido</rs>.</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>Todo lo tengo entendido;</l>
 <l>Y si por quereros bien</l>
-<l>Trata mi amor con desdén</l>
+<l>Trata mi <rs type="emotion">amor</rs> con desdén</l>
 <l>Doña Ana, no ha sido culpa,</l>
 <l>Porque sois vos la disculpa,</l>
 <l>Y mi desdicha también.</l>
@@ -3480,7 +3480,7 @@ ACT III
 <l>Dice bien, y vos lo haréis,</l>
 <l>Porque yo os lo mando así.</l>
 <l>Que á saber, cuando la ví,</l>
-<l>Que os tenía tanto amor,</l>
+<l>Que os tenía tanto <rs type="emotion">amor</rs>,</l>
 <l>No la amara; aunque en rigor</l>
 <l>Fué engañado pensamiento</l>
 <l>Que con tal entendimiento</l>
@@ -3489,7 +3489,7 @@ ACT III
 <l>Aunque á Alejandro imitéis</l>
 <l>En darme lo que estimáis,</l>
 <l>Ni como Apeles me halláis,</l>
-<l>Ni enamorado me veis,</l>
+<l>Ni en<rs type="emotion">amor</rs>ado me veis,</l>
 <l>Ni vos mandarme podéis</l>
 <l>Que sea lo que no fuí;</l>
 <l>Pues cuando pudiera aquí</l>
@@ -3500,14 +3500,14 @@ ACT III
 <l>Quedo, quedo; que no soy</l>
 <l>Tan del Conde, que me dé,</l>
 <l>Ni tan de don Juan, que esté</l>
-<l>Menos contenta ayer que hoy.</l>
+<l>Menos <rs type="emotion">contenta</rs> ayer que hoy.</l>
 <l>Libre, á mí misma me doy,</l>
 <l>Y daré luego, si quiero,</l>
 <l>Á un honrado caballero</l>
 <l>Mujer y cien mil ducados,</l>
 <l>Sin suegros y sin cuñados,</l>
 <l>Que es otro tanto dinero.</l></sp></div><div type="scene" n="XIII">
-<stage>DOÑA MARÍA, de madrina y muy bizarra, con LEONOR, de la mano;
+<stage>DOÑA MARÍA, de madrina y muy bizarra, con LEONOR, de <rs type="body">la mano</rs>;
 MARTÍN, PEDRO, LORENZO, BERNAL y OTROS LACAYOS, muy galanes;
 ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <sp><speaker>MÚSICOS</speaker><stage>cantan</stage>
@@ -3536,7 +3536,7 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <sp><speaker>CONDE</speaker>
 <l>¡Qué perdido está don Juan!</l></sp>
 <sp><speaker>DOÑA ANA</speaker>
-<l>¡Qué admirado la contempla!</l></sp>
+<l>¡Qué <rs type="emotion">admira</rs>do la contempla!</l></sp>
 <sp><speaker>CONDE</speaker>
 <l>Por Dios, que tiene disculpa</l>
 <l>De estimarla y de quererla;</l>
@@ -3583,18 +3583,18 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <l>Todas las historias cuentan,</l>
 <l>Todos los sabios afirman,</l>
 <l>Todos los ejemplos muestran</l>
-<l>Que es amor; pues siendo así,</l>
+<l>Que es <rs type="emotion">amor</rs>; pues siendo así,</l>
 <l>Y que ninguno lo niega,</l>
-<l>Que yo por amor me case,</l>
-<l>Que yo por amor me pierda,</l>
+<l>Que yo por <rs type="emotion">amor</rs> me case,</l>
+<l>Que yo por <rs type="emotion">amor</rs> me pierda,</l>
 <l>No es justo que á nadie admire,</l>
 <l>Pues cuantos viven confiesan</l>
-<l>Que es amor una pasión</l>
+<l>Que es <rs type="emotion">amor</rs> una pasión</l>
 <l>Incapaz de resistencia.</l>
 <l>Yo no soy mármol, si bien</l>
 <l>No soy yo quien me gobierna;</l>
 <l>Que obedecen á Isabel</l>
-<l>Mis sentidos y potencias.</l>
+<l>Mis <rs type="emotion">sentido</rs>s y potencias.</l>
 <l>Cuando esto en público digo,</l>
 <l>No quiero que nadie pueda</l>
 <l>Contradecirme el casarme,</l>
@@ -3627,7 +3627,7 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <l>¿Con cien mil ducados deja</l>
 <l>Un hombre loco mujer,</l>
 <l>Que me casara con ella,</l>
-<l>Si amor me hubiera tenido?</l></sp>
+<l>Si <rs type="emotion">amor</rs> me hubiera tenido?</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Quedo, Conde; que me pesa</l>
 <l>De que me deis ocasión</l>
