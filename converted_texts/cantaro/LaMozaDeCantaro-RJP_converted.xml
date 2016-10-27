@@ -260,7 +260,7 @@ ACT III
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Tal salud tengas, Lüisa.</l>
 <l>Muchas se casan aprisa,</l>
-<l>Que á llorar despacio van.</l></sp>
+<l>Que á <rs type="emotion">llorar</rs> despacio van.</l></sp>
 <sp><speaker>LÜISA</speaker>
 <l>Ésa es dicha, y no elección;</l>
 <l>Que mirado y escogido</l>
@@ -309,7 +309,7 @@ ACT III
 <l>Otra le goce, Lüisa,</l>
 <l>No yo. ¡De noche visiones!</l></sp>
 <sp><speaker>LÜISA</speaker>
-<l>Oigo unas <rs type="emotion"><rs type="emotion">triste</rs>s</rs> razones.</l></sp>
+<l>Oigo unas <rs type="emotion">tristes</rs> razones.</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Volvióse en llanto la risa.</l>
 <l>¿No es éste mi padre?</l></sp>
@@ -321,7 +321,7 @@ ACT III
 <l>¡Ay de mí!</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Señor, ¿qué es esto?</l>
-<l>Vos llorando y descompuesto,</l>
+<l>Vos <rs type="emotion">llorando</rs> y descompuesto,</l>
 <l>¡Y yo no estoy á esos pies!</l>
 <l>¿Qué tenéis, padre y señor,</l>
 <l>Mi solo y único bien?</l></sp>
@@ -341,11 +341,11 @@ ACT III
 <sp><speaker>DON BERNARDO</speaker>
 <l>Cayó toda la opinión</l>
 <l>Y nobleza que he tenido.</l>
-<l>No es de los hombres llorar;</l>
-<l>Pero lloro un hijo mío</l>
+<l>No es de los hombres <rs type="emotion">llorar</rs>;</l>
+<l>Pero <rs type="emotion">lloro</rs> un hijo mío</l>
 <l>Que está en Flandes, de quien fío</l>
 <l>Que me supiera vengar.</l>
-<l>Siendo hombre, llorar me agrada;</l>
+<l>Siendo hombre, <rs type="emotion">llorar</rs> me agrada;</l>
 <l>Porque los viejos, María,</l>
 <l>Somos niños desde el día</l>
 <l>Que nos quitamos la espada.</l></sp>
@@ -360,9 +360,9 @@ ACT III
 <l>Hija, ¿quiéresme dejar?</l></sp>
 <sp><speaker>DOÑA MARÍA</speaker>
 <l>Porfías, Señor, en vano.</l>
-<l>Antes de llorar se causa</l>
+<l>Antes de <rs type="emotion">llorar</rs> se causa</l>
 <l>La excusa, pero no agora;</l>
-<l>Que siempre quiere el que llora</l>
+<l>Que siempre quiere el que <rs type="emotion">llora</rs></l>
 <l>Que le pregunten la causa.</l></sp>
 <sp><speaker>DON BERNARDO</speaker>
 <l>Don Diego me habló, María...</l>
@@ -2723,8 +2723,8 @@ ACT III
 <l>Que hasta los paños me llevaba el río,</l>
 <l>Mayor con la creciente de mis ojos.</l>
 <l>Cantaban otras con <rs type="emotion">alegre</rs> brío,</l>
-<l>Y yo, Leonor, lloraba mis enojos:</l>
-<l>Lavaba con lo mesmo que lloraba,</l>
+<l>Y yo, Leonor, <rs type="emotion">lloraba</rs> mis enojos:</l>
+<l>Lavaba con lo mesmo que <rs type="emotion">lloraba,</rs></l>
 <l>Y al aire de suspiros lo enjugaba.</l>
 <l>Bajaba el sol al agua trasparente,</l>
 <l>Y, el claro rostro en púrpura bañado,</l>
