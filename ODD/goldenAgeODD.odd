@@ -31,7 +31,7 @@
             <moduleRef key="header"/>         
             <moduleRef key="namesdates" exclude="district listNym nym offset"/>
             <moduleRef key="textstructure" exclude="byline closer dateline div1 div2 div3 div4 div5 div6 div7 imprimatur opener postscript salute signed"/>
-            
+            <moduleRef key="transcr" include="supplied"/>
             <!--2016-11-6 set:  We don't need these, at least not yet. 
             <moduleRef key="textcrit"/>
            <moduleRef key="linking"/>
@@ -53,6 +53,7 @@
                   <valItem ident="verb"/>
                   <valItem ident="adj"/>
                   <valItem ident="adverb"/>
+                  <valItem ident="phrase"/>
                  
                </valList>
             </attDef>
