@@ -39,7 +39,7 @@
          -->
             <constraintSpec scheme="isoschematron" ident="refer-to-Montalvo">
                <constraint>
-                  <sch:rule context="tei:*[@type eq 'emotion']">
+                  <sch:rule context="*[@type eq 'emotion']">
                      <sch:report test="not(@ana)">
                         rs type="emotion must have its part of speech coded in @ana!</sch:report>
                   </sch:rule>
