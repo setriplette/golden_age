@@ -2,7 +2,11 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+   xmlns:rng="http://relaxng.org/ns/structure/1.0"
+   version="2.9.1"
+   xml:lang="en">
   <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,7 +37,30 @@
            <moduleRef key="linking"/>
            <moduleRef key="iso-fs" except="bicond binary cond default"/>      
          -->
+      <elementSpec ident="rs" module="core" mode="change">
+         <constraintSpec scheme="isoschematron" ident="refer-to-Montalvo">
+            <constraint>
+               <sch:rule context="tei:rs[@type eq 'emotion']">
+                  <sch:report test="not(@ana)">
+                     rs type="emotion must have its part of speech coded in @ana!</sch:report>
+               </sch:rule>
+            </constraint>
+         </constraintSpec>	   
+         <attList>
+            <attDef ident="ana" mode="replace" usage="opt">
+               <valList type="closed">
+                  <valItem ident="noun"/>
+                  <valItem ident="verb"/>
+                  <valItem ident="adj"/>
+                  <valItem ident="adverb"/>
+                 
+               </valList>
+            </attDef>
             
+         </attList>
+         
+         
+      </elementSpec>      
             
             
          </schemaSpec>
