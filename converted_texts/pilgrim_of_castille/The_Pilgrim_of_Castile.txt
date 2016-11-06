@@ -39,11 +39,11 @@ that those who do free us from bodily misfortunes can also ease
 those of the mind. So he rested this day within one of their cabins,
 while the cold night descending, all crowned with stars, did impart
 unto mortal creatures rest in conformity with the quality of their
-lives, giving desires unto the poor, cares unto the rich, complaints
+lives, giving <emotion type="verb">desires</emotion> unto the poor, cares unto the rich, complaints
 unto the <emotion type="adj">sad</emotion>, unto the <emotion type="adj">contented</emotion> sleep, and <emotion type="noun">jealousy</emotion> to the amorous.
 In the midst thereof he heard a lyre played upon, and according with
 a voice, which in singing complained of a shepherdess's cruelty. The
-pilgrim, although weary, <emotion type="verb">loved</emotion> music more than rest, and went out of
+pilgrim, although <emotion type="adj">weary</emotion>, <emotion type="verb">loved</emotion> music more than rest, and went out of
 his cabin into a meadow, from whence seeing about a dozen houses,
 and among some osiers the author of those plaints, called him from a
 distance. The singer replied <emotion type="adverb">fearfully</emotion>, but the pale light of the
@@ -64,7 +64,7 @@ could take nothing from them but his life--which he esteemed little
 (and six hours ago much less): the other said that he was the son of
 a seaman--between a fisherman and a pilot--and that all his goods
 consisted of this his instrument, with which he did charm away his
-cares. The soldiers did not appear to desire their clothes, because
+cares. The soldiers did not appear to <emotion type="noun">desire</emotion> their clothes, because
 one was of ship's canvas and the other of coarse cloth; and there is
 no robber who is not liberal of that which is of no worth. But they
 entreated them to conduct them to the village, which in regard to
@@ -142,17 +142,17 @@ turned to disdain) became by this encounter a mortal <emotion type="noun">hatred
 either side increased their bands; the fire of their <emotion type="noun">anger</emotion> kindled
 all their parents; and although they every day spoke together as if
 they had no quarrel, they failed not to fight every night when they
-met. In this scandal Doricles lost the enjoying of his mistress,
+met. In this scandal Doricles lost the <emotion type="verb">enjoying</emotion> of his mistress,
 Filander her favour, she her renown and their parents their honour.
 Time increased the <emotion type="noun">love</emotion> of the one, while the other's hatred
-increased his desire of revenge, and of the small pleasure which the
+increased his <emotion type="noun">desire</emotion> of revenge, and of the small <emotion type="noun">pleasure</emotion> which the
 two lovers had, Filander had the least, it seeming better to him in
 this business to rely upon his industry for the effecting of that
 which his strength would be wanting. Having then learned that
-Florinda was to take her pleasure at sea in a bark, he hid two or
+Florinda was to take her <emotion type="noun">pleasure</emotion> at sea in a bark, he hid two or
 three days before a brigantine in a creek not far from the shore, in
 which he appareled himself like a Turk, with some other of his
-friends (for accomplices in amorous enterprises are seldom wanting)
+friends (for accomplices in <emotion type="adj">amorous</emotion> enterprises are seldom wanting)
 and with necessary rowers attended his mistress: the Meuxin, which
 is the tower where the watch of Barcelona is kept, having discovered
 that no enemies sailed in all the sea. In the meantime the contented
@@ -161,7 +161,7 @@ when the counterfeit frigate hoisted sail, and beating the water
 with her oars, overtook her bark, the mariners whereof looking for
 nothing less than such a surprise, could not resolve either to fly
 or to defend themselves; but contrariwise (as the <emotion type="adj">fearful</emotion> bird
-seeing the proud merlin come fiercely stooping upon her, is
+seeing the <emotion type="adj">proud</emotion> merlin come fiercely stooping upon her, is
 accustomed to attend her with couched wings) acknowledging by the
 Turkish sails, the power of their enemies which were upon them, and
 quitted their oars; and <emotion type="noun">fear</emotion> (which with a cold shivering ran
@@ -176,7 +176,7 @@ they returned again to Barcelona, recounting the disgrace in every
 street and place where they came, with more cries and tears than
 words, which coming to the ears of her parents, caused more <emotion type="noun">grief</emotion> in
 them then can be told, principally in her <emotion type="adj">sorrowful</emotion> mother, who
-bewailed her loss with a passion more befitting her sex than a
+bewailed her loss with a <emotion type="noun">passion</emotion> more befitting her sex than a
 generous courage. Mounted scouts in vain spurred up and down the
 coast, but Filander (who had brought Florinda into a private garden
 house, having taken away his turban and his Turkish disguise)
@@ -186,7 +186,7 @@ her beauty with assurance, although she took heaven, the trees and
 the fountains to witness the violence which was used on her.</p>
 
 <p>Of no less consideration was Doricles' pain, who full of mortal
-sorrow, was a thousand times by the sea's side ready to imitate the
+<emotion type="noun">sorrow</emotion>, was a thousand times by the sea's side ready to imitate the
 despair of those nymphs which saw Europa ravished; nevertheless, and
 as well to oblige unto him his mistress's parents, and to satisfy
 himself, he bought a ship of an Aragonese, which had brought in
@@ -195,7 +195,7 @@ his sails to the wind, turning his prow toward Argiere, Sali, Morat,
 Fuchel, Mami, Xafer, and other pirate haunts; Doricles enquired
 amongst them of his mistress, and of as many others as he knew did
 rob upon the coast of Spain. But when he met with none who could
-tell him news of her, whom his rival enjoyed with such pleasure, he
+tell him news of her, whom his rival <emotion type="verb">enjoyed</emotion> with such <emotion type="noun">pleasure</emotion>, he
 went to Constantinople, and from thence unto Cairo, and having run
 along the coast of the kingdoms of Fez, Morocco, Tarndan, and
 Tafilet, <emotion type="adj">despairing</emotion> of ever finding her, whom he had so long time,
@@ -271,11 +271,11 @@ get him breath, which he had almost lost, we endeavoured to unclothe
 him, but he refusing to be seen or to be touched by us, it made our
 captain suspect that he was not a man, for although he enforced
 himself to appear so, yet his actions showed the clean contrary;
-when as preventing the desire which the captain had to be cleared of
+when as preventing the <emotion type="noun">desire</emotion> which the captain had to be cleared of
 his sex, this pilgrim of whom I tell thee (taking him aside)
 confessed that she was a woman, who came in this habit from Italy,
 with her husband; in which voyage, they had suffered shipwreck upon
-this shore: and in saying this, shame and desire to defend herself
+this shore: and in saying this, <emotion type="noun">shame</emotion> and <emotion type="noun">desire</emotion> to defend herself
 brought colour into her face, and valour into her heart; with one,
 she appeared perfectly fair, and with the other extremely hardy:
 Nevertheless her beauty being more powerful to hurt others, than her
@@ -297,15 +297,15 @@ certain it is that they are now lodged together.</p></q></body></floatingText>
 bathed his face with his tears, and with <emotion type="adj">sad</emotion> and violent sighings
 endeavoured to pierce heaven: they desiring the cause, he remaining
 a long time silent, and they still pressing him; in the end he began
-to cry out: Oh miserable wretch that I am, I have lost my honour, my
+to cry out: Oh <emotion type="adj">miserable</emotion> wretch that I am, I have lost my honour, my
 glory is destroyed, my hope is dead, by the hands and weakness of a
 woman. Oh that ever the sea pardoned my life, since that with so
-much pity, it reserved thine, to the end that my eyes might be
+much <emotion type="noun">pity</emotion>, it reserved thine, to the end that my eyes might be
 witnesses (after so many labours and dangers) of such an offence.
 Well did the soldiers know that this was the man whom the pilgrim
 respected, and the true north star unto which she turned the needle
 of her affection: but they endeavouring to comfort him, so much
-increased his fury, that drawing forth his sword out of his
+increased his <emotion type="noun">fury</emotion>, that drawing forth his sword out of his
 pilgrim's staff, the outside whereof served as a scabbard, he ran
 enraged out of the house unto the house where the captain lay, and
 there gave such blows upon the door, and such loud cries, that the
@@ -318,10 +318,10 @@ which thou dost possess. Doricles discharged his pistol and the
 pilgrim turning his body, the bullet lit in his arm. All the company
 ran thither at the noise, and the valiant Catalonian disposed
 himself to strike quicker than the lightning come out of thunder
-sent by Jove against the giants, when the miserable pilgrim woman,
+sent by Jove against the giants, when the <emotion type="adj">miserable</emotion> pilgrim woman,
 embracing him with prayers, begged the pilgrim's life, saying unto
 Doricles, that this man was he whom she did only acknowledge for her
-master, and on the other side assuring her desperate husband that
+master, and on the other side assuring her <emotion type="adj">desperate</emotion> husband that
 she had not transgressed against her honour, neither in deed, word
 nor thought; because his prayers had not vanquished her, and his
 threats could never. I do not know if it ought to be believed of a
@@ -370,12 +370,12 @@ death which they were constrained to deliver unto Doricles, so much
 deprived the <emotion type="adj">sorrowful</emotion> pilgrim woman of sense (whom he had already
 thrust out of his chamber, being vexed with her cries) that she
 remained a long time as dead, and when as she was come again unto
-herself, she did and said so many pitiful things, that these fierce
+herself, she did and said so many <emotion type="adj">pitiful</emotion> things, that these fierce
 men most accustomed to shed blood, did now shed tears. So that the
 captain <emotion type="adj">despairing</emotion> of ever being able to pacify her, and thinking
 that the beginnings of extreme <emotion type="noun">grief</emotion> do easily pass to a frenzy,
 commanded that she should be carried upon the great highway; where
-the miserable woman was left, drowning herself in tears, and
+the <emotion type="adj">miserable</emotion> woman was left, drowning herself in tears, and
 murdering her face with her hands, she made herself look with great
 deformity: from thence following the way by the seaside she went to
 Valencia.</p>
@@ -409,7 +409,7 @@ nor ability to find better means to appease them.</p>
 
 <p>Night victorious over human cares, imposing rest unto their labours
 and their thoughts, and reducing their actions to a deep silence
-came amongst these barbarous people, yet the miserable stranger only
+came amongst these barbarous people, yet the <emotion type="adj">miserable</emotion> stranger only
 not so much as closing his eyes: he felt not the <emotion type="noun">grief</emotion> of his wound,
 not the infamy of his imprisonment, all that which troubled him, and
 all that which he <emotion type="verb">feared</emotion>, was the pilgrim woman's losing of her
@@ -421,7 +421,7 @@ pilgrim only is awake, complaining against heaven, the sea, and his
 cruel fortune which had preserved his life, then, when he had no
 feeling of death, to make him suffer it now in a state so sensible.</p>
 
-<p>At the length the sun with a countenance full of shame and as if he
+<p>At the length the sun with a countenance full of <emotion type="noun">shame</emotion> and as if he
 had been constrained, shone through the thick bars of the prison
 windows, showing in the pale colour of his beams, that he <emotion type="verb">feared</emotion> he
 should be kept there, when the pleasant blows of the jailer, and the
@@ -429,8 +429,8 @@ sweet noise which his keys made in the strong locks, awaked from
 their forgetfulness those unto whom the <emotion type="noun">fear</emotion> of punishment for their
 faults could work no remembrance: but the pilgrim was not waked,
 because he was not asleep; he came out amongst the rest nevertheless
-to give thanks to the day, for having passed over so miserable a
-night. There began this miserable body to move his parts, going many
+to give thanks to the day, for having passed over so <emotion type="adj">miserable</emotion> a
+night. There began this <emotion type="adj">miserable</emotion> body to move his parts, going many
 leagues in a little space: prayers importuned some, care wearied
 others; necessity called out here, hunger sighed there, and Liberty
 was wished for everywhere: the laws called upon execution, ministers
@@ -570,7 +570,7 @@ his purpose, and thinking that I was not apt for his design, by
 little and little, forbore to visit me. Quickly did he forbear to
 accompany me in walking: we went no more by day to public
 conversations, nor by night to private; A notable error in the
-condition of men, whose loves and friendships are kept by flattery,
+condition of men, whose <emotion type="verb">loves</emotion> and friendships are kept by flattery,
 and lost by truth. I did bear Mireno's absence with great
 impatience, and he had no feeling of his living without me; because
 Lucretia being now his whole soul, could not suffer that he should
@@ -579,7 +579,7 @@ business with a third, who was so common a friend unto us both, that
 when I wanted Mireno, or Mireno wanted me, we did seek one the other
 at his house. This man was not so considerate as I was, contrariwise
 there was no kind of danger, into which he would not precipitate
-himself to pleasure his friend; such friends are like powder on
+himself to <emotion type="noun">pleasure</emotion> his friend; such friends are like powder on
 festival days, which to <emotion type="verb">rejoice</emotion> others spendeth itself. This made me
 disguise myself to follow them in the night; and one time above the
 rest, when I had more patience, and they less consideration than the
@@ -612,7 +612,7 @@ true friends. I said then unto him, that I wondered he would
 dissemble a thing so known; Telemachus her husband being come unto
 my house, to tell me that he had heard him within his; that looking
 out of a window of a tower, he had seen him go down by a ladder:
-Mireno astonished and wondering at my revelation, confessed unto me
+Mireno <emotion type="adj">astonished</emotion> and wondering at my revelation, confessed unto me
 what had passed, and how Lucretia having yielded to his letters,
 messages, and services had made him master of her liberty, yielding
 unto him the treasure which was so fiercely guarded by Telemachus'
@@ -636,7 +636,7 @@ was not by his side when there was noise in the lodging. So that he
 promised me, he would not go any more thither, and the more to
 divert him from going thither, he resolved to absent himself from
 Barcelona. I confirmed him in this resolution; because that truly
-there is nothing which so much eclipseth the desire of lovers, as an
+there is nothing which so much eclipseth the <emotion type="noun">desire</emotion> of lovers, as an
 interposed distance of place between them; yet it was not needful,
 because by the time Mireno disposed himself to depart, Telemachus
 had already changed his dwelling from this city unto the little
@@ -669,14 +669,14 @@ easiest and the safest way to distance himself from these loves,
 entreated me to find out some worthy subject, who might set a bound
 unto his affections: I propounded many who I thought were of his
 quality, although not of his merit; but it was with him as with
-those who buy without pleasure, and do not <emotion type="adj">content</emotion> themselves with
+those who buy without <emotion type="noun">pleasure</emotion>, and do not <emotion type="adj">content</emotion> themselves with
 any price; for some are too high, others too low: these black, those
 pale; one lean, the other too fat; this was too fine, another too
 sluttish: in short, seeing that he liked none of those, and would
 not marry, I left him, for I saw that Lucretia had more power with
 him than all the others together. They then began to see one another
 again, for in these good works, mediators are seldom wanting:
-Erisila who was passionately in <emotion type="noun">love</emotion> with Mireno, began to discern
+Erisila who was <emotion type="adverb">passionately</emotion> in <emotion type="noun">love</emotion> with Mireno, began to discern
 in him a coldness and a carelessness in seeing her, and that he did
 divert himself by other pleasures. She (in this suspicion, which may
 be called a true jealousy) began to observe and follow him; so that
@@ -685,7 +685,7 @@ least what was the subject which ravished away her Mireno.</p>
 
 <p>Who will believe so extraordinary a conceit as I shall tell you?
 Truly he only, who doth know how much the spirit of a woman is
-disposed (especially if she is in love) to any kind of industry and
+disposed (especially if she is in <emotion type="noun">love</emotion>) to any kind of industry and
 subtility: Erisila never left seeking occasion that Telemachus
 should see her, until in the end Telemachus did behold her, and in
 viewing Erisila, he saw in her a brave disposition of a woman, who
@@ -693,8 +693,8 @@ looked upon him with fair and sweet eyes; for when they will
 deceive, they make their eyes snares, and their sweetnesses baits:
 Telemachus yielded himself (although he <emotion type="verb">loved</emotion> Lucretia) forced by
 the eyes and beauty of Erisila, which did so much the more provoke
-him, by how much she desired to deceive him: he began to come to her
-house, and she to feign a great deal of passion, Mireno giving them
+him, by how much she <emotion type="verb">desired</emotion> to deceive him: he began to come to her
+house, and she to feign a great deal of <emotion type="noun">passion</emotion>, Mireno giving them
 leisure enough, as he did not frequent her house as he was
 accustomed. Finally their affection came to the point that Erisila
 desired. Then she said unto him one day (as if she had not known him
@@ -702,7 +702,7 @@ to be married, which he dissembled also) that she had seen him enter
 into one Lucretia's house, whereat she had conceived great jealousy.
 Telemachus smiling, began to appease her saying, that it was without
 any design that he had entered into this house (whereof indeed he
-was master) and as she began to witness a more feeling sorrow,
+was master) and as she began to witness a more feeling <emotion type="noun">sorrow</emotion>,
 accompanied with false tears; he began to remonstrate that Lucretia
 was virtuous and well born; with a great many other commendations of
 her chastity, and of Telemachus her husband's care (commending
@@ -745,7 +745,7 @@ halfway, and hid himself in Barcelona.</p>
 
 <p>Now Mireno could not spend the night so assured with Lucretia but
 that I kept the door, although he did entreat me not to do it; God
-knoweth how many nights I passed without pleasure; for my heart did
+knoweth how many nights I passed without <emotion type="noun">pleasure</emotion>; for my heart did
 always tell me that their two lives did run a dangerous fortune. But
 Telemachus the third night after entering by a secret door into the
 garden (as I spoke of unto you) without being heard or seen by any
@@ -801,7 +801,7 @@ these words:</p>
 <p>There wept the Woods, the Beasts, and the Serpents.</p>
 
 <p>For I do not think that there was either tree or stone which were
-not moved with this so pitiful an accident. And here will I end his
+not moved with this so <emotion type="adj">pitiful</emotion> an accident. And here will I end his
 story, with these tears which I will offer incessantly to his
 memory, and these words which I have made for Lucretia's tomb:</p>
 
@@ -842,7 +842,7 @@ fair faces and blond hair showed them to be either Germans or
 Flemings. He saluted them, and <emotion type="adj">joyful</emotion> of so good company, he imposed
 silence unto a thousand <emotion type="adj">sad</emotion> thoughts, which solitariness had brought
 into his memory. Travelling together, they began to discourse of
-diverse matters, with which they easily and with pleasure passed
+diverse matters, with which they easily and with <emotion type="noun">pleasure</emotion> passed
 away the craggy, and uneven way of the mountain, until they came
 unto a fountain, which bubbling into a valley, made a gentle
 harmony. So that as it were invited by the sweet noise and the fresh
@@ -867,9 +867,9 @@ the most part of the way.</p>
 discovered shortly after, built upon the side of a sharp mountain,
 and under a great rock, which did seem to threaten it with ruin.</p>
 
-<p>When they were entered, with devotion and humility, casting their
+<p>When they were entered, with <emotion type="noun">devotion</emotion> and humility, casting their
 eyes upon tapestries of France, Germany, and almost all the world:
-they were astonished, to see the walls decked with so many excellent
+they were <emotion type="adj">astonished</emotion>, to see the walls decked with so many excellent
 paintings, histories, and accompanied with a thousand several kinds
 of offerings, which with an admirable correspondence did stir up and
 astonish the senses altogether. There did they pour forth their
@@ -883,7 +883,7 @@ come unto the seventh hermitage, they found a young man of an
 agreeable countenance and a goodly presence, whose long and well
 combed hair gave a reverent majesty unto his aspect. This man stayed
 them dinner, and after their repast, being entreated by the pilgrims
-to tell them what devotion had confined him into these solitary
+to tell them what <emotion type="noun">devotion</emotion> had confined him into these solitary
 mountains, he related the history of his life, in this manner:</p>
 
 <floatingText type="narrative"><body><head type="narrative">The History of Aurelia</head>
@@ -901,7 +901,7 @@ eyes at the first knowledge, which they had in the world, that my
 spirit did not live so much in myself, as in her whom I <emotion type="verb">loved</emotion>, nor
 found more rest out of her sight, than things do out of their
 centre; because that as the fire always sendeth the flames thereof
-to its proper sphere, so my heart addressed its desires to her
+to its proper sphere, so my heart addressed its <emotion type="verb">desires</emotion> to her
 beauty.</p>
 
 <p>Now as this <emotion type="noun">love</emotion> was not platonic, I will not dispute whether it
@@ -917,8 +917,8 @@ be short) unto whom experience in the world had brought a great deal
 of knowledge. It cost me little to possess her, because that these
 kind of women (clean contrary unto other women, who forced by the
 love of a man, do honestly yield unto his merits) trusting to their
-charms and unto the gentleness of usage, are passionate with men
-more when they are enjoyed than when they are pretended. I was not
+charms and unto the gentleness of usage, are <emotion type="adj">passionate</emotion> with men
+more when they are <emotion type="verb">enjoyed</emotion> than when they are pretended. I was not
 vexed at the first with the conversation of the young men, who at
 any hour howsoever extraordinary were never wanting in her house,
 because the favours which she did me, and the little which they cost
@@ -937,8 +937,8 @@ hear of; and of this were they not much deceived, for in a small
 time Aurelia, who had ravished so many others, was taken herself in
 my <emotion type="noun">love</emotion>, and made captive to my will, which made true one part of
 this <emotion type="noun">fear</emotion>, by shortening the revenues of her house, to lengthen the
-reins of her pleasure. Not that all the charge of the house fell
-upon her; for I miserable man, tormenting my parents, and
+reins of her <emotion type="noun">pleasure</emotion>. Not that all the charge of the house fell
+upon her; for I <emotion type="adj">miserable</emotion> man, tormenting my parents, and
 importuning my friends, did run to the preservation of this love,
 which almost always depended on money.</p>
 
@@ -949,7 +949,7 @@ seemed too strait for our <emotion type="noun">love</emotion>, and searching sol
 made the sight of open heaven witness of our follies. Our life was a
 blind imitation of the nature of beasts, we communicated our secrets
 to trees, which did not see, as if the leaves had not been so many
-clear eyes, and a thousand amorous delights to the dumb fountains,
+clear eyes, and a thousand <emotion type="adj">amorous</emotion> delights to the dumb fountains,
 which might well have troubled the purity of their waters, I cannot
 think how in so little a way as there was between my house and hers.
 It remained 5 years space before I knew that I was arrived there,
@@ -961,7 +961,7 @@ because it seems almost a thing impossible for such women from their
 custom, to keep themselves to an orderly life.</p>
 
 <p>At the end of these five years, I saw myself at the end of my means,
-and although I was more amorous than in the beginning, yet Aurelia
+and although I was more <emotion type="adj">amorous</emotion> than in the beginning, yet Aurelia
 did suffer herself to be vanquished by the obligations of another,
 who had more power than my services: I say obligations, because I
 cannot believe that only <emotion type="noun">love</emotion> can bind one unto so strange a change.
@@ -978,10 +978,10 @@ ears. And Feliciano making show of a valiant-lover, began to clothe
 himself, promising to chastise my boldness with his sword, and by
 his only presence to cure my folly; but the cunning Circe, who knew
 well whatsoever good or bad success came unto me, it would rebound
-unto her shame, hindered him with her arms and diverted him with her
+unto her <emotion type="noun">shame</emotion>, hindered him with her arms and diverted him with her
 tears, although there was no great need: for the bravest do
 unwillingly arm themselves when they are once naked; and to come out
-of a house into the street had been a manifest and mad rashness.</p>
+of a house into the street had been a manifest and <emotion type="adj">mad</emotion> rashness.</p>
 
 <p>Aurelia so prevailing in that manner, wherein others of her kind are
 wont to prevail; and making Feliciano believe that I should be her
@@ -992,7 +992,7 @@ gone, I was let into the house, where I found Aurelia in bed making
 so many complaints of my liberty, and of the scandal which I gave
 the neighbours, that instead of being <emotion type="adj">angry</emotion>, it behove me to appease
 her, where (after some time spent) she in complaining of me, and I
-in asking pardon for my <emotion type="noun">jealousy</emotion>, and for the desire which I had to
+in asking pardon for my <emotion type="noun">jealousy</emotion>, and for the <emotion type="noun">desire</emotion> which I had to
 surprise her in that infidelity which I did distrust: I possessed
 the absent man’s place, which was still warm, serving for a proof of
 my ignorance and blockishness. Morning brought again the sun, and
@@ -1019,20 +1019,20 @@ I needed no other witnesses of the truth, nor other instrument to
 open the door. I then resolved to revenge myself of Aurelia in
 leaving her, and of Feliciano, in serving Menander, from whose love
 I presumed he had not freed himself, and if he had been free yet I
-knew he must needs be <emotion type="verb">grieved</emotion> that I should enjoy her whom he loved
+knew he must needs be <emotion type="verb">grieved</emotion> that I should <emotion type="verb">enjoy</emotion> her whom he loved
 in everybody’s opinion. I found Menander willingly disposed, for our
 thoughts were alike, and our injury alike, and we might well serve
 to revenge one the other. She then feigned to <emotion type="noun">love</emotion> me, and I paid
 her in the like counterfeiting. Aurelia was advertised, and grew
-desperate, and Feliciano no less enraged, sought me to kill me.
+desperate, and Feliciano no less <emotion type="adj">enraged</emotion>, sought me to kill me.
 Behold how jealousies and neglects do reveal the truths which are in
 the centre of our hearts.</p>
 
 <p>Aurelia found me sooner than Feliciano did, as she who therein
-hazarded least: and staying me began in fury and in threatenings,
+hazarded least: and staying me began in <emotion type="noun">fury</emotion> and in threatenings,
 yet ended in prayers and in tears. But upon so fresh an injury, I
-was rather confirmed in my neglect (seeing her yield unto my love)
-than any way moved with her passion. Finally, having changed my
+was rather confirmed in my neglect (seeing her yield unto my <emotion type="noun">love</emotion>)
+than any way moved with her <emotion type="noun">passion</emotion>. Finally, having changed my
 first affection into <emotion type="noun">hatred</emotion>, (always insupportable to a woman who
 hath been well beloved) Aurelia began to pursue me, and although
 that the city of my birth and abode doth not yield for greatness to
@@ -1045,15 +1045,15 @@ after a thousand contrary deliberations, I resolved to take upon me
 a religious habit, and to prevail by his protection, in whose hands
 and feet God hath imprinted the marks of our reparation.</p>
 
-<p>But oh! the supreme force of a despised <emotion type="noun">love</emotion>, as from the holy choir
+<p>But oh! the supreme force of a <emotion type="verb">despised</emotion> <emotion type="noun">love</emotion>, as from the holy choir
 of the monastery, from the midst of the altars and images of the
 saints, the tears of Aurelia drew me again; and then I followed her,
-with more liberty and less shame then before, leaving the habit
+with more liberty and less <emotion type="noun">shame</emotion> then before, leaving the habit
 whereof I was not worthy, and neglecting the spiritual treasure
-which I did then enjoy, to follow the infamous life which I had
+which I did then <emotion type="verb">enjoy</emotion>, to follow the infamous life which I had
 formerly led, so much power hath the capital enemy of our souls. Our
 love began fresher than ever, with the general scandal of those who
-knew us, the <emotion type="noun">hatred</emotion> of our parents and the detestation of all our
+knew us, the <emotion type="noun">hatred</emotion> of our parents and the <emotion type="noun">detestation</emotion> of all our
 friends, which within a small time brought me to such terms that I
 thought <emotion type="noun">sorrow</emotion> would have killed me. The infamy wherein we lived and
 the <emotion type="noun">fear</emotion> of justice did oblige us to depart the city, and selling
@@ -1096,13 +1096,13 @@ Lorraines gentle, the Spaniards arrogant and the Germans beautiful.
 And this was the cause for which it was thought that the maid being
 seduced by them had run away with them.</p>
 
-<p>Now the Germans were easily taken, but the pilgrim desperate through
+<p>Now the Germans were easily taken, but the pilgrim <emotion type="adj">desperate</emotion> through
 his late long imprisonment which he had suffered in Barcelona, and
 out of the little justice which he as a stranger could expect,
 seeing them come unto him, stood upon his defence, and flourishing
 his palmer’s staff, (with which he was very skilful) left two of
 them lying upon the ground wounded, and virtuously freed himself
-from the hands of the others, who remained astonished at his valour.
+from the hands of the others, who remained <emotion type="adj">astonished</emotion> at his valour.
 Between Tortosa and Castellón there stretcheth forth a great hill,
 wherewith the sea of that coast is bounded, along the coast of the
 vale of Sego and of the Kingdom of Valencia: where the Moors of
@@ -1140,7 +1140,7 @@ their galley.</p>
 <p>Full of admiration was the pilgrim, to see how <emotion type="adverb">happily</emotion> his
 resolution had succeeded, when from a tree which was near unto him
 he heard a voice, which said: Ah knight, help me for the mother of
-God’s sake. His valiant courage which was never astonished with any
+God’s sake. His valiant courage which was never <emotion type="adj">astonished</emotion> with any
 kind of danger or misfortune, guided by the voice unto the tree,
 where he had heard him, saw a man tied thereunto, of whom having
 asked his name, he was answered, that he was a Catalonian knight,
@@ -1192,12 +1192,12 @@ desire of finishing his intended journey, departed with <emotion type="noun">gri
 the company of the pilgrim, whom he left no less <emotion type="adj">sorrowful</emotion>, in this
 flourishing city.</p>
 
-<p>There he spent a few days in beholding the proud buildings wherewith
+<p>There he spent a few days in beholding the <emotion type="adj">proud</emotion> buildings wherewith
 it was embellished: and in the end he visited the hospital where mad
 folks are with more care and convenience looked unto and kept, than
 in any city in all Spain: there beholding the several humours of
-these miserable people, he (I say) who lately was likely to have
-lost his own wits, saw amongst those who were least mad, sit down at
+these <emotion type="adj">miserable</emotion> people, he (I say) who lately was likely to have
+lost his own wits, saw amongst those who were least <emotion type="adj">mad</emotion>, sit down at
 the table (at which they did altogether eat) a young fool and very
 beautiful, whose flaxen hair was longer than men do ordinarily wear
 in Spain. All the blood in this pilgrim’s body came into his face,
@@ -1222,13 +1222,13 @@ voice, by the <emotion type="noun">fearfulness</emotion>, and by the tears assur
 body was the master of all her wits; and <emotion type="verb">fearing</emotion> lest he might make
 some demonstration of his inward <emotion type="noun">grief</emotion>, whereunto by the sight of
 this so great misfortune he was obliged; he demanded softly of her,
-how and by what means she was come unto this miserable estate? The
+how and by what means she was come unto this <emotion type="adj">miserable</emotion> estate? The
 grief I took (answered she) thinking upon your death, as soon as the
 Captain had commanded that you should be hanged. Not without having
 offended me, replied the pilgrim, a thing which I never expected
 from your constancy, although far greater occasion had been offered.
 The losing of my honour (said she) must be out of these two
-respects, either of force or for pleasure: if out of pleasure, I had
+respects, either of force or for pleasure: if out of <emotion type="noun">pleasure</emotion>, I had
 now no cause to bewail myself; nor if it were by force means to
 bring remedy, and less means had I in losing of my wits. And that it
 is true, that the very thought I had of your death was the cause of
@@ -1239,39 +1239,39 @@ misfortunes? There is nothing, dear Pamphilus (replied Nisa in
 weeping) deserves this name that hath been suffered for your
 occasion, and for so cruel a feeling as the report of your death
 brought to me. And if I were permitted to embrace you here according
-unto my desire, the recompense would be as great as the travels,
+unto my <emotion type="noun">desire</emotion>, the recompense would be as great as the travels,
 which I do bewail only in regard they were no more, since that,
 according to their multitude, they would augment the glory of my
 suffering. It was not in vain, answered Pamphilus, (for the History
-names him from henceforward) that my hope made me desire to live,
+names him from henceforward) that my hope made me <emotion type="noun">desire</emotion> to live,
 only that I might see you, for I was assured that in the glory of
 beholding you, all <emotion type="noun">jealousy</emotion> would be wiped away, that might any way
 allay my <emotion type="noun">joy</emotion>. And if the eyes of those who look upon us, did not
 better see, then their understandings do know, you should before
-this have found that your desire of embracing was most agreeable to
+this have found that your <emotion type="noun">desire</emotion> of embracing was most agreeable to
 me. To this said Nisa (whose name hitherto we have hid, as also
 Pamphilus’), because that travailing in this habit amongst so many
 dangers (I durst not tell their country nor their name) I will make
-my passion serve as a remedy. What passion? answered Pamphilus.
+my <emotion type="noun">passion</emotion> serve as a remedy. What passion? answered Pamphilus.
 Every time, said she when my <emotion type="noun">grief</emotion> deprives me of my reason, they
 tell me that I cry aloud, those words which I will now say to thee,
 in embracing thee. And then she said these words: O my spouse, is it
 possible that my eyes do behold thee? Is it not thou, who died in
 the mountains of Barcelona, by the evil hands of Doricles’ barbarous
 soldiers? Blessed be the hour wherein I see the news is false. In
-speaking this, Nisa fell about Pamphilus’ neck, amorously embracing
+speaking this, Nisa fell about Pamphilus’ neck, <emotion type="adverb">amorously</emotion> embracing
 him, whose overwhelming delight was only interrupted by the presence
 of the assistants.</p>
 
-<p>When the man (who had the charge of appeasing the mad folks’ fury)
+<p>When the man (who had the charge of appeasing the <emotion type="adj">mad</emotion> folks’ fury)
 saw this deportment in Nisa, he began to give her rude words and
 sharp blows. Let him alone said Pamphilus, for I am his countryman
 and his wife’s kinsman, and do not wonder that this sight of me,
 doth cause in him this <emotion type="noun">sorrow</emotion>. Whatsoever you are, answered this
 barbarous fellow, it skills not, here are neither complements nor
-visitations. And the token of this man’s mad fit in coming upon him,
+visitations. And the token of this man’s <emotion type="adj">mad</emotion> fit in coming upon him,
 is to call his husband, with such or the like words. But if I pacify
-this, his mad fit said Pamphilus, to what end doth your chastisement
+this, his <emotion type="adj">mad</emotion> fit said Pamphilus, to what end doth your chastisement
 serve? And how will you appease it, said the other, is not this an
 evident token of his madness, that he calls you his spouse, and
 takes you for a woman? You are ignorant of his humour, and of the
@@ -1289,18 +1289,18 @@ for the officers had already put manacles upon Nisa's hands; and the
 master did rigorously pull her to the cage, although she had no need
 of this remedy, nor any other, but the sight of Pamphilus. But as
 those who are accustomed to lie, are seldom believed, although they
-say the truth: so in him who is mad, it is accounted a token of
+say the truth: so in him who is <emotion type="adj">mad</emotion>, it is accounted a token of
 greater madness, to seem wise. Thus Nisa was had away to strait
 imprisonment, and Pamphilus standing ashamed, <emotion type="verb">fearing</emotion> that everyone
 knew what was privy only to himself, beheld her with abundance of
 tears; a thousand times he was about to let go the reins of his
-passion, which his understanding held in, and to be mad in reason,
-believing that if he were mad, the chastisement of his madness
+passion, which his understanding held in, and to be <emotion type="adj">mad</emotion> in reason,
+believing that if he were <emotion type="adj">mad</emotion>, the chastisement of his madness
 should be to remain with Nisa, which was the greatest good he could
 hope for. And to begin his design, he offered (against the laws of
 this house) to break the gates of the prison, and see her by force:
 but hardly had he made any demonstration thereof, when the porters
-with the mad servitors, (such as having recovered their wits, do
+with the <emotion type="adj">mad</emotion> servitors, (such as having recovered their wits, do
 serve the others) fell upon him, and beating him cruelly, flung him
 into the street, where (as the fish whereof Aristotle speaks which
 being drawn out of the water, frames a humane voice and dies) he
@@ -1312,7 +1312,7 @@ misery found himself in the arms of a young man, who having
 compassion of his <emotion type="noun">grief</emotion>, encouraged him to recover life. Pamphilus
 looking steadfastly upon him, with heavy <emotion type="noun">sadness</emotion>, demanded where he
 was? The young man told him, that he was at the door of the
-hospital, where the mad folks were kept. And how is it, replied
+hospital, where the <emotion type="adj">mad</emotion> folks were kept. And how is it, replied
 Pamphilus, that I am not within? Because (said the other) thou
 appearest to be more diseased in body then in the passions of thy
 mind. Thou judgest by the countenance (said Pamphilus) but if thou
@@ -1332,7 +1332,7 @@ man, but there is an antidote to be found for it. Incurable love
 and herbs of physic are improfitable. What is not <emotion type="noun">love</emotion> but to be
 cured, answered the other? And are Avicenna’s seven remedies of no
 force, and not true? Of those said Pamphilus, and at the tales which
-Pliny writeth, my passion worketh; I only allow of his counsel, who
+Pliny writeth, my <emotion type="noun">passion</emotion> worketh; I only allow of his counsel, who
 adviseth chiefly to marry; but the disposition of my fortune, and
 the rigorous influence of my stars, not only do not suffer me, but
 make it to me almost impossible. And although hope sometime
@@ -1345,10 +1345,10 @@ sighing, what a grievous story, dost thou renew in me. A history
 like unto mine? said Pamphilus. If not, said the other, yet at the
 least of <emotion type="noun">love</emotion>. By thy faith (then said Pamphilus) dost thou love? I
 not only <emotion type="noun">love</emotion>, said the other, but am also more <emotion type="adj">unhappy</emotion> than thou
-thinkest, for a stranger and a pilgrim, and no less outraged by
+thinkest, for a stranger and a pilgrim, and no less <emotion type="verb">outraged</emotion> by
 fortune. Tell me then, said Pamphilus, (in looking earnestly upon
 him) thy name and of what country thou art; for in all the years of
-my banishment, I could never find any man so miserably persecuted as
+my banishment, I could never find any man so <emotion type="adverb">miserably</emotion> persecuted as
 myself: and in this, I have more occasion than all men to bewail my
 destinies. A Christian, said the stranger, ought never to bewail the
 destinies, nor think that good or evil fortune depend on them:
@@ -1375,7 +1375,7 @@ indissoluble knot.</p>
 <p>But leaving apart a matter of so long a discourse, from whence is
 sprung the error of the Priscillianists, who believe that the soul
 and the body are necessarily subject to the stars, and many other
-errors which succeed this first; I desire thou shouldst know, that I
+errors which succeed this first; I <emotion type="noun">desire</emotion> thou shouldst know, that I
 speak according to custom, which willeth that this name Destiny, and
 other Christian idioms, be taken for misfortune, believing that
 nevertheless, God in his divine providence speaks by Destiny as men
@@ -1383,7 +1383,7 @@ express the conceptions of their minds by words. Thy face (said the
 young man) promiseth no less, than what I have heard come from thy
 mouth; for thy presence and aspect is an index of thy nobleness, as
 thy tongue is of knowledge: which worketh in me a great pleasure,
-and desire to tell thee my name, my country, quality and my
+and <emotion type="noun">desire</emotion> to tell thee my name, my country, quality and my
 misfortunes, which if thou please to hearken unto with patience, I
 will as briefly as I can relate:</p>
 
@@ -1437,7 +1437,7 @@ I now speak, and the young man’s name was Pamphilus. But while these
 things were a-doing, the father of Pamphilus died, and the
 proposition of marriage ceased. Pamphilus who by the renown that
 went of my sister, as also by her picture, was taken in her love,
-and grew wonderful <emotion type="adj">sad</emotion> and melancholy, and falling from one
+and grew wonderful <emotion type="adj">sad</emotion> and <emotion type="noun">melancholy</emotion>, and falling from one
 imagination to another, in the end he resolved upon this which I
 shall tell thee, that thereby thou may see how innocent those were,
 who without the light of faith, did anciently believe in fortune and
@@ -1449,7 +1449,7 @@ Toledo: where not being known to any person, he found means to be
 employed as a servant in my father’s house, which was no hard matter
 to do, because that his excellent feature and countenance
 accompanied with his intelligence were pledges sufficient of his
-fidelity, and gave my father not only a desire to be served by him,
+fidelity, and gave my father not only a <emotion type="noun">desire</emotion> to be served by him,
 but also to respect him. My father received him ignorant of his
 quality and of his intent (a strange imagination of a man, being a
 knight, and so well known almost of all, in the country wherein he
@@ -1467,7 +1467,7 @@ this knight did begin his treason, and the good words which he used,
 gained him entrance into those places whereinto hardly and with
 great difficulty, could the ancient servants come. Behold with how
 little care, a noble gentleman kept in his house another Greek
-horse, like unto miserable Troy: for such of necessity must this
+horse, like unto <emotion type="adj">miserable</emotion> Troy: for such of necessity must this
 young man’s heart needs be full of thoughts and armed with malice,
 which (the hour of execution approaching) broke forth into such
 flames, as have fired our renown. When Pamphilus thought that Nisa
@@ -1490,13 +1490,13 @@ come, who was his mistress’ brother) for without doubt it holdeth
 many conditions of the evil spirit, and leaving apart the principal
 which is to torment with fire, behold the sympathy which they have
 one with the other. The devils do delight themselves in things which
-are naturally melancholy, inhabiting in horrible places, obscure and
+are naturally <emotion type="noun">melancholy</emotion>, inhabiting in horrible places, obscure and
 solitary, and loving darkness and sadness: all which qualities are
 common with them which <emotion type="noun">love</emotion>, and cannot attain to that which they
-pretend, they desire solitary places, and the dens of deserts, there
+pretend, they <emotion type="noun">desire</emotion> solitary places, and the dens of deserts, there
 to entertain in silence their <emotion type="adj">sad</emotion> thoughts, without anything to
 trouble them, no not the light of heaven. But let me entreat thee to
-proceed in thy story of this knight, for I desire with passion to
+proceed in thy story of this knight, for I <emotion type="noun">desire</emotion> with <emotion type="noun">passion</emotion> to
 know the end.</p>
 
 <p>My sister Nisa, said Celio, then (for so was the young man called)
@@ -1513,7 +1513,7 @@ crocodile, and the other a Siren, excepting that one sang to give
 him health, and the other wept to deceive her of her honour. Nisa
 seeing his extremity of <emotion type="noun">sadness</emotion>, said unto him that her intent was
 not that her music should have the same effect in him as it had in
-others, which is, to make them sadder, but contrarily her desire was
+others, which is, to make them sadder, but contrarily her <emotion type="noun">desire</emotion> was
 to <emotion type="verb">rejoice</emotion> him. There is (answered he) no other voice nor other
 harmony, unless it may be the harmony of heaven, can <emotion type="verb">rejoice</emotion> me but
 yours: nevertheless my evil being past hope of cure, bindeth me to
@@ -1533,8 +1533,8 @@ thee that thou may better trust my <emotion type="noun">love</emotion> then thei
 conjure thee, by that goodwill which thou knowest I have born thee
 ever since thou hast served my parents that thou wilt tell me
 whether I know her whom thou lovest, and whether I can be helpful
-unto thee in thy curing, for thy tears doe make me pity thee. You
-may well serve to help me pitiful Nisa (said then the cunning lover,
+unto thee in thy curing, for thy tears doe make me <emotion type="noun">pity</emotion> thee. You
+may well serve to help me <emotion type="adj">pitiful</emotion> Nisa (said then the cunning lover,
 who might well have instructed Ovid) seeing I do not hope for it
 from any other hands than yours, and that you know the cause of my
 pain, as well as you know yourself.</p></q></body></floatingText>
@@ -1574,7 +1574,7 @@ sentence: Know Thyself, on the facades of the most famous temples.
 Yet see another more natural, the knowledge whereof you cannot deny.
 Saying this, he reached her a very fair looking-glass: Nisa seeing
 her face within the crystal could no longer suffer his discourse,
-nor the knight’s presence: but rising up in a fury, said unto him in
+nor the knight’s presence: but rising up in a <emotion type="noun">fury</emotion>, said unto him in
 great <emotion type="noun">anger</emotion> as she went away, thy boldness shall cost thee thy life.
 Can it be better employed, answered Pamphilus, than for your beauty
 to be ended?</p></q></body></floatingText>
@@ -1586,7 +1586,7 @@ verse of the famous poet Dante to be infallibly true: that love
 excuseth no one who is beloved from loving. But how came it (said
 the pilgrim) that a maid should <emotion type="noun">love</emotion>; who had hearkened with so much
 disdain in the beginning? Because, answered Celio, that all maids
-for their first answer consult with shame, and for their second
+for their first answer consult with <emotion type="noun">shame</emotion>, and for their second
 consult with weakness: although for my own part, I think that
 Pamphilus <emotion type="adj">despairing</emotion> of his remedy helped himself with charms. I
 cannot believe so, answered Pamphilus, a man hath liberty to love,
@@ -1597,10 +1597,10 @@ may peradventure move, persuade and tempt without suffering to be in
 rest, and with these exterior persuasions make one yield unto the
 prayers and tears of a lover: yet for all this it cannot be said,
 that she is constrained but that of her goodwill, she giveth consent
-to her desire, suffering herself rather to be vanquished by her own
+to her <emotion type="noun">desire</emotion>, suffering herself rather to be vanquished by her own
 proper nature, than by the force of any magic art. Wherefore it is
 an evident folly in those which <emotion type="noun">love</emotion>, to complain that they are
-violently constrained will he nil he, to follow their loves, because
+violently constrained will he nil he, to follow their <emotion type="verb">loves</emotion>, because
 God never suffereth that the power of free will should be taken from
 Man; and if anyone say he hath been forced by diabolical
 persuasions, it may be answered, he was not forced in his reason,
@@ -1622,7 +1622,7 @@ and thereupon writing to Madrid, to Pamphilus’ mother, entreating
 her to send him to Toledo, congratulating also with her, her son’s
 happy return and the prosperous success of his affairs, and
 remembered unto her the amity which he had contracted with her
-husband, his father. The <emotion type="adj">sad</emotion> Nisa, who already desperately loved
+husband, his father. The <emotion type="adj">sad</emotion> Nisa, who already <emotion type="adverb">desperately</emotion> loved
 Pamphilus, told him that her father would marry her, and the knight
 who was designed for her husband was shortly to come from Madrid
 unto their house, but she knew nothing in particular more of him,
@@ -1710,7 +1710,7 @@ assigning the rendezvous within six months, in the city of Pamplona.</p>
 <p>So went Celio upon his enterprise; and some few days after his
 departure, Pamphilus’ <emotion type="noun">sorrow</emotion> increasing out of the opinion that it
 was impossible for him to recover Nisa; it happened that going one
-night from his lodging in a vain desire he had to see the windows of
+night from his lodging in a vain <emotion type="noun">desire</emotion> he had to see the windows of
 the prison (where his <emotion type="noun">happiness</emotion> and <emotion type="noun">joy</emotion> was enclosed) he heard a
 knight cry out for help against some who would at advantage have
 killed him. He suddenly stepped unto him, and drawing out his sword
@@ -1721,7 +1721,7 @@ flight.</p>
 
 <p>The knight would needs know who he was, who had delivered him from
 so great danger: and although Pamphilus excused himself from telling
-his name, yet the knight’s desire and courtesy prevailed more than
+his name, yet the knight’s <emotion type="noun">desire</emotion> and courtesy prevailed more than
 the humbleness wherewith the pilgrim did endeavour to persuade him
 that he had done him no service: to conclude, he led him to his
 house, where his good and gentle behaviour being observed, the
@@ -1732,7 +1732,7 @@ oblige him to become their guest.</p>
 was this knight called) told him the history of his <emotion type="noun">love</emotion> unto fair
 Lucinda, and the occasion for which these assassinators wold have
 murdered him, who for this only cause, were come from Seville unto
-Valencia where the subject of the passion and the <emotion type="noun">sorrow</emotion> wherein he
+Valencia where the subject of the <emotion type="noun">passion</emotion> and the <emotion type="noun">sorrow</emotion> wherein he
 lived did remain. I do believe that lovers have some sympathy one
 with another, and that they join and communicate in such manner as
 you have seen in this discourse, seeing that our pilgrim never came
@@ -1743,7 +1743,7 @@ this evil, even though it were in craggy mountains.</p>
 his: and after he had made him swear that he would grant him his
 request, he said that in recompense of his life which he had saved,
 as he himself confessed, he conjured him to help him to a place, in
-that prison where the mad folks were shut up. Jacinth, astonished at
+that prison where the <emotion type="adj">mad</emotion> folks were shut up. Jacinth, <emotion type="adj">astonished</emotion> at
 so strange a request, would needs know the cause. But Pamphilus
 promising to tell him as soon as he had done him that favour, and
 casting himself at his feet with most earnest and unheard of words,
@@ -1754,10 +1754,10 @@ he was tied, after some inconveniences and reasons urged to divert
 him, having agreed with him of the means which he should use. That
 very night Jacinth took five or six men of the hospital who entering
 suddenly into Pamphilus’ chamber, put him in a chair, and carried
-him away in their arms. Miserable condition of this man, who after
+him away in their arms. <emotion type="adj">Miserable</emotion> condition of this man, who after
 so many strange successes, being wise (if those who <emotion type="noun">love</emotion> can be so)
 to make himself to be taken and shut up willingly, as a madman,
-where all the mad folks would willingly be accounted wise.</p>
+where all the <emotion type="adj">mad</emotion> folks would willingly be accounted wise.</p>
 
 <p>All Jacinth’s house admired at this novelty, and all his family
 complained that this stranger, unto whom Jacinth owed his life, was
@@ -1766,7 +1766,7 @@ complained of his cruelty and had the truest feeling of it was
 Tiberia his sister, who was both fair and discreet above all the
 ladies in Valencia, who affecting the gentleness and fair spirit of
 our unfortunate pilgrim, did not see but by his eyes, and did not
-breathe but from him. Jacinth told them that Pamphilus was mad, and
+breathe but from him. Jacinth told them that Pamphilus was <emotion type="adj">mad</emotion>, and
 that it was necessary he should be cured before the disease
 increased too far. The father of this knight, who was very learned,
 blamed exceedingly this precipitate course, saying that in all
@@ -1786,8 +1786,8 @@ by someone, he used this subtility to save his life: for although he
 spoke Spanish, nevertheless, by his fair face and exceeding beauty,
 he seemed a stranger, and by his actions a gentleman. With this
 confession, Jacinth remained in their good opinion, though the house
-was much troubled, and Tiberia was full of pitiful <emotion type="noun">grief</emotion> and care
-for Pamphilus’ life: who being in prison among the mad folks (in the
+was much troubled, and Tiberia was full of <emotion type="adj">pitiful</emotion> <emotion type="noun">grief</emotion> and care
+for Pamphilus’ life: who being in prison among the <emotion type="adj">mad</emotion> folks (in the
 judgement of many, the very centre of greatest misery) imagined
 himself to be in most glorious happiness.</p>
 
@@ -1823,9 +1823,9 @@ great folly.</p>
 
 <p>Pamphilus as a true lover, who only aimed at the end of his love,
 which was to marry her, and who had sworn by a thousand oaths to
-resist the violence of his desires until a lawful marriage would
+resist the violence of his <emotion type="verb">desires</emotion> until a lawful marriage would
 suffer him to accomplish them, said unto her in comforting her, that
-if she had suffered this misery for him, and that they ought to be
+if she had suffered this <emotion type="noun">misery</emotion> for him, and that they ought to be
 all one, there was no reason but he should have his part of this
 misery, to the end that equal in all things, their marriage might be
 without advantage of one side or another, and that his <emotion type="noun">love</emotion> unto her
@@ -1842,37 +1842,37 @@ they be not set in gold with enamelling and other necessary
 ornaments, they show not the lustre, grace nor beauty which they
 have being artificially cut and set in a foil by cunning workmen.</p>
 
-<p>The misery of this kind of life seemed unto our two lovers as
+<p>The <emotion type="noun">misery</emotion> of this kind of life seemed unto our two lovers as
 nothing in regard of the former travails which they had suffered, as
 I have heard it often said by many: and I myself know by experience
 that if two lovers may see and speak together, they have no feeling
 of the miseries which do serve them as means to attain thereunto. Oh
 what will not those which <emotion type="noun">love</emotion> resolve of! What is it, which doth
-not seem possible unto them? What travails can weary them? And what
+not seem possible unto them? What travails can <emotion type="adj">weary</emotion> them? And what
 dangers can make them fear? O <emotion type="noun">love</emotion> strong as death: seeing that a
-lover living in that which he loves, and being dead in himself, hath
+lover living in that which he <emotion type="verb">loves</emotion>, and being dead in himself, hath
 no more feeling of torment then a body deprived of a soul. With what
 tears were these two separated at night, by the cruel officers of
-this prison? (If it be cruelty to deal rigorously with mad folks)
+this prison? (If it be cruelty to deal rigorously with <emotion type="adj">mad</emotion> folks)
 with what care and languishment did they attend the day that they
 might see one the other? What discreet follies did they utter in
 public, full of equivocations to deceive those who heard them, and
 to divert the evils which they suffered? And with what amorous
-discourses did they in particular warm their desires to marry? How
+discourses did they in particular warm their <emotion type="verb">desires</emotion> to marry? How
 much doth he commend Nisa's virtue, and the chaste but loving
 defence which she made of her honour, for Pamphilus being a man had
-yielded often unto his passion, if she had not moderated his
+yielded often unto his <emotion type="noun">passion</emotion>, if she had not moderated his
 violence? With what grace they gave madly, favours one unto another,
 of the wildest things they could find upon the ground, which
 Pamphilus stuck in his hat, instead of jewels or feathers which he
 was wont to wear. But fortune <emotion type="verb">envying</emotion> their <emotion type="noun">contentedness</emotion>, even in
-this misery, would not let them live in this place at rest, but
+this <emotion type="noun">misery</emotion>, would not let them live in this place at rest, but
 arming himself anew against them, even at that time when as they
 thought (by Jacinth’s help) to get out of that prison, there came
 unto this city an Italian earl, of the house of Aguilora, called
 Emilio, who desiring to have a Fool with him, promised a great alms
 unto their house if they would give him a madman, who having lost
-his fury might entertain him with sport. Those of the hospital
+his <emotion type="noun">fury</emotion> might entertain him with sport. Those of the hospital
 failed not to promise him one, and withal to bring him to his
 lodging some of their most peaceable madmen, amongst whom were the
 pilgrim Pamphilus and the fair Nisa. The Earl <emotion type="adj">joyful</emotion> to see them,
@@ -1884,7 +1884,7 @@ soldier, who having served upon many occasions like a Hector,
 desired the reward of his valour which he had merited above all
 other. But he finding himself denied, and that it was given unto the
 cowardliest fellow in the army, fell from this imagination into so
-profound a melancholy, that he lost his wits. He hath lost his fury
+profound a <emotion type="noun">melancholy</emotion>, that he lost his wits. He hath lost his fury
 in the prison although oftentimes it returns. His discourse is
 always of marshalling an army, of besieging a fort, of lodging a
 camp, or causing it to march. All is sluices, dykes, trenches,
@@ -1911,7 +1911,7 @@ those who are to reign before the face of God, the light whereof is
 so lustrous and clear, that the corporal eyes cannot behold or look
 upon it, no more than the birds of the night can the sun.</p></q></body></floatingText>
 
-<p>All the assistants remaining astonished at this discourse, another
+<p>All the assistants remaining <emotion type="adj">astonished</emotion> at this discourse, another
 one of the madmen began to cry, calling his dogs, and luring his
 hawks like the great falconer and huntsman as he had been; of whom,
 as the Earl began to laugh, Pamphilus said thus unto him; you ought
@@ -1928,7 +1928,7 @@ thereof, was in the beginning of the world to the end that men
 should be able to free themselves from the persecutions of beasts.
 If hunting, replied the Earl, (who was a man of great knowledge) had
 not passed from the honest exercise (the imitation of war) unto that
-of pleasure, who would doubt of the excellence thereof? But in
+of <emotion type="noun">pleasure</emotion>, who would doubt of the excellence thereof? But in
 regard of the hurt it doth in the fields, and the expense which it
 brings unto him who follows it? Louis the Twelfth King of France
 justly forbade it: for what else is the meaning of the fable of
@@ -1937,8 +1937,8 @@ goods and life? And passing by many other things, which might be
 gathered from this verse of Virgil, where he says, Aeneas and sad
 Dido went a-hunting together in a wood: joined also the dangers of
 life which cannot be told, neither is it to be wondered at, that
-this man became mad, seeing that as Dion assureth the same exercise
-made the Emperor Adrian a fool. Then answered the mad hunter, that
+this man became <emotion type="adj">mad</emotion>, seeing that as Dion assureth the same exercise
+made the Emperor Adrian a fool. Then answered the <emotion type="adj">mad</emotion> hunter, that
 with more reason should he be laid in this place for a madman,
 because he would persuade madmen, and reason with them who had no
 reason.</p>
@@ -1948,15 +1948,15 @@ madness, obliges me to answer: for a man must fight with those who
 give occasion, play with such as have money, and answer unto
 everyone in the same manner he speaks. But if all the madmen in
 Spain were as you, and that my children should remain there, I
-should rather desire to have them ignorant than learned; know said
-the fool that if it were possible a man should desire to be born in
+should rather <emotion type="noun">desire</emotion> to have them ignorant than learned; know said
+the fool that if it were possible a man should <emotion type="noun">desire</emotion> to be born in
 France, to live in Italy and to die in Spain, to be born for the
 nobleness of the French, who always have had their king of their own
 nation, and never mingled with any other; to live, for the liberty
 and felicity of Italy: and to die for the Catholic faith which is so
 certain in all Spain. And as concerning your children, whatsoever
 happens of it, suffer them not to live in ignorance; for there is
-less danger in being mad, than in being ignorant. Whilst this man
+less danger in being <emotion type="adj">mad</emotion>, than in being ignorant. Whilst this man
 spoke, another singing near to him let the Earl know that music had
 brought him to that estate, for it is said; that it is a kinswoman
 to poetry: the ancients said the madmen have comprised music amongst
@@ -1997,7 +1997,7 @@ artificial, divided into musical organs and Instruments.</p>
 only showed the theory, and began to make such a noise with confused
 and discording voices, that it was impossible to understand them.
 But being appeased, he who kept the madmen made great account unto
-the Earle of a mad astrologer, who by the contemplation of such high
+the Earle of a <emotion type="adj">mad</emotion> astrologer, who by the contemplation of such high
 things was fallen into this abasement. Hardly had the Earl looked
 upon him, when he began to tell him that the composition and figure
 of the world in its form was called a sphere which was solid, and
@@ -2013,23 +2013,23 @@ famous disciple of Raymundus Lullius.</p>
 
 <p>At this time Emilio had fixed his eyes upon Nisa, and beholding the
 sadness with which she was silent, he demanded of the Master the
-humour of this mad creature? Who answered him, that <emotion type="noun">love</emotion> had brought
+humour of this <emotion type="adj">mad</emotion> creature? Who answered him, that <emotion type="noun">love</emotion> had brought
 him to his folly. Her delicate face, and the occasion of her evil,
-gave him at the same time desire and compassion with such affection,
+gave him at the same time <emotion type="noun">desire</emotion> and compassion with such affection,
 that agreeing with the Master at the price of a hundred crowns, he
 made choice of her from amongst all the other to lead her into
 Italy. But hardly had Pamphilus seen the effects of this election,
-when as his fury increasing truly, which was before but feigned, he
-struck, he bit and took on, as if he had been enraged against those
+when as his <emotion type="noun">fury</emotion> increasing truly, which was before but feigned, he
+struck, he bit and took on, as if he had been <emotion type="adj">enraged</emotion> against those
 who took his dear Nisa away. But they being a great many against him
 alone, the Earl took her from the house, and shortly after from
 Valencia. And Pamphilus tied up as a madman, was had back again with
-many grievous blows, bewailing bitterly the loss of his dear Nisa.
+many grievous blows, bewailing <emotion type="adverb">bitterly</emotion> the loss of his dear Nisa.
 And by how much he endeavoured to make the officers believe that he
-was not mad, by so much the more he persuaded them that he was not
+was not <emotion type="adj">mad</emotion>, by so much the more he persuaded them that he was not
 well in his wits: because being oppressed with <emotion type="noun">grief</emotion> he told them
 plainly that he had caused himself to be brought thither only to see
-this young mad creature, whom they had accounted to be a man, but
+this young <emotion type="adj">mad</emotion> creature, whom they had accounted to be a man, but
 indeed was a woman and his wife, whom he had concealed under this
 habit for <emotion type="noun">fear</emotion> of her father, from whom he had stolen her away.</p>
 
@@ -2038,7 +2038,7 @@ those reasons whereby he did think they were tied to give him his
 liberty, he made them more obstinate to refuse him, until they might
 have more evident tokens of the tranquillity of his mind. Whilst he
 did complain to see that it served him to no purpose to tell the
-truth, which of all things in the world doth most enrage a man, and
+truth, which of all things in the world doth most <emotion type="verb">enrage</emotion> a man, and
 that in regard of Jacinth’s absence, he could not tell unto whom to
 have recourse. The unfortunate Nisa was meanwhile come to Barcelona,
 with so much <emotion type="noun">sorrow</emotion> and tears that Emilio already repented that he
@@ -2063,13 +2063,13 @@ conversed with her the more was engaged in her <emotion type="noun">love</emotio
 suffered himself to be vanquished in her beauty: for Nisa now
 ceasing to appear as a man captivated all those who beheld her with
 her marvellous grace. <emotion type="noun">Love</emotion> then began to make himself master over
-Emilio through pity, which is the cloak under which it enters into
-our minds; as the pill under gold, that the bitterness may not
-offend: and his passion increased so far as to desire to know her
+Emilio through <emotion type="noun">pity</emotion>, which is the cloak under which it enters into
+our minds; as the pill under gold, that the <emotion type="noun">bitterness</emotion> may not
+offend: and his <emotion type="noun">passion</emotion> increased so far as to <emotion type="noun">desire</emotion> to know her
 evil and to procure her remedy. But neither for any effect of love,
 nor hope of remedy that he could give her would Nisa witness any
-feeling of pleasure, or obligation to him: all which served to
-sharpen Emilio’s desires, which he did make appear with greater
+feeling of <emotion type="noun">pleasure</emotion>, or obligation to him: all which served to
+sharpen Emilio’s <emotion type="verb">desires</emotion>, which he did make appear with greater
 demonstrations: whereat Nisa being <emotion type="verb">grieved</emotion>, endeavoured to divert
 him from her <emotion type="noun">love</emotion>, conjuring him with tears that he would not lead
 her in this indecent habit. The Earl being courteous offered her
@@ -2088,7 +2088,7 @@ and violence and the sea wrought with such huge billows that the
 Masters could no more command, nor the rowers obey. The Captain was
 astonished, the pilot pale, some cried, others silent and without
 stirring remained as men in a trance with <emotion type="noun">fear</emotion>. And in this
-confusion which continued six hours, the miserable galley split
+confusion which continued six hours, the <emotion type="adj">miserable</emotion> galley split
 against the rocks; Emilio who now no more remembered his <emotion type="noun">love</emotion>, and
 who knew not that the unfortunateness of Nisa brought forth this
 effect (clean contrary unto Caesar’s fortune, which appeased storms)
@@ -2101,7 +2101,7 @@ having stayed some time to recover herself after this fortune went
 in pilgrimage to Marseille: where one day visiting the famous Church
 of the Penitent, whom the angels buried in the mountain where God
 gave his laws to Moses, she saw a woman, a pilgrim as herself though
-in other habit, who with great devotion was upon her knees at the
+in other habit, who with great <emotion type="noun">devotion</emotion> was upon her knees at the
 stairs of the great altar. She appeared to Nisa to be a Spaniard,
 wherefore desiring better to inform herself, obliged thereunto, by
 her <emotion type="noun">love</emotion> unto the country, she stayed at the gate whereat (when
@@ -2133,7 +2133,7 @@ lost him never came to me before now. His name is Celio, and the
 name of a sister which he hath is Nisa, which are the best tokens I
 can give thee, to make him known to thee; because besides that she
 is famous for her beauty, she is also more famous for her disgrace.
-Nisa remained astonished to hear her own name and her brother
+Nisa remained <emotion type="adj">astonished</emotion> to hear her own name and her brother
 Celio’s (for this pilgrim was Finia, Pamphilus’ sister, who had been
 left in France as you have already heard) wherefore she desired
 earnestly to know the particular of this story, which Finia related
@@ -2176,7 +2176,7 @@ year, there enters the substance of all Spain. There would Pamphilus
 enjoy the beauties of Nisa; but on a sudden he lost the respect
 which he was accustomed to bear to her chastity against the oath
 which he had solemnly sworn, and hid himself for some days out of
-her sight, during which time he was ready to grow mad; yet finding
+her sight, during which time he was ready to grow <emotion type="adj">mad</emotion>; yet finding
 her again, and craving pardon with new oaths to keep the first
 inviolably, they were friends again.</p>
 
@@ -2261,7 +2261,7 @@ from Mount Etna in Sicily came a mouth of fire. So went Pamphilus
 out upon his bay horse, which had a black mane and a black tail, and
 a white star on the forehead, filling the Portuguese with admiration
 to see with what address he managed him; and how gracefully he bore
-his lance; but Nisa her evil fortune or his own desperate resolution
+his lance; but Nisa her evil fortune or his own <emotion type="adj">desperate</emotion> resolution
 who prayed at his departure that she might not see him return alive,
 suffered the battle to be ordered in such manner that day that the
 Christians had the worst; and Pamphilus searching death, broke into
@@ -2293,7 +2293,7 @@ law, that she might receive it with more assurance, and more
 quietness of mind. With these words and with her beauty, Nisa grew
 absolute master of this Moor, of his women (wherein they abound) of
 Leila Acha his daughter, of his goods, his slaves and his horses:
-upon which as she rode up and down the town for her pleasure, she
+upon which as she rode up and down the town for her <emotion type="noun">pleasure</emotion>, she
 was almost adored by these barbarians. She called herself Hassan
 Rubin amongst them, a name which Ali Japha had given her in memory
 of his son, in whose place he accounted of her, saying that she was
@@ -2304,13 +2304,13 @@ lived; and whose name was Pamphilus? This man found out the same
 day, and following her when she was alone, he told her that Sali
 Murat had taken him in a battle which was fought in Ceuta, and had
 him still in his power, with other slaves who served the masons
-about the house which he was building: Nisa glad of this news, in
+about the house which he was building: Nisa <emotion type="adj">glad</emotion> of this news, in
 the evening got on horseback, clothed in a scarlet casque, laid
 about with gold lace, having a hat upon her head embroidered with
 pearl and a great feather, and a rich sword of Tunis hanging in a
 scarf by her side: in this manner she went into the street where
 Sali Murat dwelt, and saw (in a new house which was there being
-built) her miserable (but beloved) Pamphilus, not yet fully
+built) her <emotion type="adj">miserable</emotion> (but beloved) Pamphilus, not yet fully
 healed of his wounds, having a poor doublet of course canvas and
 breeches of the same, without shoes upon his feet, and carrying with
 another Christian the materials wherewith that house was to be
@@ -2323,7 +2323,7 @@ Pamphilus in the language of Fez, why doth Murat build this fair
 house, having another in this street so fair? Pamphilus answered
 (according to his knowledge) that they were for the keeping of
 slaves, because that since his good success in the former war he was
-grown proud, and did presage that he should have many. Thou art then
+grown <emotion type="adj">proud</emotion>, and did presage that he should have many. Thou art then
 his slave, said she, in the Castilian tongue. Pamphilus answered
 that by his misfortune he was brought to that estate, and earnestly
 beholding her face, let fall to the ground that which he held in his
@@ -2331,7 +2331,7 @@ hand, wondering to see a Moor which should so perfectly resemble his
 beloved Nisa: for that this should be she, he could not persuade
 himself, by reason of her language, her habit and the small time
 since that he left her in Ceuta: so he remained without speaking,
-endeavouring to cover his astonishment and confusion by his silence,
+endeavouring to cover his <emotion type="noun">astonishment</emotion> and confusion by his silence,
 when as she speaking to him in the Arabian tongue asked of him if he
 were a knight? Pamphilus more assured that it was Nisa, by the
 resemblance of her face, and distrusting it was not she by her
@@ -2358,7 +2358,7 @@ mother was one; especially Spaniards and of her own country: and it
 grieves me extremely that thou art belonging to this governor, who
 is reputed to use his slaves hardly, as it may be seen by experience
 in thyself, who being such that thy nobility doth manifestly appear,
-notwithstanding the misery and poverty of thy clothes, yet doth put
+notwithstanding the <emotion type="noun">misery</emotion> and poverty of thy clothes, yet doth put
 thee to such vile labour. Wherefore as well because thou pleasest me
 well as for the reasons which I have told thee, I will bring it to
 pass, if thou think good of it, that Ali Japha shall buy thee, and
@@ -2367,9 +2367,9 @@ liberty; as for all other things I will use thee as myself.
 Pamphilus at these words cast himself at her feet, and by force did
 many times kiss them, thanking her for the favour which she did him.</p>
 
-<p>So being departed, Nisa told Ali Japha the desire which she had unto
+<p>So being departed, Nisa told Ali Japha the <emotion type="noun">desire</emotion> which she had unto
 a Spanish slave who was evil entreated of Sali Murat; the Moor, who
-desired to oblige him absolutely and to satisfy his pleasure in all
+desired to oblige him absolutely and to satisfy his <emotion type="noun">pleasure</emotion> in all
 things, went the next morning to Sali Murat; to treat with him about
 the sale of this slave; which being not refused unto him, they
 talked of the price: Sali demanded a thousand ducats, because
@@ -2391,7 +2391,7 @@ of her smocks, entreating him to wear it under his: Pamphilus cast
 himself at her feet, and Nisa turning herself away, he humbly kissed
 the ground which she had trodden upon. But they had not long talked
 together when Pamphilus grew so certain that if she was not Nisa he
-was mad; that thereby he could not sleep, he could not eat nor do
+was <emotion type="adj">mad</emotion>; that thereby he could not sleep, he could not eat nor do
 any other thing but show her his thoughts in the violence of sighs:
 Nisa <emotion type="verb">fearing</emotion> that in this perplexity he might lose his wits, to
 assure him and thereby to know the secret of his heart, uttered
@@ -2416,9 +2416,9 @@ else to nettle Nisa so far as that she should declare herself,
 coldly answered, that to obey her, and to requite the duty which he
 owed her, he would willingly become a Moor; as well for that reason,
 as also that he had seen Fatima sometimes in the baths; of whom he
-was grown so amorous that the little pleasure and less health which
+was grown so <emotion type="adj">amorous</emotion> that the little <emotion type="noun">pleasure</emotion> and less health which
 he had, proceeded from thence. Hardly had Nisa heard Pamphilus’
-resolution when in an extreme fury she said unto him, Ah perfidious
+resolution when in an extreme <emotion type="noun">fury</emotion> she said unto him, Ah perfidious
 traitor and barbarous enemy: without God, without faith, without
 love, without loyalty; is this that which thou owest unto heaven, to
 thy parents, to thy country and to the unfortunate and miserable
@@ -2433,7 +2433,7 @@ weakness; but wretch that I am, why do I complain? Seeing that he
 who forsaketh God doth not injure me in forsaking me: but in the end
 after many <emotion type="adj">sorrowful</emotion> complaints, his satisfactions had such virtue
 that her <emotion type="noun">anger</emotion> being overcome by her <emotion type="noun">love</emotion>, they remained friends,
-with more pleasure and firmness than ever, as it always happens
+with more <emotion type="noun">pleasure</emotion> and firmness than ever, as it always happens
 between true lovers.</p>
 
 <p>This day passed away, followed with many others, during which time
@@ -2477,7 +2477,7 @@ part of Italy and France, from thence they passed into Spain, where
 they thought that Nisa’s parents’ <emotion type="noun">anger</emotion> was by this time over, for
 when thefts in <emotion type="noun">love</emotion> are not chastised upon the act in warm blood,
 they are always remitted with time. But having run a dangerous
-fortune in a miserable tartana into which they had embarked
+fortune in a <emotion type="adj">miserable</emotion> tartana into which they had embarked
 themselves at Villa Franca, and having been long beaten with a sore
 tempest, they finished their shipwreck within the sight of the walls
 of Barcelona, neither is known, whether Nisa and the Moors are alive
@@ -2498,10 +2498,10 @@ they retired themselves together to Marseille, where they rested for
 some days, Finia believing always that Nisa was this Felix, whose
 name she had borrowed.</p>
 
-<p>In the meantime, miserable Pamphilus suffered in prison with more
-rigorous pain than he did before, because that his fury increasing
+<p>In the meantime, <emotion type="adj">miserable</emotion> Pamphilus suffered in prison with more
+rigorous pain than he did before, because that his <emotion type="noun">fury</emotion> increasing
 with his <emotion type="noun">grief</emotion> he was kept so much the more straitly, by how much he
-was thought to be the more mad. In the end Jacinth came to Valencia
+was thought to be the more <emotion type="adj">mad</emotion>. In the end Jacinth came to Valencia
 and being advertised by Pamphilus of his misfortune, he drew him out
 of the cage, and had him to his house, saying that his parents had
 sent him five hundred crowns of Castile to defray the charge of his
@@ -2547,13 +2547,13 @@ takes away hatred: of the nature of this <emotion type="noun">love</emotion> was
 pilgrims, at the least Nisa's, who being with Finia departed from
 Perpignan, came with her into Barcelona, about that time when the
 sun having passed the middle of the day descends towards the West
-Indies. But fortune not yet weary with troubling and crossing them,
+Indies. But fortune not yet <emotion type="adj">weary</emotion> with troubling and crossing them,
 showed her that the first travails were only to be <emotion type="verb">feared</emotion> in regard
 of those which were necessarily to follow: for as she entered with
 Finia into the city, a confused throng of people constrained them to
 stand in the middle of the street. Nisa was desirous to know upon
 what occasion such a world of people was assembled, and seeing an
-old man who related it unto others, with pity, she entreated him
+old man who related it unto others, with <emotion type="noun">pity</emotion>, she entreated him
 (out of courtesy) to tell her. It is (pilgrims my friends), said the
 old man, because there is a knight, a Castilian, going to have his
 head cut off for killing an officer of justice, who would have
@@ -2580,7 +2580,7 @@ suddenly oppressed, knew that this knight’s name had pierced to
 their soul; and encouraging them as much as possibly he could, he
 retired them to the door of the next house, the better to avoid the
 throng of people which stayed at the rareness of the accident; Nisa
-and Finia, having some time bewailed the miserable Pamphilus, told
+and Finia, having some time bewailed the <emotion type="adj">miserable</emotion> Pamphilus, told
 the old man that he was their kinsman. Then came a man entering into
 the street, breaking through the press of the people with his horse:
 which moved Nisa to entreat the old man, to enquire what he was, and
@@ -2596,7 +2596,7 @@ verify: whereupon the Viceroy and the Judge, willing to save this
 young man, suspended the execution of his judgement, and gave
 commission to this knight to bring proof of his affection; so much
 the rather believing his words by how much Pamphilus confessed his
-crime and desired to die, with an extreme grief: but the time
+crime and <emotion type="verb">desired</emotion> to die, with an extreme grief: but the time
 expiring (which was given to Jacinth) for the verifying of
 Pamphilus’ madness, he was going towards the place of his execution,
 and by the way, is met by Jacinth (as you have seen) who hath
@@ -2612,7 +2612,7 @@ that she advanced herself to speak to him, came one of the servants
 and apprehended Nisa, and his companions seizing upon Finia put them
 both in prison: although Pamphilus cried out that she was his
 brother, for being accounted for a madman he was not hearkened to,
-but contrariwise because he passionately cast himself from his mule
+but contrariwise because he <emotion type="adverb">passionately</emotion> cast himself from his mule
 upon the ground, he was with much cruelty tied upon his mule’s back,
 and with shrewd blows set forward in his way; their opinion of his
 madness being the more confirmed.</p>
@@ -2633,7 +2633,7 @@ a man, denied that ever she had so much as spoken otherwise than
 with great honesty and modesty to Finia. Who accounting Nisa for a
 man, and believing certainly that she was the same Felix whom she
 feigned to be, with whose conversation and beauty she was charmed,
-confessed simply her desire (for the effect was impossible) and
+confessed simply her <emotion type="noun">desire</emotion> (for the effect was impossible) and
 although the honesty of their conversation did appear by both their
 confessions, yet their beauty was a cruel witness against their
 innocence.</p>
@@ -2674,7 +2674,7 @@ such a place; the difficulty of getting away from whence,
 considering my weakness, may seem a miracle. In my voyage I have met
 with this man, who no less innocent then chaste Joseph, suffers this
 unjust imprisonment for having been the most honest helper that I
-could have desired in thy absence, as thou may plainly see by the
+could have <emotion type="verb">desired</emotion> in thy absence, as thou may plainly see by the
 modesty of his countenance and his speech, if thou please to speak
 with him. To excuse thyself, answered Celio, in so notorious a
 crime, is to move me to greater <emotion type="noun">anger</emotion>, because thou may have failed
@@ -2687,7 +2687,7 @@ greatest <emotion type="noun">grief</emotion> that a woman could suffer; which i
 accidents to lose his presence under whose protection she lives:
 especially when it seems to her that she cannot hope for any other
 remedy or succour. Celio hiding the tears which he shed in going
-away, and consulting with the fury of his <emotion type="noun">jealousy</emotion>, and his rage for
+away, and consulting with the <emotion type="noun">fury</emotion> of his <emotion type="noun">jealousy</emotion>, and his <emotion type="noun">rage</emotion> for
 the injury which he did think he had received, concerning the
 revenge which he should take, waited for Nisa's enlargement, that he
 might kill him. The judges although that the prisoner’s innocence
@@ -2705,7 +2705,7 @@ thrust his sword, and had absolutely killed her if some passengers
 upon the way at that time had not, not only hindered him, but also
 apprehended him and put him in prison.</p>
 
-<p>The miserable Nisa, who then began to have a greater feeling of her
+<p>The <emotion type="adj">miserable</emotion> Nisa, who then began to have a greater feeling of her
 suffered miseries, was carried to an honourable citizen’s house of
 great compassion and charity, who having given order for her
 dressing and found that her wounds were not mortal, pursued Celio so
@@ -2721,8 +2721,8 @@ prevented it by flight.</p>
 <p>On the other side, Pamphilus coming to Valencia recovered his
 liberty by Jacinth’s means; with an extreme <emotion type="noun">contentment</emotion> to Tiberia,
 unto whom Pamphilus giving thanks for the care which she had of him,
-raised in her a thousand hopes which his absence and misery had
-killed. He took leave of her with many fair and amorous words, and
+raised in her a thousand hopes which his absence and <emotion type="noun">misery</emotion> had
+killed. He took leave of her with many fair and <emotion type="adj">amorous</emotion> words, and
 returning to Barcelona, went to seek for his dear Nisa in the prison
 wherein he had seen her shut when he went away as a madman. But when
 he found Celio there in her place, in such extreme danger of his
@@ -2746,12 +2746,12 @@ astonished and silent as if he had been taken out of prison to go to
 execution. He would have justified his innocence, but being not able
 to utter one word, he remained dumb, and his hands and his feet
 without any motion made him appear as one insensible. Pamphilus as
-almost mad, left him in the prison, and going up and down to enquire
+almost <emotion type="adj">mad</emotion>, left him in the prison, and going up and down to enquire
 for Nisa, he was accounted for a madman by all those who saw him,
 for they did remember that for a madman he was saved, being
 condemned to die. Pamphilus having been three or four times at
 Jacinth’s house; <emotion type="noun">love</emotion>, to work the greater confusion, had augmented
-his sister Tiberia's desires; who (as you have heard) cast her eyes
+his sister Tiberia's <emotion type="verb">desires</emotion>; who (as you have heard) cast her eyes
 upon Pamphilus’ beauty: he overcome with the good turns, and pitiful
 care which she had of his misfortunes, had not rigorously entreated
 her thoughts: she, when this last time she saw him return to
@@ -2774,11 +2774,11 @@ although a treacherous fellow as he was did not deserve to have his
 sword measured with his. The innocent pilgrim excused himself,
 entreating him to let him search out Nisa, whom (he said) he had
 heard was sore wounded, and that he would not upon the lies and
-indiscretion of a despised woman hinder him in this business which
+indiscretion of a <emotion type="verb">despised</emotion> woman hinder him in this business which
 did so nearly concern him as did the search for his dear wife, who
 was in danger of losing her life; and that he himself was the most
 assured witness to how much pain, labour and danger Nisa had cost
-him; and only thoughts of whom had kept him from taking pleasure in
+him; and only thoughts of whom had kept him from taking <emotion type="noun">pleasure</emotion> in
 any other thing. These excuses did not satisfy Jacinth, because the
 opinion which he had concealed of his sister Tiberia's virtues did
 darken in his understanding the light of all Pamphilus’ reason: who
@@ -2814,7 +2814,7 @@ Augustus, and the injury of times Saragossa.</p>
 
 <p>At the course of these crystalline waters Pamphilus stayed his
 flight, sitting down upon the bank of the river, which began to
-swell with his tears, so pitiful to behold, that the very winds did
+swell with his tears, so <emotion type="adj">pitiful</emotion> to behold, that the very winds did
 seem to condole with him in his complaints by their doleful noise,
 amongst the leaves of the trees, and the birds warbling out their
 woes. There was not anything of life which had not some show of
@@ -2830,7 +2830,7 @@ understanding, the most honoured of my memory and the most adored of
 my will? It is thou fair Nisa, who over the sharp mountains of
 Toledo didst courageously follow my steps, from their highest tops
 even to the sands of the Spanish Sea: thou art she, who in the
-battle of Ceuta didst bitterly bewail my captivity: art not thou o
+battle of Ceuta didst <emotion type="adverb">bitterly</emotion> bewail my captivity: art not thou o
 my dear Nisa she who under the habit of a Moor and under the name of
 Hassan Rubin, drew me from the Kingdom of Fez, and from the
 captivity of Sali Morata? Wert not thou cast away with me at sea, in
@@ -2859,7 +2859,7 @@ breaking off from his discourse and from his company, turns back
 again to his lodging where he thinks he shall never come time
 enough; with the same haste Pamphilus makes his way back again to
 Barcelona, from which both in haste and <emotion type="noun">fear</emotion> he had departed. A
-strong chain of lovers, which tied to their desired beauty, shortens
+strong chain of lovers, which tied to their <emotion type="verb">desired</emotion> beauty, shortens
 itself by the force which lengthens it, until it returns to its
 centre. Beauty without doubt, which lifting up the vapours of the
 lovers’ eyes, seems to draw unto itself the very weighty and earthy
@@ -2878,7 +2878,7 @@ shadowed with high rocks, was very dark.</p>
 <p>The courageous pilgrim went into it, and saw a man lying upon the
 grass amongst the trees which were watered with a fresh brook, of
 whom demanding the cause of his complaint, he entreated him to come
-to him, if he desired to know, before he yielded up his soul, caused
+to him, if he <emotion type="verb">desired</emotion> to know, before he yielded up his soul, caused
 by three mortal wounds which were made in his body. Pamphilus
 approached him although with some distrust, and lifting him up
 leaned his head against a tree. I am a knight, said the wounded man;
@@ -2956,7 +2956,7 @@ the hall of the house, by which Pamphilus did know that fortune
 prepared a great deal of evil for him: Nevertheless desiring to die,
 he resolved not to defend his life with his tongue, which he could
 not do with his arms. Someone opened the door of the house, and with
-candles lighted the miserable mother with her daughters and servants
+candles lighted the <emotion type="adj">miserable</emotion> mother with her daughters and servants
 received her dead son. Some howling and crying carried him into the
 hall, others ran upon poor Pamphilus, tearing his beard and pulling
 him by the hair of the head, and almost stunned him with blows. With
@@ -2973,16 +2973,16 @@ brought day to Pamphilus, not in waking him who had not slept, but
 in advertising his soul of his approaching death, the certain news
 whereof he would willingly have welcomed with gifts: when as the
 prison door being open, he saw Godfrey’s mother and sisters enter,
-demanding of him in great passion and choler, wherefore he had
+demanding of him in great <emotion type="noun">passion</emotion> and choler, wherefore he had
 killed her son? But he answering, only for Nisa's sake am I reduced
-to this misery, they began to beat him with such rage that they left
+to this <emotion type="noun">misery</emotion>, they began to beat him with such <emotion type="noun">rage</emotion> that they left
 him almost dead; and shutting the prison, they resolved to famish
 him to death. But whilst about noon, the dead body was carried to
 burial, with lights, mourning and funeral company of his parents and
 friends: Flerida his youngest sister, mollified with Pamphilus’
 complaints, were it that his countenance did enforce her to believe
 his innocence, or that some other secret sympathy inclined her to
-have pity of his life, went to the prison, and by the keyhole said
+have <emotion type="noun">pity</emotion> of his life, went to the prison, and by the keyhole said
 thus to him: unfortunate pilgrim, do not afflict thyself, for I will
 free thee despite my mother and my brothers; who art thou, said
 Pamphilus who promises life when there is nothing but heaven which
@@ -2994,9 +2994,9 @@ assurance I have in my own imagination of thy innocence.</p>
 through a meadow I found thy brother wounded unto death, as he told
 me by one whom he did reckon to be his best friend; I took him on my
 shoulders, and carried him to the monastery, where he died in my
-arms before the gate was opened: I do not desire to live, but the
+arms before the gate was opened: I do not <emotion type="noun">desire</emotion> to live, but the
 care which I have of another’s life more than mine own makes me seek
-my liberty contrary to my desire; if thou canst procure me it, I am
+my liberty contrary to my <emotion type="noun">desire</emotion>; if thou canst procure me it, I am
 a knight, and of a family from which ungrateful man nor traitor ever
 sprang: thou shalt do a heroic deed worthy of an illustrious lady,
 and though I should never merit it, yet heaven will not fail to
@@ -3058,7 +3058,7 @@ these deserts, and entering into a city which divides the two
 kingdoms, he enquired for a lodging. But nobody being willing to
 entertain him, seeing him so evilly apparelled, his feet bloody, his
 face tanned, his hair knotted and shagged, he went to the hospital,
-the last refuge of misery. Pamphilus found the gates open at that
+the last refuge of <emotion type="noun">misery</emotion>. Pamphilus found the gates open at that
 time, but without light, and asking the cause, he was told that in
 regard of a strange noise which every night was there heard, which
 had happened ever since the death of a stranger who came thither to
@@ -3101,7 +3101,7 @@ Hardly had he revolved in his imagination the confusion of his life,
 a thing which often (the body being at rest) is represented to the
 mind, when as sleep which is truly called the image and brother of
 Death, possessed his senses with that force which it is accustomed
-to use on weary pilgrims. All that part, which the sun abandons when
+to use on <emotion type="adj">weary</emotion> pilgrims. All that part, which the sun abandons when
 it goes down to the Indies was in a deep silence, when the noise of
 some horses awaked Pamphilus. He thought he was stirring (as many
 times happens to travellers) and that his bed did move as if a ship
@@ -3120,7 +3120,7 @@ chamber, four of them were playing at primero. They passed,
 discarded, and set up money as if they had truly played: so long
 till at length they debating upon a difference, they fell into
 quarrel in the chamber, which made such a noise with clashing of
-swords that the miserable Pamphilus called on (for help) our Lady of
+swords that the <emotion type="adj">miserable</emotion> Pamphilus called on (for help) our Lady of
 Guadalupe, which was only left (of all the shrines in Spain)
 unvisited, although it were in his own country of Toledo. Because
 holy places near to one are many times left unvisited out of a hope
@@ -3141,7 +3141,7 @@ hands forth against the knife, and felt that they laid hold of him;
 he gave a great cry, and the torch instantly kindled again: and he
 saw himself between two great mastiff dogs, who held him fast in
 their teeth. Jesus! cried out Pamphilus, at which name all these
-fantastic illusions vanished away, leaving him so weary and so
+fantastic illusions vanished away, leaving him so <emotion type="adj">weary</emotion> and so
 affrighted with their company that he would not stay there any
 longer: but going out into the garden by which he was entered, he
 went to the chamber of the good hermit, who seeing him so pale, weak
@@ -3158,7 +3158,7 @@ to advertise them that there are some, fallen from the lowest choir
 of angels, who despite the essential pain, which is the eternal
 privation from the sight of God, suffer less pain than the other, as
 not having so much sinned. And those are of such nature that they
-cannot much hurt men, but do take pleasure to displease them; with
+cannot much hurt men, but do take <emotion type="noun">pleasure</emotion> to displease them; with
 frightings, noises, rumours, subtleties and such like other things
 which they do in the night in houses, which thereby they make
 altogether uninhabitable, not being able otherwise to hurt but by
@@ -3234,7 +3234,7 @@ My mother and my brother being now assured of thy innocence doe
 bewail their hard usage towards thee, and have made great search to
 find thee. If thou wilt return, they will redeem the injury of thy
 unjust Imprisonment with embraces and kind usage, and thou shalt
-thereby pay me for the desire which I continually have of thy
+thereby pay me for the <emotion type="noun">desire</emotion> which I continually have of thy
 welfare, and for the tears which thou hast cost me.</p>
 
 <p>The pilgrim wondered at Tansiles’ strange fate, and was something
@@ -3260,7 +3260,7 @@ married with a knight of Andalucia was carried into the Indies.</p>
 Astrea doth equal the balances of the Equinoctial, when Pamphilus
 journeying night and day through deserts and unknown ways found
 himself one morning when the day began to smile on him at the side
-of craggy mountains, oppressed both with weariness and hunger, and
+of craggy mountains, oppressed both with <emotion type="noun">weariness</emotion> and hunger, and
 much more with the remembrance of Nisa, where sitting at the foot of
 an oak beholding the solitariness of the fields and the murmuring of
 the little brooks which fell precipitately from the mountain, he
@@ -3282,11 +3282,11 @@ drink and music. They passed away the best part of the day in
 telling their adventures: and when it grew night, they retired
 themselves into a little village, whether Fabio led Pamphilus to
 keep his master’s oxen, who was a farmer of a grange which Nisa’s
-father had in the mountains. Pamphilus was glad of this condition,
+father had in the mountains. Pamphilus was <emotion type="adj">glad</emotion> of this condition,
 hoping that by this means he might with time have news of his
 mistress. By the way Pamphilus entreated Fabio to relate the cause
 of his retiring into this place, who although that this request
-brought to his mind a great deal of <emotion type="noun">grief</emotion> and passion, yet after
+brought to his mind a great deal of <emotion type="noun">grief</emotion> and <emotion type="noun">passion</emotion>, yet after
 some sighs he shortly told him that he was borne in Biscay, and
 descended of most noble parents who were careful to fit him in his
 youth with qualities answerable to his birth, wherein he profited so
@@ -3294,7 +3294,7 @@ well, that he neither raised discontentment in his parents nor shame
 to his tutors; but after growing more ripe in years, and incited
 with the courageous heat of youth. In those times, when the English
 with their warlike ships ravaged along our coasts, as well of Spain
-as the islands, and oftentimes with their desperate resolutions made
+as the islands, and oftentimes with their <emotion type="adj">desperate</emotion> resolutions made
 themselves masters of our Indian gold, I put myself to sea in one of
 the King’s armadas, as well with an intent to gain honour by my
 valour, as experience in those services, thereby to be the abler to
@@ -3347,7 +3347,7 @@ discovered the village where Alfesibus did keep Nisa's father’s
 cattle, in the best house of the village, which for a country house
 was a fair one. Alfesibus received Pamphilus, and informed by Fabio
 of his intent he agreed with him for wages; and after an evil supper
-and a worse lodging he passed the night miserably. And when morning
+and a worse lodging he passed the night <emotion type="adverb">miserably</emotion>. And when morning
 appeared, Pamphilus went after his oxen to the solitary fields,
 where he lived some time free from the confused noises of the
 cities, with a good leisure to meditate on his adventures.</p>
@@ -3355,7 +3355,7 @@ cities, with a good leisure to meditate on his adventures.</p>
 <p>In the meantime Nisa healed of her wounds and knew that she had
 received them from her own brother out of <emotion type="noun">jealousy</emotion> which he had
 conceived against her for Finia. And entreating her good host that
-he would have pity on her blood, by both their means his pardon and
+he would have <emotion type="noun">pity</emotion> on her blood, by both their means his pardon and
 liberty was obtained, the one soliciting, and the other forbearing
 the prosecution. One of the wounds which Nisa had received was in
 her left side, and as in the dressing it could not be avoided but
@@ -3365,8 +3365,8 @@ that his son Thesander unhappily one day was at her dressing and
 transported so into his mind the wounds which she had in her body,
 that within a few days, he fell sick by force of this continual
 thought, not being able to receive into his imagination any thought,
-but the desire of this beauty. For all the heaven of <emotion type="noun">love</emotion> moves
-between these two poles, imagination and desire. And then his body
+but the <emotion type="noun">desire</emotion> of this beauty. For all the heaven of <emotion type="noun">love</emotion> moves
+between these two poles, imagination and <emotion type="noun">desire</emotion>. And then his body
 is as full of imaginary and fantastic figures as the astrologer’s
 globe. Thesander did all that he could to divert himself from this
 thought, and as evils are healed by their contraries, he proposed to
@@ -3376,9 +3376,9 @@ he rather found the evil than the remedy. For it is impossible that
 young men should know much, because that to be wise requires
 experience, and that is gotten with time.</p>
 
-<p>Nisa was much <emotion type="verb">grieved</emotion> at Thesander’s passion, although he had never
-spoken to her about it. But as he which is amorous so often speaks
-as he looks on that which he loves, she easily read in his looks the
+<p>Nisa was much <emotion type="verb">grieved</emotion> at Thesander’s <emotion type="noun">passion</emotion>, although he had never
+spoken to her about it. But as he which is <emotion type="adj">amorous</emotion> so often speaks
+as he looks on that which he <emotion type="verb">loves</emotion>, she easily read in his looks the
 depth of his thoughts; and willing to disabuse him so, that not
 being understood by others, she might let him understand the vanity
 of his <emotion type="noun">love</emotion>, one night after she was healed, being entreated by all
@@ -3424,10 +3424,10 @@ spark and increased by Nisa's resistance, like a fire which a little
 water makes more violent; or like palm trees growing most, when a
 weight is laid on them.</p>
 
-<p>Nisa waxed strong and walked abroad, when desperate Thesander
+<p>Nisa waxed strong and walked abroad, when <emotion type="adj">desperate</emotion> Thesander
 revealed himself to a physician, who encouraged him either to
 manifest his evil or else as the best remedy, against his <emotion type="noun">love</emotion> to
-work from his imagination this deep melancholy, and to divert it by
+work from his imagination this deep <emotion type="noun">melancholy</emotion>, and to divert it by
 some honest exercise, and that the courage of the practiser is the
 first matter on which the heavens imprint the form of their
 succours, for as much as their favour is not obtained by womanish
@@ -3437,7 +3437,7 @@ unto men, in exchange of their labours. Thesander was animated by
 these counsels, but finding that divisions were weak remedies
 against the splendour of Nisa’s beauty, fell into a relapse, and
 grew so weak that he was constrained to reveal the cause of his
-sickness. The pitiful father who was already informed of Nisa's
+sickness. The <emotion type="adj">pitiful</emotion> father who was already informed of Nisa's
 quality conjured her with tears to be mistress of his wealth, and
 marry his son, of whose sickness there was no other remedy: Nisa
 admiring at the several ways whereby fortune sought to separate her
@@ -3454,17 +3454,17 @@ greenness until that their humour which doth quicken them do
 absolutely fail, because that hope is the radical moisture which
 doth keep us alive, and is to us as oil to our fire. Nisa seeing
 that Thesander was for her sake upon the point of losing his life,
-and she herself had not now lived, but out of his father’s pity, was
+and she herself had not now lived, but out of his father’s <emotion type="noun">pity</emotion>, was
 exceedingly perplexed that she could not satisfy so just an
 obligation: and not being able to rest in these confused thoughts,
 the representations of Pamphilus’ labours did always appear in her
 mind, who she thought to be prisoner still at Valencia. Thesander’s
 evil increased, Nisa deferred the remedy, and the father accused
-this poor amorous man, in my opinion innocent, because, that in
+this poor <emotion type="adj">amorous</emotion> man, in my opinion innocent, because, that in
 things natural, we do neither merit nor demerit: In brief, all the
-whole family entreated Nisa that she would have pity of Thesander’s
+whole family entreated Nisa that she would have <emotion type="noun">pity</emotion> of Thesander’s
 young years, and that at the least she would assuage his passion
-with one amorous word.</p>
+with one <emotion type="adj">amorous</emotion> word.</p>
 
 <p>Amongst all the variable fortunes as well by land as sea which our
 pilgrim had suffered, there was none so difficult for her as this.
@@ -3479,7 +3479,7 @@ which time Celio was delivered out of prison with an exceeding
 desire to see her, as well because he had heard news of her health,
 as because he imagined that if Finia were not in her company, yet at
 the least he might hear some news of her. Nevertheless the sorrowful
-Nisa believing that Celio desired to kill her, not knowing what
+Nisa believing that Celio <emotion type="verb">desired</emotion> to kill her, not knowing what
 Pamphilus had told him of her disguising herself in the habit of a
 pilgrim; so soon as she heard of his freedom, fled secretly from
 Barcelona. In the meantime Lisard the eldest brother to Celio and
@@ -3492,7 +3492,7 @@ understanding which way she was bound, offered to accompany her into
 Castile: Finia willing to be gone from Celio, whom she thought never
 to be able to appease, and not knowing that this was his brother,
 accepted his offer and went with him to Toledo. Where being received
-of his parents with all kinds of <emotion type="noun">joy</emotion>, his desire was that Finia
+of his parents with all kinds of <emotion type="noun">joy</emotion>, his <emotion type="noun">desire</emotion> was that Finia
 might also be well entertained and kindly used, telling them in what
 manner he had found her. His parents received her with a great deal
 of honour and embraces, yet not without some suspicions that she was
@@ -3534,7 +3534,7 @@ horses which he had, for which he would give him wages, and
 convenient clothes; Pamphilus refused this offer, not that he was
 not willing to return into the <emotion type="adj">happy</emotion> house in which he had first
 known Nisa: but <emotion type="verb">fearing</emotion> that being known in her absence, he should
-run a dangerous fortune of his life. Nevertheless, being weary of
+run a dangerous fortune of his life. Nevertheless, being <emotion type="adj">weary</emotion> of
 the austere life which he led amongst these mountains, for there is
 nothing more true (as the philosophers say) than that those which
 are solitary are either gods or devils, he resolved in the end to
@@ -3545,7 +3545,7 @@ parents’ hands, then live any longer in these solitary deserts.</p>
 long travels, seeing that from being a courtier, he became a
 soldier; from a soldier, a captive; from a captive, a pilgrim; from
 a pilgrim, a prisoner; from a prisoner, a madman; from a madman, a
-herdsman; from a herdsman, a miserable lackey, in the same house
+herdsman; from a herdsman, a <emotion type="adj">miserable</emotion> lackey, in the same house
 where all his misfortunes began: to the end that you seeing this
 circle of fortune from one pole to another, without one moment of
 rest, or any of good in the beginning, middle or end of his
@@ -3589,13 +3589,13 @@ happy day of his rest, and though he were not at the siege of Troy,
 nor at the conquest of the New World with Cortes, yet it was no
 small valour in him to defend himself from so many different and
 perilous assaults of fortune, and in the end to have merited by so
-many labours, the rest which shortly he shall enjoy in his own
+many labours, the rest which shortly he shall <emotion type="verb">enjoy</emotion> in his own
 country.</p>
 
 <p>Whilst these things thus passed in the mountains of Toledo,
 Thesander was being recovered by Nisa's loving embrace, and she
 disposed to leave him, as well because his life was assured as
-because that she desired to assure hers, and deliver herself from
+because that she <emotion type="verb">desired</emotion> to assure hers, and deliver herself from
 the care wherewith she was searched after by her brother Celio.</p>
 
 <p>One night when sleep mastered her lover’s senses, and held a silence
@@ -3613,9 +3613,9 @@ the light of his soul, and not finding her, it little wanted that he
 did not die with <emotion type="noun">grief</emotion> for her departure; neither his father nor the
 rest of his parents had power enough to keep him from running after.
 And so he came to Toledo a long time before Nisa, for a lover who
-follows that which he loves doth go faster than he who flies from
+follows that which he <emotion type="verb">loves</emotion> doth go faster than he who flies from
 that which he doth not <emotion type="noun">love</emotion>; because he which doth not <emotion type="noun">love</emotion> grows
-sorrowful in going, and he which loves by going puts off his grief.</p>
+sorrowful in going, and he which <emotion type="verb">loves</emotion> by going puts off his grief.</p>
 
 <p>In the meantime, Lisard much pleased with Pamphilus’ understanding
 and person, had taken him to wait in his chamber, not suffering him
@@ -3626,12 +3626,12 @@ because that if they had viewed him with any consideration, they
 must needs have known him. But Lisard who with frequent conversation
 with Finia (whom his parents did use as <emotion type="adverb">lovingly</emotion> as they could have
 done Nisa) was fallen in <emotion type="noun">love</emotion> with her, revealed this to Pamphilus,
-and making him the minister of his passion, gave him charge to speak
+and making him the minister of his <emotion type="noun">passion</emotion>, gave him charge to speak
 to her, and to dispose her (with all his power) to be favourable to
-his desires; Pamphilus obeying his master and taking occasion one
+his <emotion type="verb">desires</emotion>; Pamphilus obeying his master and taking occasion one
 festival day, when everybody was abroad, went to find Finia from
 Lisard: but when in coming to her he knew her to be his sister, and
-she knew him to be her brother, they both remained astonished, dumb
+she knew him to be her brother, they both remained <emotion type="adj">astonished</emotion>, dumb
 and as immovable as stones. But shortly after this first confusion,
 Pamphilus began to speak in this manner: Sister, tell me by what
 means thou came hither, since Celio abandoning thee left thee in
@@ -3672,7 +3672,7 @@ winding in a success so strange and so embroiled, which is so much
 the more admirable to me, who know it better then they who read it,
 how true it is.</p>
 
-<p>Pamphilus, astonished to see that he was engaged to kill Pamphilus,
+<p>Pamphilus, <emotion type="adj">astonished</emotion> to see that he was engaged to kill Pamphilus,
 or at the least a man who either in searching for Nisa, or else one
 who for the only disaster of his name deserved to die, endeavoured
 to find him, rather to know what he would with Nisa than with any
@@ -3688,7 +3688,7 @@ left them one night without bidding them adieu, paying with
 ingratitude all the good offices which were done her in that house.
 Neither did he forget to relate how she (for the dressing of her
 wound) being constrained to expose her breast, she was discovered to
-be a woman; from whence proceeded his desire and the cause why he
+be a woman; from whence proceeded his <emotion type="noun">desire</emotion> and the cause why he
 sought her in this place, which she said was the place of her birth.
 Joyful was Pamphilus to hear of the healing of Nisa's wounds, and
 instead of killing Thesander he led him into his chamber, where
@@ -3721,7 +3721,7 @@ other was Pamphilus. Lisard believed that his father told him so to
 appease him, wherefore he fiercely strove to break away from his
 father, that he might kill Thesander, saying that the other was his
 man Maurice. The whole family drawn thither by the noise and seeing
-this rage to prevent greater mischief, ran to the magistrates, who
+this <emotion type="noun">rage</emotion> to prevent greater mischief, ran to the magistrates, who
 hearing the stir raising the neighbours laid Pamphilus and Thesander
 in two several prisons, until it was verified which was Pamphilus,
 for although that Thesander apprehending the danger began now to say
@@ -3740,19 +3740,19 @@ was between him and Pamphilus, betook her to a habit proper to her
 sex, and left this pilgrim’s apparel at the walls of this holy
 house, together with her staff, which in so many dangers and such
 long ways had been so faithful a companion. And so travelling
-together towards Madrid, Nisa desired to seek Pamphilus first in his
+together towards Madrid, Nisa <emotion type="verb">desired</emotion> to seek Pamphilus first in his
 own house, whither being come with Jacinth, and finding his
 sorrowful mother afflicted for the loss of her children, she
 comforted her much by the assurance which she gave to her, that they
 were both alive, and the hope they put her in to find them at
 Toledo. The good old lady encouraged by these words and persuaded by
-Nisa and the great desire she had to see her children, took her
+Nisa and the great <emotion type="noun">desire</emotion> she had to see her children, took her
 youngest daughter Eliza with her (being her staff and her comfort in
 her afflictions, who in her brother’s absence had increased no less
 in beauty then Finia, nor in understanding than Pamphilus) and went
 all together to Toledo.</p>
 
-<p>The miserable Tiberia, Jacinth’s sister, thinking that her treason
+<p>The <emotion type="adj">miserable</emotion> Tiberia, Jacinth’s sister, thinking that her treason
 being discovered, she should be hardly used by her brother as by the
 disgrace and danger whereunto she had unjustly exposed him she
 merited; left Valencia and with such of the family as would follow
@@ -3804,9 +3804,9 @@ almost all the company) was given into the beloved arms of her most
 dear Pamphilus.</p>
 
 <p>Happy pilgrims of <emotion type="noun">love</emotion>, your vows being accomplished, now rest
-happily and <emotion type="adverb">joyfully</emotion> (after so many bitter fortunes, wherewith your
+happily and <emotion type="adverb">joyfully</emotion> (after so many <emotion type="adj">bitter</emotion> fortunes, wherewith your
 loves have been seasoned) in the sweet repose of your native place,
-in which peace I will leave you, that you may enjoy the delights
+in which peace I will leave you, that you may <emotion type="verb">enjoy</emotion> the delights
 which you have merited: and seeing that I have left your statues in
 the temple, I will leave in the temple of renown the pen with which
 I wrote your unfortunate loves.</p>
