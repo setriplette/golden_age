@@ -3,7 +3,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2016-11-06T16:08:08Z. .
+Schema generated from ODD source 2016-11-06T16:32:24Z. .
 TEI Edition: Version 2.8.0. Last updated on
 	6th April 2015, revision 13197
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 2.8.0/
@@ -2918,16 +2918,6 @@ Normalization 12. Critical Apparatus]</a:documentation>
       <element name="rs">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(referencing string) contains a general purpose name or referring string. [13.2.1. Personal Names 3.5.1. Referring Strings]</a:documentation>
          <ref name="teimacro.phraseSeq"/>
-         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-rs-refer-to-Montalvo-constraint-6">
-            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
-                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-                      xmlns:rng="http://relaxng.org/ns/structure/1.0"
-                      context="tei:rs[@type eq 'emotion']">
-                  <sch:report test="not(@ana)">
-                     rs type="emotion must have its part of speech coded in @ana!</sch:report>
-               </sch:rule>
-         </pattern>
          <ref name="teiatt.global.attribute.xmlid"/>
          <ref name="teiatt.global.attribute.n"/>
          <ref name="teiatt.global.attribute.xmllang"/>
@@ -3020,7 +3010,7 @@ Licensing, etc. 2.5. The Revision Description 3.11.2.4. Imprint, Size of a Docum
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) defines a reference to another location, possibly modified by additional text or comment. [3.6. Simple Links and Cross-References 16.1. Links]</a:documentation>
          <ref name="teimacro.paraContent"/>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-ref-refAtts-constraint-2">
+                  id="starterODD-ref-refAtts-constraint-1">
             <rule context="tei:ref">
                <report xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -3086,7 +3076,7 @@ Licensing, etc. 2.5. The Revision Description 3.11.2.4. Imprint, Size of a Docum
             </zeroOrMore>
          </group>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-list-gloss-list-must-have-labels-constraint-7">
+                  id="starterODD-list-gloss-list-must-have-labels-constraint-6">
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -3541,7 +3531,7 @@ Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] nove
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">associates an interpretative annotation directly with a span of text. [17.3. Spans and Interpretations]</a:documentation>
          <ref name="teimacro.phraseSeq.limited"/>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-span-targetfrom-constraint-3">
+                  id="starterODD-span-targetfrom-constraint-2">
             <rule context="tei:span">
                <report xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -3551,7 +3541,7 @@ Only one of the attributes @target and @from may be supplied on <name/>
             </rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-span-targetto-constraint-4">
+                  id="starterODD-span-targetto-constraint-3">
             <rule context="tei:span">
                <report xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -3561,7 +3551,7 @@ Only one of the attributes @target and @to may be supplied on <name/>
             </rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-span-tonotfrom-constraint-5">
+                  id="starterODD-span-tonotfrom-constraint-4">
             <rule context="tei:span">
                <report xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -3570,7 +3560,7 @@ If @to is supplied on <name/>, @from must be supplied as well</report>
             </rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-span-tofrom-constraint-6">
+                  id="starterODD-span-tofrom-constraint-5">
             <rule context="tei:span">
                <report xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -4455,7 +4445,7 @@ Licensing, etc.]</a:documentation>
             <ref name="teimodel.pLike"/>
          </zeroOrMore>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-quotation-quotationContents-constraint-7">
+                  id="starterODD-quotation-quotationContents-constraint-6">
             <rule context="tei:quotation">
                <report xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -6224,7 +6214,7 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
             </rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-relation-activemutual-constraint-8">
+                  id="starterODD-relation-activemutual-constraint-7">
             <rule context="tei:relation">
                <report xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -6233,7 +6223,7 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
             </rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="starterODD-relation-activepassive-constraint-9">
+                  id="starterODD-relation-activepassive-constraint-8">
             <rule context="tei:relation">
                <report xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -7696,4 +7686,14 @@ Suggested values include: 1] main; 2] sub(subordinate) ; 3] alt(alternate) ; 4] 
          <ref name="teiTEI"/>
       </choice>
    </start>
+   <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+            id="starterODD-refer-to-Montalvo-constraint-7">
+      <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                context="tei:*[@type eq 'emotion']">
+                     <sch:report test="not(@ana)">
+                        rs type="emotion must have its part of speech coded in @ana!</sch:report>
+                  </sch:rule>
+   </pattern>
 </grammar>

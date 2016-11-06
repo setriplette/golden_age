@@ -37,15 +37,16 @@
            <moduleRef key="linking"/>
            <moduleRef key="iso-fs" except="bicond binary cond default"/>      
          -->
+            <constraintSpec scheme="isoschematron" ident="refer-to-Montalvo">
+               <constraint>
+                  <sch:rule context="tei:*[@type eq 'emotion']">
+                     <sch:report test="not(@ana)">
+                        rs type="emotion must have its part of speech coded in @ana!</sch:report>
+                  </sch:rule>
+               </constraint>
+            </constraintSpec>	   
       <elementSpec ident="rs" module="core" mode="change">
-         <constraintSpec scheme="isoschematron" ident="refer-to-Montalvo">
-            <constraint>
-               <sch:rule context="tei:rs[@type eq 'emotion']">
-                  <sch:report test="not(@ana)">
-                     rs type="emotion must have its part of speech coded in @ana!</sch:report>
-               </sch:rule>
-            </constraint>
-         </constraintSpec>	   
+         
          <attList>
             <attDef ident="ana" mode="replace" usage="opt">
                <valList type="closed">
