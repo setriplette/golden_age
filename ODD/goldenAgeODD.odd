@@ -20,20 +20,22 @@
       <body>
          <schemaSpec ident="starterODD" start="TEI teiCorpus" prefix="tei">
             <moduleRef key="tei"/>
-            <!-- required -->
-            <moduleRef key="core"/>
-            <!-- required -->
-            <moduleRef key="analysis"/>
-            <moduleRef key="drama"/>
-            <moduleRef key="gaiji"/>
-            <moduleRef key="header"/>
-            <!-- required -->
-            <moduleRef key="linking"/>
-            <moduleRef key="namesdates"/>
+            <moduleRef key="core" include="author listBibl bibl list item name title rs date choice sic corr reg  del desc head headItem index lg l milestone pb lb note num p q quote ref resp sp speaker stage textLang "/>
+            <moduleRef key="analysis" include="phr span cl"/>
+            <moduleRef key="drama" exclude="actor camera caption sound tech view"/>
+            <moduleRef key="gaiji" include="char unicodeName"/>
+            <moduleRef key="header"/>         
+            <moduleRef key="namesdates" exclude="district listNym nym offset"/>
+            <moduleRef key="textstructure" exclude="byline closer dateline div1 div2 div3 div4 div5 div6 div7 imprimatur opener postscript salute signed"/>
+            
+            <!--2016-11-6 set:  We don't need these, at least not yet. 
             <moduleRef key="textcrit"/>
-            <moduleRef key="textstructure"/>
-            <!-- required -->
-            <moduleRef key="iso-fs" except=""/>
+           <moduleRef key="linking"/>
+           <moduleRef key="iso-fs" except="bicond binary cond default"/>      
+         -->
+            
+            
+            
          </schemaSpec>
       </body>
   </text>
