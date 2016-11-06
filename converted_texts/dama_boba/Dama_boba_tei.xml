@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="../../goldenAgeODD%20copy.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-model href="../../ODD/out/goldenAgeODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -351,7 +352,7 @@
 <sp><speaker>LISEO</speaker> <l>Ponte a caballo,</l>
 <l>   que ya no quiero comer.</l></sp>
 
-<sp><speaker>TURÍN</speaker> <l>No <rs type="body" ana="verb">te aflijas</rs>, pues no es hecho.</l></sp>
+<sp><speaker>TURÍN</speaker> <l>No <rs type="body">te aflijas</rs>, pues no es hecho.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Que me ha de matar, sospecho,</l>
 <l>si es necia, y propia mujer.</l></sp>
