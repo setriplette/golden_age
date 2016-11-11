@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2016-11-06T21:42:12Z. .
+Schema generated from ODD source 2016-11-11T02:47:44Z. .
 TEI Edition: Version 3.0.0. Last updated on
 	29th March 2016, revision 89ba24e
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.0.0/
@@ -1255,6 +1255,58 @@ Suggested values include: 1] fix; 2] unclear</a:documentation>
          </attribute>
       </optional>
    </define>
+   <define name="teiatt.citing.attributes">
+      <ref name="teiatt.citing.attribute.unit"/>
+      <ref name="teiatt.citing.attribute.from"/>
+      <ref name="teiatt.citing.attribute.to"/>
+   </define>
+   <define name="teiatt.citing.attribute.unit">
+      <optional>
+         <attribute name="unit">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">identifies the unit of information conveyed by the element, e.g. columns, pages, volume.
+Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] part; 7] column</a:documentation>
+            <choice>
+               <value>volume</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element contains a volume number.</a:documentation>
+               <value>issue</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element contains an issue number, or volume and issue numbers.</a:documentation>
+               <value>page</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element contains a page number or page range.</a:documentation>
+               <value>line</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element contains a line number or line range.</a:documentation>
+               <value>chapter</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element contains a chapter indication (number and/or title)</a:documentation>
+               <value>part</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element identifies a part of a book or collection.</a:documentation>
+               <value>column</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element identifies a column.</a:documentation>
+               <data type="token">
+                  <param name="pattern">(\p{L}|\p{N}|\p{P}|\p{S})+</param>
+               </data>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="teiatt.citing.attribute.from">
+      <optional>
+         <attribute name="from">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the starting point of the range of units indicated by the unit attribute.</a:documentation>
+            <data type="token">
+               <param name="pattern">(\p{L}|\p{N}|\p{P}|\p{S})+</param>
+            </data>
+         </attribute>
+      </optional>
+   </define>
+   <define name="teiatt.citing.attribute.to">
+      <optional>
+         <attribute name="to">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the end-point of the range of units indicated by the unit attribute.</a:documentation>
+            <data type="token">
+               <param name="pattern">(\p{L}|\p{N}|\p{P}|\p{S})+</param>
+            </data>
+         </attribute>
+      </optional>
+   </define>
    <define name="teimodel.nameLike.agent">
       <choice>
          <ref name="teiname"/>
@@ -2278,6 +2330,7 @@ Suggested values include: 1] fix; 2] unclear</a:documentation>
    </define>
    <define name="teimodel.publicationStmtPart.agency">
       <choice>
+         <ref name="teipublisher"/>
          <ref name="teidistributor"/>
          <ref name="teiauthority"/>
       </choice>
@@ -2285,6 +2338,7 @@ Suggested values include: 1] fix; 2] unclear</a:documentation>
    <define name="teimodel.publicationStmtPart.detail">
       <choice>
          <ref name="teidate"/>
+         <ref name="teipubPlace"/>
          <ref name="teiidno"/>
          <ref name="teiavailability"/>
       </choice>
@@ -2305,29 +2359,41 @@ Suggested values include: 1] fix; 2] unclear</a:documentation>
    <define name="teimodel.quoteLike">
       <choice>
          <ref name="teiquote"/>
+         <ref name="teicit"/>
       </choice>
    </define>
    <define name="teimodel.quoteLike_alternation">
       <choice>
          <ref name="teiquote"/>
+         <ref name="teicit"/>
       </choice>
    </define>
    <define name="teimodel.quoteLike_sequence">
       <ref name="teiquote"/>
+      <ref name="teicit"/>
    </define>
    <define name="teimodel.quoteLike_sequenceOptional">
       <optional>
          <ref name="teiquote"/>
+      </optional>
+      <optional>
+         <ref name="teicit"/>
       </optional>
    </define>
    <define name="teimodel.quoteLike_sequenceOptionalRepeatable">
       <zeroOrMore>
          <ref name="teiquote"/>
       </zeroOrMore>
+      <zeroOrMore>
+         <ref name="teicit"/>
+      </zeroOrMore>
    </define>
    <define name="teimodel.quoteLike_sequenceRepeatable">
       <oneOrMore>
          <ref name="teiquote"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="teicit"/>
       </oneOrMore>
    </define>
    <define name="teimodel.qLike">
@@ -2385,6 +2451,8 @@ Suggested values include: 1] fix; 2] unclear</a:documentation>
    <define name="teimodel.respLike">
       <choice>
          <ref name="teiauthor"/>
+         <ref name="teieditor"/>
+         <ref name="teirespStmt"/>
          <ref name="teisponsor"/>
          <ref name="teifunder"/>
          <ref name="teiprincipal"/>
@@ -2474,6 +2542,9 @@ Suggested values include: 1] fix; 2] unclear</a:documentation>
    </define>
    <define name="teimodel.imprintPart">
       <choice>
+         <ref name="teipublisher"/>
+         <ref name="teibiblScope"/>
+         <ref name="teipubPlace"/>
          <ref name="teidistributor"/>
       </choice>
    </define>
@@ -2971,6 +3042,24 @@ Suggested values include: 1] spoken; 2] thought; 3] written; 4] soCalled; 5] for
          <empty/>
       </element>
    </define>
+   <define name="teicit">
+      <element name="cit">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(cited quotation) contains a quotation from some other document, together with a bibliographic reference to its source. In a dictionary it may contain an example text with at least one occurrence of the word form, used in the sense being described, or a translation of the headword, or an example. [3.3.3. Quotation 4.3.1. Grouped Texts 9.3.5.1. Examples]</a:documentation>
+         <oneOrMore>
+            <choice>
+               <ref name="teimodel.qLike"/>
+               <ref name="teimodel.egLike"/>
+               <ref name="teimodel.biblLike"/>
+               <ref name="teimodel.ptrLike"/>
+               <ref name="teimodel.global"/>
+               <ref name="teimodel.entryPart"/>
+            </choice>
+         </oneOrMore>
+         <ref name="teiatt.global.attributes"/>
+         <ref name="teiatt.typed.attributes"/>
+         <empty/>
+      </element>
+   </define>
    <define name="teidesc">
       <element name="desc">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(description) contains a brief description of the object documented by its parent element, including its intended usage, purpose, or application where this is appropriate. [22.4.1. Description of Components]</a:documentation>
@@ -3412,6 +3501,59 @@ Elements 7.2.5. Speech Contents]</a:documentation>
          <empty/>
       </element>
    </define>
+   <define name="teieditor">
+      <element name="editor">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a secondary statement of responsibility for a bibliographic item, for example the name of an individual, institution or organization, (or of several such) acting as editor, compiler, translator, etc. [3.11.2.2. Titles, Authors, and Editors]</a:documentation>
+         <ref name="teimacro.phraseSeq"/>
+         <ref name="teiatt.global.attributes"/>
+         <ref name="teiatt.naming.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="teirespStmt">
+      <element name="respStmt">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(statement of responsibility) supplies a statement of responsibility for the intellectual content of a text, edition, recording, or series, where the specialized elements for authors, editors, etc. do not suffice or do not apply. May also be used to encode information about individuals or organizations which have played a role in the production or distribution of a bibliographic work. [3.11.2.2. Titles, Authors, and Editors 2.2.1. The Title Statement 2.2.2. The Edition Statement 2.2.5. The Series Statement]</a:documentation>
+         <choice>
+            <group>
+        
+               <oneOrMore>
+                  <ref name="teiresp"/>
+               </oneOrMore>
+        
+        
+               <oneOrMore>
+                  <ref name="teimodel.nameLike.agent"/>
+               </oneOrMore>
+        
+            </group>
+            <group>
+        
+               <oneOrMore>
+                  <ref name="teimodel.nameLike.agent"/>
+               </oneOrMore>
+        
+        
+               <oneOrMore>
+                  <ref name="teiresp"/>
+               </oneOrMore>
+        
+            </group>
+         </choice>
+         <ref name="teiatt.global.attributes"/>
+         <ref name="teiatt.canonical.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="teiresp">
+      <element name="resp">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(responsibility) contains a phrase describing the nature of a person's intellectual responsibility, or an organization's role in the production or distribution of a work. [3.11.2.2. Titles, Authors, and Editors 2.2.1. The Title Statement 2.2.2. The Edition Statement 2.2.5. The Series Statement]</a:documentation>
+         <ref name="teimacro.phraseSeq.limited"/>
+         <ref name="teiatt.global.attributes"/>
+         <ref name="teiatt.canonical.attributes"/>
+         <ref name="teiatt.datable.attributes"/>
+         <empty/>
+      </element>
+   </define>
    <define name="teititle">
       <element name="title">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a title for any kind of work. [3.11.2.2. Titles, Authors, and Editors 2.2.1. The Title Statement 2.2.5. The Series Statement]</a:documentation>
@@ -3445,6 +3587,32 @@ Sample values include: 1] main; 2] sub(subordinate) ; 3] alt(alternate) ; 4] sho
                </choice>
             </attribute>
          </optional>
+         <empty/>
+      </element>
+   </define>
+   <define name="teipublisher">
+      <element name="publisher">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides the name of the organization responsible for the publication or distribution of a bibliographic item. [3.11.2.4. Imprint, Size of a Document, and Reprint Information 2.2.4. Publication, Distribution, Licensing, etc.]</a:documentation>
+         <ref name="teimacro.phraseSeq"/>
+         <ref name="teiatt.global.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="teibiblScope">
+      <element name="biblScope">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(scope of bibliographic reference) defines the scope of a bibliographic reference, for example as a list of page numbers, or a named subdivision of a larger work. [3.11.2.5. Scopes and Ranges in Bibliographic Citations]</a:documentation>
+         <ref name="teimacro.phraseSeq"/>
+         <ref name="teiatt.global.attributes"/>
+         <ref name="teiatt.citing.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="teipubPlace">
+      <element name="pubPlace">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(publication place) contains the name of the place where a bibliographic item was published. [3.11.2.4. Imprint, Size of a Document, and Reprint Information]</a:documentation>
+         <ref name="teimacro.phraseSeq"/>
+         <ref name="teiatt.global.attributes"/>
+         <ref name="teiatt.naming.attributes"/>
          <empty/>
       </element>
    </define>
@@ -4588,14 +4756,17 @@ Sample values include: 1] text; 2] corpus</a:documentation>
         
         
                <zeroOrMore>
-                  <empty/>
+                  <choice>
+                     <ref name="teieditor"/>
+                     <ref name="teirespStmt"/>
+                  </choice>
                </zeroOrMore>
         
         
                <zeroOrMore>
                   <choice>
                      <ref name="teiidno"/>
-            
+                     <ref name="teibiblScope"/>
                   </choice>
                </zeroOrMore>
         
@@ -8484,9 +8655,9 @@ Suggested values include: 1] main; 2] sub(subordinate) ; 3] alt(alternate) ; 4] 
                <text/>
                <ref name="teimodel.gLike"/>
                <ref name="teimodel.phrase"/>
-        
+               <ref name="teipubPlace"/>
                <ref name="teidocDate"/>
-        
+               <ref name="teipublisher"/>
                <ref name="teimodel.global"/>
             </choice>
          </zeroOrMore>

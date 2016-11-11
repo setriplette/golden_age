@@ -10,13 +10,16 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Golden Age Project ODD</title>
+            <author>Stacey Triplette</author>
+            <respStmt><resp>With assistance from</resp><name>Elisa Beshero-Bondar</name></respStmt>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <authority>Prepared in TEI P5 for the Golden Age project team on newtFire.org. GitHub repository: <ref target="https://github.com/setriplette/golden_age"/>. Date last worked on: <date when="2016-11-10">10 November 2016</date></authority>
+            <availability><licence><!--Choose and identify a Creative Commons license for sharing your code. Look here: https://creativecommons.org/share-your-work/--></licence></availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Born digital.</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -24,7 +27,7 @@
       <body>
          <schemaSpec ident="starterODD" start="TEI teiCorpus" prefix="tei">
             <moduleRef key="tei"/>
-            <moduleRef key="core" include="author listBibl bibl list item name title rs date choice sic corr reg  del desc head headItem index lg l milestone pb lb note num p q quote ref resp sp speaker stage textLang "/>
+            <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope cit quote list item name rs date choice sic corr reg del desc head headItem index lg l milestone pb lb note num p q ref resp respStmt sp speaker stage textLang "/>
             <moduleRef key="analysis" include="phr span cl"/>
             <moduleRef key="drama" exclude="actor camera caption sound tech view"/>
             <moduleRef key="gaiji" include="char unicodeName"/>
