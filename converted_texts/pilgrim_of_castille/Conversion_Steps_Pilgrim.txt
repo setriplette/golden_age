@@ -95,3 +95,6 @@ I then continued on:
 16.I converted the text to XML and found a few issues in the text. I went through manually and fixed them. I had to go through and move the <body> tags outside of the <head type="narrative"> tags as this was a strucutural issue.
 17.Another issue was I was missing some <p> tags around the lines that announced the end of the books. I went through manually and added them where needed.
 18.I converted the document once again and found Oxygen was all green and good to go.
+19.After the general structure was tagged, I moved on to taggin emotions with in the text. I read through most of the text and wrote down all the different possible emotion words, metaphors, or phrases that I could find. From there, I started searching and replacing all those words. I won't list all of those Finds and Replace withs but my general search looked like:
+    Find:( )(emotion)([\.]*[\,]*[;]* )
+    Replace with:\1<emotion type="part of speech">\2</emotion>\3

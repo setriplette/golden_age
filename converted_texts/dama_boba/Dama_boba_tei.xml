@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../ODD/out/goldenAgeODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../ODD/out/goldenAgeODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!--2016-11-08 ebb: Our ODD-generated schematron rules actually DO work! We needed to mark one more checkbox in associating our schema, so that our Schematron rules would be read. In oXygen, you go to Document > Schema > Associate Schema, and when you associate your schema, check the box next to:
+"Add additional association for embedded schematron rules." I did that, and the schematron rule now fires! Huzzah! Stopgap schematron is no longer required: we can do all our schema development for the TEI within the ODD. Notice the above two lines refer to the same .rng file, generated as XML, and one points to the namespace for relaxNG and the other to the namespace for Schematron.
+-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -18,25 +20,26 @@
   </teiHeader>
   <text>
       
-         <front><castList><castItem>LISEO, caballero.</castItem>
-<castItem><role xml:id="Turín_boba">TURÍN</role>, <roleDesc>lacayo</roleDesc>.</castItem>
-<castItem><role xml:id="Leandro_boba">LEANDRO</role>, <roleDesc>caballero</roleDesc>.</castItem>
-<castItem><role xml:id="Otavio_boba">OTAVIO</role>,<roleDesc> viejo.</roleDesc></castItem>
+     <front><castList><castItem><role xml:id="Liseo_boba">LISEO</role> <roleDesc>caballero</roleDesc></castItem>
+        <!-- Write a schema role to control extra punctuation in cast list -->
+<castItem><role xml:id="Turín_boba" ana="m">TURÍN</role>, <roleDesc>lacayo</roleDesc></castItem>
+<castItem><role xml:id="Leandro_boba" ana="m">LEANDRO</role>, <roleDesc>caballero</roleDesc>.</castItem>
+<castItem><role xml:id="Otavio_boba" ana="m">OTAVIO</role>,<roleDesc> viejo</roleDesc></castItem>
 
-<castItem><role xml:id="Miseno_boba">MISENO</role>, <roleDesc>su amigo</roleDesc>.</castItem>
-<castItem><role xml:id="Laurencio_boba">LAURENCIO</role>, <roleDesc>caballero</roleDesc>.</castItem>
-<castItem><role xml:id="Duardo_boba">DUARDO</role>, <roleDesc>caballero</roleDesc>.</castItem>
-<castItem><role xml:id= "Feniso_boba">FENISO</role>, <roleDesc>caballero</roleDesc>.</castItem>
+<castItem><role xml:id="Miseno_boba" ana="m">MISENO</role>, <roleDesc>su amigo</roleDesc></castItem>
+<castItem><role xml:id="Laurencio_boba" ana="m">LAURENCIO</role>, <roleDesc>caballero</roleDesc></castItem>
+<castItem><role xml:id="Duardo_boba" ana="m">DUARDO</role>, <roleDesc>caballero</roleDesc></castItem>
+<castItem><role xml:id= "Feniso_boba" ana="m">FENISO</role>, <roleDesc>caballero</roleDesc></castItem>
 
-<castItem><role xml:id="Rufino_boba">RUFINO</role>, <roleDesc>maestro</roleDesc>.</castItem>
-<castItem><role xml:id="Nise_boba">NISE</role>, <roleDesc>dama</roleDesc>.</castItem>
-<castItem><role xml:id="Finea_boba">FINEA</role>, <roleDesc>su hermana</roleDesc>.</castItem>
-<castItem><role xml:id="Clara_boba">CLARA</role>, <roleDesc>criada</roleDesc>.
+<castItem><role xml:id="Rufino_boba" ana="m">RUFINO</role>, <roleDesc>maestro</roleDesc></castItem>
+<castItem><role xml:id="Nise_boba" ana="f">NISE</role>, <roleDesc>dama</roleDesc>.</castItem>
+<castItem><role xml:id="Finea_boba" ana="f">FINEA</role>, <roleDesc>su hermana</roleDesc></castItem>
+<castItem><role xml:id="Clara_boba" ana="f">CLARA</role>, <roleDesc>criada</roleDesc>
 </castItem>
-<castItem><role xml:id="Celia_boba">CELIA</role>, <roleDesc>criada</roleDesc>.</castItem>
-<castItem><role xml:id="Pedro_boba">PEDRO</role>, <roleDesc>lacayo</roleDesc>.</castItem>
-<castItem><role xml:id= "Músicos_boba">MÚSICOS</role></castItem>
-<castItem><role xml:id= "Maestro_boba">UN MAESTRO</role> <roleDesc>de danzar</roleDesc></castItem></castList></front>
+<castItem><role xml:id="Celia_boba" ana="f">CELIA</role>, <roleDesc>criada</roleDesc></castItem>
+<castItem><role xml:id="Pedro_boba" ana="m">PEDRO</role>, <roleDesc>lacayo</roleDesc></castItem>
+<castItem><role xml:id= "Músicos_boba" ana="m">MÚSICOS</role></castItem>
+<castItem><role xml:id= "Maestro_boba" ana="m">UN MAESTRO</role> <roleDesc>de danzar</roleDesc></castItem></castList></front>
 
      <body><div type="act" n="I">
 
@@ -350,7 +353,7 @@
 <sp><speaker>LISEO</speaker> <l>Ponte a caballo,</l>
 <l>   que ya no quiero comer.</l></sp>
 
-<sp><speaker>TURÍN</speaker> <l>No <rs type="body" ana="verb">te aflijas</rs>, pues no es hecho.</l></sp>
+<sp><speaker>TURÍN</speaker> <l>No <rs type="body">te aflijas</rs>, pues no es hecho.</l></sp>
 
 <sp><speaker>LISEO</speaker> <l>Que me ha de matar, sospecho,</l>
 <l>si es necia, y propia mujer.</l></sp>
@@ -589,8 +592,8 @@
 
 <sp><speaker>FINEA</speaker> <l>Pues, ¿es otra cosa?</l></sp>
 
-<sp><speaker>RUFINO</speaker> <stage>Aparte.</stage> <l>No, sino el alba. (¡Qué hermosa</l>
-<l>bestia!)</l></sp>
+   <sp><speaker>RUFINO</speaker> <!--This is how to do apartes. Remove last parenthesis and change to milestone --> <l>No, sino el alba. <stage type="aside">Aparte.</stage>¡Qué hermosa</l>
+<l>bestia!<milestone unit="word" n="4"/></l></sp>
 
 <sp><speaker>FINEA</speaker> <l>Bien, bien. Sí, ya, ya;</l>
 <l>el alba debe de ser,</l>
@@ -963,7 +966,7 @@
 <l>Oíd, señora, a Eduardo.</l></sp>
 
 <sp><speaker>NISE</speaker> <l>¡Vaya el soneto! Ya aguardo,</l>
-<l>aunque, de <rs type="emotion" ana="indigna">indigna</rs>, corrida.</l></sp>
+<l>aunque, de <rs type="emotion" ana="adj">indigna</rs>, corrida.</l></sp>
 
 <sp><speaker>DUARDO</speaker> <l>La calidad elementar resiste</l>
 <l>mi <rs type="emotion" ana="noun">amor</rs>, que a la virtud celeste aspira,</l>
@@ -1062,8 +1065,9 @@
 <l>a todos es agradable,</l>
 <l>que se escriba o que se hable.</l></sp>
 
-<sp><speaker>NISE</speaker> <stage>Aparte.</stage>
-<l>¿Cómo va de voluntad?</l></sp>
+<sp><speaker>NISE</speaker> 
+   <l><stage type="aside">Aparte.</stage>¿Cómo va de voluntad?<milestone unit="line" n="1"/></l></sp>
+   <!-- this is also a good example for apartes -->
 
 <sp><speaker>LAURENCIO</speaker> <l>Como quien la tiene en ti.</l></sp>
 
@@ -2169,7 +2173,7 @@
 <l>ingratamente pagaste,</l>
 <l>pero tu Pedro, el que tiene</l>
 <l>de tus secretos las llaves,</l>
-<l><rs type="emotion" ana="verb">ama</rs> a Clara <rs type="emotion" ana="adv">tiernamente</rs>.</l>
+<l><rs type="emotion" ana="verb">ama</rs> a Clara <rs type="emotion" ana="adverb">tiernamente</rs>.</l>
 <l>¿Quieres que más te declare?</l></sp>
 
 <sp><speaker>LAURENCIO</speaker> <l>Tus <rs type="emotion" ana="noun">celos</rs> han sido, Celia,</l>
@@ -2220,8 +2224,8 @@
 
 <stage>Entre LISEO, y asga LAURENCIO a NISE.- Dichos.</stage>
 
-<sp><speaker>LISEO</speaker> <stage>Aparte.</stage>
-<l>Esperaba tarde</l>
+   <sp><speaker>LISEO</speaker><stage>Aparte.</stage> 
+   <l>Esperaba tarde</l>
 <l>los desengaños; mas ya</l>
 <l>no quiere <rs type="emotion" ana="noun">amor</rs> que me engañe.</l></sp>
 
