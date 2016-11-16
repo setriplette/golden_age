@@ -40,7 +40,7 @@
            <moduleRef key="linking"/>
            <moduleRef key="iso-fs" except="bicond binary cond default"/>      
          -->
-            <constraintSpec scheme="isoschematron" ident="refer-to-Montalvo">
+            <constraintSpec scheme="isoschematron" ident="emotion-in-rs_ana">
                <constraint>
                   <sch:rule context="*[@type eq 'emotion']">
                      <sch:report test="not(@ana)">
