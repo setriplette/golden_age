@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2016-11-16T00:53:10Z. .
+Schema generated from ODD source 2016-11-16T01:33:42Z. .
 TEI Edition: Version 3.0.0. Last updated on
 	29th March 2016, revision 89ba24e
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.0.0/
@@ -1508,40 +1508,28 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
    </define>
    <define name="teimodel.offsetLike">
       <choice>
-         <ref name="teioffset"/>
          <ref name="teigeogFeat"/>
       </choice>
    </define>
    <define name="teimodel.offsetLike_alternation">
       <choice>
-         <ref name="teioffset"/>
          <ref name="teigeogFeat"/>
       </choice>
    </define>
    <define name="teimodel.offsetLike_sequence">
-      <ref name="teioffset"/>
       <ref name="teigeogFeat"/>
    </define>
    <define name="teimodel.offsetLike_sequenceOptional">
-      <optional>
-         <ref name="teioffset"/>
-      </optional>
       <optional>
          <ref name="teigeogFeat"/>
       </optional>
    </define>
    <define name="teimodel.offsetLike_sequenceOptionalRepeatable">
       <zeroOrMore>
-         <ref name="teioffset"/>
-      </zeroOrMore>
-      <zeroOrMore>
          <ref name="teigeogFeat"/>
       </zeroOrMore>
    </define>
    <define name="teimodel.offsetLike_sequenceRepeatable">
-      <oneOrMore>
-         <ref name="teioffset"/>
-      </oneOrMore>
       <oneOrMore>
          <ref name="teigeogFeat"/>
       </oneOrMore>
@@ -1822,7 +1810,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="teilistEvent"/>
          <ref name="teilistPerson"/>
          <ref name="teilistPlace"/>
-         <ref name="teilistNym"/>
       </choice>
    </define>
    <define name="teimodel.listLike_alternation">
@@ -1832,7 +1819,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="teilistEvent"/>
          <ref name="teilistPerson"/>
          <ref name="teilistPlace"/>
-         <ref name="teilistNym"/>
       </choice>
    </define>
    <define name="teimodel.listLike_sequence">
@@ -1841,7 +1827,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <ref name="teilistEvent"/>
       <ref name="teilistPerson"/>
       <ref name="teilistPlace"/>
-      <ref name="teilistNym"/>
    </define>
    <define name="teimodel.listLike_sequenceOptional">
       <optional>
@@ -1858,9 +1843,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </optional>
       <optional>
          <ref name="teilistPlace"/>
-      </optional>
-      <optional>
-         <ref name="teilistNym"/>
       </optional>
    </define>
    <define name="teimodel.listLike_sequenceOptionalRepeatable">
@@ -1879,9 +1861,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <zeroOrMore>
          <ref name="teilistPlace"/>
       </zeroOrMore>
-      <zeroOrMore>
-         <ref name="teilistNym"/>
-      </zeroOrMore>
    </define>
    <define name="teimodel.listLike_sequenceRepeatable">
       <oneOrMore>
@@ -1898,9 +1877,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </oneOrMore>
       <oneOrMore>
          <ref name="teilistPlace"/>
-      </oneOrMore>
-      <oneOrMore>
-         <ref name="teilistNym"/>
       </oneOrMore>
    </define>
    <define name="teimodel.noteLike">
@@ -1968,32 +1944,17 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <choice>
          <ref name="teistage"/>
          <ref name="teimove"/>
-         <ref name="teiview"/>
-         <ref name="teicamera"/>
-         <ref name="teisound"/>
-         <ref name="teicaption"/>
-         <ref name="teitech"/>
       </choice>
    </define>
    <define name="teimodel.stageLike_alternation">
       <choice>
          <ref name="teistage"/>
          <ref name="teimove"/>
-         <ref name="teiview"/>
-         <ref name="teicamera"/>
-         <ref name="teisound"/>
-         <ref name="teicaption"/>
-         <ref name="teitech"/>
       </choice>
    </define>
    <define name="teimodel.stageLike_sequence">
       <ref name="teistage"/>
       <ref name="teimove"/>
-      <ref name="teiview"/>
-      <ref name="teicamera"/>
-      <ref name="teisound"/>
-      <ref name="teicaption"/>
-      <ref name="teitech"/>
    </define>
    <define name="teimodel.stageLike_sequenceOptional">
       <optional>
@@ -2001,21 +1962,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </optional>
       <optional>
          <ref name="teimove"/>
-      </optional>
-      <optional>
-         <ref name="teiview"/>
-      </optional>
-      <optional>
-         <ref name="teicamera"/>
-      </optional>
-      <optional>
-         <ref name="teisound"/>
-      </optional>
-      <optional>
-         <ref name="teicaption"/>
-      </optional>
-      <optional>
-         <ref name="teitech"/>
       </optional>
    </define>
    <define name="teimodel.stageLike_sequenceOptionalRepeatable">
@@ -2025,21 +1971,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <zeroOrMore>
          <ref name="teimove"/>
       </zeroOrMore>
-      <zeroOrMore>
-         <ref name="teiview"/>
-      </zeroOrMore>
-      <zeroOrMore>
-         <ref name="teicamera"/>
-      </zeroOrMore>
-      <zeroOrMore>
-         <ref name="teisound"/>
-      </zeroOrMore>
-      <zeroOrMore>
-         <ref name="teicaption"/>
-      </zeroOrMore>
-      <zeroOrMore>
-         <ref name="teitech"/>
-      </zeroOrMore>
    </define>
    <define name="teimodel.stageLike_sequenceRepeatable">
       <oneOrMore>
@@ -2047,21 +1978,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </oneOrMore>
       <oneOrMore>
          <ref name="teimove"/>
-      </oneOrMore>
-      <oneOrMore>
-         <ref name="teiview"/>
-      </oneOrMore>
-      <oneOrMore>
-         <ref name="teicamera"/>
-      </oneOrMore>
-      <oneOrMore>
-         <ref name="teisound"/>
-      </oneOrMore>
-      <oneOrMore>
-         <ref name="teicaption"/>
-      </oneOrMore>
-      <oneOrMore>
-         <ref name="teitech"/>
       </oneOrMore>
    </define>
    <define name="teimodel.entryPart">
@@ -2126,7 +2042,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="teibloc"/>
          <ref name="teicountry"/>
          <ref name="teiregion"/>
-         <ref name="teidistrict"/>
          <ref name="teisettlement"/>
          <ref name="teigeogName"/>
       </choice>
@@ -2137,7 +2052,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="teibloc"/>
          <ref name="teicountry"/>
          <ref name="teiregion"/>
-         <ref name="teidistrict"/>
          <ref name="teisettlement"/>
          <ref name="teigeogName"/>
       </choice>
@@ -2147,7 +2061,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <ref name="teibloc"/>
       <ref name="teicountry"/>
       <ref name="teiregion"/>
-      <ref name="teidistrict"/>
       <ref name="teisettlement"/>
       <ref name="teigeogName"/>
    </define>
@@ -2163,9 +2076,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </optional>
       <optional>
          <ref name="teiregion"/>
-      </optional>
-      <optional>
-         <ref name="teidistrict"/>
       </optional>
       <optional>
          <ref name="teisettlement"/>
@@ -2188,9 +2098,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="teiregion"/>
       </zeroOrMore>
       <zeroOrMore>
-         <ref name="teidistrict"/>
-      </zeroOrMore>
-      <zeroOrMore>
          <ref name="teisettlement"/>
       </zeroOrMore>
       <zeroOrMore>
@@ -2209,9 +2116,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </oneOrMore>
       <oneOrMore>
          <ref name="teiregion"/>
-      </oneOrMore>
-      <oneOrMore>
-         <ref name="teidistrict"/>
       </oneOrMore>
       <oneOrMore>
          <ref name="teisettlement"/>
@@ -2460,11 +2364,8 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
    </define>
    <define name="teimodel.divWrapper">
       <choice>
-         <ref name="teibyline"/>
-         <ref name="teidateline"/>
          <ref name="teiargument"/>
          <ref name="teiepigraph"/>
-         <ref name="teisalute"/>
          <ref name="teidocAuthor"/>
          <ref name="teidocDate"/>
       </choice>
@@ -2472,8 +2373,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
    <define name="teimodel.divTopPart">
       <choice>
          <ref name="teimodel.headLike"/>
-         <ref name="teiopener"/>
-         <ref name="teisigned"/>
       </choice>
    </define>
    <define name="teimodel.divTop">
@@ -2494,7 +2393,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
    <define name="teimodel.pLike.front">
       <choice>
          <ref name="teihead"/>
-         <ref name="teibyline"/>
          <ref name="teiargument"/>
          <ref name="teiepigraph"/>
          <ref name="teidocTitle"/>
@@ -2508,9 +2406,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
    <define name="teimodel.divBottomPart">
       <choice>
          <ref name="teitrailer"/>
-         <ref name="teicloser"/>
-         <ref name="teisigned"/>
-         <ref name="teipostscript"/>
       </choice>
    </define>
    <define name="teimodel.divBottom">
@@ -2521,13 +2416,11 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
    </define>
    <define name="teimodel.titlepagePart">
       <choice>
-         <ref name="teibyline"/>
          <ref name="teiargument"/>
          <ref name="teiepigraph"/>
          <ref name="teidocTitle"/>
          <ref name="teititlePart"/>
          <ref name="teidocAuthor"/>
-         <ref name="teiimprimatur"/>
          <ref name="teidocEdition"/>
          <ref name="teidocImprint"/>
          <ref name="teidocDate"/>
@@ -2555,7 +2448,6 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <choice>
          <ref name="teirole"/>
          <ref name="teiroleDesc"/>
-         <ref name="teiactor"/>
       </choice>
    </define>
    <define name="teimodel.addressLike">
@@ -2760,39 +2652,7 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <notAllowed/>
    </define>
    <define name="teimodel.div1Like">
-      <choice>
-         <ref name="teidiv1"/>
-      </choice>
-   </define>
-   <define name="teimodel.div2Like">
-      <choice>
-         <ref name="teidiv2"/>
-      </choice>
-   </define>
-   <define name="teimodel.div3Like">
-      <choice>
-         <ref name="teidiv3"/>
-      </choice>
-   </define>
-   <define name="teimodel.div4Like">
-      <choice>
-         <ref name="teidiv4"/>
-      </choice>
-   </define>
-   <define name="teimodel.div5Like">
-      <choice>
-         <ref name="teidiv5"/>
-      </choice>
-   </define>
-   <define name="teimodel.div6Like">
-      <choice>
-         <ref name="teidiv6"/>
-      </choice>
-   </define>
-   <define name="teimodel.div7Like">
-      <choice>
-         <ref name="teidiv7"/>
-      </choice>
+      <notAllowed/>
    </define>
    <define name="teimodel.applicationLike">
       <choice>
@@ -4292,14 +4152,6 @@ The attributes @to and @from on <name/> may each contain only a single value</re
          <empty/>
       </element>
    </define>
-   <define name="teiactor">
-      <element name="actor">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains the name of an actor appearing within a cast list. [7.1.4. Cast Lists]</a:documentation>
-         <ref name="teimacro.phraseSeq"/>
-         <ref name="teiatt.global.attributes"/>
-         <empty/>
-      </element>
-   </define>
    <define name="teispGrp">
       <element name="spGrp">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(speech group) contains a group of speeches or songs in a performance text presented in a source as constituting a single unit or number. [7.2.3. Grouped Speeches]</a:documentation>
@@ -4364,96 +4216,6 @@ Sample values include: 1] L(left) ; 2] R(right) ; 3] C(center) </a:documentation
          <optional>
             <attribute name="perf">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(performance) identifies the performance or performances in which this movement occurred as specified by pointing to one or more performance elements.</a:documentation>
-               <list>
-                  <oneOrMore>
-                     <data type="anyURI"/>
-                  </oneOrMore>
-               </list>
-            </attribute>
-         </optional>
-         <empty/>
-      </element>
-   </define>
-   <define name="teiview">
-      <element name="view">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">describes the visual context of some part of a screen play in terms of what the spectator sees, generally independent of any dialogue. [7.3.1. Technical Information 7.3. Other Types of Performance Text]</a:documentation>
-         <ref name="teimacro.specialPara"/>
-         <ref name="teiatt.global.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teicamera">
-      <element name="camera">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">describes a particular camera angle or viewpoint in a screen play. [7.3.1. Technical Information 7.3. Other Types of Performance Text]</a:documentation>
-         <ref name="teimacro.paraContent"/>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teisound">
-      <element name="sound">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">describes a sound effect or musical sequence specified within a screen play or radio script. [7.3.1. Technical Information 7.3. Other Types of Performance Text]</a:documentation>
-         <ref name="teimacro.paraContent"/>
-         <ref name="teiatt.global.attributes"/>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">categorizes the sound in some respect, e.g. as music, special effect, etc.</a:documentation>
-               <data type="token">
-                  <param name="pattern">(\p{L}|\p{N}|\p{P}|\p{S})+</param>
-               </data>
-            </attribute>
-         </optional>
-         <optional>
-            <attribute xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
-                       name="discrete"
-                       a:defaultValue="unknown">
-               <a:documentation>indicates whether the sound overlaps the surrounding speeches or interrupts them.</a:documentation>
-               <choice>
-                  <data type="boolean"/>
-                  <choice>
-                     <value>unknown</value>
-                     <a:documentation/>
-                     <value>inapplicable</value>
-                     <a:documentation/>
-                  </choice>
-               </choice>
-            </attribute>
-         </optional>
-         <empty/>
-      </element>
-   </define>
-   <define name="teicaption">
-      <element name="caption">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains the text of a caption or other text displayed as part of a film script or screenplay. [7.3.1. Technical Information 7.3. Other Types of Performance Text]</a:documentation>
-         <ref name="teimacro.paraContent"/>
-         <ref name="teiatt.global.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teitech">
-      <element name="tech">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(technical stage direction) describes a special-purpose stage direction that is not meant for the actors. [7.3.1. Technical Information]</a:documentation>
-         <ref name="teimacro.paraContent"/>
-         <ref name="teiatt.global.attributes"/>
-         <optional>
-            <attribute name="type">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">categorizes the technical stage direction.</a:documentation>
-               <choice>
-                  <value>light</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">a lighting cue</a:documentation>
-                  <value>sound</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">a sound cue</a:documentation>
-                  <value>prop</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">a prop cue</a:documentation>
-                  <value>block</value>
-                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">a blocking instruction</a:documentation>
-               </choice>
-            </attribute>
-         </optional>
-         <optional>
-            <attribute name="perf">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(performance) points to one or more performance elements documenting the performance or performances to which this technical direction applies.</a:documentation>
                <list>
                   <oneOrMore>
                      <data type="anyURI"/>
@@ -6199,17 +5961,6 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
          <empty/>
       </element>
    </define>
-   <define name="teidistrict">
-      <element name="district">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains the name of any kind of subdivision of a settlement, such as a parish, ward, or other administrative or geographic unit. [13.2.3. Place Names]</a:documentation>
-         <ref name="teimacro.phraseSeq"/>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.naming.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.datable.attributes"/>
-         <empty/>
-      </element>
-   </define>
    <define name="teisettlement">
       <element name="settlement">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains the name of a settlement such as a city, town, or village identified as a single geo-political or administrative unit. [13.2.3. Place Names]</a:documentation>
@@ -6218,18 +5969,6 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
          <ref name="teiatt.naming.attributes"/>
          <ref name="teiatt.typed.attributes"/>
          <ref name="teiatt.datable.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teioffset">
-      <element name="offset">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">marks that part of a relative temporal or spatial expression which indicates the direction of the offset between the two place names, dates, or times involved in the expression. [13.2.3. Place Names]</a:documentation>
-         <ref name="teimacro.phraseSeq"/>
-         <ref name="teiatt.datable.attributes"/>
-         <ref name="teiatt.editLike.attributes"/>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.naming.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
          <empty/>
       </element>
    </define>
@@ -7321,81 +7060,6 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
          <empty/>
       </element>
    </define>
-   <define name="teinym">
-      <element name="nym">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(canonical name) contains the definition for a canonical name or name component of any kind. [13.3.5. Names and Nyms]</a:documentation>
-         <group>
-      
-        
-            <zeroOrMore>
-               <ref name="teimodel.entryPart"/>
-            </zeroOrMore>
-        
-      
-      
-        
-            <zeroOrMore>
-               <ref name="teimodel.pLike"/>
-            </zeroOrMore>
-        
-      
-      
-        
-            <zeroOrMore>
-               <ref name="teinym"/>
-            </zeroOrMore>
-        
-      
-         </group>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.sortable.attributes"/>
-         <optional>
-            <attribute name="parts">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to constituent nyms</a:documentation>
-               <list>
-                  <oneOrMore>
-                     <data type="anyURI"/>
-                  </oneOrMore>
-               </list>
-            </attribute>
-         </optional>
-         <empty/>
-      </element>
-   </define>
-   <define name="teilistNym">
-      <element name="listNym">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(list of canonical names) contains a list of nyms, that is, standardized names for any thing. [13.3.5. Names and Nyms]</a:documentation>
-         <group>
-      
-            <zeroOrMore>
-               <ref name="teimodel.headLike"/>
-            </zeroOrMore>
-      
-      
-            <oneOrMore>
-               <choice>
-                  <ref name="teinym"/>
-                  <ref name="teilistNym"/>
-               </choice>
-            </oneOrMore>
-      
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teirelation"/>
-                  <ref name="teilistRelation"/>
-               </choice>
-            </zeroOrMore>
-      
-         </group>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.declarable.attributes"/>
-         <ref name="teiatt.sortable.attributes"/>
-         <empty/>
-      </element>
-   </define>
    <define name="teiTEI">
       <element name="TEI">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(TEI document) contains a single TEI-conformant document, combining a single TEI header with one or more members of the model.resourceLike class. Multiple TEI elements may be combined to form a teiCorpus element. [4. Default Text Structure 15.1. Varieties of Composite Text]</a:documentation>
@@ -7825,522 +7489,6 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
          <empty/>
       </element>
    </define>
-   <define name="teidiv1">
-      <element name="div1">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(level-1 text division) contains a first-level subdivision of the front, body, or back of a text. [4.1.2. Numbered Divisions]</a:documentation>
-         <group>
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teimodel.divTop"/>
-                  <ref name="teimodel.global"/>
-               </choice>
-            </zeroOrMore>
-      
-            <optional>
-               <group>
-                  <choice>
-                     <oneOrMore>
-                        <group>
-                           <choice>
-                              <ref name="teimodel.div2Like"/>
-                              <ref name="teimodel.divGenLike"/>
-                           </choice>
-            
-                           <zeroOrMore>
-                              <ref name="teimodel.global"/>
-                           </zeroOrMore>
-            
-                        </group>
-                     </oneOrMore>
-                     <group>
-                        <oneOrMore>
-                           <group>
-              
-                              <ref name="teimodel.common"/>
-              
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </oneOrMore>
-                        <zeroOrMore>
-                           <group>
-                              <choice>
-                                 <ref name="teimodel.div2Like"/>
-                                 <ref name="teimodel.divGenLike"/>
-                              </choice>
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </zeroOrMore>
-                     </group>
-                  </choice>
-                  <zeroOrMore>
-                     <group>
-          
-                        <ref name="teimodel.divBottom"/>
-          
-          
-                        <zeroOrMore>
-                           <ref name="teimodel.global"/>
-                        </zeroOrMore>
-          
-                     </group>
-                  </zeroOrMore>
-               </group>
-            </optional>
-         </group>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.divLike.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.declaring.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teidiv2">
-      <element name="div2">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(level-2 text division) contains a second-level subdivision of the front, body, or back of a text. [4.1.2. Numbered Divisions]</a:documentation>
-         <group>
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teimodel.divTop"/>
-                  <ref name="teimodel.global"/>
-               </choice>
-            </zeroOrMore>
-      
-            <optional>
-               <group>
-                  <choice>
-                     <oneOrMore>
-                        <group>
-                           <choice>
-                              <ref name="teimodel.div3Like"/>
-                              <ref name="teimodel.divGenLike"/>
-                           </choice>
-            
-                           <zeroOrMore>
-                              <ref name="teimodel.global"/>
-                           </zeroOrMore>
-            
-                        </group>
-                     </oneOrMore>
-                     <group>
-                        <oneOrMore>
-                           <group>
-              
-                              <ref name="teimodel.common"/>
-              
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </oneOrMore>
-                        <zeroOrMore>
-                           <group>
-                              <choice>
-                                 <ref name="teimodel.div3Like"/>
-                                 <ref name="teimodel.divGenLike"/>
-                              </choice>
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </zeroOrMore>
-                     </group>
-                  </choice>
-                  <zeroOrMore>
-                     <group>
-          
-                        <ref name="teimodel.divBottom"/>
-          
-          
-                        <zeroOrMore>
-                           <ref name="teimodel.global"/>
-                        </zeroOrMore>
-          
-                     </group>
-                  </zeroOrMore>
-               </group>
-            </optional>
-         </group>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.divLike.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.declaring.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teidiv3">
-      <element name="div3">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(level-3 text division) contains a third-level subdivision of the front, body, or back of a text. [4.1.2. Numbered Divisions]</a:documentation>
-         <group>
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teimodel.divTop"/>
-                  <ref name="teimodel.global"/>
-               </choice>
-            </zeroOrMore>
-      
-            <optional>
-               <group>
-                  <choice>
-                     <oneOrMore>
-                        <group>
-                           <choice>
-                              <ref name="teimodel.div4Like"/>
-                              <ref name="teimodel.divGenLike"/>
-                           </choice>
-            
-                           <zeroOrMore>
-                              <ref name="teimodel.global"/>
-                           </zeroOrMore>
-            
-                        </group>
-                     </oneOrMore>
-                     <group>
-                        <oneOrMore>
-                           <group>
-              
-                              <ref name="teimodel.common"/>
-              
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </oneOrMore>
-                        <zeroOrMore>
-                           <group>
-                              <choice>
-                                 <ref name="teimodel.div4Like"/>
-                                 <ref name="teimodel.divGenLike"/>
-                              </choice>
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </zeroOrMore>
-                     </group>
-                  </choice>
-                  <zeroOrMore>
-                     <group>
-          
-                        <ref name="teimodel.divBottom"/>
-          
-          
-                        <zeroOrMore>
-                           <ref name="teimodel.global"/>
-                        </zeroOrMore>
-          
-                     </group>
-                  </zeroOrMore>
-               </group>
-            </optional>
-         </group>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.divLike.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.declaring.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teidiv4">
-      <element name="div4">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(level-4 text division) contains a fourth-level subdivision of the front, body, or back of a text. [4.1.2. Numbered Divisions]</a:documentation>
-         <group>
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teimodel.divTop"/>
-                  <ref name="teimodel.global"/>
-               </choice>
-            </zeroOrMore>
-      
-            <optional>
-               <group>
-                  <choice>
-                     <oneOrMore>
-                        <group>
-                           <choice>
-                              <ref name="teimodel.div5Like"/>
-                              <ref name="teimodel.divGenLike"/>
-                           </choice>
-            
-                           <zeroOrMore>
-                              <ref name="teimodel.global"/>
-                           </zeroOrMore>
-            
-                        </group>
-                     </oneOrMore>
-                     <group>
-                        <oneOrMore>
-                           <group>
-              
-                              <ref name="teimodel.common"/>
-              
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </oneOrMore>
-                        <zeroOrMore>
-                           <group>
-                              <choice>
-                                 <ref name="teimodel.div5Like"/>
-                                 <ref name="teimodel.divGenLike"/>
-                              </choice>
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </zeroOrMore>
-                     </group>
-                  </choice>
-                  <zeroOrMore>
-                     <group>
-          
-                        <ref name="teimodel.divBottom"/>
-          
-          
-                        <zeroOrMore>
-                           <ref name="teimodel.global"/>
-                        </zeroOrMore>
-          
-                     </group>
-                  </zeroOrMore>
-               </group>
-            </optional>
-         </group>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.divLike.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.declaring.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teidiv5">
-      <element name="div5">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(level-5 text division) contains a fifth-level subdivision of the front, body, or back of a text. [4.1.2. Numbered Divisions]</a:documentation>
-         <group>
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teimodel.divTop"/>
-                  <ref name="teimodel.global"/>
-               </choice>
-            </zeroOrMore>
-      
-            <optional>
-               <group>
-                  <choice>
-                     <oneOrMore>
-                        <group>
-                           <choice>
-                              <ref name="teimodel.div6Like"/>
-                              <ref name="teimodel.divGenLike"/>
-                           </choice>
-            
-                           <zeroOrMore>
-                              <ref name="teimodel.global"/>
-                           </zeroOrMore>
-            
-                        </group>
-                     </oneOrMore>
-                     <group>
-                        <oneOrMore>
-                           <group>
-              
-                              <ref name="teimodel.common"/>
-              
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </oneOrMore>
-                        <zeroOrMore>
-                           <group>
-                              <choice>
-                                 <ref name="teimodel.div6Like"/>
-                                 <ref name="teimodel.divGenLike"/>
-                              </choice>
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </zeroOrMore>
-                     </group>
-                  </choice>
-                  <zeroOrMore>
-                     <group>
-          
-                        <ref name="teimodel.divBottom"/>
-          
-          
-                        <zeroOrMore>
-                           <ref name="teimodel.global"/>
-                        </zeroOrMore>
-          
-                     </group>
-                  </zeroOrMore>
-               </group>
-            </optional>
-         </group>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.divLike.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.declaring.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teidiv6">
-      <element name="div6">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(level-6 text division) contains a sixth-level subdivision of the front, body, or back of a text. [4.1.2. Numbered Divisions]</a:documentation>
-         <group>
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teimodel.divTop"/>
-                  <ref name="teimodel.global"/>
-               </choice>
-            </zeroOrMore>
-      
-            <optional>
-               <group>
-                  <choice>
-                     <oneOrMore>
-                        <group>
-                           <choice>
-                              <ref name="teimodel.div7Like"/>
-                              <ref name="teimodel.divGenLike"/>
-                           </choice>
-            
-                           <zeroOrMore>
-                              <ref name="teimodel.global"/>
-                           </zeroOrMore>
-            
-                        </group>
-                     </oneOrMore>
-                     <group>
-                        <oneOrMore>
-                           <group>
-              
-                              <ref name="teimodel.common"/>
-              
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </oneOrMore>
-                        <zeroOrMore>
-                           <group>
-                              <choice>
-                                 <ref name="teimodel.div7Like"/>
-                                 <ref name="teimodel.divGenLike"/>
-                              </choice>
-              
-                              <zeroOrMore>
-                                 <ref name="teimodel.global"/>
-                              </zeroOrMore>
-              
-                           </group>
-                        </zeroOrMore>
-                     </group>
-                  </choice>
-                  <zeroOrMore>
-                     <group>
-          
-                        <ref name="teimodel.divBottom"/>
-          
-          
-                        <zeroOrMore>
-                           <ref name="teimodel.global"/>
-                        </zeroOrMore>
-          
-                     </group>
-                  </zeroOrMore>
-               </group>
-            </optional>
-         </group>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.divLike.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.declaring.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teidiv7">
-      <element name="div7">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(level-7 text division) contains the smallest possible subdivision of the front, body or back of a text, larger than a paragraph. [4.1.2. Numbered Divisions]</a:documentation>
-         <group>
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teimodel.divTop"/>
-                  <ref name="teimodel.global"/>
-               </choice>
-            </zeroOrMore>
-      
-            <optional>
-               <group>
-                  <oneOrMore>
-                     <group>
-          
-                        <ref name="teimodel.common"/>
-          
-          
-                        <zeroOrMore>
-                           <ref name="teimodel.global"/>
-                        </zeroOrMore>
-          
-                     </group>
-                  </oneOrMore>
-                  <zeroOrMore>
-                     <group>
-          
-                        <ref name="teimodel.divBottom"/>
-          
-          
-                        <zeroOrMore>
-                           <ref name="teimodel.global"/>
-                        </zeroOrMore>
-          
-                     </group>
-                  </zeroOrMore>
-               </group>
-            </optional>
-         </group>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.divLike.attributes"/>
-         <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.declaring.attributes"/>
-         <empty/>
-      </element>
-   </define>
    <define name="teitrailer">
       <element name="trailer">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a closing title or footer appearing at the end of a division of a text. [4.2.4. Content of Textual Divisions 4.2. Elements Common to All Divisions]</a:documentation>
@@ -8357,38 +7505,6 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
          </zeroOrMore>
          <ref name="teiatt.global.attributes"/>
          <ref name="teiatt.typed.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teibyline">
-      <element name="byline">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains the primary statement of responsibility given for a work on its title page or at the head or end of the work. [4.2.2. Openers and Closers 4.5. Front Matter]</a:documentation>
-         <zeroOrMore>
-            <choice>
-               <text/>
-               <ref name="teimodel.gLike"/>
-               <ref name="teimodel.phrase"/>
-               <ref name="teidocAuthor"/>
-               <ref name="teimodel.global"/>
-            </choice>
-         </zeroOrMore>
-         <ref name="teiatt.global.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teidateline">
-      <element name="dateline">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a brief description of the place, date, time, etc. of production of a letter, newspaper story, or other work, prefixed or suffixed to it as a kind of heading or trailer. [4.2.2. Openers and Closers]</a:documentation>
-         <zeroOrMore>
-            <choice>
-               <text/>
-               <ref name="teimodel.gLike"/>
-               <ref name="teimodel.phrase"/>
-               <ref name="teimodel.global"/>
-               <ref name="teidocDate"/>
-            </choice>
-         </zeroOrMore>
-         <ref name="teiatt.global.attributes"/>
          <empty/>
       </element>
    </define>
@@ -8430,105 +7546,6 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
                <ref name="teimodel.global"/>
             </choice>
          </zeroOrMore>
-         <ref name="teiatt.global.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teiopener">
-      <element name="opener">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">groups together dateline, byline, salutation, and similar phrases appearing as a preliminary group at the start of a division, especially of a letter. [4.2. Elements Common to All Divisions]</a:documentation>
-         <zeroOrMore>
-            <choice>
-               <text/>
-               <ref name="teimodel.gLike"/>
-               <ref name="teimodel.phrase"/>
-        
-               <ref name="teiargument"/>
-               <ref name="teibyline"/>
-               <ref name="teidateline"/>
-               <ref name="teiepigraph"/>
-               <ref name="teisalute"/>
-               <ref name="teisigned"/>
-               <ref name="teimodel.global"/>
-            </choice>
-         </zeroOrMore>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.written.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teicloser">
-      <element name="closer">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">groups together salutations, datelines, and similar phrases appearing as a final group at the end of a division, especially of a letter. [4.2.2. Openers and Closers 4.2. Elements Common to All Divisions]</a:documentation>
-         <zeroOrMore>
-            <choice>
-               <text/>
-               <ref name="teimodel.gLike"/>
-               <ref name="teisigned"/>
-               <ref name="teidateline"/>
-               <ref name="teisalute"/>
-               <ref name="teimodel.phrase"/>
-               <ref name="teimodel.global"/>
-            </choice>
-         </zeroOrMore>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.written.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teisalute">
-      <element name="salute">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(salutation) contains a salutation or greeting prefixed to a foreword, dedicatory epistle, or other division of a text, or the salutation in the closing of a letter, preface, etc. [4.2.2. Openers and Closers]</a:documentation>
-         <ref name="teimacro.paraContent"/>
-         <ref name="teiatt.global.attributes"/>
-         <ref name="teiatt.written.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teisigned">
-      <element name="signed">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(signature) contains the closing salutation, etc., appended to a foreword, dedicatory epistle, or other division of a text. [4.2.2. Openers and Closers]</a:documentation>
-         <ref name="teimacro.paraContent"/>
-         <ref name="teiatt.global.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teipostscript">
-      <element name="postscript">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a postscript, e.g. to a letter. [4.2. Elements Common to All Divisions]</a:documentation>
-         <group>
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teimodel.global"/>
-                  <ref name="teimodel.divTopPart"/>
-               </choice>
-            </zeroOrMore>
-      
-      
-            <ref name="teimodel.common"/>
-      
-      
-            <zeroOrMore>
-               <choice>
-                  <ref name="teimodel.global"/>
-                  <ref name="teimodel.common"/>
-               </choice>
-            </zeroOrMore>
-      
-            <zeroOrMore>
-               <group>
-        
-                  <ref name="teimodel.divBottomPart"/>
-        
-        
-                  <zeroOrMore>
-                     <ref name="teimodel.global"/>
-                  </zeroOrMore>
-        
-               </group>
-            </zeroOrMore>
-         </group>
          <ref name="teiatt.global.attributes"/>
          <empty/>
       </element>
@@ -8628,14 +7645,6 @@ Suggested values include: 1] main; 2] sub(subordinate) ; 3] alt(alternate) ; 4] 
          <ref name="teimacro.phraseSeq"/>
          <ref name="teiatt.global.attributes"/>
          <ref name="teiatt.canonical.attributes"/>
-         <empty/>
-      </element>
-   </define>
-   <define name="teiimprimatur">
-      <element name="imprimatur">
-         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a formal statement authorizing the publication of a work, sometimes required to appear on a title page or its verso. [4.6. Title Pages]</a:documentation>
-         <ref name="teimacro.paraContent"/>
-         <ref name="teiatt.global.attributes"/>
          <empty/>
       </element>
    </define>
