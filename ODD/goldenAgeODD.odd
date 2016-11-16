@@ -52,6 +52,9 @@
          
          <attList>
             <attDef ident="ana" mode="replace" usage="opt">
+               <datatype>
+                  <dataRef key="teidata.word"/>
+               </datatype>
                <valList type="closed">
                   <valItem ident="noun"/>
                   <valItem ident="verb"/>
