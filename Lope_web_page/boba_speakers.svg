@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="1100"
+     viewBox="0 0 1000 1000">
+   <g transform="translate(30, 500)">
+      <line x1="30"
+            y1="0"
+            x2="800"
+            y2="0"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="30"
+            y1="0"
+            x2="30"
+            y2="-450"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="100"
+            y="-400"
+            fill="black"
+            font-size="32"
+            font-family="avenir">Number of
+                    Speeches by Character</text>
+      <text x="220"
+            y="-350"
+            fill="purple"
+            font-size="32"
+            font-family="avenir">La dama
+                    boba</text>
+      <text x="250" y="-310" fill="black" font-size="16">Total speeches = 1573</text>
+      <!--25669-->
+      <!--359-->
+      <line x1="50"
+            x2="50"
+            y1="0"
+            y2="-359"
+            stroke="maroon"
+            stroke-width="30"/>
+      <!--24066-->
+      <!--243-->
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-243"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--12725-->
+      <!--181-->
+      <line x1="150"
+            x2="150"
+            y1="0"
+            y2="-181"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--15641-->
+      <!--181-->
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-181"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--13278-->
+      <!--167-->
+      <line x1="250"
+            x2="250"
+            y1="0"
+            y2="-167"
+            stroke="maroon"
+            stroke-width="30"/>
+      <!--5414-->
+      <!--85-->
+      <line x1="300"
+            x2="300"
+            y1="0"
+            y2="-85"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--6777-->
+      <!--72-->
+      <line x1="350"
+            x2="350"
+            y1="0"
+            y2="-72"
+            stroke="maroon"
+            stroke-width="30"/>
+      <!--3407-->
+      <!--52-->
+      <line x1="400"
+            x2="400"
+            y1="0"
+            y2="-52"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--4381-->
+      <!--48-->
+      <line x1="450"
+            x2="450"
+            y1="0"
+            y2="-48"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--2236-->
+      <!--40-->
+      <line x1="500"
+            x2="500"
+            y1="0"
+            y2="-40"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--2437-->
+      <!--38-->
+      <line x1="550"
+            x2="550"
+            y1="0"
+            y2="-38"
+            stroke="maroon"
+            stroke-width="30"/>
+      <!--1491-->
+      <!--26-->
+      <line x1="600"
+            x2="600"
+            y1="0"
+            y2="-26"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--900-->
+      <!--24-->
+      <line x1="650"
+            x2="650"
+            y1="0"
+            y2="-24"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--1491-->
+      <!--15-->
+      <line x1="700"
+            x2="700"
+            y1="0"
+            y2="-15"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <!--2381-->
+      <!--1-->
+      <line x1="750"
+            x2="750"
+            y1="0"
+            y2="-1"
+            stroke="steelblue"
+            stroke-width="30"/>
+   </g>
+</svg>
