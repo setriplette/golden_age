@@ -11,7 +11,7 @@
         <html>
             <head>
                 <title>La dama boba</title>
-                <link rel="stylesheet" type="text/css" href="styleLope.css"/>
+                <link rel="stylesheet" type="text/css" href="reading_views.css"/>
             </head>
             <body>
                 <h1>La dama boba</h1>

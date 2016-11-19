@@ -74,8 +74,9 @@ ACT III
 </castList>
         </front>
             <body>
-<stage>La escena es en Ronda, en Adamuz y Madrid</stage>
+
 <div type="act" n="I" part="N" org="uniform" sample="complete">
+    <stage>La escena es en Ronda, en Adamuz y Madrid</stage>
 <stage>Sala en casa de don Bernardo, en Ronda.</stage>
 <div type="scene" n="I" part="N" org="uniform" sample="complete">
 <stage>DOÑA MARÍA y LÜISA, con unos papeles</stage>
