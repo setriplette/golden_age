@@ -2,7 +2,7 @@
 
 
 html{
-	background-color: lightgray;
+	background-color: white;
 	font-family: 'Avenir';
 }
 
@@ -103,7 +103,7 @@ span.line{
     font-size: 16px;
     line-height: 1.5;
     position: absolute;
-    left: 180px;
+    left: 250px;
     
     font-family: 'Avenir';
     
@@ -117,13 +117,13 @@ span.character {
     left: 65px;
 }
 span.stage {
-    color: white;
+    color: dimgray;
     font-family: 'Avenir';
     font-size: 16px;
 }
 span.act {
     font-family: 'Avenir';
-    font-size: 16px;
+    font-size: 24px;
     color: maroon;
     padding-top: 30px;
     padding-bottom: 30px;

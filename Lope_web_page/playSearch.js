@@ -18,3 +18,5 @@ function SearchFunction() {
     } 
   }
 }
+
+//adapted from http://www.w3schools.com/howto/howto_js_filter_table.asp
