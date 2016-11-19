@@ -48,13 +48,13 @@ h3 {
 }
 
 
-/*span.emotion{
+span.emotion.on {
 	color:red;
-}*/
+}
 
-/*span.body{
+span.body.on {
 	color:blue;
-}*/
+}
 
 span.floating{
 	color:steelblue;

@@ -12,10 +12,21 @@
             <head>
                 <title>La dama boba</title>
                 <link rel="stylesheet" type="text/css" href="reading_views.css"/>
+                <script type="text/javascript" src="span_toggle.js"></script>
             </head>
             <body>
+                
                 <h1>La dama boba</h1>
                 <h2>Lope de Vega</h2>
+                <div id="fieldset">
+                    <fieldset>
+                        <legend>Click to Highlight:</legend>
+                        <input type="checkbox" id="TGemotions"/>
+                        <span>Emotion</span>
+                        <input type="checkbox" id="TGbodies"/>
+                        <span>Body Parts</span>
+                    </fieldset>
+                </div>
                 <table>
                     <tr>
                         <!--<th>Character</th>
@@ -70,13 +81,13 @@
     </xsl:template>
     <xsl:template match="speaker">
         <xsl:choose>
-            <xsl:when test=".[contains(., 'FINEA')]">
-                <span class="protagonist">
+            <xsl:when test="parent::sp[@ana='f']">
+                <span class="female">
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
             <xsl:otherwise>
-                <span class="character">
+                <span class="male">
                     <xsl:apply-templates/>
                 </span>
             </xsl:otherwise>
@@ -105,6 +116,7 @@
     </xsl:template>
     <xsl:template match="sp//stage"><span class="aside"><xsl:apply-templates/></span></xsl:template>
     <xsl:template match="div//rs[@type='emotion']"><span class="emotion"><xsl:apply-templates/></span></xsl:template>
+    <xsl:template match="div//rs[@type='body']"><span class="body"><xsl:apply-templates/></span></xsl:template>
     <xsl:template match="div//rs[@type='body']"><span class="body"><xsl:apply-templates/></span></xsl:template>
 
 </xsl:stylesheet>
