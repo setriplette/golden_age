@@ -1,4 +1,6 @@
-<TEI>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../ODD/out/goldenAgeODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../ODD/out/goldenAgeODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!--2016-11-08 ebb: Our ODD-generated schematron rules actually DO work! We needed to mark one more checkbox in associating our schema, so that our Schematron rules would be read. In oXygen, you go to Document > Schema > Associate Schema, and when you associate your schema, check the box next to:
+"Add additional association for embedded schematron rules." I did that, and the schematron rule now fires! Huzzah! Stopgap schematron is no longer required: we can do all our schema development for the TEI within the ODD. Notice the above two lines refer to the same .rng file, generated as XML, and one points to the namespace for relaxNG and the other to the namespace for Schematron.
+--><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
