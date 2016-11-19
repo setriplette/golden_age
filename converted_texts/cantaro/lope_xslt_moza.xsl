@@ -104,5 +104,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     <xsl:template match="sp//stage"><span class="aside"><xsl:apply-templates/></span></xsl:template>
+    <xsl:template match="div//rs[@type='emotion']"><span class="emotion"><xsl:apply-templates/></span></xsl:template>
+    <xsl:template match="div//rs[@type='body']"><span class="body"><xsl:apply-templates/></span></xsl:template>
 
 </xsl:stylesheet>
