@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../ODD/out/goldenAgeODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../ODD/out/goldenAgeODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!--2016-11-08 ebb: Our ODD-generated schematron rules actually DO work! We needed to mark one more checkbox in associating our schema, so that our Schematron rules would be read. In oXygen, you go to Document > Schema > Associate Schema, and when you associate your schema, check the box next to:
 "Add additional association for embedded schematron rules." I did that, and the schematron rule now fires! Huzzah! Stopgap schematron is no longer required: we can do all our schema development for the TEI within the ODD. Notice the above two lines refer to the same .rng file, generated as XML, and one points to the namespace for relaxNG and the other to the namespace for Schematron.
---><TEI xmlns="http://www.tei-c.org/ns/1.0">
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -193,7 +194,6 @@
                 recourse to this deviousness, and did enjoy her beauty with assurance, although she
                 took heaven, the trees and the fountains to witness the violence which was used on
                 her.</p>
-
               <p>Of no less consideration was <persName>Doricles</persName>' pain, who full of
                 mortal <rs type="emotion" ana="noun">sorrow</rs>, was a thousand times by the sea's
                 side ready to imitate the despair of those nymphs which saw Europa ravished;
@@ -274,7 +274,6 @@
                 believed of him, which was said of <persName>Hercules</persName>, that without doubt
                 he had three lives, for if he had had but one, it had been a miracle that he had not
                 lost it by so many wounds.</p>
-
               <p>This day about sunrise he came down to see what noise this was, which the night
                 before had sounded from the sea unto the woods, and he with about ten of us which
                 followed him having found some boards which the sea had cast up, upon one of which
@@ -610,9 +609,7 @@
                   <persName>Telemachus</persName>' hundred <rs type="body">eyes</rs>. Which was the
                 reason why I placed this hieroglyphic of <persName>Argus</persName> and
                   <persName>Mercury</persName>, with the epigram:</p>
-
               <p>Subtle <rs type="emotion" ana="noun">love</rs> deceiveth jealousy.</p>
-
               <p>He proceeded to tell me that when <persName>Telemachus</persName> was asleep, they
                 talked together in a garden, into which he entered by a ladder made of cords, which
                   <persName>Aurelio</persName> kept, unto whom only he had imparted this secret,
@@ -647,11 +644,9 @@
                 exercise; as for his <rs type="body">face</rs>, behold this picture, wherein I
                 assure you, the painter was no flatterer; I keep it here for my comfort, although it
                 be always present in my soul, as you may judge by the words written:</p>
-
               <p>Before my <rs type="body">eyes</rs> in a dream, <rs type="emotion" ana="adj"
                   >sad</rs>
                 <persName>Hector</persName> did appear.</p>
-
               <p>Because truly his image did never abandon my sight, but either sleeping or waking
                 he was represented to my <rs type="body">eyes</rs>: in effect we fell into our old
                 inwardness; but in the midst of this peace, the wife of
@@ -678,7 +673,6 @@
                 She (in this suspicion, which may be called a true jealousy) began to observe and
                 follow him; so that without spoiling much, she knew, if not all that passed, at the
                 least what was the subject which ravished away her <persName>Mireno</persName>.</p>
-
               <p>Who will believe so extraordinary a conceit as I shall tell you? Truly he only, who
                 doth know how much the spirit of a woman is disposed (especially if she is in <rs
                   type="emotion" ana="noun">love</rs>) to any kind of industry and subtility:
@@ -729,7 +723,6 @@
                 time forward he would <rs type="emotion" ana="verb">hate</rs> her, and would settle
                 all his affection upon her, in confirmation of which, he gave her a chain of gold,
                 and a diamond.</p>
-
               <p>By this means, <persName>Erisila</persName> thought that the husband would keep his
                 house, and that <persName>Mireno</persName> (by this means barred from seeing
                   <persName>Lucretia</persName>) would come to visit her as he was accustomed. But
@@ -744,7 +737,6 @@
                   <persName>Telemachus</persName>, who knew well that he was not to deceive fools,
                 feigning that he went to <placeName>Valencia</placeName>, returned when he was
                 halfway, and hid himself in <placeName>Barcelona</placeName>.</p>
-
               <p>Now <persName>Mireno</persName> could not spend the night so assured with
                   <persName>Lucretia</persName> but that I kept the door, although he did entreat me
                 not to do it; God knoweth how many nights I passed without <rs type="emotion"
@@ -769,9 +761,7 @@
                 that as we arrived, her breath went away with a last Jesu. And as he had already
                 killed <persName>Mireno</persName>, methought <persName>Scaliger</persName>'s verse,
                 which is under this picture was not unapt:</p>
-
               <p>Was it not enough to kill and vanquish men?</p>
-
               <p>I had not as yet seen <persName>Mireno</persName>, and searching him with mine <rs
                   type="body">eyes</rs> all about the room, I saw him lying dead: thou may see in
                 the tears which now flow from my <rs type="body">eyes</rs>, what was then my <rs
@@ -787,33 +777,25 @@
                 death, as thou may see by this winged <rs type="body">heart</rs> of mine flying
                 after this image of dead <persName>Mireno</persName>; with these words out of
                 Virgil:</p>
-
               <p>My Pallas dead, I bide alive by force.</p>
-
               <p>My travels are figured in those of <persName>Sisyphus</persName>, and
                   <persName>Titius</persName>, and represented by these words out of
                   <persName>Ovid</persName>:</p>
-
               <p>O wretched state, constrain'd to live In plaints eternally: When Death which only
                 help can give, Affords no power to die.</p>
-
               <p>The <rs type="emotion" ana="noun">sorrow</rs> which this great city felt by the
                 loss of <persName>Mireno</persName> is expressed in this figure of the <rs
                   type="body">head</rs> and <rs type="body">heart</rs> of
                   <persName>Orpheus</persName>, with these words:</p>
-
               <p>There wept the Woods, the Beasts, and the Serpents.</p>
-
               <p>For I do not think that there was either tree or stone which were not moved with
                 this so <rs type="emotion" ana="adj">pitiful</rs> an accident. And here will I end
                 his story, with these tears which I will offer incessantly to his memory, and these
                 words which I have made for <persName>Lucretia</persName>'s tomb:</p>
-
               <p>Here lieth <persName>Lucretia</persName>, less chaste than the Roman, but more
                 fair: Tarquin did not force her, but <rs type="emotion" ana="noun">love</rs>; and
                 although she died for her infidelity, <rs type="emotion" ana="noun">love</rs>, who
                 was the cause, has the power to excuse her.</p>
-
               <p>So the faire <persName>Lucretia</persName> remained in mortal rest, and her name,
                 in my imagination, is not worthy of blame: for having been overcome by the excellent
                 parts of her lover, and by that unchangeable force which<rs type="emotion"
@@ -907,7 +889,6 @@
                 fire always sendeth the flames thereof to its proper sphere, so my <rs type="body"
                   >heart</rs> addressed its <rs type="emotion" ana="verb">desires</rs> to her
                 beauty.</p>
-
               <p>Now as this <rs type="emotion" ana="noun">love</rs> was not platonic, I will not
                 dispute whether it were honest, profitable, or delightful; let it satisfy that it
                 which is the cause of so much evil, seemed unto me, the greatest and sovereignest
@@ -929,7 +910,6 @@
                   type="emotion" ana="adj">contented</rs>, especially seeing myself preferred before
                 others of better means and merits then myself; when I went to see her, they gave me
                 place, and departed courteously, leaving me alone with her.</p>
-
               <p>These my visitations were not agreeable unto her servants, because they thought
                 that thereby this rabble of youth was scattered, which brought them profit. And that
                 if <persName>Aurelia</persName> should fall in <rs type="emotion" ana="noun"
@@ -944,7 +924,6 @@
                 the charge of the house fell upon her; for I <rs type="emotion" ana="adj"
                   >miserable</rs> man, tormenting my parents, and importuning my friends, did run to
                 the preservation of this love, which almost always depended on money.</p>
-
               <p>The life which we led (we loving one another tenderly, and having in our power the
                 liberty of <rs type="emotion" ana="verb">enjoying</rs> may easily be judged by my
                 youth, and by <persName>Aurelia</persName>’s, who was then about twenty years old.
@@ -962,7 +941,6 @@
                 were broken or no, I am not able to say, nor yet forbear to believe, because it
                 seems almost a thing impossible for such women from their custom, to keep themselves
                 to an orderly life.</p>
-
               <p>At the end of these five years, I saw myself at the end of my means, and although I
                 was more <rs type="emotion" ana="adj">amorous</rs> than in the beginning, yet
                   <persName>Aurelia</persName> did suffer herself to be vanquished by the
@@ -986,7 +964,6 @@
                 was no great need: for the bravest do unwillingly<rs type="body">arm</rs>themselves
                 when they are once naked; and to come out of a house into the street had been a
                 manifest and <rs type="emotion" ana="adj">mad</rs> rashness.</p>
-
               <p><persName>Aurelia</persName> so prevailing in that manner, wherein others of her
                 kind are wont to prevail; and making <persName>Feliciano</persName> believe that I
                 should be her husband, and that if I did perceive him she should lose me, persuaded
@@ -1003,7 +980,6 @@
                 them was sufficient to make me see my folly (so evil doth a lover discern of his own
                 acts) I rose contented, and although I entered last, yet I went sooner away then
                   <persName>Feliciano</persName>.</p>
-
               <p>In the meantime <persName>Menander</persName> who had for the space of some years
                 been <persName>Feliciano</persName>'s mistress, grew extremely <rs type="emotion"
                   ana="adj">jealous</rs>, and hearing of this trick which
@@ -1033,7 +1009,6 @@
                   <persName>Feliciano</persName> no less <rs type="emotion" ana="adj">enraged</rs>,
                 sought me to kill me. Behold how jealousies and neglects do reveal the truths which
                 are in the centre of our <rs type="body">hearts</rs>.</p>
-
               <p><persName>Aurelia</persName> found me sooner than <persName>Feliciano</persName>
                 did, as she who therein hazarded least: and staying me began in <rs type="emotion"
                   ana="noun">fury</rs> and in threatenings, yet ended in prayers and in tears. But
@@ -1051,7 +1026,6 @@
                 me a religious habit, and to prevail by his protection, in whose <rs type="body"
                   >hands</rs> and <rs type="body">feet</rs> God hath imprinted the marks of our
                 reparation.</p>
-
               <p>But oh! the supreme force of a <rs type="emotion" ana="verb">despised</rs>
                 <rs type="emotion" ana="noun">love</rs>, as from the holy choir of the monastery,
                 from the midst of the altars and images of the saints, the tears of
@@ -1403,7 +1377,6 @@
                 be not partial, one of most excellent beauty, who lived in that honour and good name
                 unto which she was bound by the nobleness of her birth and the care of such
                 parents.</p>
-
               <p>Unto these terms was the young man proceeded in his discourse, whereat
                   <persName>Pamphilus</persName> exceedingly troubled covered his <rs type="body"
                   >face</rs> with his <rs type="body">hands</rs>, whereof the other demanding a
@@ -1451,7 +1424,6 @@
                 which he had, gained such credit with my parents, that I do believe he might as
                 easily have compassed his designs with his feigned poverty, as with his true
                 riches.</p>
-
               <p>The chiefest thing whereunto he applied himself as his whole study, was to appear
                 agreeable to <persName>Nisa</persName>, which was easy to be done, for who can guard
                 himself from a domestic enemy? The simplicity wherewith this knight did begin his
@@ -1490,7 +1462,6 @@
                 entreat thee to proceed in thy story of this knight, for I <rs type="emotion"
                   ana="noun">desire</rs> with <rs type="emotion" ana="noun">passion</rs> to know the
                 end.</p>
-
               <p>My sister <persName>Nisa</persName>, said <persName>Celio</persName>, then (for so
                 was the young man called) could play admirable well of the lute, and sang so sweetly
                 that in the like danger, the dolphin would more willingly have brought her to the
@@ -1652,7 +1623,6 @@
                   <placeName>Sisla</placeName>: this was it which he writ afterwards from
                   <placeName>Valencia</placeName> to a friend of his of
                   <placeName>Saragossa</placeName>.</p>
-
               <p>Now follows the beginning of my peregrination, which (having been too long in this
                 history) I will briefly relate. At the dolorous letter which was written to me of
                 this success (which was discovered as soon as <persName>Pamphilus</persName> was
@@ -2193,7 +2163,6 @@
                 her sight, during which time he was ready to grow <rs type="emotion" ana="adj"
                   >mad</rs>; yet finding her again, and craving pardon with new oaths to keep the
                 first inviolably, they were friends again.</p>
-
               <p>But <persName>Pamphilus</persName> being one day at the market place, he was
                 recognised by a merchant of <placeName>Toledo</placeName>, a great friend to
                   <persName>Nisa</persName> her father, who going about to lay <rs type="body"
@@ -2213,7 +2182,6 @@
                   <persName>Nisa</persName> were sufficiently disguised, yet her countenance (to
                 those who had formerly seen her) being sufficiently known, would easily reveal that
                 which they did so carefully endeavour to hide.</p>
-
               <p>But their good fortune (which delivered them from these dangers, it may be to
                 reserve them for greater) would at that time, wherein the captain and his friends
                 came to search for <persName>Pamphilus</persName>, that <persName>Nisa</persName>
@@ -2264,7 +2232,6 @@
                 go a whole day and not speak to her, until in the end overcome with her sweet
                 patience, he was constrained to send a thousand sighs as ambassadors for a peace to
                 her, who had the empire over him.</p>
-
               <p>Now the noble courage of this young knight, seeing himself amongst so many brave
                 soldiers, who went every day to the wars against the Moors, did believe that it was
                 a dishonour to his birth to carry a sword idle by his side, whilst others bathed
@@ -2285,7 +2252,6 @@
                   <persName>Pamphilus</persName> searching death, broke into a squadron of Moors
                 where being wounded and overthrown, he was taken and led prisoner unto
                   <placeName>Fez</placeName>.</p>
-
               <p>The news of this accident came speedily to <persName>Nisa</persName>’s ears, for
                 the report of evil successes come sooner to the<rs type="body">ears</rs>of lovers
                 than that of <rs type="emotion" ana="adj">happy</rs> events: what her <rs
@@ -2389,7 +2355,6 @@
                   <persName>Pamphilus</persName> at these words cast himself at her <rs type="body"
                   >feet</rs>, and by force did many times kiss them, thanking her for the favour
                 which she did him.</p>
-
               <p>So being departed, <persName>Nisa</persName> told <persName>Ali Japha</persName>
                 the <rs type="emotion" ana="noun">desire</rs> which she had unto a Spanish slave who
                 was evil entreated of <persName>Sali Murat</persName>; the Moor, who desired to
@@ -2434,7 +2399,6 @@
                 richest men of all <placeName>Africa</placeName>, because that besides what my
                 father left her, my uncle will give her a great part of his estate also, and I will
                 give thee mine, and my wife and I will sojourn under thy government.</p>
-
               <p><persName>Pamphilus</persName>, whose intent was to make her reveal herself unto
                 him, or else to nettle <persName>Nisa</persName> so far as that she should declare
                 herself, coldly answered, that to obey her, and to requite the duty which he owed
@@ -2460,7 +2424,6 @@
                 being overcome by her <rs type="emotion" ana="noun">love</rs>, they remained
                 friends, with more <rs type="emotion" ana="noun">pleasure</rs> and firmness than
                 ever, as it always happens between true lovers.</p>
-
               <p>This day passed away, followed with many others, during which time they entered
                 into deliberations of the means whereby they might recover their liberty; which
                 seemed to them impossible in respect of the <rs type="emotion" ana="noun">love</rs>
@@ -3218,24 +3181,29 @@
           occasion I seek you. <persName>Pamphilus</persName> then staying took the letter, and
           having opened it, found the contents as follows:</p>
 
-        <p>To the <persName>Pilgrim</persName> of <placeName>Madrid</placeName>:</p>
+        <floatingText type="letter">
+          <body>
+            <head>To the <persName>Pilgrim</persName> of <placeName>Madrid</placeName>:</head>
 
-        <p>Thou thyself O <persName>Pamphilus</persName> may judge in what care thou left me, if
-          thou hast had never so little thought of me since thou left me. And now as well to satisfy
-          myself as to know how thy misfortunes are determined, have I sent this messenger to you.
-          My brothers being returned and missing thee in the prison where they had left thee,
-          witnessed more <rs type="emotion" ana="noun">sorrow</rs> for thy departure then for my
-          brother <persName>Godfrey</persName>’s death. But a few days after, a woman of the country
-          falling out with another, amongst other words (which choler provoked, a thing ordinary
-          amongst women) said she was the cause of <persName>Godfrey</persName>’s death. Being
-          thereupon taken, and having confessed that <persName>Tansiles</persName> killed him out of
-            <rs type="emotion" ana="noun">jealousy</rs>, he was apprehended, and the crime being
-          verified, the third day after he had his <rs type="body">head</rs> cut off. My mother and
-          my brother being now assured of thy innocence doe bewail their hard usage towards thee,
-          and have made great search to find thee. If thou wilt return, they will redeem the injury
-          of thy unjust Imprisonment with embraces and kind usage, and thou shalt thereby pay me for
-          the <rs type="emotion" ana="noun">desire</rs> which I continually have of thy welfare, and
-          for the tears which thou hast cost me.</p>
+            <p>Thou thyself O <persName>Pamphilus</persName> may judge in what care thou left me, if
+              thou hast had never so little thought of me since thou left me. And now as well to
+              satisfy myself as to know how thy misfortunes are determined, have I sent this
+              messenger to you. My brothers being returned and missing thee in the prison where they
+              had left thee, witnessed more <rs type="emotion" ana="noun">sorrow</rs> for thy
+              departure then for my brother <persName>Godfrey</persName>’s death. But a few days
+              after, a woman of the country falling out with another, amongst other words (which
+              choler provoked, a thing ordinary amongst women) said she was the cause of
+                <persName>Godfrey</persName>’s death. Being thereupon taken, and having confessed
+              that <persName>Tansiles</persName> killed him out of <rs type="emotion" ana="noun"
+                >jealousy</rs>, he was apprehended, and the crime being verified, the third day
+              after he had his <rs type="body">head</rs> cut off. My mother and my brother being now
+              assured of thy innocence doe bewail their hard usage towards thee, and have made great
+              search to find thee. If thou wilt return, they will redeem the injury of thy unjust
+              Imprisonment with embraces and kind usage, and thou shalt thereby pay me for the <rs
+                type="emotion" ana="noun">desire</rs> which I continually have of thy welfare, and
+              for the tears which thou hast cost me.</p>
+          </body>
+        </floatingText>
 
         <p>The pilgrim wondered at <persName>Tansiles</persName>’ strange fate, and was something
           moved in his mind with <persName>Flerida</persName>'s loving desires: but <rs
@@ -3374,26 +3342,44 @@
           vanity of his <rs type="emotion" ana="noun">love</rs>, one night after she was healed,
           being entreated by all the company, she sang these verses following:</p>
 
-        <p> I wot not what is <rs type="emotion" ana="noun">love</rs>, nor yet his flame, Nay more,
-          to know it I have not the mind: In others, twill suffice a man may find, The woes this
-          tyrant in their souls doth frame. That I for him do sigh he cannot say, He masters not my
-          will, that bideth free: His bad and my good nature disagree, And free, me from his
-          empire’s laws for aye. To cast his darts elsewhere, I him require, My <rs type="body"
-            >heart</rs> (as rocks of brass) doth scorn his might: Let him not grieve, I from him
-          take my flight, Because I am all ye, and he all fire.</p>
+        <floatingText type="song">
+          <body>
+            <l>I wot not what is <rs type="emotion" ana="noun">love</rs>, nor yet his flame,</l>
+            <l>Nay more, to know it I have not the mind:</l>
+            <l>In others, twill suffice a man may find,</l>
+            <l>The woes this tyrant in their souls doth frame.</l> 
+            <l>That I for him do sigh he cannot say,</l> 
+            <l>He masters not my will, that bideth free:</l> 
+            <l>His bad and my good nature disagree,</l> 
+            <l>And free, me from his empire’s laws for aye.</l> 
+            <l>To cast his darts elsewhere, I him require,</l> 
+            <l>My <rs type="body">heart</rs> (as rocks of brass) doth scorn his might:</l> 
+            <l>Let him not grieve, I from him take my flight,</l> 
+            <l>Because I am all ye, and he all fire.</l>
+          </body>
+        </floatingText>
 
         <p>But they rather increased the fire which was too much kindled in
             <persName>Thesander</persName>’s soul, who taking the lute from
             <persName>Nisa</persName> answered her with these verses, which he had conceived in his
           mind the night before:</p>
 
-        <p> The great God’s supreme power to deny, Unto my soul as rashness I do hold: This to deny
-          with truth I may be bold: Mine evil, nor yet myself I can destroy. My knowledge, <rs
-            type="emotion" ana="noun">love</rs> hath ravished whom you blame, I think he hath no
-          might nor yet discretion: If I be thus tormented for confession. You that deny his power
-          feel not the same. He makes the widest breach in strongest brass, From coldest ice, he
-          greatest fire can draw: Not one can fight him; for none ever saw, Ought else his shafts in
-          swiftness to surpass.</p>
+        <floatingText type="song">
+          <body>
+            <l>The great God’s supreme power to deny,</l>
+            <l>Unto my soul as rashness I do hold:</l>
+            <l>This to deny with truth I may be bold:</l> 
+            <l>Mine evil, nor yet myself I can destroy.</l> 
+            <l>My knowledge, <rs type="emotion" ana="noun">love</rs> hath ravished whom you blame,</l> 
+            <l>I think he hath no might nor yet discretion:</l> 
+            <l>If I be thus tormented for confession.</l> 
+            <l>You that deny his power feel not the same.</l> 
+            <l>He makes the widest breach in strongest brass,</l> 
+            <l>From coldest ice, he greatest fire can draw:</l> 
+            <l>Not one can fight him; for none ever saw,</l> 
+            <l>Ought else his shafts in swiftness to surpass.</l>
+          </body>
+        </floatingText>
 
         <p>Very aptly might <persName>Nisa</persName> at that time have revenged the motions which
             <persName>Pamphilus</persName> had to agree to <persName>Flerida</persName>'s will: if
