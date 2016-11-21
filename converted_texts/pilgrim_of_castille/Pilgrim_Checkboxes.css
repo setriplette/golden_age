@@ -54,10 +54,10 @@ h3 {
 
     font-weight: lighter;
 }
-span.placeName.on {color:#00b33c}
-span.persName.on {color:#9900cc}
-span.emotion.on {color:red}
-span.body.on {color:#00bfff}
+span.placeName.on {color:#00b33c;font-weight: bold;}
+span.persName.on {color:#9900cc;font-weight: bold;}
+span.emotion.on {color:red;font-weight: bold;}
+span.body.on {color:brown; font-weight: bold;}
 
 
 div.floating{
