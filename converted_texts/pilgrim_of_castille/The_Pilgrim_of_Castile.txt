@@ -1867,10 +1867,7 @@
             <persName>Earl</persName> demanded, which was the Primum Mobile, either Coelum Imperium,
           or Coelum Crystallinum? unto whom the madman answered thus:</p>
 
-        <floatingText type="narrative">
-          <body>
-            <q>
-              <p>After moving the spheres by a local motion, the divines do teach us that there is
+              <p><q>After moving the spheres by a local motion, the divines do teach us that there is
                 another heaven perpetually in rest from all motion, created from the beginning, and
                 full of an innumerable thousands of intelligences and of <rs type="emotion"
                   ana="adj">happy</rs> spirits, which were created together in it and with it. In
@@ -1883,10 +1880,8 @@
                 the beginning, for all those who are to reign before the <rs type="body">face</rs>
                 of God, the light whereof is so lustrous and clear, that the corporal <rs
                   type="body">eyes</rs> cannot behold or look upon it, no more than the birds of the
-                night can the sun.</p>
-            </q>
-          </body>
-        </floatingText>
+                night can the sun.</q></p>
+            
 
         <p>All the assistants remaining <rs type="emotion" ana="adj">astonished</rs> at this
           discourse, another one of the madmen began to cry, calling his dogs, and luring his hawks

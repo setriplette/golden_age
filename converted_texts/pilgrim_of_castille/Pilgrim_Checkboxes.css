@@ -1,0 +1,88 @@
+p.prose {
+    font-size: 18px;
+    line-height: 1.5;
+    padding-left: 40px;
+    width: 900px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Avenir;
+}
+fieldset {
+    font-size: 18px;
+    line-height: 1.5;
+    padding-left: 40px;
+    width: 900px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Avenir;
+}
+p.bookHead {
+	font-size: 24px;
+    line-height: 1.5;
+    padding-left: 10px;
+
+    width: 900px;
+    padding-top: 20px;
+    
+    color: black;
+    font-family: Avenir;
+}
+
+h1 {
+	color: steelblue;
+	padding-left: 48px;
+    font-size: 56px;
+    font-family: 'Century Gothic';
+}
+
+
+
+h2 {
+    color: steelblue;
+    padding-left: 48px;
+    font-family: 'Century Gothic';
+    padding-bottom: 20px;
+    font-size: 32px;
+}
+
+h3 {
+    color: dimgray;
+    padding-left: 48px;
+    font-family: 'Avenir';
+    padding-bottom: 20px;
+    font-size: 24px;
+
+    font-weight: lighter;
+}
+span.placeName.on {color:#00b33c}
+span.persName.on {color:#9900cc}
+span.emotion.on {color:red}
+span.body.on {color:#00bfff}
+
+
+div.floating{
+	color:steelblue;
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: slategray;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+	font-family: 'Avenir';
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 16px;
+ 
+    }
+
