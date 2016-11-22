@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="1100"
+     viewBox="0 0 1000 1000">
+   <g transform="translate(30, 500)">
+      <text x="100"
+            y="-400"
+            fill="black"
+            font-size="32"
+            font-family="avenir">Language of
+                    body and emotion</text>
+      <text x="270"
+            y="-350"
+            fill="purple"
+            font-size="32"
+            font-family="avenir">FINEA</text>
+      <line x1="200"
+            y1="0"
+            x2="200"
+            y2="-200"
+            stroke="#E69980"
+            stroke-width="120"/>
+      <line x1="430"
+            y1="0"
+            x2="430"
+            y2="-280"
+            stroke="#D1B2F0"
+            stroke-width="120"/>
+      <line x1="30"
+            y1="0"
+            x2="600"
+            y2="0"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="30"
+            y1="0"
+            x2="30"
+            y2="-450"
+            stroke="black"
+            stroke-width="1"/>
+   </g>
+</svg>

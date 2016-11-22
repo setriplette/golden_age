@@ -82,12 +82,12 @@
     <xsl:template match="speaker">
         <xsl:choose>
             <xsl:when test="parent::sp[@ana='f']">
-                <span class="female">
+                <span class="femaleCharacter">
                     <xsl:apply-templates/>
                 </span>
             </xsl:when>
             <xsl:otherwise>
-                <span class="male">
+                <span class="maleCharacter">
                     <xsl:apply-templates/>
                 </span>
             </xsl:otherwise>

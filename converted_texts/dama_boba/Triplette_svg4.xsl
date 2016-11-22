@@ -44,8 +44,10 @@
                     <xsl:choose><xsl:when test="$doc//role[@xml:id=tokenize(current(), '#')[last()]]/@ana='f'"><line x1="{$xPos}" x2="{$xPos}" y1="0" y2="-{$yPos * $ySpacer}" stroke="maroon" stroke-width="30"/></xsl:when>
                         <xsl:otherwise><line x1="{$xPos}" x2="{$xPos}" y1="0" y2="-{$yPos * $ySpacer}" stroke="steelblue" stroke-width="30"/></xsl:otherwise></xsl:choose>
                     
-                    
+                    <text anchor="{$xPos}" y="10" transform="translate({$xPos},15)rotate(45)" font-family="avenir"><xsl:value-of select="distinct-values($doc//sp[@who=current()]/speaker)"></xsl:value-of></text>
+                
                 </xsl:for-each>
+                
             </g>
         </svg>
     </xsl:template>

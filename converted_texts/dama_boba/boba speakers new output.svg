@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="1100"
+     viewBox="0 0 1000 1000">
+   <g transform="translate(30, 500)">
+      <line x1="30"
+            y1="0"
+            x2="800"
+            y2="0"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="30"
+            y1="0"
+            x2="30"
+            y2="-450"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="100"
+            y="-400"
+            fill="black"
+            font-size="32"
+            font-family="avenir">Number of
+                    Speeches by Character</text>
+      <text x="220"
+            y="-350"
+            fill="purple"
+            font-size="32"
+            font-family="avenir">La dama
+                    boba</text>
+      <text x="185"
+            y="-310"
+            fill="black"
+            font-size="16"
+            font-family="avenir">Click for emotion and body by speaker</text>
+      <!--25669-->
+      <!--359-->
+      <line x1="50"
+            x2="50"
+            y1="0"
+            y2="-359"
+            stroke="maroon"
+            stroke-width="30"/>
+      <text x="40" y="-369">359</text>
+      <text anchor="50"
+            y="10"
+            transform="translate(50,15)rotate(45)"
+            font-family="avenir">FINEA</text>
+      <!--24066-->
+      <!--243-->
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-243"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="90" y="-253">243</text>
+      <text anchor="100"
+            y="10"
+            transform="translate(100,15)rotate(45)"
+            font-family="avenir">LAURENCIO</text>
+      <!--12725-->
+      <!--181-->
+      <line x1="150"
+            x2="150"
+            y1="0"
+            y2="-181"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="140" y="-191">181</text>
+      <text anchor="150"
+            y="10"
+            transform="translate(150,15)rotate(45)"
+            font-family="avenir">LISEO</text>
+      <!--15641-->
+      <!--181-->
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-181"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="190" y="-191">181</text>
+      <text anchor="200"
+            y="10"
+            transform="translate(200,15)rotate(45)"
+            font-family="avenir">OTAVIO</text>
+      <!--13278-->
+      <!--167-->
+      <line x1="250"
+            x2="250"
+            y1="0"
+            y2="-167"
+            stroke="maroon"
+            stroke-width="30"/>
+      <text x="240" y="-177">167</text>
+      <text anchor="250"
+            y="10"
+            transform="translate(250,15)rotate(45)"
+            font-family="avenir">NISE</text>
+      <!--5414-->
+      <!--85-->
+      <line x1="300"
+            x2="300"
+            y1="0"
+            y2="-85"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="290" y="-95">85</text>
+      <text anchor="300"
+            y="10"
+            transform="translate(300,15)rotate(45)"
+            font-family="avenir">TURÍN</text>
+      <!--6777-->
+      <!--72-->
+      <line x1="350"
+            x2="350"
+            y1="0"
+            y2="-72"
+            stroke="maroon"
+            stroke-width="30"/>
+      <text x="340" y="-82">72</text>
+      <text anchor="350"
+            y="10"
+            transform="translate(350,15)rotate(45)"
+            font-family="avenir">CLARA</text>
+      <!--3407-->
+      <!--52-->
+      <line x1="400"
+            x2="400"
+            y1="0"
+            y2="-52"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="390" y="-62">52</text>
+      <text anchor="400"
+            y="10"
+            transform="translate(400,15)rotate(45)"
+            font-family="avenir">FENISO</text>
+      <!--4381-->
+      <!--48-->
+      <line x1="450"
+            x2="450"
+            y1="0"
+            y2="-48"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="440" y="-58">48</text>
+      <text anchor="450"
+            y="10"
+            transform="translate(450,15)rotate(45)"
+            font-family="avenir">DUARDO</text>
+      <!--2236-->
+      <!--40-->
+      <line x1="500"
+            x2="500"
+            y1="0"
+            y2="-40"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="490" y="-50">40</text>
+      <text anchor="500"
+            y="10"
+            transform="translate(500,15)rotate(45)"
+            font-family="avenir">PEDRO</text>
+      <!--2437-->
+      <!--38-->
+      <line x1="550"
+            x2="550"
+            y1="0"
+            y2="-38"
+            stroke="maroon"
+            stroke-width="30"/>
+      <text x="540" y="-48">38</text>
+      <text anchor="550"
+            y="10"
+            transform="translate(550,15)rotate(45)"
+            font-family="avenir">CELIA</text>
+      <!--1491-->
+      <!--26-->
+      <line x1="600"
+            x2="600"
+            y1="0"
+            y2="-26"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="590" y="-36">26</text>
+      <text anchor="600"
+            y="10"
+            transform="translate(600,15)rotate(45)"
+            font-family="avenir">MISENO</text>
+      <!--900-->
+      <!--24-->
+      <line x1="650"
+            x2="650"
+            y1="0"
+            y2="-24"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="640" y="-34">24</text>
+      <text anchor="650"
+            y="10"
+            transform="translate(650,15)rotate(45)"
+            font-family="avenir">RUFINO</text>
+      <!--1491-->
+      <!--15-->
+      <line x1="700"
+            x2="700"
+            y1="0"
+            y2="-15"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="690" y="-25">15</text>
+      <text anchor="700"
+            y="10"
+            transform="translate(700,15)rotate(45)"
+            font-family="avenir">LEANDRO</text>
+      <!--2381-->
+      <!--1-->
+      <line x1="750"
+            x2="750"
+            y1="0"
+            y2="-1"
+            stroke="steelblue"
+            stroke-width="30"/>
+      <text x="740" y="-11">1</text>
+      <text anchor="750"
+            y="10"
+            transform="translate(750,15)rotate(45)"
+            font-family="avenir">MÚSICOS</text>
+   </g>
+</svg>
