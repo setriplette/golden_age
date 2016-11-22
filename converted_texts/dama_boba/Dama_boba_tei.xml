@@ -523,7 +523,7 @@
 <l>En cándido pergamino</l>
 <l>vienen muchas flores de oro.</l></sp>
 
-<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Bien lo merece <persName type="hist" instant="false" full="yes">Eliodoro</persName>,</l>
+<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Bien lo merece <persName type="hist">Eliodoro</persName>,</l>
 <l>griego poeta divino.</l></sp>
 
 <sp who="#Celia_boba" ana="f"><speaker>CELIA</speaker> <l>¿Poeta? Pues parecióme</l>
@@ -946,10 +946,10 @@
 <l>hermana y sangre?</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>A vos sola,</l>
-<l>que sois <persName type="myth" instant="false" full="yes">sibila</persName> española,</l>
-<l>no <persName type="myth" instant="false" full="yes">Cumana</persName> ni <persName type="myth" instant="false" full="yes">Eritrea</persName>;</l>
-<l>   a vos, por quien ya las <persName type="myth" instant="false" full="yes">Gracias</persName></l>
-<l>son cuatro, y las <persName type="myth" instant="false" full="yes">Musas</persName> diez,</l>
+<l>que sois <persName type="myth">sibila</persName> española,</l>
+<l>no <persName type="myth" >Cumana</persName> ni <persName type="myth" >Eritrea</persName>;</l>
+<l>   a vos, por quien ya las <persName type="myth" >Gracias</persName></l>
+<l>son cuatro, y las <persName type="myth" >Musas</persName> diez,</l>
 <l>es justo haceros jüez.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Si ignorancias, si desgracias</l>
@@ -1041,7 +1041,7 @@
 <l>de no entenderte corrida.</l>
 <l>   ¡Escribe fácil!</l></sp>
 
-<sp who="#Duardo_boba" ana="m"><speaker>DUARDO</speaker> <l><persName type="hist" instant="false" full="yes">Platón</persName>,</l>
+<sp who="#Duardo_boba" ana="m"><speaker>DUARDO</speaker> <l><persName type="hist" >Platón</persName>,</l>
 <l>a lo que en cosas divinas</l>
 <l>escribió, puso cortinas</l>
 <l>que, tales como estas, son</l>
@@ -1074,7 +1074,7 @@
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Yo, señora, no me atrevo,</l>
 <l>por mi humildad, a tus <rs type="body">ojos</rs>;</l>
 <l>que, dando en viles despojos,</l>
-<l>se afrenta el rayo de <persName type="myth" instant="false" full="yes">Febo</persName>;</l>
+<l>se afrenta el rayo de <persName type="myth" >Febo</persName>;</l>
 <l>   pero, si quieres pasar</l>
 <l>al alma, hallarásla rica</l>
 <l>de la fe que <rs type="emotion" ana="noun">amor</rs> publica.</l></sp>
@@ -1089,7 +1089,7 @@
 <l>asir juntos, atrevido,</l>
 <l>como finjas que has caído.</l></sp>
 
-<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>¡<persName type="hist" instant="false" full="yes">Jesús</persName>!</l>
+<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>¡<persName type="hist" >Jesús</persName>!</l>
 <stage>Hace NISE como que cae.</stage></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>¿Qué es eso?</l></sp>
@@ -1234,7 +1234,7 @@
 <l>de sextil y de cuadrado</l>
 <l>me mira con frente armada.</l>
 <l>   Finea es <supplied instant="false">ah</supplied>ora <rs type="emotion" ana="adj">dichosa</rs>,</l>
-<l>donde <persName type="myth" instant="false" full="yes">Júpiter</persName> benigno</l>
+<l>donde <persName type="myth" >Júpiter</persName> benigno</l>
 <l>me está mirando de trino,</l>
 <l>con aspecto y faz hermosa.</l>
 <l>   Doyme a entender que, poniendo</l>
@@ -1810,8 +1810,8 @@
    <!--#st Juan Huarte de San Juan talks about this in his medical text; children who don't have the same 
       talent as parents, consequence of imbalance of humors-->
 
-<sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Verdad es que <persName type="hist" instant="false" full="yes">Cicerón</persName></l>
-<l>tuvo a <persName type="hist" instant="false" full="yes">Marco Tulio</persName> en <placeName instant="false" full="yes">Roma</placeName>,</l>
+<sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Verdad es que <persName type="hist" >Cicerón</persName></l>
+<l>tuvo a <persName type="hist" instant="false" full="yes">Marco Tulio</persName> en <placeName >Roma</placeName>,</l>
 <l>que era un caballo, un camello.</l></sp>
 
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>De la misma suerte consta</l>
@@ -1905,8 +1905,8 @@
 <l>porque solo con <rs type="emotion" ana="noun">amor</rs></l>
 <l>aprende el hombre mejor</l>
 <l>sus divinas diferencias.</l>
-<l>   Así lo sintió <persName type="hist" instant="false" full="yes">Platón</persName>;</l>
-<l>esto <persName type="hist" instant="false" full="yes">Aristóteles</persName> dijo;</l>
+<l>   Así lo sintió <persName type="hist" >Platón</persName>;</l>
+<l>esto <persName type="hist" >Aristóteles</persName> dijo;</l>
 <l>que, como del cielo es hijo,</l>
 <l>es todo contemplación.</l>
 <l>   De ella nació el <rs type="emotion" ana="verb">admirarse</rs>,</l>
