@@ -597,7 +597,7 @@
 
 <sp who="#Rufino_boba" ana="m"><speaker>RUFINO</speaker><l> Ésta es ca. Los españoles</l>
 <l>no la solemos poner</l>
-<l>   en nuestra lengua jamás.</l>
+   <l>   en nuestra <rs type="body">lengua</rs> jamás.</l>
 <l>Úsanla mucho alemanes</l>
 <l>y flamencos.</l></sp>
 
@@ -1240,7 +1240,7 @@
 <l>   Doyme a entender que, poniendo</l>
 <l>en Finea mis cuidados,</l>
 <l>a cuarenta mil ducados</l>
-<l>las manos voy previniendo.</l>
+   <l>las <rs type="body">manos</rs> voy previniendo.</l>
 <l>   Esta, Pedro, desde hoy</l>
 <l>ha de ser empresa mía.</l></sp>
 
@@ -1918,7 +1918,7 @@
 <l>que el <rs type="emotion" ana="noun">deseo</rs> de saber</l>
 <l>es al hombre natural.</l>
 <l>   <rs type="emotion" ana="noun">Amor</rs> con fuerza süave</l>
-<l>dio al hombre el saber <rs type="emotion" ana="verb">sentir</rs>,</l>
+<l>dio al hombre el saber <rs type="emotion" ana="verb"><rs type="emotion" ana="verb">sentir</rs></rs>,</l>
 <l>dio leyes para vivir</l>
 <l>político, honesto y grave.</l>
 <l>   <rs type="emotion" ana="noun">Amor</rs> repúblicas hizo;</l>
@@ -2484,9 +2484,9 @@
 <l>   Cabezas hay disculpadas</l>
 <l>cuando duermen sin cojines,</l>
 <l>y sueños como rocines</l>
-<l>que vienen con cabezadas.</l>
+<l>que vienen con <rs type="body">cabezadas</rs>.</l>
 <l>   Apenas el copo ardió,</l>
-<l>cuando, puesta en él de pies,</l>
+   <l>cuando, puesta en él de <rs type="body">pies</rs>,</l>
 <l>me chamusqué; ya lo ves.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Y el papel?</l></sp>
@@ -2495,7 +2495,7 @@
 <l>   como el Santo de Pajares.</l>
 <l>Sobraron estos renglones,</l>
 <l>en que hallarás más razones</l>
-<l>que en mi cabeza aladares.</l></sp>
+<l>que en mi <rs type="body">cabeza</rs> aladares.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Y no se podrán leer?</l></sp>
 
@@ -2891,7 +2891,7 @@
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Dices muy bien.</l>
 <l>No volverás a quejarte.</l></sp>
 
-<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Si los ojos puso en ti,</l>
+   <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Si los <rs type="body">ojos</rs> puso en ti,</l>
 <l>quítelos luego.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Que sea</l>
@@ -2960,24 +2960,24 @@
 <l>y echarme fuera querría.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Tras esto dice que en mí</l>
-<l>pusiste los ojos...</l></sp>
+   <l>pusiste los <rs type="body">ojos</rs>...</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Dice</l>
 <l>verdad; no lo contradice</l>
 <l>el alma que vive en ti.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Pues tú me has de quitar luego</l>
-<l>los ojos que me pusiste.</l></sp>
+   <l>los <rs type="body">ojos</rs> que me pusiste.</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>¿Cómo, si en amor consiste?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Que me los quites, te ruego,</l>
 <l>   con ese lienzo, de aquí,</l>
-<l>si yo los tengo en mis ojos.</l></sp>
+   <l>si yo los tengo en mis <rs type="body">ojos</rs>.</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>No más; cesen los enojos.</l></sp>
 
-<sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿No están en mis ojos?</l></sp>
+   <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿No están en mis <rs type="body">ojos</rs>?</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Sí.</l></sp>
 
@@ -2995,7 +2995,7 @@
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>¿No lo ves?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Laurencio, no se los des,</l>
-<l>que a sentir penas comienzo.</l>
+<l>que a <rs type="emotion" ana="verb">sentir</rs> penas comienzo.</l>
 <l>   Pues más hay: que el padre mío</l>
 <l>bravamente se ha enojado</l>
 <l>del abrazo que me has dado.</l></sp>
@@ -3011,7 +3011,7 @@
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Siendo. Presto,</l>
 <l>¿no sabes desabrazar?</l></sp>
 
-<sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>El brazo derecho alcé;</l>
+   <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>El <rs type="body">brazo</rs> derecho alcé;</l>
 <l>tienes razón, ya me acuerdo,</l>
 <l>y agora alzaré el izquierdo,</l>
 <l>y el abrazo desharé.</l></sp>
@@ -3032,7 +3032,7 @@
 <l>que ya no me dirás nada.</l>
 <l>   Ya Laurencio no me pasa</l>
 <l>por el pensamiento a mí;</l>
-<l>ya los ojos le volví,</l>
+   <l>ya los <rs type="body">ojos</rs> le volví,</l>
 <l>pues que contigo se casa.</l>
 <l>   En el lienzo los llevó,</l>
 <l>y ya me ha desabrazado.</l></sp>
@@ -3062,7 +3062,7 @@
 <l>   de mi propia libertad?</l>
 <l>No me hallo sin Laurencio.</l>
 <l>Mi padre es este; silencio.</l>
-<l>Callad, lengua; ojos, hablad.</l></sp>
+   <l>Callad, <rs type="body">lengua</rs>; <rs type="body">ojos</rs>, hablad.</l></sp>
 
 </div>
 
@@ -3088,10 +3088,10 @@
 <l>¿otra vez le abrazabas?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Que no es eso;</l>
-<l>fue la primera alzado el brazo</l>
+   <l>fue la primera alzado el <rs type="body">brazo</rs></l>
 <l>derecho de Laurencio, aquel abrazo,</l>
 <l>y agora levantó, que bien me acuerdo,</l>
-<l>porque fuese al revés, el brazo izquierdo:</l>
+   <l>porque fuese al revés, el <rs type="body">brazo</rs> izquierdo:</l>
 <l>luego desabrazada estoy agora.</l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <stage>Aparte.</stage>
@@ -3153,7 +3153,7 @@
 <l>de enojarle me desvío;</l>
 <l>   aunque, en parte, le agradezco</l>
 <l>que estorbase los enojos</l>
-<l>de Nise. Aquí están los ojos</l>
+   <l>de Nise. Aquí están los <rs type="body">ojos</rs></l>
 <l>a cuyos rayos me ofrezco.)</l>
 <l>   ¿Señora?...</l></sp>
 
@@ -3368,7 +3368,7 @@
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>De esa manera, yo callo.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡Oh! Pues, ¿con eso nos tapa</l>
-<l>la boca?</l></sp>
+   <l>la <rs type="body">boca?</rs></l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Vente conmigo.</l></sp>
 
@@ -3541,7 +3541,7 @@
 <l>en gente rústica amor!</l></sp>
 
 <sp who="#Feniso_boba" ana="m"><speaker>FENISO</speaker> <l>No se tendrá por menor</l>
-<l>dar alma a su rudo pecho.</l></sp>
+   <l>dar alma a su rudo <rs type="body">pecho</rs>.</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Amor, señores, ha sido</l>
 <l>aquel ingenio profundo,</l>
@@ -3564,14 +3564,14 @@
 <l>que el deseo de saber</l>
 <l>es al hombre natural.</l>
 <l>   Amor con fuerza süave</l>
-<l>dio al hombre el saber sentir,</l>
+<l>dio al hombre el saber <rs type="emotion" ana="verb">sentir</rs>,</l>
 <l>dio leyes para vivir</l>
 <l>político, honesto y grave.</l>
 <l>   Amor repúblicas hizo;</l>
 <l>que la concordia nació</l>
 <l>de amor, con que a ser volvió</l>
 <l>lo que la guerra deshizo.</l>
-<l>   Amor dio lengua a las aves,</l>
+   <l>   Amor dio <rs type="body">lengua</rs> a las aves,</l>
 <l>vistió la tierra de frutos,</l>
 <l>y, como prados enjutos,</l>
 <l>rompió el mar con fuertes naves.</l>
@@ -3657,7 +3657,7 @@
 <l>que hasta ver vuestras estrellas</l>
 <l>fortuna el tiempo corrió.</l>
 <l>   Mas como la primavera</l>
-<l>sale con pies de marfil,</l>
+   <l>sale con <rs type="body">pies</rs> de marfil,</l>
 <l>y el vario velo sutil</l>
 <l>tiende en la verde ribera,</l>
 <l>corre el agua lisonjera</l>
@@ -3685,7 +3685,7 @@
 <l>qué señales de alegría,</l>
 <l>este venturoso día,</l>
 <l>después de tantos enojos,</l>
-<l>siendo vos sol de mis ojos,</l>
+   <l>siendo vos sol de mis <rs type="body">ojos</rs>,</l>
 <l>siendo vos alma en la mía?</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>A estar sin vida llegué</l>
@@ -3744,7 +3744,7 @@
 <stage>LAURENCIO, NISE.</stage>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Ya se han ido. ¿Podré yo,</l>
-<l>Nise, con mis brazos darte</l>
+   <l>Nise, con mis <rs type="body">brazos</rs> darte</l>
 <l>parabién de tu salud?</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>¡Desvía, fingido, fácil,</l>
@@ -3921,8 +3921,8 @@
 <l>quiero hablarte.</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Si el hablarme</l>
-<l>no es con las lenguas que dicen,</l>
-<l>sino con lenguas que hacen,</l>
+   <l>no es con las <rs type="body">lenguas</rs> que dicen,</l>
+   <l>sino con <rs type="body">lenguas</rs> que hacen,</l>
 <l>aunque me espanto que sea,</l>
 <l>dejaré caballo y pajes.</l></sp>
 
@@ -3995,9 +3995,9 @@
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Haced vos lo que me agrada,</l>
 <l>   que no es mucha rustiqueza</l>
-<l>el traellos en los pies.</l>
+   <l>el traellos en los <rs type="body">pies</rs>.</l>
 <l>Harto peor pienso que es</l>
-<l>traellos en la cabeza.</l></sp>
+<l>traellos en la <rs type="body">cabeza</rs>.</l></sp>
 
 <sp><speaker>MAESTRO</speaker> <stage>Aparte.</stage>
 <l>   (Quiero seguirle el humor.)</l>
@@ -4040,7 +4040,7 @@
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Qué es mentecata, villano?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¡Señora, tened la mano!</l>
+<sp><speaker>MAESTRO</speaker> <l>¡Señora, tened la <rs type="body">mano!</rs></l>
 <l>Es una dama que trata</l>
 <l>   con gravedad y rigor</l>
 <l>a quien la sirve.</l></sp>
@@ -4129,9 +4129,9 @@
 <l>   Cabezas hay disculpadas</l>
 <l>cuando duermen sin cojines,</l>
 <l>y sueños como rocines</l>
-<l>que vienen con cabezadas.</l>
+   <l>que vienen con <rs type="body">cabezadas</rs>.</l>
 <l>   Apenas el copo ardió,</l>
-<l>cuando, puesta en él de pies,</l>
+   <l>cuando, puesta en él de <rs type="body">pies</rs>,</l>
 <l>me chamusqué; ya lo ves.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Y el papel?</l></sp>
@@ -4140,7 +4140,7 @@
 <l>   como el Santo de Pajares.</l>
 <l>Sobraron estos renglones,</l>
 <l>en que hallarás más razones</l>
-<l>que en mi cabeza aladares.</l></sp>
+   <l>que en mi <rs type="body">cabeza</rs> aladares.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Y no se podrán leer?</l></sp>
 
@@ -4415,7 +4415,7 @@
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Y yo con Nise haré, por Dios, Liseo,</l>
 <l>lo que veréis.</l></sp>
 
-<sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Pues démonos las manos</l>
+<sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Pues démonos las <rs type="body">manos</rs></l>
 <l>de amigos, no fingidos cortesanos,</l>
 <l>sino como si fuéramos de Grecia,</l>
 <l>adonde tanto el amistad se precia.</l></sp>
@@ -4536,7 +4536,7 @@
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Dices muy bien.</l>
 <l>No volverás a quejarte.</l></sp>
 
-<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Si los ojos puso en ti,</l>
+   <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Si los <rs type="body">ojos</rs> puso en ti,</l>
 <l>quítelos luego.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Que sea</l>
@@ -4612,13 +4612,13 @@
 <l>el alma que vive en ti.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Pues tú me has de quitar luego</l>
-<l>los ojos que me pusiste.</l></sp>
+   <l>los <rs type="body">ojos</rs> que me pusiste.</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>¿Cómo, si en amor consiste?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Que me los quites, te ruego,</l>
 <l>   con ese lienzo, de aquí,</l>
-<l>si yo los tengo en mis ojos.</l></sp>
+   <l>si yo los tengo en mis <rs type="body">ojos</rs>.</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>No más; cesen los enojos.</l></sp>
 
@@ -4640,7 +4640,7 @@
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>¿No lo ves?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Laurencio, no se los des,</l>
-<l>que a sentir penas comienzo.</l>
+<l>que a <rs type="emotion" ana="verb">sentir</rs> penas comienzo.</l>
 <l>   Pues más hay: que el padre mío</l>
 <l>bravamente se ha enojado</l>
 <l>del abrazo que me has dado.</l></sp>
@@ -4656,7 +4656,7 @@
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Siendo. Presto,</l>
 <l>¿no sabes desabrazar?</l></sp>
 
-<sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>El brazo derecho alcé;</l>
+   <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>El <rs type="body">brazo</rs> derecho alcé;</l>
 <l>tienes razón, ya me acuerdo,</l>
 <l>y agora alzaré el izquierdo,</l>
 <l>y el abrazo desharé.</l></sp>
@@ -4675,7 +4675,7 @@
 <l>que ya no me dirás nada.</l>
 <l>   Ya Laurencio no me pasa</l>
 <l>por el pensamiento a mí;</l>
-<l>ya los ojos le volví,</l>
+   <l>ya los <rs type="body">ojos</rs> le volví,</l>
 <l>pues que contigo se casa.</l>
 <l>   En el lienzo los llevó,</l>
 <l>y ya me ha desabrazado.</l></sp>
@@ -4705,7 +4705,7 @@
 <l>   de mi propia libertad?</l>
 <l>No me hallo sin Laurencio.</l>
 <l>Mi padre es este; silencio.</l>
-<l>Callad, lengua; ojos, hablad.</l></sp>
+   <l>Callad, <rs type="body">lengua</rs>; <rs type="body">ojos</rs>, hablad.</l></sp>
 
 </div>
 
@@ -4731,10 +4731,10 @@
 <l>¿otra vez le abrazabas?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Que no es eso;</l>
-<l>fue la primera alzado el brazo</l>
+   <l>fue la primera alzado el <rs type="body">brazo</rs></l>
 <l>derecho de Laurencio, aquel abrazo,</l>
 <l>y agora levantó, que bien me acuerdo,</l>
-<l>porque fuese al revés, el brazo izquierdo:</l>
+   <l>porque fuese al revés, el <rs type="body">brazo</rs> izquierdo:</l>
 <l>luego desabrazada estoy agora.</l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <stage>Aparte.</stage>
@@ -4796,7 +4796,7 @@
 <l>de enojarle me desvío;</l>
 <l>   aunque, en parte, le agradezco</l>
 <l>que estorbase los enojos</l>
-<l>de Nise. Aquí están los ojos</l>
+   <l>de Nise. Aquí están los <rs type="body">ojos</rs></l>
 <l>a cuyos rayos me ofrezco.)</l>
 <l>   ¿Señora?...</l></sp>
 
@@ -5011,7 +5011,7 @@
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>De esa manera, yo callo.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡Oh! Pues, ¿con eso nos tapa</l>
-<l>la boca?</l></sp>
+   <l>la <rs type="body">boca</rs>?</l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Vente conmigo.</l></sp>
 
@@ -5166,7 +5166,7 @@
 
 <stage>FINEA sola.</stage>
 
-<sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡Amor, divina invención</l>
+   <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡<rs type="emotion" ana="noun">Amor</rs>, divina invención</l>
 <l>de conservar la belleza</l>
 <l>de nuestra naturaleza,</l>
 <l>o accidente o elección!</l>
@@ -5180,7 +5180,7 @@
 <l>a las bestias tan igual,</l>
 <l>que aun el alma racional</l>
 <l>parece que no tenía.</l>
-<l>Con el animal sentía</l>
+<l>Con el animal <rs type="emotion" ana="verb">sentía</rs></l>
 <l>y crecía con la planta;</l>
 <l>la razón divina y santa</l>
 <l>estaba eclipsada en mí,</l>
@@ -5192,8 +5192,8 @@
 <l>que me enseñaste, y me diste</l>
 <l>la luz con que me pusiste</l>
 <l>el nuevo ser en que estoy.</l>
-<l>Mil gracias, amor, te doy,</l>
-<l>pues me enseñaste tan bien,</l>
+<l>Mil gracias, <rs type="emotion" ana="noun">amor</rs>, te doy,</l>
+<l>pues me enseñaste tan <rs type="emotion" ana="noun">bien</rs>,</l>
 <l>que dicen cuantos me ven</l>
 <l>que tan diferente soy.</l>
 <l>A pura imaginación</l>
@@ -5201,11 +5201,11 @@
 <l>en los palacios me veo</l>
 <l>de la divina razón.</l>
 <l>¡Tanto la contemplación</l>
-<l>de un bien pudo levantarme!</l>
+<l>de un <rs type="emotion" ana="noun">bien</rs> pudo levantarme!</l>
 <l>Ya puedes del grado honrarme,</l>
-<l>dándome a Laurencio, amor,</l>
+<l>dándome a Laurencio, <rs type="emotion" ana="noun">amor</rs>,</l>
 <l>con quien pudiste mejor,</l>
-<l>enamorada, enseñarme.</l></sp>
+<l><rs type="emotion" ana="noun">enamorada</rs>, enseñarme.</l></sp>
 
 </div>
 
@@ -5223,7 +5223,7 @@
 <l>de cómo lees, escribes</l>
 <l>y danzas; dice que vives</l>
 <l>con otra alma en cuerpo ajeno.</l>
-<l>Atribúyele al amor</l>
+<l>Atribúyele al <rs type="emotion" ana="noun">amor</rs></l>
 <l>de Liseo este milagro.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>En otras aras consagro</l>
@@ -5234,7 +5234,7 @@
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>De verlos hablar me río</l>
 <l>en este milagro nuestro.</l>
-<l>   ¡Gran fuerza tiene el amor,</l>
+<l>¡Gran fuerza tiene el <rs type="emotion" ana="noun">amor</rs>,</l>
 <l>catedrático divino!</l></sp>
 
 </div>
@@ -5271,7 +5271,7 @@
 <l>pensé que devocionarios,</l>
 <l>y desta suerte leí:</l>
 <l>   Historia de dos amantes,</l>
-<l>sacada de lengua griega;</l>
+   <l>sacada de <rs type="body">lengua</rs> griega;</l>
 <l>Rimas, de Lope de Vega;</l>
 <l>Galatea, de Cervantes;</l>
 <l>   el Camões de Lisboa,</l>
@@ -5295,7 +5295,7 @@
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>¡Qué gentiles devociones!</l>
 <l>Si Düardo hace canciones,</l>
-<l>bien los podemos casar.</l></sp>
+<l><rs type="emotion" ana="noun">bien</rs> los podemos casar.</l></sp>
 
 <sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>Es poeta caballero,</l>
 <l>no temáis; hará por gusto</l>
@@ -5317,39 +5317,39 @@
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Trátasme con tal desdén,</l>
 <l>que pienso que he de apelar</l>
 <l>adonde sepan tratar</l>
-<l>mis obligaciones bien;</l>
+<l>mis obligaciones <rs type="emotion" ana="noun">bien</rs>;</l>
 <l>   pues advierte, Nise bella,</l>
 <l>que Finea ya es sagrado;</l>
-<l>que un amor tan desdeñado</l>
+<l>que un <rs type="emotion" ana="noun">amor</rs> tan desdeñado</l>
 <l>puede hallar remedio en ella.</l>
 <l>   Tu desdén, que imaginé</l>
 <l>que pudiera ser menor,</l>
-<l>crece al paso de mi amor,</l>
+<l>crece al paso de mi <rs type="emotion" ana="noun">amor</rs>,</l>
 <l>medra al lado de mi fe;</l>
 <l>   y su corto entendimiento</l>
 <l>ha llegado a tal mudanza,</l>
 <l>que puede dar esperanza</l>
 <l>a mi loco pensamiento.</l>
-<l>   Pues, Nise, trátame bien;</l>
+<l>Pues, Nise, trátame <rs type="emotion" ana="noun">bien</rs>;</l>
 <l>u de Finea el favor</l>
-<l>será sala en que mi amor</l>
+<l>será sala en que mi <rs type="emotion" ana="noun">amor</rs></l>
 <l>apele de tu desdén.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Liseo, el hacerme fieros</l>
 <l>fuera bien considerado</l>
-<l>cuando yo te hubiera amado.</l></sp>
+<l>cuando yo te hubiera <rs type="emotion" ana="noun">amado</rs>.</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Los nobles y caballeros</l>
 <l>   como yo, se han de estimar,</l>
 <l>no lo indigno de querer.</l></sp>
 
-<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>El amor se ha de tener</l>
+<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>El <rs type="emotion" ana="noun">amor</rs> se ha de tener</l>
 <l>adonde se puede hallar;</l>
 <l>   que como no es elección,</l>
 <l>sino sólo un accidente,</l>
-<l>tiénese donde se siente,</l>
+<l>tiénese donde se <rs type="emotion" ana="verb">siente</rs>,</l>
 <l>no donde fuera razón.</l>
-<l>   El amor no es calidad,</l>
+<l>El <rs type="emotion" ana="noun">amor</rs> no es calidad,</l>
 <l>sino estrellas que conciertan</l>
 <l>las voluntades que aciertan</l>
 <l>a ser una voluntad.</l></sp>
@@ -5379,7 +5379,7 @@
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>¡Oh, mi señor!</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <stage>Aparte.</stage>
-<l>¡Que se ha de tener amor</l>
+<l>¡Que se ha de tener <rs type="emotion" ana="noun">amor</rs></l>
 <l>por fuerza! ¡Notable agravio!</l></sp>
 
 </div>
@@ -5406,7 +5406,7 @@
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <stage>Aparte.</stage>
 <l>Amor, engañado,</l>
 <l>hoy volveréis a Finea;</l>
-<l>   que muchas veces amor,</l>
+<l>que muchas veces <rs type="emotion" ana="noun">amor</rs>,</l>
 <l>disfrazado en la venganza,</l>
 <l>hace una justa mudanza</l>
 <l>desde un desdén a un favor.</l></sp>
@@ -5433,7 +5433,7 @@
 
 <stage>(OTAVIO, MISENO y LISEO se sienten; los Músicos canten, y las dos bailen ansí.)</stage>
 
-<sp who="#Músicos_boba" ana="m"><speaker>MÚSICOS</speaker> <l>Amor, cansado de ver</l>
+<sp who="#Músicos_boba" ana="m"><speaker>MÚSICOS</speaker> <l><rs type="emotion" ana="noun">Amor</rs>, cansado de ver</l>
 <l>tanto interés en las damas,</l>
 <l>y que, por desnudo y pobre,</l>
 <l>ninguna favor le daba,</l>
@@ -5447,9 +5447,9 @@
 <l>de billetes y de cartas.</l>
 <l>Volvió de las Indias</l>
 <l>con oro y plata;</l>
-<l>que el Amor bien vestido</l>
+<l>que el <rs type="emotion" ana="noun">Amor</rs> bien vestido</l>
 <l>rinde las damas.</l>
-<l>   Paseó la corte Amor</l>
+<l>   Paseó la corte <rs type="emotion" ana="noun">Amor</rs></l>
 <l>con mil cadenas y bandas;</l>
 <l>las damas, como le vían,</l>
 <l>desta manera le hablan:</l>
@@ -5459,9 +5459,9 @@
 <l>-Viene de Panamá.-</l>
 <l>Trancelín en el sombrero,</l>
 <l>-Viene de Panamá.-</l>
-<l>cadenita de oro al cuello,</l>
+   <l>cadenita de oro al <rs type="body">cuello</rs>,</l>
 <l>-Viene de Panamá.-</l>
-<l>en los brazos el grig<supplied instant="false">u</supplied>iesco,</l>
+   <l>en los <rs type="body">brazos</rs> el grig<supplied instant="false">u</supplied>iesco,</l>
 <l>-Viene de Panamá.-</l>
 <l>las ligas con rapacejos,</l>
 <l>-Viene de Panamá.-</l>
@@ -5473,7 +5473,7 @@
 <l>-Viene de Panamá.-</l>
 <l>¿De dó viene el hijo de algo?</l>
 <l>-Viene de Panamá.-</l>
-<l>Corto cuello y puños largos,</l>
+   <l>Corto <rs type="body">cuello</rs> y puños largos,</l>
 <l>-Viene de Panamá.-</l>
 <l>la daga en banda colgando,</l>
 <l>-Viene de Panamá.-</l>
@@ -5481,7 +5481,7 @@
 <l>-Viene de Panamá.-</l>
 <l>gran jugador del vocablo,</l>
 <l>-Viene de Panamá.-</l>
-<l>no da dinero y da manos,</l>
+   <l>no da dinero y da <rs type="body">manos</rs>,</l>
 <l>-Viene de Panamá.-</l>
 <l>enfadoso mal criado;</l>
 <l>-Viene de Panamá.-</l>
@@ -5493,7 +5493,7 @@
 <l>-Viene de Panamá.-</l>
 <l>¿De dó viene, de dó viene?</l>
 <l>-Viene de Panamá.-</l>
-<l>   ¡Oh, qué bien parece Amor</l>
+<l>¡Oh, qué bien parece <rs type="emotion" ana="noun">Amor</rs></l>
 <l>con las cadenas y galas!</l>
 <l>Que solo el dar enamora,</l>
 <l>porque es cifra de las gracias.</l>
@@ -5505,11 +5505,11 @@
 <l>de vivos celos se abrasan,</l>
 <l>y alrededor de su puerta</l>
 <l>unas tras otras le cantan:</l>
-<l>   ¡Deja las avellanicas, moro,</l>
+<l>¡Deja las avellanicas, moro,</l>
 <l>que yo me las varearé!</l>
-<l>El Amor se ha vuelto godo,</l>
+<l>El <rs type="emotion" ana="noun">Amor</rs> se ha vuelto godo,</l>
 <l>-Que yo me las vareare.-</l>
-<l>puños largos, cuello corto,</l>
+   <l>puños largos, <rs type="body">cuello</rs> corto,</l>
 <l>-Que yo me las varearé.-</l>
 <l>sotanilla y liga de oro,</l>
 <l>-Que yo me las varearé.-</l>
@@ -5523,7 +5523,7 @@
 <l>-Que yo me las varearé.-</l>
 <l>es cobarde, y matamoros,</l>
 <l>-Que yo me las varearé.-</l>
-<l>Ya se descubrió los ojos.</l>
+   <l>Ya se descubrió los <rs type="body">ojos</rs>.</l>
 <l>-Que yo me las varearé.-</l>
 <l>¡Amor loco y amor loco!</l>
 <l>-Que yo me las varearé.-</l>
@@ -5558,8 +5558,8 @@
 <l>un nuevo gusto.</l></sp>
 
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Si es dar</l>
-<l>sobre tu amor pareceres,</l>
-<l>   busca un letrado de amor.</l></sp>
+<l>sobre tu <rs type="emotion" ana="noun">amor</rs> pareceres,</l>
+<l>   busca un letrado de <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Yo he mudado parecer.</l></sp>
 
@@ -5601,8 +5601,8 @@
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>El cielo tus pasos guíe</l>
 <l>y del error te desvíe</l>
 <l>en que yo por Celia estoy.</l>
-<l>   ¡Que enamore amor un hombre</l>
-<l>como yo! ¡Amor desatina!</l>
+<l>¡Que enamore <rs type="emotion" ana="noun">amor</rs> un hombre</l>
+<l>como yo! ¡<rs type="emotion" ana="noun">Amor</rs> desatina!</l>
 <l>¡Que una ninfa de cocina,</l>
 <l>para blasón de su nombre,</l>
 <l>   ponga: «Aquí murió Turín</l>
@@ -5636,7 +5636,7 @@
 
 <sp who="#Pedro_boba" ana="m"><speaker>PEDRO</speaker> <l>¡Buen secreto!</l></sp>
 
-<sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Está tan enamorado</l>
+<sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Está tan <rs type="emotion" ana="noun">enamorado</rs></l>
 <l>de la señora Finea,</l>
 <l>si no es que venganza sea</l>
 <l>de Nise, que me ha jurado</l>
@@ -5708,7 +5708,7 @@
 <l>que es el alma, que te ve</l>
 <l>   por mil vidros y cristales,</l>
 <l>por donde quiera que vas,</l>
-<l>porque en mis ojos estás</l>
+   <l>porque en mis <rs type="body">ojos</rs> estás</l>
 <l>con memorias inmortales.</l>
 <l>   Todo este grande lugar</l>
 <l>tiene colgado de espejos</l>
@@ -5732,13 +5732,13 @@
 <l>porque yo no te quería</l>
 <l>para pedirte consejo.</l>
 <l>¿Qué libro esperaba yo</l>
-<l>de tus manos? ¿En qué pleito</l>
+   <l>de tus <rs type="body">manos</rs>? ¿En qué pleito</l>
 <l>habías jamás de hacerme</l>
 <l>información en derecho?</l>
-<l>Inocente te quería,</l>
+<l>Inocente <rs type="emotion" ana="phrase">te quería</rs>,</l>
 <l>porque una mujer cordero</l>
 <l>es tusón de su marido,</l>
-<l>que puede traerla al pecho.</l>
+   <l>que puede traerla al <rs type="body">pecho</rs>.</l>
 <l>Todas sabéis lo que basta</l>
 <l>para casada, a lo menos;</l>
 <l>no hay mujer necia en el mundo,</l>
@@ -5756,7 +5756,7 @@
 <l>pues va a pedirte, ¡ay de mí!,</l>
 <l>para su mujer, Liseo.</l>
 <l>Ya deja a Nise, tu hermana.</l>
-<l>Él se casa. Yo soy muerto.</l>
+<l>Él se casa. <rs type="emotion" ana="phrase">Yo soy muerto.</rs></l>
 <l>¡Nunca, plega a Dios, hablaras!</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿De qué me culpas, Laurencio?</l>
@@ -5798,7 +5798,7 @@
 <l>Demás desto, las mujeres</l>
 <l>naturaleza tenemos</l>
 <l>tan pronta para fingir</l>
-<l>o con amor o con miedo,</l>
+<l>o con <rs type="emotion" ana="noun">amor</rs> o con <rs type="emotion" ana="noun">miedo</rs>,</l>
 <l>que, antes de nacer, fingimos.</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>¿Antes de nacer?</l></sp>
@@ -5960,7 +5960,7 @@
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Las almas</l>
 <l>obran por los instrumentos,</l>
-<l>por los sentidos y partes</l>
+<l>por los <rs type="emotion" ana="noun">sentidos</rs> y partes</l>
 <l>de que se organiza el cuerpo.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Longaniza come el alma?...</l></sp>
@@ -5993,7 +5993,7 @@
 <l>puede ser la del infierno.</l>
 <l>La noche de los difuntos</l>
 <l>no saco de puro miedo</l>
-<l>la cabeza de la ropa.</l></sp>
+   <l>la <rs type="body">cabeza</rs> de la ropa.</l></sp>
 
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Ella es loca sobre necio,</l>
 <l>que es la peor guarnición.</l></sp>
@@ -6015,9 +6015,9 @@
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Que ha sido el mejor remedio</l>
 <l>que pudiera imaginarse.</l></sp>
 
-<sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Sí; pero siento, en extremo,</l>
+<sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Sí; pero <rs type="emotion" ana="noun">siento</rs>, en extremo,</l>
 <l>volverme a boba, aun fingida.</l>
-<l>Y, pues fingida lo siento,</l>
+<l>Y, pues fingida <rs type="emotion" ana="phrase">lo siento</rs>,</l>
 <l>los que son bobos de veras,</l>
 <l>¿cómo viven?</l></sp>
 
@@ -6042,7 +6042,7 @@
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Siempre Finea y Laurencio</l>
 <l>juntos. Sin duda se tienen</l>
-<l>amor. No es posible menos.</l></sp>
+<l><rs type="emotion" ana="noun">amor</rs>. No es posible menos.</l></sp>
 
 <sp who="#Celia_boba" ana="f"><speaker>CELIA</speaker> <l>Yo sospecho que te engañan.</l></sp>
 
@@ -6060,7 +6060,7 @@
 <l>porque en mi imaginación,</l>
 <l>tales los deseos son.</l></sp>
 
-<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Estos, Celia, ¿son amores,</l>
+<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Estos, Celia, ¿son <rs type="emotion" ana="noun">amores</rs>,</l>
 <l>   o regalos de cuñado?</l></sp>
 
 <sp who="#Celia_boba" ana="f"><speaker>CELIA</speaker> <l>Regalos deben de ser;</l>
@@ -6072,7 +6072,7 @@
 <l>su posesión!</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>¿Qué no alcanza</l>
-<l>una amorosa porfía?</l></sp>
+<l>una <rs type="emotion" ana="adj">amorosa</rs> porfía?</l></sp>
 
 <sp who="#Pedro_boba" ana="m"><speaker>PEDRO</speaker> <l>Tu hermana, escuchando.</l></sp>
 
@@ -6127,7 +6127,7 @@
 <sp who="#Celia_boba" ana="f"><speaker>CELIA</speaker> <l>Que se va</l>
 <l>Pedro con el mismo humor,</l>
 <l>   y aquí viene bien que Pedro</l>
-<l>es tan ruin como su amo.</l></sp>
+<l>es tan ruin como su <rs type="emotion" ana="noun">amo</rs>.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Ya le aborrezco y desamo.</l>
 <l>¡Qué bien con las quejas medro!</l>
@@ -6139,7 +6139,7 @@
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Y tú, que disimulando</l>
 <l>estás la traición que has hecho,</l>
-<l>lleno de engaños el pecho</l>
+   <l>lleno de engaños el <rs type="body">pecho</rs></l>
 <l>con que me estás abrasando,</l>
 <l>   pues, como sirena, fuiste</l>
 <l>medio pez, medio mujer,</l>
@@ -6358,7 +6358,7 @@
 <stage>LAURENCIO, FINEA; luego CLARA.</stage>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Todo se ha echado a perder;</l>
-<l>Nise mi amor le ha contado.</l>
+<l>Nise mi <rs type="emotion" ana="noun">amor</rs> le ha contado.</l>
 <l>   ¿Qué remedio puede haber,</l>
 <l>si a verte no puedo entrar?</l></sp>
 
@@ -6380,7 +6380,7 @@
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Advierte</l>
 <l>que mis desdichas están</l>
-<l>   en tu mano. Con secreto</l>
+<l>   en tu <rs type="body">mano</rs>. Con secreto</l>
 <l>lleva a Laurencio al desván.</l></sp>
 
 <sp who="#Clara_boba" ana="f"><speaker>CLARA</speaker> <l>¿Y a Pedro?</l></sp>
@@ -6413,13 +6413,13 @@
 <stage>FINEA sola.</stage>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Por qué de imposible trato,</l>
-<l>este mi público amor?</l>
+<l>este mi público <rs type="emotion" ana="noun">amor?</rs></l>
 <l>   En llegándose a saber</l>
 <l>una voluntad, no hay cosa</l>
 <l>más triste y escandalosa</l>
 <l>para una honrada mujer.</l>
 <l>   Lo que tiene de secreto,</l>
-<l>esto tiene amor de gusto.</l></sp>
+<l>esto tiene <rs type="emotion" ana="noun">amor</rs> de gusto.</l></sp>
 
 </div>
 
@@ -6431,7 +6431,7 @@
 <l>Harélo, aunque fuera justo</l>
 <l>poner mi enojo en efeto.</l></sp>
 
-<sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Vienes ya desenojado?</l></sp>
+   <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Vienes ya <rs type="emotion" ana="noun">desenojado?</rs></l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Por los que me lo han pedido.</l></sp>
 
@@ -6452,7 +6452,7 @@
 <l>que vuelva a Madrid jamás.</l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Hija, pues simple naciste,</l>
-<l>y por milagros de amor</l>
+<l>y por milagros de <rs type="emotion" ana="noun">amor</rs></l>
 <l>dejaste el pasado error,</l>
 <l>¿cómo el ingenio perdiste?</l></sp>
 
@@ -6610,7 +6610,7 @@
 
 <sp who="#Clara_boba" ana="f"><speaker>CLARA</speaker> <l>No hayas miedo que se entienda.</l></sp>
 
-<sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡Oh, cuánto a mi amada prenda</l>
+   <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡Oh, cuánto a mi <rs type="emotion" ana="adj">amada</rs> prenda</l>
 <l>deben mis sentidos ya!</l></sp>
 
 <sp who="#Clara_boba" ana="f"><speaker>CLARA</speaker> <l>¡Con la humildad que se pone</l>
@@ -6696,7 +6696,7 @@
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Sí;</l>
 <l>que a tal furor me provoco.</l>
 <l>   No ha de quedar, ¡vive el cielo!,</l>
-<l>en mi casa quien me enoje.</l></sp>
+<l>en mi casa quien <rs type="emotion" ana="verb">me enoje</rs>.</l></sp>
 
 <sp who="#Feniso_boba" ana="m"><speaker>FENISO</speaker> <l>Y es justo que se despoje</l>
 <l>de tanto necio mozuelo.</l></sp>
@@ -6756,7 +6756,7 @@
 <l>que de los hombres se esconda?</l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>No sé, por Dios, qué os responda.</l>
-<l>Con ella estoy enojado,</l>
+<l>Con ella estoy <rs type="emotion" ana="noun">enojado</rs>,</l>
 <l>   o con mi contraria estrella.</l></sp>
 
 <sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>Ya viene Liseo aquí.</l>
@@ -6781,11 +6781,11 @@
 <l>y como mi padre agora</l>
 <l>venga bien en que seas mío,</l>
 <l>yo me doy por tuya toda;</l>
-<l>que en los agravios de amor</l>
+   <l>que en los agravios de <rs type="emotion" ana="noun">amor</rs></l>
 <l>es la venganza gloriosa.</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>¡Ay, Nise! ¡Nunca te vieran</l>
-<l>mis ojos, pues fuiste sola</l>
+   <l>mis <rs type="body">ojos</rs>, pues fuiste sola</l>
 <l>de mayor incendio en mí</l>
 <l>que fue Elena para Troya!</l>
 <l>Vine a casar con tu hermana,</l>
@@ -6805,7 +6805,7 @@
 
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Tiempla agora,</l>
 <l>bella Nise, tus desdenes;</l>
-<l>que se va amor por la posta</l>
+<l>que se va <rs type="emotion" ana="noun">amor</rs> por la posta</l>
 <l>a la casa del agravio.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Turín, las lágrimas solas</l>
@@ -6938,7 +6938,7 @@
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>¿Quién pudiera ser agora,</l>
 <l>sino Laurencio, mi infamia?</l></sp>
 
-<sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Pues, padre, ¿de qué se enoja?</l></sp>
+   <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Pues, padre, ¿de qué <rs type="emotion" ana="verb">se enoja?</rs></l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>¡Oh infame! ¿No me dijiste</l>
 <l>que el dueño de mi deshonra</l>
@@ -6957,8 +6957,8 @@
 <l>Sola en un desván, ¡mal año!</l>
 <l>Ya sabe que soy medrosa...</l></sp>
 
-<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>¡Cortaréle aquella lengua!</l>
-<l>¡Rasgaréle aquella boca!</l></sp>
+   <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>¡Cortaréle aquella <rs type="body">lengua!</rs></l>
+   <l>¡Rasgaréle aquella <rs type="body">boca</rs>!</l></sp>
 
 <sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>Este es caso sin remedio.</l></sp>
 
@@ -6989,7 +6989,7 @@
 <l>de sus justas esperanzas.</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Todo corre viento en popa.</l>
-<l>¿Daré a Finea la mano?</l></sp>
+<l>¿Daré a Finea la <rs type="body">mano</rs>?</l></sp>
 
 <sp><speaker>OCTAVIO</speaker> <l>Dádsela, boba ingeniosa.</l></sp>
 
@@ -7010,7 +7010,7 @@
 
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Y yo, ¿nací</l>
 <l>donde a los que nacen lloran,</l>
-<l>y ríen a los que mueren?</l></sp>
+   <l>y ríen a los que <rs type="emotion" ana="verb">mueren?</rs></l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Celia, que fue tu devota,</l>
 <l>será tu esposa, Turín.</l></sp>
@@ -7018,7 +7018,7 @@
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Mi bota será y mi novia.</l></sp>
 
 <sp who="#Feniso_boba" ana="m"><speaker>FENISO</speaker> <l>Vos y yo sólo faltamos.</l>
-<l>Dad acá esa mano hermosa.</l></sp>
+<l>Dad acá esa <rs type="body">mano hermosa</rs>.</l></sp>
 
 <sp who="#Duardo_boba" ana="m"><speaker>DUARDO</speaker> <l>Al senado la pedid,</l>
 <l>si nuestras faltas perdona;</l>

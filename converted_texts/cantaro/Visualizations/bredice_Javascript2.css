@@ -1,0 +1,18 @@
+head {
+    font-size: small
+}
+title {
+    font-family: Zapf-Chancery, cursive;
+    font-size: 19px;
+    color: black
+}
+body {
+    font-family:cursive;
+    font-size: 19px;
+    color: aqua
+}
+p {
+    font-family:cursive;
+    font-size:small;
+    color:blue
+}
