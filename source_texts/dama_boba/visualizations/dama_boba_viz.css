@@ -1,0 +1,14 @@
+#container {
+	position: absolute;
+}
+
+#main {
+  	position: relative;
+}
+
+.floater {
+    position: relative; 
+	top: -550px;
+	left: 475px;
+}
+
