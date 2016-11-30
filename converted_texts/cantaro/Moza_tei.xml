@@ -63,7 +63,6 @@ ACT III
 <castItem type="role"><role ana="f" xml:id="María_moza">DOÑA MARÍA</role> <roleDesc>dama</roleDesc></castItem>
 <castItem type="role"><role ana="f" xml:id="Ana_moza">DOÑA ANA</role> <roleDesc>viuda</roleDesc></castItem>
 <castItem type="role"><role ana="f" xml:id="Luisa_moza">LÜISA</role></castItem>
-<castItem type="role"><role ana="f" xml:id="Leonor_moza">LEONOR</role> <roleDesc>criadas</roleDesc></castItem>
 <castItem type="role"><role ana="f" xml:id="Juana_moza">JUANA</role></castItem>
 <castItem type="role"><role ana="m" xml:id="Alcaide_moza">UN ALCAIDE</role></castItem>
 <castItem type="role"><role ana="m" xml:id="indiano_moza">UN INDIANO</role></castItem>
@@ -76,20 +75,20 @@ ACT III
             <body>
 
 <div type="act" n="I" part="N" org="uniform" sample="complete">
-    <stage>La escena es en <placeName>Ronda</placeName>, en <placeName>Adamuz y Madrid</placeName></stage>
+    <stage>La escena es en <placeName>Ronda</placeName>, en <placeName>Adamuz</placeName> y <placeName>Madrid</placeName></stage>
     <stage>Sala en casa de don Bernardo, en <placeName>Ronda</placeName>.</stage>
 <div type="scene" n="I" part="N" org="uniform" sample="complete">
 <stage>DOÑA MARÍA y LÜISA, con unos papeles</stage>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Es cosa lo que ha pasado</l>
-<l>Para <rs type="emotion">morirse</rs> de risa.</l></sp>
+    <l>Para <rs type="emotion" ana="phrase">morirse de risa</rs>.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>¿Tantos papeles, Lüisa,</l>
-<l>Esos Narcisos te han dado?</l></sp>
+<l>Esos <persName type="myth">Narcisos</persName> te han dado?</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>¿Lo que miras dificultas?</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
-<l>¡Bravo <rs type="emotion"><rs type="emotion">amor</rs></rs>, brava fineza!</l></sp>
+<l>¡Bravo <rs type="emotion" ana="noun">amor</rs>, brava fineza!</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>No sé si te llame alteza</l>
 <l>Para darte estas consultas.</l></sp>
@@ -97,7 +96,7 @@ ACT III
 <l>Á señoría te inclina,</l>
 <l>Pues entre otras partes graves,</l>
 <l>Tengo deudo, como sabes,</l>
-<l>Con el duque de Medina.</l></sp>
+<l>Con el <persName type="hist">duque de Medina</persName>.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Es título la belleza</l>
 <l>Tan alto, que te podría</l>
@@ -108,26 +107,26 @@ ACT III
 <l>Dasme por la vanidad.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>No es lisonja la verdad,</l>
-<l>Ni las digo, así te goces.</l>
+<l>Ni las digo, así te <rs type="emotion" ana="verb">goces</rs>.</l>
     <l>No hay en <placeName>Ronda</placeName> ni en <placeName>Sevilla</placeName></l>
 <l>Dama como tú.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Yo creo,</l>
-<l>Lüisa, tu buen deseo.</l></sp>
+<l>Lüisa, tu buen <rs type="emotion" ana="noun">deseo</rs>.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
-<l>Tu <rs type="emotion">gusto</rs> me maravilla.</l>
-<l>Á ninguno quieres bien.</l></sp>
+<l>Tu <rs type="emotion" ana="noun">gusto</rs> me maravilla.</l>
+<l>Á ninguno <rs type="emotion" ana="verb">quieres</rs> bien.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Todos me parecen mal.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Arrogancia natural</l>
-<l>Te obliga á tanto desdén.--</l>
+<l>Te obliga á tanto <rs type="emotion" ana="noun">desdén</rs>.--</l>
 <l>Éste es de don Luis.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Lo leo</l>
 <l>Sólo por cumplir contigo.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
-<l>Yo soy de su <rs type="emotion">amor</rs> testigo.</l></sp>
+<l>Yo soy de su <rs type="emotion" ana="noun">amor</rs> testigo.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Y yo de que es necio y feo.</l>
 <l><stage>Lee.</stage>Considerando conmigo á solas,</l>
@@ -150,12 +149,12 @@ ACT III
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>¡Bravos rasgos! ¡Pluma diestra!</l>
 <l><stage>Lee.</stage>Con hermoso, si bien severo,</l>
-<l>no dulce, apacible sí rostro, señora</l>
+<l>no dulce, apacible sí <rs type="body">rostro</rs>, señora</l>
 <l>mía, mentida vista me miró vuestro</l>
-<l>desdén, absorto de toda humanidad, rígido</l>
+<l><rs type="emotion" ana="noun">desdén</rs>, absorto de toda humanidad, rígido</l>
 <l>empero, y no con lo brillante solícito,</l>
 <l>que de candor celeste clarifica vuestra</l>
-<l>faz, la hebdómada pasada.</l>
+<l><rs type="body">faz</rs>, la hebdómada pasada.</l>
 <l>¿Qué receta es ésta, di? <stage>Rómpele</stage></l>
 <l>Qué médico te la dió?</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
@@ -175,31 +174,31 @@ ACT III
 <l>El de don Diego, que en él</l>
 <l>Se cifra la discreción.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
-<l><stage>Lee.</stage>Si yo fuera tan dichoso como</l>
+<l><stage>Lee.</stage>Si yo fuera tan <rs type="emotion" ana="adj">dichoso</rs> como</l>
 <l>vuestra merced hermosa, hecho estaba</l>
 <l>el partido.</l>
 <l>¿Qué es partido? No prosigo. <stage>Rómpele.</stage></l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
-<l>¿Qué nada te ha de agradar?</l></sp>
+<l>¿Qué nada te ha de <rs type="emotion" ana="verb">agradar</rs>?</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Pienso que quiere jugar</l>
-<l>Á la pelota conmigo.</l>
+<l>A la pelota conmigo.</l>
 <l>Lüisa, en resolución,</l>
-<l>Yo no tengo de querer</l>
+<l>Yo no tengo de <rs type="emotion" ana="verb">querer</rs></l>
 <l>Hombre humano.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>¿Qué has de hacer,</l>
 <l>Si todos como éstos son?</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Estarme sola en mi casa.</l>
-<l>Venga de Flandes mi hermano,</l>
+<l>Venga de <placeName>Flandes</placeName> mi hermano,</l>
 <l>Pues siendo tan rico, en vano</l>
-<l>Penas inútiles pasa.</l>
+<l><rs type="emotion" ana="noun">Penas</rs> inútiles pasa.</l>
 <l>Cásese, y déjeme á mí</l>
 <l>Mi padre; que yo no veo</l>
-<l>Dónde aplique mi deseo</l>
+<l>Dónde aplique mi <rs type="emotion" ana="noun">deseo</rs></l>
 <l>De cuantos andan aquí,</l>
-<l>Codiciosos de su hacienda;</l>
+<l><rs type="emotion" ana="adj">Codiciosos</rs> de su hacienda;</l>
 <l>Que, si va á decir verdad,</l>
 <l>No quiere mi vanidad</l>
 <l>Que cosa indigna le ofenda.</l>
@@ -228,13 +227,14 @@ ACT III
 <l>¿Qué piensas hacer de ti?</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>¿Puede mi padre obligarme</l>
-<l>Á casar sin voluntad?</l></sp>
+<l>A casar sin voluntad?</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Ni tú tomarte licencia</l>
 <l>Para tanta inobediencia.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>La primera necedad</l>
-<l>Dicen que no es de temer,</l>
+<l>Dicen que no es de <rs type="emotion" ana="verb">temer</rs>,</l>
+    
 <l>Sino las que van tras ella,</l>
 <l>Pretendiendo deshacella.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
@@ -258,7 +258,7 @@ ACT III
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Tal salud tengas, Lüisa.</l>
 <l>Muchas se casan aprisa,</l>
-<l>Que á <rs type="emotion">llorar</rs> despacio van.</l></sp>
+<l>Que á <rs type="emotion" ana="verb">llorar</rs> despacio van.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Ésa es dicha, y no elección;</l>
 <l>Que mirado y escogido</l>
@@ -279,10 +279,10 @@ ACT III
 <l>Á mi lado hombre tan feo.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Mil bienes me dicen dél,</l>
-<l>Y tú sola dél te ríes.</l></sp>
+<l>Y tú sola dél <rs type="emotion" ana="verb">te ríes</rs>.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Lüisa, no me porfíes;</l>
-<l>Que éste es don Pedro el Cruel.</l></sp>
+<l>Que éste es <persName type="hist">don Pedro el Cruel</persName>.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Tu desdén me maravilla.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
@@ -302,24 +302,24 @@ ACT III
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>¡De noche un gran caballero!</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
-<l>Mas ¡ay Dios! que no le quiero</l>
+<l>Mas ¡ay Dios! que no le <rs type="emotion" ana="verb">quiero</rs></l>
 <l>Para don Diego de noche.</l>
-<l>Otra le goce, Lüisa,</l>
+<l>Otra le <rs type="emotion" ana="verb">goce</rs>, Lüisa,</l>
 <l>No yo. ¡De noche visiones!</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Oigo unas <rs type="emotion">tristes</rs> razones.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
-<l>Volvióse en llanto la risa.</l>
+<l>Volvióse en llanto la <rs type="emotion" ana="noun">risa</rs>.</l>
 <l>¿No es éste mi padre?</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Él es.</l></sp>
 </div><div type="scene" n="II" part="N" org="uniform" sample="complete">
-<stage>DON BERNARDO, de hábito de Santiago, con un lienzo en <rs type="body">los ojos</rs>.--DICHAS</stage>
+<stage>DON BERNARDO, de hábito de <persName type="org">Santiago</persName>, con un lienzo en <rs type="body">los ojos</rs>.--DICHAS</stage>
 <sp who="#Bernardo_moza"><speaker>DON BERNARDO</speaker>
 <l>¡Ay de mí!</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Señor, ¿qué es esto?</l>
-<l>Vos <rs type="emotion">llorando</rs> y descompuesto,</l>
+<l>Vos <rs type="emotion" ana="adj">llorando</rs> y descompuesto,</l>
 <l>¡Y yo no estoy á esos pies!</l>
 <l>¿Qué tenéis, padre y señor,</l>
 <l>Mi solo y único bien?</l></sp>
@@ -332,23 +332,23 @@ ACT III
 <l>No sé.</l>
 <l>Déjame, por Dios, María.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
-<l>Siendo vos vida en la mía,</l>
+<l>Siendo vos <rs type="emotion" ana="noun" subtype="meta">vida</rs> en la mía,</l>
 <l>¿Cómo dejaros podré?</l>
 <l>¿Habéis acaso caído?</l>
 <l>Que los años muchos son.</l></sp>
 <sp who="#Bernardo_moza"><speaker>DON BERNARDO</speaker>
 <l>Cayó toda la opinión</l>
 <l>Y nobleza que he tenido.</l>
-<l>No es de los hombres <rs type="emotion">llorar</rs>;</l>
-<l>Pero <rs type="emotion">lloro</rs> un hijo mío</l>
-<l>Que está en Flandes, de quien fío</l>
+<l>No es de los hombres <rs type="emotion" ana="verb">llorar</rs>;</l>
+<l>Pero <rs type="emotion" ana="verb">lloro</rs> un hijo mío</l>
+<l>Que está en <placeName>Flandes</placeName>, de quien fío</l>
 <l>Que me supiera vengar.</l>
-<l>Siendo hombre, <rs type="emotion">llorar</rs> me agrada;</l>
+<l>Siendo hombre, <rs type="emotion" ana="verb">llorar</rs> me agrada;</l>
 <l>Porque los viejos, María,</l>
 <l>Somos niños desde el día</l>
 <l>Que nos quitamos la espada.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
-<l>Sin color, y el alma en calma,</l>
+<l>Sin color, y el alma en <rs type="emotion" ana="noun">calma</rs>,</l>
 <l>Os oigo, padre y señor;</l>
 <l>Mas ¿qué mucho sin color,</l>
 <l>Si ya me tenéis sin alma?</l>
@@ -358,43 +358,44 @@ ACT III
 <l>Hija, ¿quiéresme dejar?</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Porfías, Señor, en vano.</l>
-<l>Antes de <rs type="emotion">llorar</rs> se causa</l>
+<l>Antes de <rs type="emotion" ana="verb">llorar</rs> se causa</l>
 <l>La excusa, pero no agora;</l>
-<l>Que siempre quiere el que <rs type="emotion">llora</rs></l>
+<l>Que siempre quiere el que <rs type="emotion" ana="verb">llora</rs></l>
 <l>Que le pregunten la causa.</l></sp>
 <sp who="#Bernardo_moza"><speaker>DON BERNARDO</speaker>
 <l>Don Diego me habló, María...</l>
 <l>Contigo casarse intenta...</l>
-<l>Respondíle que tu <rs type="emotion">gusto</rs></l>
+<l>Respondíle que tu <rs type="emotion" ana="noun">gusto</rs></l>
 <l>Era la primer licencia,</l>
-<l>Y la segunda del Duque.</l>
-<l>Escribí, fué la respuesta</l>
+<l>Y la segunda del <persName type="hist">Duque</persName>.</l>
+<l>Escribí, fue la respuesta</l>
 <l>No como yo la esperaba;</l>
 <l>Que darte dueño quisieran</l>
-<l>Estas canas, que me avisan</l>
+<l>Estas <rs type="body">canas</rs>, que me avisan</l>
 <l>De que ya mi fin se cerca.</l>
-<l>Puse la carta en el pecho,</l>
+<l>Puse la carta en el <rs type="body">pecho</rs>,</l>
 <l>Lugar que es bien que le deba;</l>
-<l>Que llamarme deudo el Duque</l>
+<l>Que llamarme deudo el <persName type="hist">Duque</persName></l>
+    
 <l>Fué de esta cruz encomienda.</l>
-<l>Vino á buscarme don Diego</l>
-<l>Á la Plaza (¡nunca fuera</l>
-<l>Esta mañana á la Plaza!),</l>
+<l>Vino a buscarme don Diego</l>
+<l>A la Plaza (¡nunca fuera</l>
+<l>Esta mañana a la Plaza!),</l>
 <l>Y con humilde apariencia</l>
 <l>Me preguntó si tenía</l>
 <l>(Aunque con alguna pena)</l>
 <l>Carta de Sanlúcar. Yo</l>
 <l>Le respondí que tuviera</l>
-<l>Á dicha poder servirle:</l>
+<l>A dicha poder servirle:</l>
 <l>Breve y bastante respuesta.</l>
-<l>Dijo que el Duque sabía</l>
+<l>Dijo que el <persName type="hist">Duque</persName> sabía</l>
 <l>Su calidad y nobleza;</l>
 <l>Que le enseñase la carta,</l>
-<l>Ó que era mía la afrenta</l>
+<l>O que era mía la afrenta</l>
 <l>De la disculpa engañosa.</l>
 <l>Yo, por quitar la sospecha,</l>
-<l>Saqué la carta <rs type="body">del pecho</rs>,</l>
-<l>Y turbado leyó en ella</l>
+    <l>Saqué la carta del <rs type="body">pecho</rs>,</l>
+<l>Y <rs type="emotion" ana="adj">turbado</rs> leyó en ella</l>
 <l>Estas razones, María.--</l>
 <l>Quien tal mostró, que tal tenga.--</l>
 <l>Muy honrado caballero</l>
@@ -403,36 +404,37 @@ ACT III
 <l>Tal, que al hábito os suceda</l>
 <l>Como á vuestra noble casa.</l>
 <l>Entonces don Diego, vuelta</l>
-<l>La color en nieve, dice,</l>
-<l>Y de ira y cólera tiembla:</l>
-<l>Tan bueno soy como el Duque.</l>
-<l>Yo con ira descompuesta</l>
-<l>Respondo:Los escuderos,</l>
+    <l><rs type="emotion" ana="phrase">La color en nieve</rs>, dice,</l>
+<l>Y de <rs type="emotion" ana="noun">ira</rs> y <rs type="emotion" ana="noun">cólera</rs> <rs type="emotion" ana="verb">tiembla</rs>:</l>
+<l>Tan bueno soy como el <persName type="hist">Duque</persName>.</l>
+<l>Yo con <rs type="emotion" ana="noun">ira</rs> descompuesta</l>
+<l>Respondo: Los escuderos,</l>
 <l>Aunque muy hidalgos sean,</l>
 <l>No hacen comparación</l>
 <l>Con los príncipes; que es necia.</l>
-<l>Desdecíos, ó le escribo</l>
-<l>Á don Alonso que venga</l>
-<l>Desde Flandes á mataros.</l>
+<l>Desdecíos, o le escribo</l>
+<l>A don Alonso que venga</l>
+<l>Desde Flandes a mataros.</l>
 <l>Aquí su mano soberbia...</l>
 <l>Pero prosigan mis ojos</l>
-<l>Lo que no puede <rs type="body">la lengua</rs>.</l>
+    <l>Lo que no puede la<rs type="body"> lengua</rs>.</l>
 <l>Déjame; que tantas veces</l>
 <l>Una afrenta se renueva,</l>
 <l>Cuantas el que la recibe</l>
-<l>Á el que la ignora la cuenta.</l>
+<l>A el que la ignora la cuenta.</l>
 <l>Herrado traigo, María,</l>
-<l>El rostro con cinco letras,</l>
+<l>El <rs type="body" ana="noun">rostro</rs> con cinco letras,</l>
 <l>Esclavo soy de la infamia,</l>
 <l>Cautivo soy de la afrenta.</l>
 <l>El eco sonó en el alma;</l>
-<l>Que si es la cara la puerta,</l>
-<l>Han respondido <rs type="body">los ojos</rs>,</l>
+<l>Que si es la <rs type="body">cara</rs> la puerta,</l>
+    <l>Han respondido los<rs type="body"> ojos</rs>,</l>
 <l>Viendo que llaman en ella.</l>
 <l>Alcé el báculo... Dijeron</l>
 <l>Que lo alcancé... no lo creas;</l>
-<l>Que mienten á el afrentado,</l>
-<l>Pensando que le consuelan.</l>
+<l>Que mienten á el <rs type="emotion" ana="adj">afrentado</rs>,</l>
+<l>Pensando que le <rs type="emotion" ana="verb">consuelan</rs>.</l>
+    <!-- #st edit stopped here -->
 <l>Prendióle allí la justicia,</l>
 <l>Y preso en la cárcel queda:</l>
 <l>¡Pluguiera á Dios que <rs type="body">la mano</rs></l>
