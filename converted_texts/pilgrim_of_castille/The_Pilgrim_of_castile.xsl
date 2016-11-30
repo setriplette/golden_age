@@ -13,6 +13,7 @@
                 <title>The Pilgrim of Castile</title>
                 <link rel="stylesheet" type="text/css" href="prose_reading_view.css" />
                 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+                <script type="text/javascript" src="pilgrim_reading_view.js"></script>
             </head>
             <body>
                 <h1>The Pilgrim of Castile</h1>
@@ -20,7 +21,19 @@
                 <h3>Translated and Abridged by William Dutton</h3>
                 
                 <hr/>
-                
+                <div>
+                    <fieldset>
+                        <legend>Click to Highlight:</legend>
+                        <input type="checkbox" id="persNametoggle"/>
+                        <span class="persName">Persons</span>
+                        <input type="checkbox" id="placeNametoggle"/>
+                        <span class="placeName">Places</span>
+                        <input type="checkbox" id="emotiontoggle"/>
+                        <span class="emotion">Emotions</span>
+                        <input type="checkbox" id="bodytoggle"/>
+                        <span class="body">Body Parts</span>
+                    </fieldset>
+                </div>
 
                 <div id="main">
                     <xsl:apply-templates select="//body"/>
