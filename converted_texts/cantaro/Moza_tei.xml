@@ -3,7 +3,7 @@
     <teiHeader type="text">
         <fileDesc>
             <titleStmt>
-                <title>Title</title>
+                <title>La Moza de Cántaro</title>
             </titleStmt>
             <publicationStmt>
                 <p part="N">Publication Information</p>
@@ -76,8 +76,8 @@ ACT III
             <body>
 
 <div type="act" n="I" part="N" org="uniform" sample="complete">
-    <stage>La escena es en Ronda, en Adamuz y Madrid</stage>
-<stage>Sala en casa de don Bernardo, en Ronda.</stage>
+    <stage>La escena es en <placeName>Ronda</placeName>, en <placeName>Adamuz y Madrid</placeName></stage>
+    <stage>Sala en casa de don Bernardo, en <placeName>Ronda</placeName>.</stage>
 <div type="scene" n="I" part="N" org="uniform" sample="complete">
 <stage>DOÑA MARÍA y LÜISA, con unos papeles</stage>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
@@ -109,7 +109,7 @@ ACT III
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>No es lisonja la verdad,</l>
 <l>Ni las digo, así te goces.</l>
-<l>No hay en Ronda ni en Sevilla</l>
+    <l>No hay en <placeName>Ronda</placeName> ni en <placeName>Sevilla</placeName></l>
 <l>Dama como tú.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Yo creo,</l>
@@ -288,7 +288,7 @@ ACT III
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Pues ten por cierta verdad</l>
 <l>Que es rey de la necedad,</l>
-<l>Como el otro de Castilla.</l></sp>
+    <l>Como el otro de <placeName>Castilla</placeName>.</l></sp>
 <sp who="#Luisa_moza"><speaker>LÜISA</speaker>
 <l>Don Diego está confiado;</l>
 <l>Joyas te ha hecho famosas.</l></sp>
@@ -439,7 +439,7 @@ ACT III
 <l>Desde hoy estuviera presa!</l>
 <l>¡Ay, hijo del alma mía!</l>
 <l>¡Ay, Alonso! ¡Si estuvieras</l>
-<l>En Ronda! Pero ¿qué digo?</l>
+    <l>En <placeName>Ronda!</placeName> Pero ¿qué digo?</l>
 <l>Mejor es que yo me pierda.</l>
 <l>Salid, lágrimas, salid...</l>
 <l>Mas no es posible que puedan</l>
@@ -464,7 +464,7 @@ ACT III
 <l>Adonde sobra el valor. <stage>Vanse.</stage></l>
 </sp>
 </div><div type="scene" n="IV" part="N" org="uniform" sample="complete">
-<stage>Cuarto en la cárcel de Ronda.</stage>
+    <stage>Cuarto en la cárcel de <placeName>Ronda.</placeName></stage>
 <stage>DON DIEGO, FULGENCIO</stage>
 <sp who="#Fulgencio_moza"><speaker>FULGENCIO</speaker>
 <l>La razón es un espejo</l>
@@ -500,7 +500,7 @@ ACT III
 <l>Que, fuera de la razón</l>
 <l>Que él tiene en esta ocasión,</l>
 <l>Pocos amigos tendréis.</l>
-<l>Toda Ronda os pone culpa.</l></sp>
+    <l>Toda <placeName>Ronda</placeName> os pone culpa.</l></sp>
 <sp who="#Diego_moza"><speaker>DON DIEGO</speaker>
 <l>Claro está, soy desdichado...</l>
 <l>Pues el haberme afrentado</l>
@@ -575,7 +575,7 @@ ACT III
 <l>Engendrar bandos, de quien</l>
 <l>Tan <rs type="emotion"><rs type="emotion">triste</rs>s</rs> sucesos nacen.</l>
 <l>Vos quedaréis con la honra</l>
-<l>Que es justo y que Ronda sabe,</l>
+    <l>Que es justo y que <placeName>Ronda</placeName> sabe,</l>
 <l>Satisfecho el señor Duque,</l>
 <l>Desenojado mi padre,</l>
 <l>Y yo con tan buen marido,</l>
@@ -657,7 +657,7 @@ ACT III
 <l>Toda la cárcel se altera.</l>
 <l>Quiero buscar esta dama.</l>
 <stage>Se lleva á don Diego.</stage></sp></div><div type="scene" n="VIII" part="N" org="uniform" sample="complete">
-<stage>Una calle de Madrid.</stage>
+    <stage>Una calle de <placeName>Madrid</placeName>.</stage>
 <stage>EL CONDE, DON JUAN</stage>
 <sp><speaker>CONDE</speaker>
 <l>¡Hermosa viuda, don Juan!</l>
@@ -1263,7 +1263,7 @@ ACT III
 <l>De aquesta fértil comarca.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>No, Señor; que yo nací</l>
-<l>De esa parte de Granada,</l>
+    <l>De esa parte de <placeName>Granada</placeName>,</l>
 <l>Y á servir en ella vine;</l>
 <l>Que cuando los padres faltan</l>
 <l>En tierna edad á los pobres,</l>
@@ -1281,7 +1281,7 @@ ACT III
 <l>Siempre hablaba</l>
 <l>Esta persona que digo,</l>
 <l>Con notables alabanzas</l>
-<l>De la corte y de Madrid:</l>
+    <l>De la corte y de <placeName>Madrid</placeName>:</l>
 <l>Yo pues, á quien ya faltaba</l>
 <l>Dueño, con algún deseo</l>
 <l>Que de ver grandeza tanta</l>
@@ -1297,12 +1297,12 @@ ACT III
 <l>Y voy con notables ansias</l>
 <l>De ver lo que alaban todos.</l></sp>
 <sp><speaker>MOZO</speaker>
-<l>El camino de Granada</l>
+    <l>El camino de <placeName>Granada</placeName></l>
 <l>No es éste.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Decís muy bien;</l>
 <l>Mas vine por ver si estaba</l>
-<l>En Córdoba un deudo mío.</l></sp>
+    <l>En <placeName>Córdoba</placeName> un deudo mío.</l></sp>
 <sp><speaker>INDIANO</speaker>
 <l>¡Determinación extraña</l>
 <l>De una mujer!</l></sp>
@@ -1310,7 +1310,7 @@ ACT III
 <l>Soy mujer.</l></sp>
 <sp><speaker>INDIANO</speaker>
 <l>Decís muy bien, eso basta.</l>
-<l>Yo voy también á Madrid:</l>
+    <l>Yo voy también á <placeName>Madrid</placeName>:</l>
 <l>Traigo jornada más larga,</l>
 <l>Porque vengo de las Indias;</l>
 <l>Que pocas veces descansa</l>
@@ -1411,7 +1411,7 @@ ACT III
 <l>Cultas musas, dadme aquí</l>
 <l>Un ramo blanco de azahar</l>
 <l>De las huertas de Valencia</l>
-<l>Ó jardines de Sevilla.</l>
+    <l>Ó jardines de <placeName>Sevilla</placeName>.</l>
 <l>Comience una zapatilla</l>
 <l>De la Vera de Plasencia,</l>
 <l>Porque entremos por la basa</l>
@@ -1812,7 +1812,7 @@ ACT III
 <l>Mirad la desdicha mía,</l>
 <stage>Aprended, flores, de mí.</stage>
 <l>Maravilla solía ser</l>
-<l>De toda la Andalucía;</l>
+    <l>De toda la <placeName>Andalucía</placeName>;</l>
 <l>Ó maravilla ó María,</l>
 <l>Ya no soy la que era ayer.</l>
 <l>Flores, no os deis á entender</l>
@@ -2565,7 +2565,7 @@ ACT III
 <l>Gigote de hombres haré,</l>
 <l>Y de que lo cumpliré</l>
 <l>Hágote voto solene.</l>
-<l>Si yo me enojo en Madrid</l>
+    <l>Si yo me enojo en <placeName>Madrid</placeName></l>
 <l>Con quien á ti te ha <rs type="emotion">enojado,</rs></l>
 <l>Haz cuenta que se ha tocado</l>
 <l>La tumba en Valladolid.</l>
@@ -3070,7 +3070,7 @@ ACT III
 <l>Negocios son, os prometo,</l>
 <l>Que me han tenido ocupado</l>
 <l>Por un notable suceso.</l>
-<l>Mató en Ronda cierta dama</l>
+    <l>Mató en <placeName>Ronda</placeName> cierta dama</l>
 <l>Guzmán y Portocarrero,</l>
 <l>Cuyo padre con el duque</l>
 <l>De Medina tiene deudo,</l>
@@ -3509,7 +3509,7 @@ ACT III
 MARTÍN, PEDRO, LORENZO, BERNAL y OTROS LACAYOS, muy galanes;
 ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <sp><speaker>MÚSICOS</speaker><stage>cantan</stage>
-<l>En la villa de Madrid</l>
+    <l>En la villa de <placeName>Madrid</placeName></l>
 <l>Leonor y Martín se casan:</l>
 <l>Corren toros y juegan cañas.</l></sp>
 <sp who="#Martín_moza"><speaker>MARTÍN</speaker>
@@ -3643,7 +3643,7 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <sp><speaker>CONDE</speaker>
 <l>Bastaba, si verdad fuera.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
-<l>¿Quién fué la dama de Ronda</l>
+    <l>¿Quién fué la dama de <placeName>Ronda</placeName></l>
 <l>Que mató, por la defensa</l>
 <l>De su padre, un caballero,</l>
 <l>Cuyo perdón se concierta</l>
