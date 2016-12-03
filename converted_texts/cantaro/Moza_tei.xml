@@ -3010,7 +3010,7 @@ ACT III
 <l>Con el donaire y aseo,</l>
 <l>Dar, fuera de vuestros <rs type="body">ojos</rs>,</l>
 <l>A muchos <rs type="emotion" ana="verb">envidia</rs> y celos.</l>
-<!-- #st stopped here editing -->
+
   
 <l>Mi primo es tan singular,</l>
 <l>Que por bizarría ha puesto</l>
@@ -3062,13 +3062,13 @@ ACT III
 <l>Y tanto hacia atrás se hizo,</l>
 <l>Que dió el muchacho en el suelo.</l>
 <l>Díjole:¿Cómo caíste?</l>
-    <!-- #st stopped here coding -->
+    
 <l>Y disculpóse diciendo:</l>
 <l>Madre, acabóseme el asno.</l>
 <l>Así yo, que hablando veo</l>
-<l>Á tan discretos señores,</l>
+<l>A tan discretos señores,</l>
 <l>Hago atrás mi entendimiento,</l>
-<l>Hasta que he venido á dar</l>
+<l>Hasta que he venido a dar</l>
 <l>Con el silencio en el suelo.</l></sp>
 <sp who="#Martín_moza"><speaker>MARTÍN</speaker><stage>ap.</stage>
 <l>Tomen lo que se han ganado.</l></sp>
@@ -3081,37 +3081,37 @@ ACT III
 <l>Ahora bien, Señor, hablemos</l>
 <l>De la ausencia destos días.</l>
 <l>Ya me olvidáis, ya me quejo</l>
-<l>De vos al pasado <rs type="emotion">amor</rs>.</l></sp>
+<l>De vos al pasado <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
 <l>Negocios son, os prometo,</l>
 <l>Que me han tenido ocupado</l>
 <l>Por un notable suceso.</l>
     <l>Mató en <placeName>Ronda</placeName> cierta dama</l>
 <l>Guzmán y Portocarrero,</l>
-<l>Cuyo padre con el duque</l>
+<l>Cuyo padre con el <persName>duque</persName></l>
 <l>De Medina tiene deudo,</l>
 <l>Un caballero su amante.</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
-<l>¿Con qué ocasión? ¿Fueron celos?</l></sp>
+<l>¿Con qué ocasión? ¿Fueron <rs type="emotion" ana="noun">celos</rs>?</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
-<l>Desagraviando á su padre</l>
+<l><rs type="emotion" ana="verb">Desagraviando</rs> a su padre</l>
 <l>De un bofetón, porque el viejo</l>
 <l>No estaba para las armas.</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
 <l>¡Gran valor!</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l>¡Valiente esfuerzo!</l>
-<l>Diera por ver á esa dama</l>
+<l>Diera por ver a esa dama</l>
 <l>Toda cuanta hacienda tengo.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker><stage>ap.</stage>
-<l>Turbada estoy, encubrir</l>
-<l>Puedo apenas lo que <rs type="emotion">siento</rs>.</l></sp>
+<l><rs type="emotion" ana="adj">Turbada</rs> estoy, encubrir</l>
+<l>Puedo apenas lo que <rs type="emotion" ana="verb">siento</rs>.</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
 <l>Al fin, perdonó la parte,</l>
 <l>Poniéndose de por medio,</l>
 <l>Entre deudos de unos y otros,</l>
 <l>Muchos nobles caballeros.</l>
-<l>Con esto me ha escrito el Duque,</l>
+<l>Con esto me ha escrito el <persName>Duque</persName>,</l>
 <l>Por el mismo parentesco,</l>
 <l>Alcance el perdón del Rey;</l>
 <l>Lo que hoy, Señora, se ha hecho.</l>
@@ -3121,15 +3121,15 @@ ACT III
 <l>Siendo esta corte su centro.</l>
 <l>Mirad si estoy disculpado;</l>
 <l>Y porque me voy con esto,</l>
-<l>Vendré, Señora, á la noche,</l>
-<l>Si me dais licencia, á veros.</l></sp>
+<l>Vendré, Señora, a la noche,</l>
+<l>Si me dais licencia, a veros.</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
-<l>Id con <persName type="bibl">Dios</persName>; volvé á la noche.</l></sp>
+<l>Id con <persName type="bibl">Dios</persName>; volvé a la noche.</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
-<l>Si haré, encanto de Babel.--</l>
+<l>Si haré, encanto de <placeName>Babel</placeName>.--</l>
 <l>Quedáos con vuestra Isabel; <stage>Á don Juan.</stage></l>
 <l>Que yo me voy en el coche.</l>
-<stage>Vanse el Conde, doña Ana y los criados.</stage></sp></div><div type="scene" n="VII" part="N" org="uniform" sample="complete">
+<stage>Vanse el Conde, doña Ana y los criados.</stage></sp></div><div type="scene" n="VII" >
 <stage>DOÑA MARÍA, DON JUAN</stage>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l>Alegre, Isabel, estás,</l>
@@ -3147,19 +3147,19 @@ ACT III
 <l>Si cuando yo te rogué,</l>
 <l>Hábito honrado tomaras,</l>
 <l>La voluntad disculparas,</l>
-<l>Que baja en tus prendas fué.</l>
-<l>Si el venir aquí son celos,</l>
+<l>Que baja en tus prendas fue.</l>
+<l>Si el venir aquí son <rs type="emotion" ana="noun">celos</rs>,</l>
 <l>Pensando que así me guardas,</l>
 <l>Son, Isabel, sombras pardas</l>
 <l>En ofensa de tus cielos.</l>
 <l>¿Qué guarda de más valor,</l>
 <l>Isabel, que tu hermosura,</l>
 <l>Si ella misma te asegura</l>
-<l>Que merece tanto <rs type="emotion">amor</rs>?</l>
-<l>¡Vive <persName type="bibl">Dios</persName>, que te he querido,</l>
-<l>Y te quiero y te querré,</l>
+<l>Que merece tanto <rs type="emotion" ana="noun">amor</rs>?</l>
+<l>¡Vive <persName type="bibl">Dios</persName>, que te <rs type="emotion" ana="verb">he querido</rs>,</l>
+<l>Y te <rs type="emotion" ana="noun">quiero</rs> y te <rs type="emotion" ana="verb">querré</rs>,</l>
 <l>Con tanta firmeza y fe,</l>
-<l>Que <rs type="emotion">vive mi <rs type="emotion">amor</rs> corrido</rs></l>
+<l>Que vive mi <rs type="emotion" ana="noun">amor</rs> corrido</l>
 <l>De no vencer tu rigor,</l>
 <l>Siendo tú tan desigual!</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
@@ -3168,39 +3168,39 @@ ACT III
 <l>Con que poder igualaros,</l>
 <l>Aunque de vuestro apellido</l>
 <l>Príncipes haya tenido</l>
-<l>Italia y Francia tan raros,</l>
-<l>Sóbrame á mí el ser mujer;</l>
+<l><placeName>Italia</placeName> y <placeName>Francia</placeName> tan raros,</l>
+<l>Sóbrame a mí el ser mujer;</l>
 <l>Pero si de vuestro engaño</l>
-<l>Á los dos resulta daño,</l>
+<l>A los dos resulta daño,</l>
 <l>Desengaño habrá de ser.</l>
-<l>No estoy <rs type="emotion">contenta</rs> de estar</l>
+<l>No estoy <rs type="emotion" ana="adj">contenta</rs> de estar</l>
 <l>Donde, con hacer mudanza</l>
 <l>Del hábito, mi esperanza</l>
-<l>Aspire á mejor lugar.</l>
-<l>Ni menos estoy celosa,</l>
+<l>Aspire a mejor lugar.</l>
+<l>Ni menos estoy <rs type="emotion" ana="adj">celosa</rs>,</l>
 <l>Ni os guardo, aunque os he querido;</l>
 <l>Que en este humilde vestido</l>
 <l>Hay un alma generosa,</l>
 <l>Tan soberbia y arrogante,</l>
 <l>Que el cántaro que dejé,</l>
-<l>Un cielo en mis hombros fué,</l>
-<l>Como el que sustenta Atlante.</l>
-<l>Yo os quiero bien, aunque soy</l>
+<l>Un cielo en mis <rs type="body">hombros</rs> fué,</l>
+<l>Como el que sustenta <persName type="myth">Atlante</persName>.</l>
+<l>Yo os <rs type="emotion" ana="verb">quiero</rs> bien, aunque soy</l>
 <l>De naturaleza esquiva;</l>
-<l>Pero hay otro <rs type="emotion">amor</rs> que priva,</l>
+<l>Pero hay otro <rs type="emotion" ana="noun">amor</rs> que priva,</l>
 <l>Por quien os dejo y me voy.</l>
-<l>No os dé pena; que os prometo</l>
+<l>No os dé <rs type="emotion" ana="noun">pena</rs>; que os prometo</l>
 <l>Que no hay nieve tan helada;</l>
 <l>Pero he nacido obligada</l>
-<l>Á su <rs type="emotion">amor</rs> y á su respeto.</l>
+<l>A su <rs type="emotion" ana="noun">amor</rs> y a su respeto.</l>
 <l>No puedo hacer más por vos</l>
-<l>Que decir que os he querido:</l>
+<l>Que decir que os <rs type="emotion" ana="verb">he querido</rs>:</l>
 <l>En fe de lo cual os pido,</l>
-<l>Y del <rs type="emotion">amor</rs> de los dos,</l>
+<l>Y del <rs type="emotion" ana="noun">amor</rs> de los dos,</l>
 <l>Que una cosa hagáis por mí.</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l>¿Como ausentarte, mi bien?</l>
-<l>Después de tanto desdén,</l>
+<l>Después de tanto <rs type="emotion" ana="noun">desdén</rs>,</l>
 <l>¿Esto merezco de ti?</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>No excuso, aunque lo sintáis,</l>
@@ -3213,18 +3213,18 @@ ACT III
 <l>Esta joya me vendáis.</l>
 <l>Diamantes son: claro está</l>
 <l>Que justa sospecha diera</l>
-<l>Si á vender diamantes fuera</l>
-<l>Mujer que á la fuente va;</l>
+<l>Si a vender diamantes fuera</l>
+<l>Mujer que a la fuente va;</l>
 <l>Que con lo que ella valiere,</l>
-<l>Podré á mi casa llegar.</l></sp>
+<l>Podré a mi casa llegar.</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l>Cuando pensaba esperar,</l>
-<l>Quiere <rs type="emotion">amor</rs> que desespere.</l>
-<l>¡Notable desdicha mía!</l>
-<l>¡Tristes nuevas! ¿Quién amó</l>
+<l>Quiere <rs type="emotion" ana="noun">amor</rs> que desespere.</l>
+<l>¡Notable <rs type="emotion" ana="noun">desdicha</rs> mía!</l>
+<l>¡<rs type="emotion" ana="adj">Tristes</rs> nuevas! ¿Quién <rs type="emotion" ana="verb">amó</rs></l>
 <l>Con la fortuna que yo?</l>
 <l>Mas ¿quién, sino yo, podía?</l>
-<l>Tened la joya y <rs type="body">la mano</rs>,</l>
+    <l>Tened la joya y la<rs type="body"> mano</rs>,</l>
 <l>Que entrambas diamantes son,</l>
 <l>Si es la mina un <rs type="body">corazón</rs></l>
 <l>Tan firme como tirano;</l>
@@ -3248,7 +3248,7 @@ ACT III
 <l>Tal bajeza, imaginara</l>
 <l>Prendas que más altas son</l>
 <l>De las que tenéis, bastantes</l>
-<l>Á abonaros; cuando fuera</l>
+<l>A abonaros; cuando fuera</l>
 <l>Hurto, mayor le creyera,</l>
 <l>Si fueran almas, diamantes.</l>
 <l>Algo sospecho encubierto,</l>
@@ -3257,11 +3257,11 @@ ACT III
 <l>Tengo por mayor acierto.</l>
 <l>Que desde el punto que os ví</l>
 <l>Con el cántaro, Isabel,</l>
-<l>Echó <rs type="emotion">amor</rs> suertes en él</l>
+<l>Echó <rs type="emotion" ana="noun">amor</rs> suertes en él</l>
 <l>Para vos y para mí.</l>
 <l>Vos salisteis diferente</l>
 <l>De lo que aquí publicáis,</l>
-<l>Y yo sin dicha si os vais,</l>
+<l>Y yo sin <rs type="emotion" ana="noun">dicha</rs> si os vais,</l>
 <l>Para que yo muera ausente.</l>
 <l>¿Quién sois, hermosa Isabel?</l>
 <l>Porque cántaro y diamantes</l>
@@ -3274,31 +3274,31 @@ ACT III
 <l>La verdad se encubre en vano;</l>
 <l>Que como al que ayer traía</l>
 <l>Guantes de ámbar, otro día,</l>
-<l>Le quedó oliendo <rs type="body">la mano</rs>;</l>
+    <l>Le quedó oliendo la<rs type="body"> mano</rs>;</l>
 <l>Así, quien señora fué,</l>
 <l>Trae aquel olor consigo,</l>
 <l>Aunque del ámbar que digo,</l>
 <l>Reliquias muestre por fe.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>No os canséis en prevenciones;</l>
-<l>Que yo no os he de engañar.</l></sp></div><div type="scene" n="VIII" part="N" org="uniform" sample="complete">
+<l>Que yo no os he de engañar.</l></sp></div><div type="scene" n="VIII" >
 <stage>LEONOR.--DICHOS</stage>
 <sp who="#Leonor_moza"><speaker>LEONOR</speaker>
 <l>¿Cuándo piensas acabar,</l>
 <l>Isabel, tantas razones?</l>
-<l>Vente á vestir y á vestirme;</l>
+<l>Vente a vestir y a vestirme;</l>
 <l>Que mi señora te llama.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
-<l>Voy á ponerme de dama.</l></sp>
+<l>Voy a ponerme de dama.</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l>¿Volverás?</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
-<l>Á despedirme.</l>
-<stage>Vanse los dos.</stage></sp></div><div type="scene" n="IX" part="N" org="uniform" sample="complete">
+<l>A despedirme.</l>
+<stage>Vanse los dos.</stage></sp></div><div type="scene" n="IX" >
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l>¿Qué confusión es ésta que levanta</l>
-<l>Amor en mis <rs type="emotion">sentido</rs>s nuevamente,</l>
-<l>Que á tales pensamientos adelanta</l>
+<l><rs type="emotion" ana="noun">Amor</rs> en mis <rs type="body">sentidos</rs> nuevamente,</l>
+<l>Que a tales pensamientos adelanta</l>
 <l>Mi dulce cuanto bárbaro accidente?</l>
 <l>Así el cautivo en la cadena canta,</l>
 <l>Así engañado se entretiene, ausente,</l>
@@ -3306,45 +3306,45 @@ ACT III
 <l>Verá la patria en que vivir solía.</l>
 <l>No con menos temor, menos sosiego,</l>
 <l>Tímido ruiseñor su esposa llama,</l>
-<l>Á quien el plomo en círculos de fuego</l>
+<l>A quien el plomo en círculos de fuego</l>
 <l>Quitó la amada vida en verde rama,</l>
 <l>Que mi confuso pensamiento ciego</l>
-<l>En noche obscura los engaños ama,</l>
+<l>En noche obscura los engaños <rs type="emotion" ana="verb">ama</rs>,</l>
 <l>Esperando que llegue con el día</l>
-<l>La muerta luz de la esperanza mía.</l>
+<l>La muerta luz de la <rs type="emotion" ana="noun">esperanza</rs> mía.</l>
 <l>Mas ¿cómo puede haber tales engaños?</l>
-<l>Cómo pensar mi <rs type="emotion">amor</rs> que la belleza</l>
+<l>Cómo pensar mi <rs type="emotion" ana="noun">amor</rs> que la belleza</l>
 <l>No puede haber nacido en viles paños,</l>
 <l>Si pudo la fealdad en la nobleza?</l>
 <l>Así, para mayores desengaños,</l>
 <l>Mostró por variedad naturaleza</l>
 <l>De un espino la flor candida, hermosa,</l>
 <l>Y vestida de púrpura la rosa.</l>
-<l>Que darme yo á entender que la hermosura</l>
-<l>Que ví llevar un cántaro á la fuente,</l>
+<l>Que darme yo a entender que la hermosura</l>
+<l>Que ví llevar un cántaro a la fuente,</l>
 <l>Por engastar el barro en nieve pura</l>
-<l>Del cristal de una mano trasparente,</l>
-<l>No pudo proceder de sangre obscura,</l>
+<l>Del cristal de una <rs type="body">mano</rs> trasparente,</l>
+<l>No pudo proceder de <rs type="body">sangre</rs> obscura,</l>
 <l>Y nacer entendida humildemente,</l>
-<l>Es vano error, pues siempre <rs type="emotion">amando</rs> veo</l>
-<l>Calificar bajezas el deseo.</l>
-<l>Pues ¿quién será Isabel, <rs type="emotion">locura</rs> mía,</l>
+<l>Es vano error, pues siempre <rs type="emotion" ana="verb">amando</rs> veo</l>
+<l>Calificar bajezas el <rs type="emotion" ana="noun">deseo</rs>.</l>
+<l>Pues ¿quién será Isabel, <rs type="emotion" ana="noun">locura</rs> mía,</l>
 <l>Con hermosura y prendas celestiales?</l>
 <l>¡Oh! ¿cuándo resistió tanta porfía</l>
 <l>La bajeza de humildes naturales?</l>
 <l>No ha de pasar sin que lo sepa el día.</l>
-<l>Industrias hay; y si por dicha iguales</l>
-<l>Somos los dos, como mi <rs type="emotion">amor</rs> desea,</l>
+<l>Industrias hay; y si por <rs type="emotion" ana="noun">dicha</rs> iguales</l>
+<l>Somos los dos, como mi <rs type="emotion" ana="noun">amor</rs> <rs type="emotion" ana="verb">desea</rs>,</l>
 <l>Tu cántaro, Isabel, mi dote sea.</l>
 <l>No te pienses partir, si por ventura</l>
 <l>No lo quieres fingir para matarme;</l>
-<l>Que ya no tiene estado mi <rs type="emotion">locura</rs></l>
+<l>Que ya no tiene estado mi <rs type="emotion" ana="noun">locura</rs></l>
 <l>Que yo pueda perderte y tú dejarme;</l>
 <l>Que si tienes nobleza y hermosura,</l>
 <l>Del cántaro por armas pienso honrarme;</l>
 <l>Que con el premio con que ya se trata,</l>
-<l>Amor le volverá de barro en plata. <stage>Vase.</stage></l></sp></div><div type="scene" n="X" part="N" org="uniform" sample="complete">
-<l>Calle.</l>
+<l><rs type="emotion" ana="noun">Amor</rs> le volverá de barro en plata. <stage>Vase.</stage></l></sp></div><div type="scene" n="X" part="N" org="uniform" sample="complete">
+<stage>Calle.</stage>
 <stage>MARTÍN, PEDRO</stage>
 <sp who="#Pedro_moza"><speaker>PEDRO</speaker>
 <l>Martín, en esta ocasión</l>
@@ -3355,7 +3355,7 @@ ACT III
 <l>Que el Conde gusta que sea</l>
 <l>Padrino con Isabel.</l></sp>
 <sp who="#Pedro_moza"><speaker>PEDRO</speaker>
-<l>Ensancharáse con él Cuando á su lado se vea.</l>
+<l>Ensancharáse con él Cuando a su lado se vea.</l>
 <l>Yo sé que si</l>
 <l>me casara, Padrino os hiciera á vos.</l></sp>
 <sp who="#Martín_moza"><speaker>MARTÍN</speaker>
@@ -3386,22 +3386,22 @@ ACT III
 <l>Que es muy honrada Leonor,</l>
 <l>Aunque pide más caudal</l>
 <l>La talega de la sal,</l>
-<l>Que anda el tiempo á el rededor.</l>
+<l>Que anda el tiempo a el rededor.</l>
 <l>Mas queriendo el Conde bien</l>
-<l>Á doña Ana, por Leonor</l>
+<l>A doña Ana, por Leonor</l>
 <l>Os hará siempre favor,</l>
 <l>Y ella ayudará también</l>
-<l>De su parte á vuestra casa.</l></sp>
+<l>De su parte a vuestra casa.</l></sp>
 <sp who="#Martín_moza"><speaker>MARTÍN</speaker>
 <l>Pues con eso pasaremos.</l></sp>
 <sp who="#Pedro_moza"><speaker>PEDRO</speaker>
 <l>¿Quién queréis que convidemos?</l></sp>
 <sp who="#Martín_moza"><speaker>MARTÍN</speaker>
 <l>No lo excusa quien se casa.</l>
-<l>Á Rodríguez lo primero,</l>
-<l>Á Galindo y á Butrón,</l>
-<l>Á Lorenzo y á Ramón,</l>
-<l>Y á Pierres, buen compañero.</l></sp>
+<l>A Rodríguez lo primero,</l>
+<l>A Galindo y á Butrón,</l>
+<l>A Lorenzo y á Ramón,</l>
+<l>Y a Pierres, buen compañero.</l></sp>
 <sp who="#Pedro_moza"><speaker>PEDRO</speaker>
 <l>Haced llevar un menudo;</l>
 <l>Que no hay <rs type="body">hueso</rs> que dejar.</l></sp>
@@ -3419,50 +3419,50 @@ ACT III
 <l>Tendremos en cantidad.</l></sp>
 <sp who="#Martín_moza"><speaker>MARTÍN</speaker>
 <l>Pedro, ésa es enfermedad</l>
-<l>Que no ha menester doctor. <stage>Vanse.</stage></l></sp></div><div type="scene" n="XI" part="N" org="uniform" sample="complete">
+<l>Que no ha menester doctor. <stage>Vanse.</stage></l></sp></div><div type="scene" n="XI" >
 <l>Sala en casa de doña Ana.</l>
 <stage>DOÑA ANA, DON JUAN</stage>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l>Yo pienso que es condición,</l>
-<l>Y no <rs type="emotion">amor</rs>, vuestra porfía.</l></sp>
+<l>Y no <rs type="emotion" ana="noun">amor</rs>, vuestra porfía.</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
 <l>Y ¿quién sin <rs type="emotion">amor</rs> podía</l>
-<l>Sufrir tanta sinrazón?</l></sp>
+<l><rs type="emotion" ana="verb">Sufrir</rs> tanta sinrazón?</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l>No es sinrazón la ocasión</l>
-<l>Que me fuerza á no querer</l>
-<l>Lo que del Conde ha de ser.</l></sp></div><div type="scene" n="XII" part="N" org="uniform" sample="complete">
+<l>Que me fuerza a no <rs type="emotion" ana="verb">querer</rs></l>
+<l>Lo que del Conde ha de ser.</l></sp></div><div type="scene" n="XII" >
 <stage>EL CONDE, que se queda escuchando sin que le vean.--DICHOS.</stage>
 <sp who="#Conde_moza"><speaker>CONDE</speaker><stage>ap.</stage>
-<l>Necios celos me han traído</l>
+<l>Necios <rs type="emotion" ana="noun">celos</rs> me han traído</l>
 <l>De un deudo amigo fingido</l>
 <l>Y de una ingrata mujer.</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
-<l>Cuando no os quisiera bien</l>
+<l>Cuando no os <rs type="emotion" ana="verb">quisiera</rs> bien</l>
 <l>El Conde, mil almas fueran</l>
-<l>Las que estos ojos os dieran.</l></sp>
+<l>Las que estos <rs type="body" ana="noun">ojos</rs> os dieran.</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
 <l>¡Oh, mal haya el Conde, amén!</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker><stage>ap.</stage>
 <l>Don Juan la muestra desdén,</l>
-<l>Y ella á don Juan solicita.</l></sp>
+<l>Y ella a don Juan solicita.</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
 <l>Con oro en mármol escrita</l>
-<l>Tiene el <rs type="emotion">amor</rs> una ley,</l>
+<l>Tiene el <rs type="emotion" ana="noun">amor</rs> una ley,</l>
 <l>Que como absoluto rey,</l>
 <l>No hay traición que no permita.</l>
 <l>Demás, que esto no es traición;</l>
-<l>Que nunca yo quise al Conde.</l></sp>
+<l>Que nunca yo <rs type="emotion" ana="verb">quise</rs> al Conde.</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker><stage>ap.</stage>
 <l>En lo que agora responde</l>
 <l>Conoceré su intención.</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
-<l>Ninguna loca afición</l>
+<l>Ninguna loca <rs type="emotion" ana="noun">afición</rs></l>
 <l>Que se haya visto ni escrito,</l>
 <l>Ha disculpado el delito</l>
 <l>Del amigo; que el valor</l>
-<l>Es resistir á el <rs type="emotion">amor</rs>,</l>
-<l>Y vencer á el apetito.</l>
+<l>Es resistir a el <rs type="emotion" ana="noun">amor</rs>,</l>
+<l>Y vencer a el apetito.</l>
 <l>Que yo con vos me casara</l>
 <l>Es sin duda, si pudiera.</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
@@ -3473,55 +3473,55 @@ ACT III
 <l>Mas cierta podéis estar</l>
 <l>Que no me lo ha de mandar.</l>
 <l>Y así, me voy; que no quiero</l>
-<l>Dar á tan gran caballero</l>
-<l>Ni sospecha ni pesar.</l></sp>
+<l>Dar a tan gran caballero</l>
+<l>Ni sospecha ni <rs type="emotion" ana="noun">pesar</rs>.</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
 <l>Detente.</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l>Si habéis oído</l>
 <l>Lo que ya sospecho aquí,</l>
 <l>Pienso que estaréis de mí</l>
-<l>Seguro y <rs type="emotion">agradecido</rs>.</l></sp>
+<l>Seguro y <rs type="emotion" ana="adj">agradecido</rs>.</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
 <l>Todo lo tengo entendido;</l>
-<l>Y si por quereros bien</l>
-<l>Trata mi <rs type="emotion">amor</rs> con desdén</l>
+<l>Y si por <rs type="emotion" ana="noun">quereros</rs> bien</l>
+<l>Trata mi <rs type="emotion" ana="noun">amor</rs> con desdén</l>
 <l>Doña Ana, no ha sido culpa,</l>
 <l>Porque sois vos la disculpa,</l>
-<l>Y mi desdicha también.</l>
+<l>Y mi <rs type="emotion" ana="noun">desdicha</rs> también.</l>
 <l>Dice que sabe de mí</l>
 <l>Que os mandaré que os caséis:</l>
 <l>Dice bien, y vos lo haréis,</l>
 <l>Porque yo os lo mando así.</l>
-<l>Que á saber, cuando la ví,</l>
-<l>Que os tenía tanto <rs type="emotion">amor</rs>,</l>
-<l>No la amara; aunque en rigor</l>
-<l>Fué engañado pensamiento</l>
+<l>Que a saber, cuando la ví,</l>
+<l>Que os tenía tanto <rs type="emotion" ana="noun">amor</rs>,</l>
+<l>No la <rs type="emotion" ana="verb">amara</rs>; aunque en rigor</l>
+<l>Fue engañado pensamiento</l>
 <l>Que con tal entendimiento</l>
 <l>No escogiese lo mejor.</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
-<l>Aunque á Alejandro imitéis</l>
+<l>Aunque a <persName type="hist">Alejandro</persName> imitéis</l>
 <l>En darme lo que estimáis,</l>
-<l>Ni como Apeles me halláis,</l>
-<l>Ni en<rs type="emotion">amor</rs>ado me veis,</l>
+<l>Ni como <persName type="hist">Apeles</persName> me halláis,</l>
+    <l>Ni <rs type="emotion" ana="noun">enamorado</rs> me veis,</l>
 <l>Ni vos mandarme podéis</l>
 <l>Que sea lo que no fuí;</l>
 <l>Pues cuando pudiera aquí</l>
 <l>Ser lo que no puede ser,</l>
-<l>No quisiera yo querer</l>
-<l>Á quien os deja por mí.</l></sp>
+<l>No quisiera yo <rs type="emotion" ana="verb">querer</rs></l>
+<l>A quien os deja por mí.</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
 <l>Quedo, quedo; que no soy</l>
 <l>Tan del Conde, que me dé,</l>
 <l>Ni tan de don Juan, que esté</l>
-<l>Menos <rs type="emotion">contenta</rs> ayer que hoy.</l>
-<l>Libre, á mí misma me doy,</l>
+<l>Menos <rs type="emotion" ana="adj">contenta</rs> ayer que hoy.</l>
+<l>Libre, a mí misma me doy,</l>
 <l>Y daré luego, si quiero,</l>
-<l>Á un honrado caballero</l>
+<l>A un honrado caballero</l>
 <l>Mujer y cien mil ducados,</l>
 <l>Sin suegros y sin cuñados,</l>
-<l>Que es otro tanto dinero.</l></sp></div><div type="scene" n="XIII" part="N" org="uniform" sample="complete">
-<stage>DOÑA MARÍA, de madrina y muy bizarra, con LEONOR, de <rs type="body">la mano</rs>;
+<l>Que es otro tanto dinero.</l></sp></div><div type="scene" n="XIII" >
+    <stage>DOÑA MARÍA, de madrina y muy bizarra, con LEONOR, de la<rs type="body"> mano</rs>;
 MARTÍN, PEDRO, LORENZO, BERNAL y OTROS LACAYOS, muy galanes;
 ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <sp who="#musicos_moza"><speaker>MÚSICOS</speaker><stage>cantan</stage>
@@ -3534,7 +3534,7 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <l>Pues ¿no os agrada la letra?</l></sp>
 <sp who="#Martín_moza"><speaker>MARTÍN</speaker>
 <l>Correr toros y casarme</l>
-<l>Paréceme á los que llevan</l>
+<l>Paréceme a los que llevan</l>
 <l>Pronósticos para el año</l>
 <l>Dos meses antes que venga.</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
@@ -3550,20 +3550,20 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
 <l>¡Qué perdido está don Juan!</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
-<l>¡Qué <rs type="emotion">admira</rs>do la contempla!</l></sp>
+    <l>¡Qué <rs type="emotion" ana="adj">admirado</rs> la contempla!</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
 <l>Por <persName type="bibl">Dios</persName>, que tiene disculpa</l>
-<l>De estimarla y de quererla;</l>
+<l>De estimarla y de <rs type="emotion" ana="verb">quererla</rs>;</l>
 <l>Que la gravedad fingida</l>
 <l>Parece tan verdadera,</l>
-<l>Que, á no conocerla yo</l>
+<l>Que, a no conocerla yo</l>
 <l>Y saber sus bajas prendas,</l>
 <l>Hiciera un alto conceto</l>
 <l>De su gallarda presencia.</l></sp>
 <sp who="#Juan_moza"><speaker>DON JUAN</speaker>
 <l><stage>Para sí.</stage> Amor, si en esta mujer</l>
 <l>No está oculta la nobleza,</l>
-<l>La calidad y la sangre</l>
+<l>La calidad y la <rs type="body">sangre</rs></l>
 <l>Que por lo exterior se muestra,</l>
 <l>¿Qué es lo que quiso sin causa</l>
 <l>Hacer la naturaleza,</l>
@@ -3572,15 +3572,15 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <l>Puso en un vaso de barro</l>
 <l>Alma tan ilustre y bella?</l>
 <l>Yo estoy perdido y confuso,</l>
-<l>Doña Ana celosa de ella,</l>
+<l>Doña Ana <rs type="emotion" ana="adj">celosa</rs> de ella,</l>
 <l>El Conde suspenso, hurtando</l>
-<l>Á su gravedad respuesta.</l>
+<l>A su gravedad respuesta.</l>
 <l>Ella se parte mañana,</l>
 <l>Diamantes me da que venda;</l>
 <l>¿Qué tienen que ver diamantes</l>
 <l>Con la fingida bajeza?</l>
 <l>Pues ¿he de quedar así,</l>
-<l>Amor, sin alma y sin ella?</l>
+<l><rs type="emotion" ana="noun">Amor</rs>, sin alma y sin ella?</l>
 <l>¿No alcanza el ingenio industria?</l>
 <l>No suele en dudosas pruebas,</l>
 <l>Por las inciertas mentiras,</l>
@@ -3597,24 +3597,24 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <l>Todas las historias cuentan,</l>
 <l>Todos los sabios afirman,</l>
 <l>Todos los ejemplos muestran</l>
-<l>Que es <rs type="emotion">amor</rs>; pues siendo así,</l>
+<l>Que es <rs type="emotion" ana="noun">amor</rs>; pues siendo así,</l>
 <l>Y que ninguno lo niega,</l>
-<l>Que yo por <rs type="emotion">amor</rs> me case,</l>
-<l>Que yo por <rs type="emotion">amor</rs> me pierda,</l>
-<l>No es justo que á nadie admire,</l>
+<l>Que yo por <rs type="emotion" ana="noun">amor</rs> me case,</l>
+<l>Que yo por <rs type="emotion" ana="noun">amor</rs> me pierda,</l>
+<l>No es justo que á nadie <rs type="emotion" ana="verb">admire</rs>,</l>
 <l>Pues cuantos viven confiesan</l>
-<l>Que es <rs type="emotion">amor</rs> una pasión</l>
+<l>Que es <rs type="emotion" ana="noun">amor</rs> una <rs type="emotion" ana="noun">pasión</rs></l>
 <l>Incapaz de resistencia.</l>
 <l>Yo no soy mármol, si bien</l>
 <l>No soy yo quien me gobierna;</l>
-<l>Que obedecen á Isabel</l>
-<l>Mis <rs type="emotion">sentido</rs>s y potencias.</l>
+<l>Que obedecen a Isabel</l>
+    <l>Mis <rs type="body">sentidos</rs> y potencias.</l>
 <l>Cuando esto en público digo,</l>
 <l>No quiero que nadie pueda</l>
 <l>Contradecirme el casarme,</l>
 <l>Pues hoy me caso con ella.</l>
 <l>Sed testigos que le doy</l>
-<l>La mano.</l></sp>
+<l>La <rs type="body">mano</rs>.</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
 <l>¿Qué furia es ésta?</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
@@ -3641,7 +3641,7 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <l>¿Con cien mil ducados deja</l>
 <l>Un hombre loco mujer,</l>
 <l>Que me casara con ella,</l>
-<l>Si <rs type="emotion">amor</rs> me hubiera tenido?</l></sp>
+<l>Si <rs type="emotion" ana="noun">amor</rs> me hubiera tenido?</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
 <l>Quedo, Conde; que me pesa</l>
 <l>De que me deis ocasión</l>
@@ -3655,7 +3655,7 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <l>Porque falta que yo quiera.</l>
 <l>Para igualar a don Juan,</l>
 <l>¿Bastaba ser vuestra deuda</l>
-<l>Y del duque de Medina?</l></sp>
+<l>Y del <persName type="hist">duque de Medina</persName>?</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
 <l>Bastaba, si verdad fuera.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
@@ -3665,7 +3665,7 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <l>Cuyo perdón se concierta</l>
 <l>Por vos, y que vos buscáis?</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
-<l>Doña María, á quien deban</l>
+<l>Doña María, a quien deban</l>
 <l>Respeto cuantas historias</l>
 <l>Y hechos de mujeres cuentan.</l></sp>
 <sp who="#María_moza"><speaker>DOÑA MARÍA</speaker>
@@ -3676,18 +3676,18 @@ ACOMPAÑAMIENTO DE MUJERES DE LA BODA, MÚSICOS.</stage>
 <l>Porque son personas necias,</l>
 <l>Que en noche de desposados</l>
 <l>Hasta las doce se quedan.</l>
-<l>Dame tu mano y tus brazos.</l></sp>
+<l>Dame tu <rs type="body">mano</rs> y tus <rs type="body">brazos</rs>.</l></sp>
 <sp who="#Martín_moza"><speaker>MARTÍN</speaker>
-<l>Leonor, á escuras nos dejan.</l>
+<l>Leonor, a escuras nos dejan.</l>
 <l>Los padrinos son los novios.</l></sp>
 <sp who="#Ana_moza"><speaker>DOÑA ANA</speaker>
 <l>Justo será que lo sean</l>
 <l>El Conde y doña Ana.</l></sp>
 <sp who="#Conde_moza"><speaker>CONDE</speaker>
 <l>Aquí</l>
-<l>Puso fin á la comedia</l>
+<l>Puso fin a la comedia</l>
 <l>Quien, si perdiere este pleito,</l>
-<stage>Apela á Mil y Quinientas.</stage>
+<stage>Apela a Mil y Quinientas.</stage>
 <l>Mil y quinientas ha escrito:</l>
 <l>Bien es que perdón merezca.</l>
 </sp>
