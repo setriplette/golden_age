@@ -29,19 +29,18 @@
 
                 <!--<text x="100" y="-400" fill="black" font-size="32" font-family="avenir">Language of
                     body and emotion</text>-->
-                <text x="220" y="-380" fill="purple" font-size="32" font-family="avenir">LAURENCIO</text>
-                <xsl:variable name="yPos_bod" select="count($doc//rs[@type='body'][ancestor::sp[@who='#Laurencio_boba']])"/>
+                <text x="265" y="-380" fill="purple" font-size="32" font-family="avenir">NISE</text>
+                <xsl:variable name="yPos_bod" select="count($doc//rs[@type='body'][ancestor::sp[@who='#Nise_boba']])"/>
                 <line x1="200" y1="0" x2="200" y2="{-$yPos_bod * $ySpacer}" stroke="#D1B2F0" stroke-width="120"/>
                 <text x="160" y="40" fill="black" font-size="32" font-family="avenir">body</text>
-                <text x="180" y="{-$yPos_bod * $ySpacer - 10}" fill="black" font-size="32" font-family="avenir"><xsl:value-of select="count($doc//rs[@type='body'][ancestor::sp[@who='#Laurencio_boba']])"/></text>
+                <text x="180" y="{-$yPos_bod * $ySpacer - 10}" fill="black" font-size="32" font-family="avenir"><xsl:value-of select="count($doc//rs[@type='body'][ancestor::sp[@who='#Nise_boba']])"/></text>
                 
-                <xsl:variable name="yPos_emo" select="count($doc//rs[@type='emotion'][ancestor::sp[@who='#Laurencio_boba']])"/>
+                <xsl:variable name="yPos_emo" select="count($doc//rs[@type='emotion'][ancestor::sp[@who='#Nise_boba']])"/>
                 <line x1="430" y1="0" x2="430" y2="{-$yPos_emo * $ySpacer}" stroke="#E69980" stroke-width="120"/>
                 <text x="380" y="40" fill="black" font-size="32" font-family="avenir">emotion</text>
-                <text x="410" y="{-$yPos_emo * $ySpacer - 10}" fill="black" font-size="32" font-family="avenir"><xsl:value-of select="count($doc//rs[@type='emotion'][ancestor::sp[@who='#Laurencio_boba']])"/></text>
+                <text x="410" y="{-$yPos_emo * $ySpacer - 10}" fill="black" font-size="32" font-family="avenir"><xsl:value-of select="count($doc//rs[@type='emotion'][ancestor::sp[@who='#Nise_boba']])"/></text>
                 
-                <!-- stroke attribute is thing to toggle, of the whole g element this.style.stroke='red'; remove
-                with querySelectorAll to find any that has stroke=red-->
+                
                 
                 <line x1="80" y1="0" x2="550" y2="0" stroke="black" stroke-width="1"/>
                 <line x1="80" y1="0" x2="80" y2="-450" stroke="black" stroke-width="1"/>
