@@ -36,7 +36,7 @@
                                 </persName>
                                 <persName/>
                                 <xsl:comment>ST: &lt;persName/&gt; is where you will put alternate names for the person. Delete this &lt;persName/&gt; if you do not use it.</xsl:comment>
-                                                                <xsl:comment>ST: Be sure to fill in the @value for the person's sex; in which M indicates male, F female, O other, U unknown.</xsl:comment>
+                                                                <xsl:comment>ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.</xsl:comment>
                                 <note resp=""/>
                             </person>
 
@@ -57,7 +57,7 @@
                                 </persName>
                                 <persName/>
                                 <xsl:comment>ST: &lt;persName/&gt; is where you will put alternate names for the person. If you have the Greek and Roman versions of the name, list the Roman in surname and put the Greek in an alternate persname.  Delete this &lt;persName/&gt; if you do not use it.</xsl:comment>
-                                                                <xsl:comment>ST: Be sure to fill in the @value for the person's sex; in which M indicates male, F female, O other, U unknown.</xsl:comment>
+                                                                <xsl:comment>ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.</xsl:comment>
                                 <note resp=""/>
                             </person>
 
@@ -100,7 +100,7 @@
                                 </persName>
                                 <persName/>
                                 <xsl:comment>ST: &lt;persName/&gt; is where you will put alternate names for the person.  Delete this &lt;persName/&gt; if you do not use it.</xsl:comment>
-                                                                <xsl:comment>ST: Be sure to fill in the @value for the person's sex; in which M indicates male, F female, O other, U unknown.</xsl:comment>
+                                                                <xsl:comment>ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.</xsl:comment>
                                 <note resp=""/>
                             </person>
 
