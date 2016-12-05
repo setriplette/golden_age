@@ -88,6 +88,24 @@ div.floating{
 	padding-left: 60px;
 }
 
+ul.person{
+    font-size: 18px;
+    line-height: 1.5;
+    padding-left: 40px;
+    width: 900px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Avenir;
+}
+
+ul.places{font-size: 18px;
+    line-height: 1.5;
+    padding-left: 40px;
+    width: 900px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Avenir;}
+
 ul.topnav {
     list-style-type: none;
     margin: 0;
