@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Pilgrim of Castile</title>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Publication Information</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace><!--Castile--><!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Barcelona-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Italy-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Africa-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Argiere-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Fuchel-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Mami-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Xafer-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Spain-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Constantinople-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Cairo-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Fez-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Morocco-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Tarndan-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Tafilet-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Ceuta-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Pyrennean mountains-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--France-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Genoa-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Valencia-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Mount Caucasus-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Montserrat-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Germany-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Strait of Magellan-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Flanders-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Piedmont-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Naples-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Narbonne-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Tortosa-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Castellón-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Algiers-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Almenara-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Faura-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Deucalion-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Pyrrha-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Sagunto-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Toledo-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--river Tagus-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Asturias-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Santillana-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Salamanca-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Ostend-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Madrid-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Troy-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Corinth-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Sisla-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Saragossa-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Pamplona-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Seville-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Jaca-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Marseille-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Cartagena-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Oran-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Indies-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Lisbon-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Luxan-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Belen-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Portugal-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Tetouan-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Gibraltar-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Europe-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Mount Etna-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Sicily-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Paris-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Rome-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Greece-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Aragon, -->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Perpignan-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Iberia-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Roman Empire-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Caucasas-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Spanish Sea-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Guadalupe-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Norway-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Morena-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Aragon. -->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+            <!--Andalucia-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <place>
+               <placeName/>
+               <note resp=""/>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
