@@ -30,6 +30,32 @@ p.bookHead {
     font-family: Avenir;
 }
 
+p.narrative{
+    font-size: 20px;
+    line-height: 1.5;
+    padding-left: 10px;
+
+    width: 900px;
+    padding-top: 20px;
+    
+    color: black;
+    font-family: Avenir;
+    text-align:center;
+}
+
+p.letter{
+    font-size: 19px;
+    line-height: 1.5;
+    padding-left: 10px;
+
+    width: 900px;
+    padding-top: 20px;
+    
+    color: black;
+    font-family: Avenir;
+    text-align:center;
+}
+
 h1 {
 	color: steelblue;
 	padding-left: 48px;
@@ -57,17 +83,9 @@ h3 {
     font-weight: lighter;
 }
 
-
-span.emotion.on {
-	color:red;
-}
-
-span.body.on {
-	color:blue;
-}
-
-span.floating{
-	color:steelblue;
+div.floating{
+	color:black;
+	padding-left: 60px;
 }
 
 ul.topnav {
@@ -91,8 +109,16 @@ ul.topnav li a {
     font-size: 16px;
  
     }
-    span.placeName.on {color:#00b33c;font-weight: bold;}
+span.placeName.on {color:#00b33c;font-weight: bold;}
 span.persName.on {color:#9900cc;font-weight: bold;}
 span.emotion.on {color:red;font-weight: bold;}
 span.body.on {color:brown; font-weight: bold;}
+
+div.song {font-size: 18px;
+    line-height: 1.5;
+    padding-left: 70px;
+    width: 900px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Avenir;}
 

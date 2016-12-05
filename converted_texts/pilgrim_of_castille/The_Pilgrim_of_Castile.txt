@@ -1932,8 +1932,8 @@
           him to that estate, for it is said; that it is a kinswoman to poetry: the ancients said
           the madmen have comprised music amongst the liberal sciences.
             <persName>Aristotle</persName> in his Politics, <persName>Budeus</persName> in his
-          Commentary upon the Greek <rs type="body">tongue</rs> and <persName>Caelius</persName> the
-          Rhodian do say that music is a mixture compounded of sounds sweet, flat and sharp.
+          Commentary upon the Greek <rs type="body">tongue</rs> and <persName>Caelius the
+          Rhodian</persName> do say that music is a mixture compounded of sounds sweet, flat and sharp.
             <persName>Plutarch</persName> in the life of <persName>Homer</persName> puts one voice
           flat and the other sharp, the flat voice proceeds from within and the sharp from the area
           of the <rs type="body">mouth</rs>, and from their divers tempering make the harmony; the
