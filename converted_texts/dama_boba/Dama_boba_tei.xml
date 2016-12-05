@@ -7,10 +7,10 @@
             <title>Title</title>
          </titleStmt>
          <publicationStmt>
-            <p part="N">Publication Information</p>
+            <p>Publication Information</p>
          </publicationStmt>
-         <sourceDesc default="false">
-            <p part="N">Information about the source</p>
+         <sourceDesc>
+            <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -37,9 +37,9 @@
 <castItem type="role"><role xml:id="Músicos_boba" ana="m">MÚSICOS</role></castItem>
 <castItem type="role"><role xml:id="Maestro_boba" ana="m">UN MAESTRO</role> <roleDesc>de danzar</roleDesc></castItem></castList></front>
 
-     <body><div type="act" n="I" part="N" org="uniform" sample="complete">
+     <body><div type="act" n="I">
 
-<div type="scene" n="1" part="N" org="uniform" sample="complete">
+<div type="scene" n="1">
 
 <stage>Portal de una posada en <placeName instant="false" full="yes">Illescas</placeName>.</stage>
 
@@ -52,9 +52,9 @@
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>¿No hay calor?</l></sp>
 
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Chinches y ropa</l>
-<l>tienen fama en toda <placeName instant="false" full="yes">Europa</placeName>.</l></sp>
+<l>tienen fama en toda <placeName>Europa</placeName>.</l></sp>
 
-<sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>¡Famoso lugar <placeName instant="false" full="yes">Illescas</placeName>!</l>
+<sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>¡Famoso lugar <placeName>Illescas</placeName>!</l>
 <l>No hay en todos los que miras</l>
 <l>quien le iguale.</l></sp>
 
@@ -67,10 +67,10 @@
 <l>de guindas y de mentiras.</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Como aquí, Turín, se juntan</l>
-<l>de la Corte y de <placeName instant="false" full="yes">Sevilla</placeName>,</l>
-<l><placeName instant="false" full="yes">Andalucía</placeName> y <placeName instant="false" full="yes">Castilla</placeName>,</l>
+<l>de la Corte y de <placeName>Sevilla</placeName>,</l>
+<l><placeName >Andalucía</placeName> y <placeName >Castilla</placeName>,</l>
 <l>unos a otros preguntan,</l>
-<l>unos de <placeName instant="false" full="yes">las Indias</placeName> cuentan,</l>
+<l>unos de <placeName >las Indias</placeName> cuentan,</l>
 <l>y otros con discursos largos</l>
 <l>de provisiones y cargos,</l>
 <l>cosas que el vulgo alimentan.</l>
@@ -81,7 +81,7 @@
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>¿Y imágenes?</l></sp>
 
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Con la fe</l>
-<l>que son de <placeName instant="false" full="yes">España</placeName> admitidas,</l>
+<l>que son de <placeName>España</placeName> admitidas,</l>
 <l>por milagrosas en todo</l>
 <l>cuanto en cualquiera ocasión</l>
 <l>les pide la devoción</l>
@@ -113,7 +113,7 @@
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Necio estás.</l></sp>
 
-<sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>¿Desto pesadumbre tomas?</l></sp>
+<sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>¿Desto <rs type="emotion" ana="noun">pesadumbre</rs> tomas?</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Pues, para decir lo que es...</l></sp>
 
@@ -172,7 +172,7 @@
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>A Nise, su hermana bella,</l>
 <l>una rosa de diamantes,</l>
-<l>que así tengan <rs type="emotion" ana="noun">los amantes</rs></l>
+   <l>que así tengan los<rs type="emotion" ana="noun"> amantes</rs></l>
 <l>tales firmezas con ella;</l>
 <l>y una cadena también,</l>
 <l>que compite con la rosa.</l></sp>
@@ -203,7 +203,7 @@
 
 </div>
 
-<div type="scene" n="2" part="N" org="uniform" sample="complete">
+<div type="scene" n="2" >
 
 <stage>LEANDRO, de camino.- Dichos.</stage>
 
@@ -213,14 +213,14 @@
 
 <sp who="#Leandro_boba" ana="m"><speaker>LEANDRO</speaker> <l>Y vos en la misma hallado.</l></sp>
 
-<sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>¿A <placeName instant="false" full="yes">Madrid</placeName>?...</l></sp>
+<sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>¿A <placeName >Madrid</placeName>?...</l></sp>
 
 <sp who="#Leandro_boba" ana="m"><speaker>LEANDRO</speaker> <l>Dejéle ayer,</l>
 <l>cansado de no salir</l>
 <l>con pretensiones cansadas.</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Esas van adjetivadas</l>
-<l>con esperar y sufrir.</l>
+<l>con <rs type="emotion" ana="verb">esperar</rs> y <rs type="emotion" ana="verb">sufrir</rs>.</l>
 <l>Holgara, por ir con vos,</l>
 <l>lleváramos un camino.</l></sp>
 
@@ -236,7 +236,7 @@
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Luego podréis conocer</l>
 <l>la persona que os nombrare.</l></sp>
 
-<sp who="#Leandro_boba" ana="m"><speaker>LEANDRO</speaker> <l>Es <placeName instant="false" full="yes">Madrid</placeName> una talega</l>
+<sp who="#Leandro_boba" ana="m"><speaker>LEANDRO</speaker> <l>Es <placeName>Madrid</placeName> una talega</l>
 <l>de piezas, donde se anega</l>
 <l>cuanto su máquina pare.</l>
 <l>Los reyes, roques y arfiles</l>
@@ -276,7 +276,7 @@
 <sp who="#Leandro_boba" ana="m"><speaker>LEANDRO</speaker> <l>Verdad es que no habrá muchas</l>
 <l>que la puedan igualar</l>
 <l>en el riquísimo dote;</l>
-<l>mas, ¡ay de aquel desdichado</l>
+<l>mas, ¡ay de aquel <rs type="emotion" ana="adj">desdichado</rs></l>
 <l>que espera una bestia al lado!</l>
 <l>Pues más de algún marquesote,</l>
 <l>a codicia del dinero,</l>
@@ -340,7 +340,7 @@
 
 </div>
 
-<div type="scene" n="3" part="N" org="uniform" sample="complete">
+<div type="scene" n="3" >
 
 <stage>TURÍN, LISEO.</stage>
 
@@ -349,7 +349,7 @@
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Ponte a caballo,</l>
 <l>   que ya no quiero comer.</l></sp>
 
-<sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>No <rs type="body">te aflijas</rs>, pues no es hecho.</l></sp>
+<sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>No <rs type="emotion" ana="verb">te aflijas</rs>, pues no es hecho.</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>Que me ha de matar, sospecho,</l>
 <l>si es necia, y propia mujer.</l></sp>
@@ -364,14 +364,14 @@
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>También advierte</l>
 <l>que, siendo tan entendida</l>
-<l>Nise, me dará la <rs type="emotion" subtype="meta" ana="noun">vida</rs>,</l>
-<l>si ella me diere la <rs type="emotion" subtype="meta" ana="noun">muerte</rs>.</l></sp>
+<l>Nise, me dará la vida,</l>
+<l>si ella me diere la muerte.</l></sp>
 
 <stage>Éntrense.</stage>
 
 </div>
 
-<div type="scene" n="4" part="N" org="uniform" sample="complete">
+<div type="scene" n="4" >
 
    <stage>Sala en casa de OTAVIO en <placeName>Madrid</placeName>.</stage>
 
@@ -385,7 +385,7 @@
 <l>mi hermano tanta hacienda! No fue sabio.</l>
 <l>Bien es que Fabio, y que no sabio, sea.</l></sp>
 
-<sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>Si en dejaros hacienda os hizo agravio,</l>
+<sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>Si en dejaros hacienda os hizo <rs type="emotion" ana="noun">agravio</rs>,</l>
 <l>vos propio lo juzgad.</l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Dejó a Finea,</l>
@@ -416,7 +416,7 @@
 <l>a Nise, más me pudre y martiriza,</l>
 <l>y que de bien hablada y elegante</l>
 <l>el vulgazo la aprueba y soleniza.</l>
-<l>Si me casara agora (y no te espante</l>
+<l>Si me casara agora (y no te <rs type="emotion" ana="verb">espante</rs></l>
 <l>esta opinión, que alguno lo autoriza),</l>
 <l>de dos extremos: boba o bachillera,</l>
 <l>de la boba elección, sin duda, hiciera.</l></sp>
@@ -494,7 +494,7 @@
 
 <sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>Nise es aquesta.</l></sp>
 
-   <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Quítame el <rs type="emotion" ana="noun">sentido</rs></l>
+   <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Quítame el <rs type="body">sentido</rs></l>
 <l>su desvanecimiento.</l></sp>
 
 <sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>Un casamiento</l>
@@ -507,7 +507,7 @@
 
 </div>
 
-<div type="scene" n="5" part="N" org="uniform" sample="complete">
+<div type="scene" n="5" >
 
 <stage>NISE y CELIA, criada.</stage>
 
@@ -566,7 +566,7 @@
 
 </div>
 
-<div type="scene" n="6" part="N" org="uniform" sample="complete">
+<div type="scene" n="6" >
 
 <stage>FINEA, dama, con unas cartillas, y RUFINO, maestro.- Dichas.</stage>
 
@@ -588,8 +588,8 @@
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Pues, ¿es otra cosa?</l></sp>
 
-   <sp who="#Rufino_boba" ana="m"><speaker>RUFINO</speaker> <!--This is how to do apartes. Remove last parenthesis and change to milestone --> <l>No, sino el alba. <stage type="aside">Aparte.</stage>¡Qué hermosa</l>
-<l>bestia!<milestone unit="word" n="4"/></l></sp>
+   <sp who="#Rufino_boba" ana="m"><speaker>RUFINO</speaker>  <l>No, sino el alba. <stage type="aside">Aparte.</stage>¡Qué hermosa</l>
+<l>bestia!</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Bien, bien. Sí, ya, ya;</l>
 <l>el alba debe de ser,</l>
@@ -733,14 +733,14 @@
 
 </div>
 
-<div type="scene" n="7" part="N" org="uniform" sample="complete">
+<div type="scene" n="7" >
 
 <stage>NISE, FINEA, CELIA.</stage>
 
 <sp who="#Celia_boba" ana="f"><speaker>CELIA</speaker> <l>¡Fuese!</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>No tienes razón:</l>
-<l>sufrir y aprender conviene.</l></sp>
+<l><rs type="emotion" ana="verb">sufrir</rs> y aprender conviene.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Pues, ¿las letras que allí están,</l>
 <l>yo no las aprendo bien?</l>
@@ -776,7 +776,7 @@
 
 </div>
 
-<div type="scene" n="8" part="N" org="uniform" sample="complete">
+<div type="scene" n="8">
 
 <stage>CLARA, criada.- Dichas.</stage>
 
@@ -821,11 +821,11 @@
 <l>colorado y amarillo;</l>
 <l>andaban los carretones</l>
 <l>quitándole el romadizo</l>
-<l>que da la noche a <placeName instant="false" full="yes">Madrid</placeName>,</l>
+<l>que da la noche a <placeName >Madrid</placeName>,</l>
 <l>aunque no sé quién me dijo</l>
-<l>que era la <placeName instant="false" full="yes">calle Mayor</placeName></l>
+<l>que era la <placeName >calle Mayor</placeName></l>
 <l>el soldado más antiguo,</l>
-<l>pues nunca el mayor de <placeName instant="false" full="yes">Flandes</placeName></l>
+<l>pues nunca el mayor de <placeName >Flandes</placeName></l>
 <l>presentó tantos servicios;</l>
 <l>pregonaban aguardiente,</l>
 <l>agua biznieta del vino,</l>
@@ -836,7 +836,7 @@
 <l>tocaban los boticarios</l>
 <l>sus almireces a pino,</l>
 <l>cuando la gata de casa</l>
-<l>comenzó, con mil suspiros,</l>
+<l>comenzó, con mil <rs type="emotion" ana="noun">suspiros</rs>,</l>
 <l>a decir: ¡Ay, ay, ay, ay!</l>
 <l>¡Que quiero parir, marido!</l>
 <l>Levantóse Hociquimocho,</l>
@@ -847,7 +847,7 @@
 <l>en tiple de monacillos,</l>
 <l>si no es jerigonza entre ellos,</l>
 <l>no es español, ni latino.</l>
-<l>Vino una gata vïuda,</l>
+<l>Vino una gata viuda,</l>
 <l>con blanco y negro vestido</l>
 <l>-sospecho que era su agüela-,</l>
 <l>gorda y compuesta de <rs type="body">hocico</rs>;</l>
@@ -891,6 +891,7 @@
 <l>dirás que parecen niños,</l>
 <l>y darás a la parida</l>
    <l>el <rs type="emotion" ana="noun">parabién</rs> de los hijos.</l></sp>
+   
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡No me pudieras contar</l>
 <l>caso, para el <rs type="emotion" ana="noun">gusto</rs> mío,</l>
@@ -904,7 +905,7 @@
 
 </div>
 
-<div type="scene" n="9" part="N" org="uniform" sample="complete">
+<div type="scene" n="9">
 
 <stage>NISE, CELIA.</stage>
 
@@ -912,7 +913,7 @@
 
 <sp who="#Celia_boba" ana="f"><speaker>CELIA</speaker> <l>¿Y Clara es boba también?</l></sp>
 
-<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Por eso la quiere bien.</l></sp>
+<sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Por eso la <rs type="emotion" ana="verb">quiere</rs> bien.</l></sp>
 
 <sp who="#Celia_boba" ana="f"><speaker>CELIA</speaker> <l>La semejanza es bastante; aunque yo pienso que Clara es más bellaca que boba.</l></sp>
 
@@ -920,7 +921,7 @@
 
 </div>
 
-<div type="scene" n="10" part="N" org="uniform" sample="complete">
+<div type="scene" n="10">
 
 <stage>DUARDO, FENISO, LAURENCIO, caballeros.-Dichas.</stage>
 
@@ -939,7 +940,7 @@
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Esta vez,</l>
 <l>por vuestro ingenio gallardo,</l>
-<l>de un soneto de Düardo</l>
+<l>de un soneto de Duardo</l>
 <l>os hemos de hacer jüez.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>¿A mí, que soy de Finea</l>
@@ -962,7 +963,7 @@
 <l>Oíd, señora, a Eduardo.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>¡Vaya el soneto! Ya aguardo,</l>
-<l>aunque, de <rs type="emotion" ana="adj">indigna</rs>, corrida.</l></sp>
+<l>aunque, de indigna, corrida.</l></sp>
 
 <sp who="#Duardo_boba" ana="m"><speaker>DUARDO</speaker> <l>La calidad elementar resiste</l>
 <l>mi <rs type="emotion" ana="noun">amor</rs>, que a la virtud celeste aspira,</l>
@@ -1062,8 +1063,8 @@
 <l>que se escriba o que se hable.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> 
-   <l><stage type="aside">Aparte.</stage>¿Cómo va de voluntad?<milestone unit="line" n="1"/></l></sp>
-   <!-- this is also a good example for apartes -->
+   <l><stage type="aside">Aparte.</stage>¿Cómo va de voluntad?</l></sp>
+   
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Como quien la tiene en ti.</l></sp>
 
@@ -1104,7 +1105,7 @@
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l><rs type="emotion" ana="noun">Amor</rs> en obras consiste.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Laurencio mío, adiós queda.</l>
-<l>Düardo y Feniso, adiós.</l></sp>
+<l>Duardo y Feniso, adiós.</l></sp>
 
 <sp who="#Duardo_boba" ana="m"><speaker>DUARDO</speaker> <l>Que tanta ventura a vos</l>
 <l>como hermosura os conceda.</l></sp>
@@ -1113,7 +1114,7 @@
 
 </div>
 
-<div type="scene" n="11" part="N" org="uniform" sample="complete">
+<div type="scene" n="11" >
 
 <stage>DUARDO, LAURENCIO, FENISO.</stage>
 
@@ -1147,7 +1148,7 @@
 
 </div>
 
-<div type="scene" n="12" part="N" org="uniform" sample="complete">
+<div type="scene" n="12" >
 
 <l>Despídanse, y quede solo LAURENCIO.</l>
 
@@ -1156,11 +1157,11 @@
 <l>si es calidad del bien ser provechoso,</l>
    <l>una parte de tres que os falta <rs type="emotion" ana="verb">siento.</rs></l>
 <l>Nise, con un divino entendimiento,</l>
-<l>os enriquece de un <rs type="emotion" ana="noun">amor</rs> dichoso;</l>
+<l>os enriquece de un <rs type="emotion" ana="noun">amor</rs> <rs type="emotion" ana="adj">dichoso</rs>;</l>
 <l>mas sois de dueño pobre, y es forzoso</l>
 <l>que en la necesidad falte el <rs type="emotion" ana="noun">contento</rs>.</l>
 <l>Si el oro es blanco y centro del descanso,</l>
-<l>y el descanso del gusto, yo os prometo</l>
+<l>y el descanso del <rs type="emotion" ana="noun">gusto</rs>, yo os prometo</l>
 <l>que tarda el navegar con viento manso.</l>
 <l>Pensamiento, mudemos de sujeto;</l>
 <l>si voy necio tras vos, y en ir me canso,</l>
@@ -1168,7 +1169,7 @@
 
 </div>
 
-<div type="scene" n="13" part="N" org="uniform" sample="complete">
+<div type="scene" n="13" >
 
 <stage>Entre PEDRO, lacayo de LAURENCIO.- LAURENCIO.</stage>
 
@@ -1186,7 +1187,7 @@
 <l>   ¿No has visto que la saeta</l>
 <l>del reloj en un lugar</l>
 <l>firme siempre suele estar</l>
-<l>aunque nunca está quïeta,</l>
+<l>aunque nunca está quieta,</l>
 <l>   y tal vez está en la una,</l>
 <l>y luego en las dos está?</l>
 <l>Pues, así mi alma ya,</l>
@@ -1236,7 +1237,7 @@
 <l>   Finea es <supplied instant="false">ah</supplied>ora <rs type="emotion" ana="adj">dichosa</rs>,</l>
 <l>donde <persName type="myth" >Júpiter</persName> benigno</l>
 <l>me está mirando de trino,</l>
-<l>con aspecto y faz hermosa.</l>
+<l>con aspecto y <rs type="body">faz</rs> hermosa.</l>
 <l>   Doyme a entender que, poniendo</l>
 <l>en Finea mis cuidados,</l>
 <l>a cuarenta mil ducados</l>
@@ -1305,13 +1306,13 @@
 <sp who="#Pedro_boba" ana="m"><speaker>PEDRO</speaker> <l>¡Que ha de poder un cristiano</l>
 <l><rs type="emotion" ana="verb">enamorar</rs> una mula!</l></sp>
 
-<sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Linda cara y talle tiene.</l></sp>
+<sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Linda <rs type="body">cara</rs> y <rs type="body">talle</rs> tiene.</l></sp>
 
 <sp who="#Pedro_boba" ana="m"><speaker>PEDRO</speaker> <l>¡Así fuera el alma!</l></sp>
 
 </div>
 
-<div type="scene" n="14" part="N" org="uniform" sample="complete">
+<div type="scene" n="14" >
 
 <stage>FINEA y CLARA.- Dichos.</stage>
 
@@ -1368,7 +1369,7 @@
 <l>que <rs type="emotion" ana="noun">amor</rs> con <rs type="emotion" ana="noun">amor</rs> se paga?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>No sé yo cómo se haga,</l>
-<l>porque nunca yo he querido,</l>
+<l>porque nunca yo <rs type="emotion" ana="verb">he querido</rs>,</l>
 <l>   ni en la cartilla lo vi,</l>
 <l>ni me lo enseñó mi madre.</l>
 <l>Preguntarélo a mi padre...</l></sp>
@@ -1384,11 +1385,11 @@
 <l>   que se entrarán por los vuestros.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>No, señor; arriedro vaya</l>
-   <l>cosa en que <rs type="body">espíritus</rs> haya.</l></sp>
+   <l>cosa en que espíritus haya.</l></sp>
 
    <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Son los <rs type="body">espíritus</rs> nuestros,</l>
 <l>   que juntos se han de encender</l>
-<l>y causar un <rs type="emotion" subtype="meta" ana="phrase">dulce fuego</rs></l>
+<l>y causar un dulce fuego</l>
 <l>con que se pierde el <rs type="emotion" ana="noun">sosiego</rs>,</l>
 <l>hasta que se viene a ver</l>
 <l>   el alma en la posesión,</l>
@@ -1407,15 +1408,15 @@
 
 <sp who="#Clara_boba" ana="f"><speaker>CLARA</speaker> <l>¿Qué es <rs type="emotion" ana="noun">amor</rs>, que no lo sé?</l></sp>
 
-<sp who="#Pedro_boba" ana="m"><speaker>PEDRO</speaker> <l>¿<rs type="emotion" ana="noun">Amor</rs>? ¡<rs type="emotion" subtype="meta" ana="noun">Locura</rs>, <rs type="emotion" ana="noun">furor</rs>!</l></sp>
+<sp who="#Pedro_boba" ana="m"><speaker>PEDRO</speaker> <l>¿<rs type="emotion" ana="noun">Amor</rs>? ¡Locura, <rs type="emotion" ana="noun">furor</rs>!</l></sp>
 
 <sp who="#Clara_boba" ana="f"><speaker>CLARA</speaker> <l>Pues, ¿loca tengo de estar?</l></sp>
 
-<sp who="#Pedro_boba" ana="m"><speaker>PEDRO</speaker> <l>Es una <rs type="emotion" subtype="meta" ana="phrase">dulce locura</rs>,</l>
+<sp who="#Pedro_boba" ana="m"><speaker>PEDRO</speaker> <l>Es una dulce locura,</l>
 <l>por quien la mayor cordura</l>
 <l>suelen los hombres trocar.</l></sp>
 
-   <sp who="#Clara_boba" ana="f"><speaker>CLARA</speaker> <l>Yo, lo que mi <rs type="emotion" ana="noun">ama</rs> hiciere,</l>
+   <sp who="#Clara_boba" ana="f"><speaker>CLARA</speaker> <l>Yo, lo que mi ama hiciere,</l>
 <l>eso haré.</l></sp>
 
 <sp who="#Pedro_boba" ana="m"><speaker>PEDRO</speaker> <l>Ciencia es <rs type="emotion" ana="noun">amor</rs>,</l>
@@ -1423,7 +1424,7 @@
 <l>a pocos cursos la adquiere.</l>
 <l>   En comenzando a <rs type="emotion" ana="verb">querer</rs>,</l>
 <l>enferma la voluntad</l>
-<l>de una <rs type="emotion" subtype="meta" ana="phrase">dulce enfermedad</rs>.</l></sp>
+<l>de una dulce enfermedad.</l></sp>
 
 <sp who="#Clara_boba" ana="f"><speaker>CLARA</speaker> <l>No me la mandes tener;</l>
 <l>   que no he tenido en mi vida</l>
@@ -1463,7 +1464,7 @@
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <stage>Aparte.</stage>
 <l>¿Hay semejante ignorancia?</l>
 <l>Sospecho que esta ganancia</l>
-<l>camina a volverme <rs type="emotion" subtype="meta" ana="adj">loco</rs>.</l></sp>
+<l>camina a volverme loco.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Mi padre pienso que viene.</l></sp>
 
@@ -1485,7 +1486,7 @@
 
 </div>
 
-<div type="scene" n="15" part="N" org="uniform" sample="complete">
+<div type="scene" n="15" >
 
 <stage>CLARA, FINEA.</stage>
 
@@ -1548,16 +1549,16 @@
 
 </div>
 
-<div type="scene" n="16" part="N" org="uniform" sample="complete">
+<div type="scene" n="16" >
 
 <stage>Entre OTAVIO con NISE.- Dichas.</stage>
 
-<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Por la calle de <placeName instant="false" full="yes">Toledo</placeName></l>
+<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Por la calle de <placeName >Toledo</placeName></l>
 <l>dicen que entró por la posta.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Pues, ¿cómo no llega ya?</l></sp>
 
-<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Algo, por dicha, acomoda.</l>
+<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Algo, por <rs type="emotion" ana="noun">dicha</rs>, acomoda.</l>
 <l><rs type="emotion" ana="verb">Temblando</rs> estoy de Finea.</l></sp>
 
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Aquí está, señor, la novia.</l></sp>
@@ -1567,7 +1568,7 @@
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>No sabe;</l>
 <l>que esa es su <rs type="emotion" ana="adj">desdicha</rs> toda.</l></sp>
 
-<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Ya está en <placeName instant="false" full="yes">Madrid</placeName> tu marido.</l></sp>
+<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Ya está en <placeName>Madrid</placeName> tu marido.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Siempre tu memoria es poca.</l>
 <l>¿No me lo diste en un naipe?</l></sp>
@@ -1578,7 +1579,7 @@
 
 </div>
 
-<div type="scene" n="17" part="N" org="uniform" sample="complete">
+<div type="scene" n="17" >
 
 <stage>Entre CELIA.- Dichos.</stage>
 
@@ -1591,7 +1592,7 @@
 
 </div>
 
-<div type="scene" n="18" part="N" org="uniform" sample="complete">
+<div type="scene" n="18" >
 
 <stage>LISEO, TURÍN y criados.- Dichos.</stage>
 
@@ -1610,7 +1611,7 @@
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Luego, ¿no importa?</l></sp>
 
-<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Bien le puedes <rs type="body">abrazar</rs>.</l></sp>
+<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Bien le puedes abrazar.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡Clara...!</l></sp>
 
@@ -1624,7 +1625,7 @@
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>El verle de medio arriba</l>
 <l>me daba mayor <rs type="emotion" ana="noun">congoja</rs>.</l></sp>
 
-<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l><rs type="body">Abrazad</rs> vuestra cuñada.</l></sp>
+<sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Abrazad vuestra cuñada.</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>No fue la fama engañosa,</l>
 <l>que hablaba en vuestra hermosura.</l></sp>
@@ -1632,7 +1633,8 @@
 <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Soy muy vuestra servidora.</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>¡Lo que es el entendimiento!</l>
-<l>A toda <placeName instant="false" full="yes">España</placeName> alborota.</l>
+<l>A toda <placeName >España</placeName> <rs type="emotion" ana="verb">alborota</rs>.</l>
+   <!-- #st proofread stopped here -->
 <l>La divina Nise os llaman;</l>
 <l>sois discreta como hermosa,</l>
 <l>y hermosa con mucho estremo.</l></sp>
@@ -2310,12 +2312,12 @@
 
 <stage>Un MAESTRO de danzar y FINEA.</stage>
 
-<sp><speaker>MAESTRO</speaker> <l>¿Tan presto se cansa?</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¿Tan presto se cansa?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Sí.</l>
 <l>Y no quiero danzar más.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Como no danza a compás,</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Como no danza a compás,</l>
    <l><rs type="emotion" ana="verb">hase enfadado</rs> de sí.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡Por poco diera de <rs type="body">hocicos</rs>,</l>
@@ -2326,7 +2328,7 @@
 <l>floretas, otra floreta...</l>
 <l>¡Qué locura!</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <stage>Aparte. </stage>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <stage>Aparte. </stage>
 <l>¡Qué imperfeta</l>
 <l>cosa, en un hermoso vaso</l>
 <l>   poner la Naturaleza</l>
@@ -2336,17 +2338,17 @@
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Maestro...</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¿Señora mía?...</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¿Señora mía?...</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Trae mañana un tamboril.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Ese es instrumento vil,</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Ese es instrumento vil,</l>
    <l>aunque de mucha <rs type="emotion" ana="noun">alegría.</rs></l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Que soy más aficionada</l>
 <l>al cascabel os confieso.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Es muy de caballos eso.</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Es muy de caballos eso.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Haced vos lo que me <rs type="emotion" ana="verb">agrada</rs>,</l>
 <l>   que no es mucha rustiqueza</l>
@@ -2354,13 +2356,13 @@
 <l>Harto peor pienso que es</l>
 <l>traellos en la <rs type="body">cabeza</rs>.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <stage>Aparte.</stage>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <stage>Aparte.</stage>
 <l>   (Quiero seguirle el <rs type="emotion" ana="noun">humor</rs>.)</l>
 <l>Yo haré lo que mandáis.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Id danzando cuando os vais.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Yo os agradezco el favor,</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Yo os agradezco el favor,</l>
 <l>   pero llevaré tras mí</l>
 <l>mucha gente.</l></sp>
 
@@ -2368,52 +2370,52 @@
 <l>un sastre y un zapatero,</l>
 <l>¿llevan la gente tras sí?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>No; pero tampoco ellos</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>No; pero tampoco ellos</l>
 <l>por la calle haciendo van</l>
 <l>sus oficios.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿No podrán,</l>
 <l>si quieren?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Podrán hacellos;</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Podrán hacellos;</l>
 <l>   y yo no quiero danzar.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Pues no entréis aquí.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>No haré.</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>No haré.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Ni quiero andar en un pie,</l>
 <l>ni dar vueltas ni saltar.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Ni yo enseñar las que sueñan</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Ni yo enseñar las que sueñan</l>
 <l>disparates atrevidos.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>No importa; que los maridos</l>
 <l>son los que mejor enseñan.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¿Han visto la mentecata?</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¿Han visto la mentecata?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Qué es mentecata, villano?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¡Señora, tened la <rs type="body">mano</rs>!</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¡Señora, tened la <rs type="body">mano</rs>!</l>
 <l>Es una dama que trata</l>
 <l>   con gravedad y rigor</l>
 <l>a quien la sirve.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Esa es?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Puesto que vuelve después</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Puesto que vuelve después</l>
 <l>con más blandura y <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Es eso cierto?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¿Pues no?</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¿Pues no?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Yo os juro, aunque nunca ingrata,</l>
 <l>que no hay mayor mentecata</l>
 <l>en todo el mundo que yo.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>El creer es cortesía;</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>El creer es cortesía;</l>
 <l>adiós, que soy muy cortés.</l></sp>
 
 <stage>Váyase y entre CLARA.</stage>
@@ -3955,12 +3957,12 @@
 
 <stage>Un MAESTRO de danzar y FINEA.</stage>
 
-<sp><speaker>MAESTRO</speaker> <l>¿Tan presto se cansa?</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¿Tan presto se cansa?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Sí.</l>
 <l>Y no quiero danzar más.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Como no danza a compás,</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Como no danza a compás,</l>
    <l>hase <rs type="emotion" ana="adj">enfadado</rs> de sí.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¡Por poco diera de hocicos,</l>
@@ -3971,7 +3973,7 @@
 <l>floretas, otra floreta...</l>
 <l>¡Qué locura!</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <stage>Aparte.</stage>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <stage>Aparte.</stage>
 <l>¡Qué imperfeta</l>
 <l>cosa, en un hermoso vaso</l>
 <l>   poner la Naturaleza</l>
@@ -3981,17 +3983,17 @@
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Maestro...</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¿Señora mía?...</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¿Señora mía?...</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Trae mañana un tamboril.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Ese es instrumento vil,</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Ese es instrumento vil,</l>
    <l>aunque de mucha <rs type="emotion" ana="noun">alegría.</rs></l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Que soy más aficionada</l>
 <l>al cascabel os confieso.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Es muy de caballos eso.</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Es muy de caballos eso.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Haced vos lo que me agrada,</l>
 <l>   que no es mucha rustiqueza</l>
@@ -3999,13 +4001,13 @@
 <l>Harto peor pienso que es</l>
 <l>traellos en la <rs type="body">cabeza</rs>.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <stage>Aparte.</stage>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <stage>Aparte.</stage>
 <l>   (Quiero seguirle el humor.)</l>
 <l>Yo haré lo que mandáis.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Id danzando cuando os vais.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Yo os agradezco el favor,</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Yo os agradezco el favor,</l>
 <l>   pero llevaré tras mí</l>
 <l>mucha gente.</l></sp>
 
@@ -4013,52 +4015,52 @@
 <l>un sastre y un zapatero,</l>
 <l>¿llevan la gente tras sí?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>No; pero tampoco ellos</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>No; pero tampoco ellos</l>
 <l>por la calle haciendo van</l>
 <l>sus oficios.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿No podrán,</l>
 <l>si quieren?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Podrán hacellos;</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Podrán hacellos;</l>
 <l>   y yo no quiero danzar.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Pues no entréis aquí.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>No haré.</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>No haré.</l></sp>
 
    <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Ni quiero andar en un <rs type="body">pie,</rs></l>
 <l>ni dar vueltas ni saltar.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Ni yo enseñar las que sueñan</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Ni yo enseñar las que sueñan</l>
 <l>disparates atrevidos.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>No importa; que los maridos</l>
 <l>son los que mejor enseñan.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¿Han visto la mentecata?</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¿Han visto la mentecata?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Qué es mentecata, villano?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¡Señora, tened la <rs type="body">mano!</rs></l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¡Señora, tened la <rs type="body">mano!</rs></l>
 <l>Es una dama que trata</l>
 <l>   con gravedad y rigor</l>
 <l>a quien la sirve.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Esa es?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>Puesto que vuelve después</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>Puesto que vuelve después</l>
    <l>con más blandura y <rs type="emotion" ana="noun">amor</rs>.</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Es eso cierto?</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>¿Pues no?</l></sp>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>¿Pues no?</l></sp>
 
 <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Yo os juro, aunque nunca ingrata,</l>
 <l>que no hay mayor mentecata</l>
 <l>en todo el mundo que yo.</l></sp>
 
-<sp><speaker>MAESTRO</speaker> <l>El creer es cortesía;</l>
+<sp who="#Maestro_boba"><speaker>MAESTRO</speaker> <l>El creer es cortesía;</l>
 <l>adiós, que soy muy cortés.</l></sp>
 
 <stage>Váyase y entre CLARA.</stage>
