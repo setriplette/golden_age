@@ -15,6 +15,641 @@
    </teiHeader>
    <text>
       <body><!--ST: Where the template has an @resp, fill in with a hashtag (#) followed by your initials, so I know who made the entry. There are instructions below for where to fit the person's name and sex into the template. In the note tag, you will write a description of the person. Make it brief, a sentence or so. For example, if the person is Apollo, <note resp="#ST">Greco-Roman god of poetry and the sun</note>. Notice I used my initials in the resp attribute.-->
+         <listPerson sortKey="char"><!--Pilgrim--><!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="m">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Pilgrim</surname>
+               </persName>
+               <persName>Pamphilus</persName>
+               <note resp="#ah">The Pilgrim, Pamphilus is the main character of Pilgrim of Castile who travels around and searches for his love, Nisa.</note>
+            </person>
+            <!--Doricles-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="f">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Doricles</surname>
+                  </persName>
+               <note resp=""/>
+            </person>
+            <!--Florinda-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="f">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Florinda</surname>
+                  </persName>
+               <note resp=""/>
+            </person>
+            <!--Filander-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="m">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Filander</surname>
+                  </persName>
+               <persName/>
+               <note resp=""/>
+            </person>
+            <!--Mireno-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="m">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Mireno</surname>
+                  </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Telemachus-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="m">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Telemachus</surname>
+                  </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Lucretia-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="f">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Lucretia</surname>
+                  </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Aurelio-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="m">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Aurelio</surname>
+                  </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Erisila-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="f">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Erisilia</surname>
+                  </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Everard-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="m">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Everard</surname>
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Aurelia-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="f">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname>Aurelia</surname>
+                  </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Feliciano-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Menander-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Tirsis the Hermit-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Nisa-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Pamphilus-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Celio-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Mendoza-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Lisard-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Arion-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Finia-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Jacinth-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Lucinda-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Tiberia-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Emilio-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Earl-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Felix-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Leila Acha-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Hassan Rubin-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Ali Japha-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Sali Murat-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Muley Nuzan-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Hassan
+                  Rubin-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Ali
+                  Japha-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Fatima-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Acha
+                -->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Acha -->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Clementina-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Hippolyta-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Tansiles-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Tirsus-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Godfrey-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Flerida-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Fabio-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Albiana-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Alfesibus-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Thesander-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Maurice-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Eliza-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Leonicio-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+            <!--Aureliana-->
+            <!--ST: Here we output the raw name. You need to format it with the template below:-->
+            <person sex="">
+               <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->
+                  <surname/>
+                  <forename/>
+                  <!--ST: <forename/> is where you will put first names for the person, if provided. Delete <forename/> if you do not use it.-->
+               </persName>
+               <persName/>
+               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
+               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
+               <note resp=""/>
+            </person>
+         </listPerson>
+         <!--ST: Where the template has an @resp, fill in with a hashtag (#) followed by your initials, so I know who made the entry. There are instructions below for where to fit the person's name and sex into the template. In the note tag, you will write a description of the person. Make it brief, a sentence or so. For example, if the person is Apollo, <note resp="#ST">Greco-Roman god of poetry and the sun</note>. Notice I used my initials in the resp attribute.-->
          <listPerson sortKey="hist"><!--Clement the Eighth--><!--ST: Here we output the raw name. You need to format it with the template below:-->
             <person sex="">
                <persName><!--ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.-->

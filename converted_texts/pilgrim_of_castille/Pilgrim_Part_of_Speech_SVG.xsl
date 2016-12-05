@@ -27,7 +27,7 @@
                 <text x="600" y="-500" font-size="25px" font-family="CenturyGothic">Legend: Part of Speech</text>
                 <text x="650" y="-450" text-anchor="start" font-size="23px" fill="maroon" font-family="Avenir">-Noun</text>
                 <text x="650" y="-400" text-anchor="start" font-size="23px" fill="steelblue" font-family="Avenir">-Verb</text>
-                <text x="650" y="-350" text-anchor="start" font-size="23px" fill="#006666" font-family="Avenir">-Adverb</text>
+                <text x="650" y="-350" text-anchor="start" font-size="23px" fill="#e8c135" font-family="Avenir">-Adverb</text>
                 <text x="650" y="-300" text-anchor="start" font-size="23px" fill="#666699" font-family="Avenir">-Adjective</text>
                 <xsl:comment>X-axis</xsl:comment>
                 <line x1="30" y1="0" x2="{$max_xValue + $xSpacer}" y2="0" stroke="black" stroke-width="2"/>
@@ -51,7 +51,7 @@
                     <xsl:variable name="adjY2pos" select="$verbPerc + $nounPerc + $adverbPerc + $adjPerc"/>
                     <line class ="noun" x1="{$xPos}" y1="0" x2="{$xPos}" y2="-{$nounPerc}" stroke="maroon" stroke-width="50"/>
                     <line clas="verb" x1="{$xPos}" y1="-{$nounPerc}" x2="{$xPos}" y2="-{$verbY2pos}" stroke="steelblue" stroke-width="50"/>
-                    <line class="adverb" x1="{$xPos}" y1="-{$adverbY1pos}" x2="{$xPos}" y2="-{$adverbY2pos}" stroke="#006666" stroke-width="50"/>
+                    <line class="adverb" x1="{$xPos}" y1="-{$adverbY1pos}" x2="{$xPos}" y2="-{$adverbY2pos}" stroke="#e8c135" stroke-width="50"/>
                     <line class="adj" x1="{$xPos}" y1="-{$adjY1pos}" x2="{$xPos}" y2="-{$adjY2pos}" stroke="#666699" stroke-width="50"/>
                </xsl:for-each>
             </g>
