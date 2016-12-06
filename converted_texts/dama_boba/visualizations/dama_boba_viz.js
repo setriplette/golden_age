@@ -1,28 +1,24 @@
+var layers; 
+
 function init() {
-    var fieldset = document.getElementsByTagName('input');
-    for (var i = 0; i < fieldset.length; i++) {
-        fieldset[i].addEventListener('click', toggle, false);
+    var wrappers = document.getElementsByClassName('wrapper');
+    for (var i = 0; i < wrappers.length; i++) {
+        wrappers[i].addEventListener('click', speakers, false);
     }
+    layers = document.getElementById('layer-FINEA');
 }
 
-function toggle() {
-    var id = this.id;
-    switch (id) {
-        case "TGemotions": {
-            var emotion = document.getElementsByClassName("emotion");
-            for (var i = 0; i < emotion.length; i++) {
-                emotion[i].classList.toggle("on")
-            }
-        };
-        break;
-        case "TGbodies": {
-            var body = document.getElementsByClassName("body");
-            for (var i = 0; i < body.length; i++) {
-                body[i].classList.toggle("on")
-            }
-        };
-        break;
+function speakers() {
+    hide_last();
+    layers = document.getElementById('layer-' + this.id);
+    layers.style.display = 'block';
+}
+
+function hide_last() {
+    layers = document.getElementsByClassName('floater');
+    for (var i =0; i < layers.length; i++) {
+        layers[i].style.display = 'none';
     }
-  }
+}
 
 window.onload = init;
