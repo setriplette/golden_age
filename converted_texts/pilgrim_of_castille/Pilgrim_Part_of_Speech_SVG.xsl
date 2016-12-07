@@ -39,7 +39,7 @@
                     <xsl:variable name="adverb" select="count(.//rs[@ana='adverb'])"/>
                     <xsl:variable name="adj" select="count(.//rs[@ana='adj'])"/>
                     <xsl:variable name="sumRS" select="count(.//rs[@type='emotion'])"/>
-                    <xsl:variable name="nounPerc" select="($noun div $sumRS * 100) * $ySpacer"/>
+                    <xsl:variable name="nounPerc" select="$noun div $sumRS * 100"/>
                     <xsl:variable name="verbPerc" select="($verb div $sumRS * 100) * $ySpacer"/>
                     <xsl:variable name="adverbPerc" select="($adverb div $sumRS * 100) * $ySpacer"/>
                     <xsl:variable name="adjPerc" select="($adj div $sumRS * 100) * $ySpacer"/>
