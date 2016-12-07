@@ -39,7 +39,7 @@
                     <xsl:variable name="adverb" select="count(.//rs[@ana='adverb'])"/>
                     <xsl:variable name="adj" select="count(.//rs[@ana='adj'])"/>
                     <xsl:variable name="sumRS" select="count(.//rs[@type='emotion'])"/>
-                    <xsl:variable name="nounPerc" select="$noun div $sumRS * 100"/>
+                    <xsl:variable name="nounPerc" select="($noun div $sumRS * 100) * $ySpacer"/>
                     <xsl:variable name="verbPerc" select="($verb div $sumRS * 100) * $ySpacer"/>
                     <xsl:variable name="adverbPerc" select="($adverb div $sumRS * 100) * $ySpacer"/>
                     <xsl:variable name="adjPerc" select="($adj div $sumRS * 100) * $ySpacer"/>
@@ -50,7 +50,7 @@
                     <xsl:variable name="adjY1pos" select="$verbPerc + $nounPerc + $adverbPerc"/>
                     <xsl:variable name="adjY2pos" select="$verbPerc + $nounPerc + $adverbPerc + $adjPerc"/>
                     <line class ="noun" x1="{$xPos}" y1="0" x2="{$xPos}" y2="-{$nounPerc}" stroke="maroon" stroke-width="50"/>
-                    <line clas="verb" x1="{$xPos}" y1="-{$nounPerc}" x2="{$xPos}" y2="-{$verbY2pos}" stroke="steelblue" stroke-width="50"/>
+                    <line class="verb" x1="{$xPos}" y1="-{$nounPerc}" x2="{$xPos}" y2="-{$verbY2pos}" stroke="steelblue" stroke-width="50"/>
                     <line class="adverb" x1="{$xPos}" y1="-{$adverbY1pos}" x2="{$xPos}" y2="-{$adverbY2pos}" stroke="#e8c135" stroke-width="50"/>
                     <line class="adj" x1="{$xPos}" y1="-{$adjY1pos}" x2="{$xPos}" y2="-{$adjY2pos}" stroke="#666699" stroke-width="50"/>
                </xsl:for-each>
