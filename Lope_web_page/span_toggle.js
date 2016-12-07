@@ -15,8 +15,8 @@ function toggle() {
             }
         };
         break;
-        case "TGbodies": {
-            var body = document.getElementsByClassName("body");
+        case "TGmythPerson": {
+            var body = document.getElementsByClassName("mythPerson");
             for (var i = 0; i < body.length; i++) {
                 body[i].classList.toggle("on")
             }
