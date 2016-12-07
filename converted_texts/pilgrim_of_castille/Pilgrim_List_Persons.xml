@@ -320,9 +320,7 @@
                   <surname>Acha</surname>
                   </persName>
                <persName>Leila Acha</persName>
-               <!--ST: <persName/> is where you will put alternate names for the person. Delete this <persName/> if you do not use it.-->
-               <!--ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.-->
-               <note resp="#ah">Leila Acha is refered to as Acha after being introduced with her full name.</note>
+              <note resp="#ah">Leila Acha is refered to as Acha after being introduced with her full name.</note>
             </person>
             <!--Clementina-->
             <!--ST: Here we output the raw name. You need to format it with the template below:-->
