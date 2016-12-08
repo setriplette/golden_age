@@ -9,7 +9,7 @@
 
     <xsl:variable name="xSpacer" select="50"/>
 
-    <xsl:variable name="ySpacer" select="5"/>
+    <xsl:variable name="ySpacer" select="3"/>
 
     <xsl:variable name="max_Yval" select="-1000"/>
     <xsl:variable name="doc" select="doc('Dama_boba_tei.xml')"/>
@@ -29,7 +29,7 @@
 
                 <!--<text x="100" y="-400" fill="black" font-size="32" font-family="avenir">Language of
                     body and emotion</text>-->
-                <text x="220" y="-380" fill="purple" font-size="32" font-family="avenir">LAURENCIO</text>
+                <text x="205" y="-380" fill="purple" font-size="32" font-family="avenir">LAURENCIO</text>
                 <xsl:variable name="yPos_bod" select="count($doc//rs[@type='body'][ancestor::sp[@who='#Laurencio_boba']])"/>
                 <line x1="200" y1="0" x2="200" y2="{-$yPos_bod * $ySpacer}" stroke="#D1B2F0" stroke-width="120"/>
                 <text x="160" y="40" fill="black" font-size="32" font-family="avenir">body</text>

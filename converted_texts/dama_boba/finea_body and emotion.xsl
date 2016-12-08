@@ -9,7 +9,7 @@
 
     <xsl:variable name="xSpacer" select="50"/>
 
-    <xsl:variable name="ySpacer" select="5"/>
+    <xsl:variable name="ySpacer" select="3"/>
 
     <xsl:variable name="max_Yval" select="-1000"/>
     <xsl:variable name="doc" select="doc('Dama_boba_tei.xml')"/>
