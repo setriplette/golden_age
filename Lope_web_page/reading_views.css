@@ -17,7 +17,7 @@ h1{
 
 h2{
     color: steelblue;
-    padding-left: 60px;
+    padding-left: 40px;
     font-family: 'Century Gothic';
     padding-bottom: 20px;
 }
@@ -47,26 +47,7 @@ img.cc {
     display: block;
 }
 
-ul.topnav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: slategray;
-}
 
-ul.topnav li {float: left;}
-
-ul.topnav li a {
-	font-family: 'Avenir';
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    transition: 0.3s;
-    font-size: 16px;
-}
 
 p{
 	color:black;
@@ -165,24 +146,4 @@ td {
 table {
     border-width: 2px;
 }
-ul.topnav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: slategray;
-}
 
-ul.topnav li {float: left;}
-
-ul.topnav li a {
-	font-family: 'Open Sans';
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    transition: 0.3s;
-    font-size: 16px;
- 
-    }
