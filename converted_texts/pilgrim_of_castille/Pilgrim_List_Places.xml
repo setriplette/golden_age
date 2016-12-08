@@ -15,466 +15,310 @@
    </teiHeader>
    <text>
       <body>
-         <listPlace><!--Castile--><!--ST: Here we output the raw name. You need to format it with the template below:-->
+         <listPlace>
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Castile</placeName>
+               <note resp="#ah">41°23′N 4°27′W</note>
             </place>
-            <!--Barcelona-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Barcelona</placeName>
+               <note resp="#ah">41.3851° N 2.1734° E</note>
             </place>
-            <!--Italy-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Italy</placeName>
+               <note resp="#ah">41.8719° N, 12.5674° E</note>
             </place>
-            <!--Africa-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Africa</placeName>
+               <note resp="#ah">8.7832° S, 34.5085° E</note>
             </place>
-            <!--Argiere-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Argiere</placeName>
+               <!--<note resp=""/>-->
             </place>
-            <!--Fuchel-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Fuchel</placeName>
+               <note resp="#ah">32°39′N 16°55′W</note>
             </place>
-            <!--Mami-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Mami</placeName>
+               <!--<note resp=""/>-->
             </place>
-            <!--Xafer-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Xafer</placeName>
+              <!-- <note resp=""/>-->
             </place>
-            <!--Spain-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Spain</placeName>
+               <note resp="#ah">40.4637° N, 3.7492° W</note>
             </place>
-            <!--Constantinople-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Constantinople</placeName>
+               <note resp="#ah">41.0082° N, 28.9784° E</note>
             </place>
-            <!--Cairo-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Cairo</placeName>
+               <note resp="#ah">30.0444° N, 31.2357° E</note>
             </place>
-            <!--Fez-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Fez</placeName>
+               <note resp="#ah">34.0181° N, 5.0078° W</note>
             </place>
-            <!--Morocco-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Morocco</placeName>
+               <note resp="#ah">31.7917° N, 7.0926° W</note>
             </place>
-            <!--Tarndan-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Tarndan</placeName>
+               <!--<note resp=""/>-->
             </place>
-            <!--Tafilet-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Tafilet</placeName>
+               <note resp="#ah">31°20′22.43″N 4°16′5.48″W</note>
             </place>
-            <!--Ceuta-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Ceuta</placeName>
+               <note resp="#ah">35.8894° N, 5.3213° W</note>
             </place>
-            <!--Pyrennean mountains-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Pyrennean mountains</placeName>
+               <note resp="#ah">42.6682° N, 1.0012° E</note>
             </place>
-            <!--France-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>France</placeName>
+               <note resp="#ah">46.2276° N, 2.2137° E</note>
             </place>
-            <!--Genoa-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Genoa</placeName>
+               <note resp="#ah">44.4056° N, 8.9463° E</note>
             </place>
-            <!--Valencia-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Valencia</placeName>
+               <note resp="#ah">39.4699° N, 0.3763° W</note>
             </place>
-            <!--Mount Caucasus-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Mount Caucasus</placeName>
+               <note resp="#ah">42.6366° N, 44.1576° E</note>
             </place>
-            <!--Montserrat-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Montserrat</placeName>
+               <note resp="#ah">16.7425° N, 62.1874° W</note>
             </place>
-            <!--Germany-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Germany</placeName>
+               <note resp="#ah">51.1657° N, 10.4515° E</note>
             </place>
-            <!--Strait of Magellan-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Strait of Magellan</placeName>
+               <note resp="#ah">53.7302° S, 70.8288° W</note>
             </place>
-            <!--Flanders-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Flanders</placeName>
+               <note resp="#ah">51.0109° N, 3.7265° E</note>
             </place>
-            <!--Piedmont-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Piedmont</placeName>
+               <note resp="#ah">39.4804° N, 79.0478° W</note>
             </place>
-            <!--Naples-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Naples</placeName>
+               <note resp="#ah">40.8518° N, 14.2681° E</note>
             </place>
-            <!--Narbonne-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Narbonne</placeName>
+               <note resp="#ah">43.1843° N, 3.0031° E</note>
             </place>
-            <!--Tortosa-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Tortosa</placeName>
+               <note resp="#ah">40.8126° N, 0.5214° E</note>
             </place>
-            <!--Castellón-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Castellón</placeName>
+               <note resp="#ah">39.9864° N, 0.0513° W</note>
             </place>
-            <!--Algiers-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Algiers</placeName>
+               <note resp="#ah">36.7538° N, 3.0588° E</note>
             </place>
-            <!--Almenara-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Almenara</placeName>
+               <note resp="#ah">39.7534° N, 0.2233° W</note>
             </place>
-            <!--Faura-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Faura</placeName>
+               <note resp="#ah">39.7259° N, 0.2637° W</note>
             </place>
-            <!--Deucalion-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Deucalion</placeName>
+               <!--<note resp=""/>-->
             </place>
-            <!--Pyrrha-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Pyrrha</placeName>
+               <!--<note resp=""/>-->
             </place>
-            <!--Sagunto-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Sagunto</placeName>
+               <note resp="#ah">39.6799° N, 0.2784° W</note>
             </place>
-            <!--Toledo-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Toledo</placeName>
+               <note resp="#ah">41.6639° N, 83.5552° W</note>
             </place>
-            <!--river Tagus-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>river Tagus</placeName>
+               <note resp="#ah">40°29'11''N 1°41'51''W</note>
             </place>
-            <!--Asturias-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Asturias</placeName>
+               <note resp="#ah">43.3614° N, 5.8593° W</note>
             </place>
-            <!--Santillana-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Santillana</placeName>
+               <note resp="#ah">43.3873° N, 4.1066° W</note>
             </place>
-            <!--Salamanca-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Salamanca</placeName>
+               <note resp="#ah">40.9701° N, 5.6635° W</note>
             </place>
-            <!--Ostend-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Ostend</placeName>
+               <note resp="#ah">51.2154° N, 2.9287° E</note>
             </place>
-            <!--Madrid-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Madrid</placeName>
+               <note resp="#ah">40.4168° N, 3.7038° W</note>
             </place>
-            <!--Troy-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Troy</placeName>
+               <note resp="#ah">39°57′27″N 26°14′20″E</note>
             </place>
-            <!--Corinth-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Corinth</placeName>
+               <note resp="#ah">37.9386° N, 22.9322° E</note>
             </place>
-            <!--Sisla-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Sisla</placeName>
+               <!--<note resp=""/>-->
             </place>
-            <!--Saragossa-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Saragossa</placeName>
+               <note resp="#ah">41.6489° N, 0.8897° W</note>
             </place>
-            <!--Pamplona-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Pamplona</placeName>
+               <note resp="#ah">42.8125° N, 1.6458° W</note>
             </place>
-            <!--Seville-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Seville</placeName>
+               <note resp="#ah">37.3891° N, 5.9845° W</note>
             </place>
-            <!--Jaca-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Jaca</placeName>
+               <note resp="#ah">42.5717° N, 0.5471° W</note>
             </place>
-            <!--Marseille-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Marseille</placeName>
+               <note resp="#ah">43.2965° N, 5.3698° E</note>
             </place>
-            <!--Cartagena-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Cartagena</placeName>
+               <note resp="#ah">10.3910° N, 75.4794° W</note>
             </place>
-            <!--Oran-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Oran</placeName>
+               <note resp="#ah">35.6977° N, 0.6337° W</note>
             </place>
-            <!--Indies-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Indies</placeName>
+               <note resp="#ah">18.2345° N, 66.4108° W</note>
             </place>
-            <!--Lisbon-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Lisbon</placeName>
+               <note resp="#ah">38.7223° N, 9.1393° W</note>
             </place>
-            <!--Luxan-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Luxan</placeName>
+               <!--<note resp=""/>-->
             </place>
-            <!--Belen-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Belen</placeName>
+               <note resp="#ah">34.6628° N, 106.7762° W</note>
             </place>
-            <!--Portugal-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Portugal</placeName>
+               <note resp="#ah">39.3999° N, 8.2245° W</note>
             </place>
-            <!--Tetouan-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Tetouan</placeName>
+               <note resp="#ah">35.5889° N, 5.3626° W</note>
             </place>
-            <!--Gibraltar-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Gibraltar</placeName>
+               <note resp="#ah">36.1408° N, 5.3536° W</note>
             </place>
-            <!--Europe-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Europe</placeName>
+               <note resp="#ah">54.5260° N, 15.2551° E</note>
             </place>
-            <!--Mount Etna-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Mount Etna</placeName>
+               <note resp="#ah">37.7510° N, 14.9934° E</note>
             </place>
-            <!--Sicily-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Sicily</placeName>
+               <note resp="#ah">37.3979° N, 14.6588° E</note>
             </place>
-            <!--Paris-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Paris</placeName>
+               <note resp="#ah">48.8566° N, 2.3522° E</note>
             </place>
-            <!--Rome-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Rome</placeName>
+               <note resp="#ah">41.9028° N, 12.4964° E</note>
             </place>
-            <!--Greece-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Greece</placeName>
+               <note resp="#ah">39.0742° N, 21.8243° E</note>
             </place>
-            <!--Aragon, -->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Aragon</placeName>
+               <note resp="#ah">41°00′N 1°00′W</note>
             </place>
-            <!--Perpignan-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Perpignan</placeName>
+               <note resp="#ah">42.6887° N, 2.8948° E</note>
             </place>
-            <!--Iberia-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Iberia</placeName>
+               <note resp="#ah">40.4830° N, 4.0876° W</note>
             </place>
-            <!--Roman Empire-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Roman Empire</placeName>
+               <!--<note resp=""/>-->
             </place>
-            <!--Caucasas-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Caucasas</placeName>
+               <note resp="#ah">43.5852° N, 45.0000° E</note>
             </place>
-            <!--Spanish Sea-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Spanish Sea</placeName>
+               <!--<note resp=""/>-->
             </place>
-            <!--Guadalupe-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Guadalupe</placeName>
+               <note resp="#ah">25°40′39″N 100°15′35″W</note>
             </place>
-            <!--Norway-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Norway</placeName>
+               <note resp="#ah">60.4720° N, 8.4689° E</note>
             </place>
-            <!--Morena-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Morena</placeName>
+               <note resp="#ah">26.4934° N, 77.9910° E</note>
             </place>
-            <!--Aragon. -->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
             <place>
-               <placeName/>
-               <note resp=""/>
-            </place>
-            <!--Andalucia-->
-            <!--ST: Here we output the raw name. You need to format it with the template below:-->
-            <place>
-               <placeName/>
-               <note resp=""/>
+               <placeName>Andalucia</placeName>
+               <note resp="#ah">37.5443° N, 4.7278° W</note>
             </place>
          </listPlace>
       </body>

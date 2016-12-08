@@ -22,10 +22,9 @@
                 <body>
                     <listPlace>
                         <xsl:for-each select="distinct-values(descendant::placeName)">
-                            <xsl:comment><xsl:apply-templates select="."/></xsl:comment>
-                            <xsl:comment>ST: Here we output the raw name. You need to format it with the template below:</xsl:comment>
                             <place>
                                 <placeName>
+                                    <xsl:apply-templates select="."/>
                                 </placeName>
                                 <note resp=""/>
                             </place>
