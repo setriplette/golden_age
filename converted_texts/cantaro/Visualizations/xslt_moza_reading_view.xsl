@@ -10,7 +10,8 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>La dama boba</title>
+                <title>La moza de cántaro</title>
+                <link rel="stylesheet" type="text/css" href="styleLope.css"/>
                 <link rel="stylesheet" type="text/css" href="reading_views.css"/>
                 <script type="text/javascript" src="span_toggle.js"></script>
             </head>
