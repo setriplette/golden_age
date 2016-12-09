@@ -28,7 +28,7 @@
       <line x1="430"
             y1="0"
             x2="430"
-            y2="-25"
+            y2="-12"
             stroke="#E69980"
             stroke-width="120"/>
       <text x="380"
@@ -37,10 +37,10 @@
             font-size="32"
             font-family="avenir">emotion</text>
       <text x="410"
-            y="-35"
+            y="-22"
             fill="black"
             font-size="32"
-            font-family="avenir">5</text>
+            font-family="avenir">4</text>
       <line x1="80"
             y1="0"
             x2="550"

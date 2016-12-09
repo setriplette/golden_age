@@ -28,11 +28,11 @@
             font-size="24"
             font-family="avenir">La dama
                     boba</text>
-      <text x="140"
+      <text x="100"
             y="-315"
             fill="black"
             font-size="16"
-            font-family="avenir">Click bar for body and emotion by speaker</text>
+            font-family="avenir">Click bar for references to body and emotion by speaker</text>
       <g id="FINEA" class="wrapper"><!--25669-->FINEA"
                         
 
