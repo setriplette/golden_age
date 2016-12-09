@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Dama Boba</title>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Lope de Vega</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body><!--ST: Where the template has an @resp, fill in with a hashtag (#) followed by your initials, so I know who made the entry. There are instructions below for where to fit the person's name and sex into the template. In the note tag, you will write a description of the person. Make it brief, a sentence or so. For example, if the person is Apollo, <note resp="#ST">Greco-Roman god of poetry and the sun</note>. Notice I used my initials in the resp attribute.-->
+         <listPlace><!--Illescas--><!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>Illescas
+                  <geo>40.1263 3.8490</geo>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp="#st">Municipality in the province of Toledo, Spain.</note>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Europa-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Sevilla-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Andalucía-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Castilla-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--las Indias-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--España-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Madrid-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--calle Mayor-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Flandes-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Toledo-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Roma-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Prado-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Recoletos-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!-- Recoletos Agustinos-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Grecia-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Granada-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Italia-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Lisboa-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Belén-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Indias-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!-- Indias-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Panamá.-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Panamá-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Purgatorio-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Toledo.-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Troya-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Toledo?-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!-- Alcázar-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+            <!--Puente de Segovia-->
+            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
+            <place>
+               <placeName>
+                  <geo/>
+               </placeName>
+               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
+               <note resp=""/>
+               <!--ST: in the note, describe the place briefly-->
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
