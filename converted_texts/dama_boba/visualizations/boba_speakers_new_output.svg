@@ -121,7 +121,7 @@
          <text anchor="300"
                y="10"
                transform="translate(300,15)rotate(45)"
-               font-family="avenir">TURÍN</text>
+               font-family="avenir">TUR&Iacute;N</text>
       </g>
       <g id="CLARA" class="wrapper"><!--6777-->CLARA"
                         
@@ -243,7 +243,7 @@
                transform="translate(700,15)rotate(45)"
                font-family="avenir">LEANDRO</text>
       </g>
-      <g id="MÚSICOS" class="wrapper"><!--2381-->M&uacute;SICOS"
+      <g id="MÚSICOS" class="wrapper"><!--2381-->MUSICOS"
                         
 
                     <!--1--><line x1="750"
@@ -256,7 +256,7 @@
          <text anchor="750"
                y="10"
                transform="translate(750,15)rotate(45)"
-               font-family="avenir">MÚSICOS</text>
+               font-family="avenir">M&Uacute;SICOS</text>
       </g>
    </g>
 </svg>
