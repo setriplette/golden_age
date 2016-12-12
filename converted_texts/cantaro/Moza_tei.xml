@@ -1085,7 +1085,7 @@ ACT III
 <l>No sin vos, y con vos sí.</l>
 <stage>Vanse don Juan y Martín.</stage></sp></div><div type="scene" n="XII" >
 <stage>DOÑA ANA, LEONOR, JUANA</stage>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Mucho le has favorecido,</l>
 <l>Para ser la vez primera.</l></sp>
 <sp who="#Ana_moza" ana="f"><speaker>DOÑA ANA</speaker>
@@ -2049,21 +2049,21 @@ ACT III
 <l>Logre tu donaire el cielo. <stage>Vase.</stage></l></sp></div><div type="scene" n="VIII" >
     
 <stage>LEONOR.--DOÑA MARÍA</stage>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Isabel...</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Leonor amiga...</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¿Con éste hablabas?</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>¿Pues bien?</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¿Qué se hizo tu desdén?</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Un <rs type="emotion" ana="noun">amor</rs> honesto obliga.</l>
 <l>Y te aseguro de mí</l>
 <l>Que es mucho tenelle <rs type="emotion" ana="noun">amor</rs>.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Su <rs type="body">talle</rs>, ingenio y valor</l>
 <l>Habrán hecho riza en ti.</l>
 <l>Que lo merece confieso;</l>
@@ -2078,19 +2078,19 @@ ACT III
 <l>Mas como él me <rs type="emotion" ana="verb">quiere</rs> a mí</l>
 <l>No más de para <rs type="emotion" ana="verb">querer</rs>,</l>
 <l>¿Qué pierdo en corresponder?</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Mucho.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>¿Cómo?</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Mucho.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Di.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l><rs type="emotion" ana="verb">Adora</rs> mi <rs type="emotion" ana="verb">ama</rs> en él.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>¿Quién te lo ha dicho?</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Yo y Juana</l>
 <l>Lo vemos, y a ella con gana</l>
 <l>De casamiento, Isabel.</l>
@@ -2098,7 +2098,7 @@ ACT III
 <l>Descarta y quédate en dos.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>¿Sábeslo bien?</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Sí, por <persName type="bibl">Dios</persName>.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Tarde, Leonor, me avisaste;</l>
@@ -2109,7 +2109,7 @@ ACT III
 <l>Necia fui en imaginar</l>
 <l>Que un don Juan tan entonado</l>
 <l>Para mí estaba guardado.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Un hombre te quiero dar</l>
 <l>Compañero de otro mío,</l>
 <l>Bravo, pero no cruel,</l>
@@ -2123,24 +2123,24 @@ ACT III
 <l>¿Quién te mete con don Juanes?</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Tu ama ¿trata en galanes?</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>De honesta conversación</l>
 <l>De un conde que la visita,</l>
 <l>Le nacieron los <rs type="emotion" ana="noun">antojos</rs>.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>¡Quién la ve tan baja de <rs type="body">ojos</rs></l>
 <l>A la señora viudita!</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Hermana, enviudó ha dos meses,</l>
 <l>Viénele grande la cama.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Y en fin ¿le <rs type="emotion" ana="noun">quiere</rs> tu ama?</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Como si juntos los vieses.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Vé por el cántaro, y vamos</l>
 <l>Al <placeName>Prado</placeName>.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>A Pedro verás;</l>
 <l>Que se quedan siempre atrás</l>
 <l>Él y Martín de sus amos. <stage>Vase.</stage></l></sp></div><div type="scene" n="IX" >
@@ -2267,7 +2267,7 @@ ACT III
 <l>Ya mentiras, ya verdades,</l>
 <l>Como pasean de espacio,</l>
 <l>Lo contaba mucha gente.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Y ¿que esa mujer mató</l>
 <l>Á el que a su padre afrentó?</l>
 <l>¡Bravo <rs type="body">corazón</rs>!</l></sp>
@@ -2280,7 +2280,7 @@ ACT III
 <l>Consultaron este caso,</l>
 <l>Y que no quiso que fuese</l>
 <l>Quien <rs type="emotion" ana="noun">pesadumbre</rs> le diese.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>No fue la <rs type="emotion" ana="noun">piedad</rs> acaso,</l>
 <l>Si el padre estaba inocente.</l>
 <l>¿Y nunca más pareció</l>
@@ -2291,7 +2291,7 @@ ACT III
 <l>Yo estoy <rs type="emotion" ana="adj">contenta</rs> de ver</l>
 <l>(Que en efeto soy mujer)</l>
 <l>Que la hubiese tan honrada.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¿Dijo el nombre que tenía?</l>
 <l>Que me <rs type="emotion" ana="verb">alegra</rs> a mí también.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
@@ -2300,7 +2300,7 @@ ACT III
 <sp who="#Martín_moza" ana="m"><speaker>MARTÍN</speaker>
 <l>Aquí están dos escuderos</l>
 <l>Para las dos.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Isabel,</l>
 <l>Este mozazo es aquel</l>
 <l>Que te dije.</l></sp>
@@ -2385,12 +2385,12 @@ ACT III
 <l>Sólo por serviros fuera.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>¡Ay, Leonor!</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¿Qué?</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Tu señora</l>
 <l>Y aquél mi galán con ella.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
     <l>Parece que <rs type="emotion" ana="verb">te has turbado</rs>.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Por poco se me cayera</l>
@@ -2495,7 +2495,7 @@ ACT III
 <l>Que no es posible que quiera</l>
 <l>Eso de que tienes <rs type="emotion" ana="noun">celos</rs>. <stage>Vase.</stage></l></sp></div><div type="scene" n="XV" >
 <stage>DOÑA MARÍA, LEONOR</stage>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Necia estás. ¿Por qué le dejas</l>
 <l>Que se vaya con <rs type="emotion" ana="noun">disgusto</rs>?</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
@@ -2506,7 +2506,7 @@ ACT III
 <l>Aunque me abrase y me muera.</l>
 <l>No he de ver más a don Juan.</l>
 <l>¡Esto faltaba a mis <rs type="emotion" ana="noun">penas</rs>!</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¡Buen lance habemos echado!</l>
 <l>Tú <rs type="emotion" ana="adj">desesperada</rs> quedas,</l>
 <l>Y mi ama va perdida.</l></sp></div>
@@ -2581,7 +2581,7 @@ ACT III
 <l>Que pueden doblar por él.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Ven, Leonor; vamos a casa.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l><rs type="emotion" ana="adj">Triste</rs> vas.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Perdida estoy.</l></sp>
@@ -2603,7 +2603,7 @@ ACT III
 <l>¿Qué fué?</l></sp>
 <sp who="#Pedro_moza" ana="m"><speaker>PEDRO</speaker>
 <l>Tamborilada.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¿Dístele, Isabel?</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>No es nada.</l>
@@ -2642,7 +2642,7 @@ ACT III
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>¡Pícaro! ¿Pellizco a mí?</l>
 <l>¡Fuera, digo!</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¿Estás en ti?</l></sp>
 <sp who="#Lorenzo_moza" ana="m"><speaker>LORENZO</speaker>
 <l>¡Á mí, Isabel, cantarada!</l>
@@ -2671,16 +2671,16 @@ ACT III
 <l>Véngase conmigo.</l>
 <stage>Vanse los hombres.</stage></sp></div><div type="scene" n="III" >
 <stage>DOÑA MARÍA, LEONOR</stage>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¡Buenos van, desafiados!</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>¡Qué diferentes cuidados</l>
 <l>Me da, Leonor, mi enemigo!</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¿No le has visto más?</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Ayer.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Alegre quisiera hallarte,</l>
 <l>Porque te alcanzara parte</l>
 <l>De mi <rs type="emotion" ana="noun">contento</rs> y <rs type="emotion" ana="noun">placer</rs>.</l>
@@ -2695,13 +2695,13 @@ ACT III
 <l>Yo lo hiciera: aquí me dio</l>
 <l>Su casa una amiga honrada,</l>
 <l>Donde de prestado estoy.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Mi Señora te dará</l>
 <l>Vestidos: vamos allá;</l>
 <l>Que pienso que ha de ser hoy.</l></sp>
 <sp who="#María_moza" ana="f"><speaker>DOÑA MARÍA</speaker>
 <l>Tendré vergüenza de vella.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>Anda; que te quiere bien,</l>
 <l>Y sé que tiene también</l>
 <l>Gusto de que hables con ella.</l></sp>
@@ -2709,7 +2709,7 @@ ACT III
 <l>Vamos, y de aquí a tu casa</l>
     <l>Te diré lo que pasó</l>
 <l>En el río.</l></sp>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>No fui yo;</l>
 <l>Que mujer que ya se casa,</l>
 <l>Ha de mostrar más recato</l>
@@ -2809,7 +2809,7 @@ ACT III
 <l>Lo que se sigue a <rs type="emotion" ana="noun">celos</rs> y amistades.      <stage>Vanse.</stage></l></sp></div><div type="scene" n="IV" >
 <l>Sala en casa de doña Ana.</l>
 <stage>DOÑA MARÍA, LEONOR; después, DOÑA ANA y JUANA</stage>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>A mi casa hemos llegado:</l>
     
 <l>Después, que no puedo agora,</l>
@@ -3283,7 +3283,7 @@ ACT III
 <l>No os canséis en prevenciones;</l>
 <l>Que yo no os he de engañar.</l></sp></div><div type="scene" n="VIII" >
 <stage>LEONOR.--DICHOS</stage>
-<sp who="#Leonor_moza"><speaker>LEONOR</speaker>
+<sp who="#Leonor_moza" ana="f"><speaker>LEONOR</speaker>
 <l>¿Cuándo piensas acabar,</l>
 <l>Isabel, tantas razones?</l>
 <l>Vente a vestir y a vestirme;</l>

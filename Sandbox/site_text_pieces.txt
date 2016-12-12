@@ -1,0 +1,22 @@
+My text for website parts
+
+Dama boba viz:
+
+The bar graph shows how many times each character in the play speaks. Finea, the
+                    foolish lady of the title, speaks the most, and her suitor Laurencio speaks the second
+                most. On click, you will see how many words related to the body or emotions the characters 
+                utter. In Golden Age literature, one would expect to see love mapped to body parts: eyes,
+                hands, and heart are important in the expressions for love. Most characters in this marriage
+                play reference emotion more frequently than the body. The most "bodily" of our characters are
+                the illiterate, honor-insensitive Finea, her maid Clara, and Finea's writing tutor Rufino, who
+                resorts to corporal punishment when Finea refuses to learn. The surprise in the graphs is that
+                Laurencio is our most emotional character. He is a calculating and even evil suitor who rejects
+                the woman he loves, Finea's brilliant sister Nise, because hers is the smaller of the two
+                dowries. It is possible to read Laurencio as exclusively self-interested, taking advantage of 
+                an intellectually deficient victim. However, in Act III Finea reveals new intelligence, uttering
+                lovely Neoplatonic images in a long soliloquy. She claims love has been her tutor, but her foolishness
+                may have been a trick of the weak--a means of discouraging suitors not to her liking, like the foolish Liseo.
+                In this play, characters seek what they lack: Laurencio is intelligent and poor, and so he seeks out the rich
+                idiot Finea. Liseo is rich and naive, and he falls for the scholarly and economically disadvantaged Nise. The 
+                musicians who sing of love and marriage reflect a balance of body and emotion, the equilibrium of elements and traits
+                medical writers like Juan Huarte de San Juan though advantageous in sentimental relationships.

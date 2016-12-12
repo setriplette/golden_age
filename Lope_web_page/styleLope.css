@@ -192,3 +192,16 @@ p.prose {
     padding-bottom: 10px;
     color: black;
 }
+
+p.desc{font-size: 18px;
+    line-height: 2;
+    padding-left: 40px;
+    width: 800px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    
+}
+
+    
+

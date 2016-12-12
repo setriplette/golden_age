@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+   <g transform="translate(300 300)">
+      <text x="-150"
+            y="-160"
+            fill="black"
+            font-size="24"
+            font-family="avenir">Amount of speech by gender</text>
+      <text x="-80"
+            y="-200"
+            fill="purple"
+            font-size="24"
+            font-family="avenir">La dama boba</text>
+      <text x="200"
+            y="-100"
+            fill="black"
+            font-size="20"
+            font-family="avenir">Legend</text>
+      <text x="95"
+            y="70"
+            fill="black"
+            font-size="20"
+            font-family="avenir">38%</text>
+      <text x="-128"
+            y="-70"
+            fill="black"
+            font-size="20"
+            font-family="avenir">62%</text>
+      <text x="200"
+            y="-60"
+            fill="maroon"
+            font-size="20"
+            font-family="avenir">Red = Female Speakers</text>
+      <text x="200"
+            y="-20"
+            fill="steelblue"
+            font-size="20"
+            font-family="avenir">Blue = Male Speakers</text>
+      <line x1="190"
+            x2="430"
+            y1="-130"
+            y2="-130"
+            stroke="black"
+            stroke-width="1"
+            fill="none"/>
+      <line x1="190"
+            x2="190"
+            y1="-130"
+            y2="5"
+            stroke="black"
+            stroke-width="1"
+            fill="none"/>
+      <line x1="190"
+            x2="430"
+            y1="5"
+            y2="5"
+            stroke="black"
+            stroke-width="1"
+            fill="none"/>
+      <line x1="430"
+            x2="430"
+            y1="-130"
+            y2="5"
+            stroke="black"
+            stroke-width="1"
+            fill="none"/>
+      <text x="-200"
+            y="170"
+            fill="purple"
+            font-size="18"
+            font-family="avenir">While Finea talks more than any other person in this play, the combination </text>
+      <text x="-200"
+            y="200"
+            fill="purple"
+            font-size="18"
+            font-family="avenir">of her father. the male suitors, and the servants drowns out the women.</text>
+   </g>
+   <g transform="translate(300 300) rotate(-90)">
+      <circle cx="0"
+              cy="0"
+              r="100"
+              style="stroke:black; stroke-width:1; fill:none"/>
+      <!--This should be the total string 82548-->
+      <!--Total f string 31516-->
+      <!--Total m string 51032-->
+      <!--This is femWedge 0.38178998885496923-->
+      <!--This is manWedge 0.61821001114503077-->
+      <!--This is angle of manWedge in radians3.8843280587777858-->
+      <!--This is angle of femWedge in radians6.283185307179586-->
+      <path id="manWedge"
+            d="M0,0                     L 100,0                     A100,100 0, 1,1 -73.66213476058964,-67.63053971773945                     Z"
+            style="stroke:black; stroke-width:1; fill: steelblue"/>
+      <path id="femWedge"
+            d="M0,0                     L -73.66213476058964,-67.63053971773945                     A100,100 0 0,1 100,-2.4492935982947064E-14                     Z"
+            style="stroke:black; stroke-width:1; fill: maroon"/>
+   </g>
+</svg>
