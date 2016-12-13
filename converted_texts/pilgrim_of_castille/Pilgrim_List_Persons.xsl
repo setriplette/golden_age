@@ -21,28 +21,6 @@
             <text>
                 <body>
                     <xsl:comment>ST: Where the template has an @resp, fill in with a hashtag (#) followed by your initials, so I know who made the entry. There are instructions below for where to fit the person's name and sex into the template. In the note tag, you will write a description of the person. Make it brief, a sentence or so. For example, if the person is Apollo, &lt;note resp="#ST"&gt;Greco-Roman god of poetry and the sun&lt;/note&gt;. Notice I used my initials in the resp attribute.</xsl:comment>
-                    <listPerson sortKey="char">
-                        
-                        
-                        <xsl:for-each select="distinct-values(descendant::persName[@type = 'char'])">
-                            <xsl:comment><xsl:apply-templates select="."/></xsl:comment>
-                            <xsl:comment>ST: Here we output the raw name. You need to format it with the template below:</xsl:comment>
-                            <person sex="">
-                                <persName>
-                                    <xsl:comment>ST: Most of our historical people have only one name. When this is the case, list the name in surname (last name) and delete forename (first name). Spanish names with a geographical ending like Francisco Gomez Duque de Alba will confuse you. Francisco is the forename, Gomez Duque de Alba will be your surname. If your person has two surnames, list them both in the same surname. If he's Miguel de Cervantes Saavedra, surname is Cervantes Saavedra and forename is Miguel.</xsl:comment>
-                                    <surname/>
-                                    <forename/>
-                                    <xsl:comment>ST: &lt;forename/&gt; is where you will put first names for the person, if provided. Delete &lt;forename/&gt; if you do not use it.</xsl:comment>
-                                </persName>
-                                <persName/>
-                                <xsl:comment>ST: &lt;persName/&gt; is where you will put alternate names for the person. Delete this &lt;persName/&gt; if you do not use it.</xsl:comment>
-                                <xsl:comment>ST: Be sure to fill in the @value for the person's sex; in which m indicates male, f female, o other, u unknown.</xsl:comment>
-                                <note resp=""/>
-                            </person>
-                            
-                        </xsl:for-each>
-                    </listPerson>
-                    <xsl:comment>ST: Where the template has an @resp, fill in with a hashtag (#) followed by your initials, so I know who made the entry. There are instructions below for where to fit the person's name and sex into the template. In the note tag, you will write a description of the person. Make it brief, a sentence or so. For example, if the person is Apollo, &lt;note resp="#ST"&gt;Greco-Roman god of poetry and the sun&lt;/note&gt;. Notice I used my initials in the resp attribute.</xsl:comment>
                     <listPerson sortKey="hist">
                         
                         
