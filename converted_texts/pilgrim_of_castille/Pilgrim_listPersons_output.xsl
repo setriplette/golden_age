@@ -16,7 +16,7 @@
                 <link rel="stylesheet" type="text/css" href="listPersons.css"/>
                 <script type="text/javascript" src="persons_toggle.js"></script>
             </head>
-            <!--#include virtual="menu.html"-->
+            <xsl:comment>#include virtual="menu.html"</xsl:comment>
             <body>
                 
                 <h1>The Pilgrim of Castile</h1>

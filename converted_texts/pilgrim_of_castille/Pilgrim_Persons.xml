@@ -19,7 +19,7 @@
             <person sex="m">
                <persName>
                   <surname>the Eight</surname>
-                  <forename>Clement</forename>
+                  <forename>Clement </forename>
                   <note resp="#ah">Pope Clement VIII, born Ippolito Aldobrandini, was Pope from 2 February 1592 to his death in 1605.</note>
                </persName>
             </person>
@@ -61,15 +61,15 @@
             </person>
             <person sex="m">
                <persName>
-                  <surname>English</surname>
-                  <forename>Drake</forename>
+                  <surname>Drake</surname>
+                  <forename>English </forename>
                   </persName>
                <note resp="#ah">Sir Francis Drake, vice admiral was an English sea captain, privateer, navigator, slaver, and politician of the Elizabethan era.</note>
             </person>
             <person sex="m">
                <persName>
-                  <surname>Duke of</surname>
-                  <forename>Savoy</forename>
+                  <surname>Savoy</surname>
+                  <forename>Duke of </forename>
                   </persName>
                <note resp="#ah">Charles Emmanuel I (Italian: Carlo Emanuele di Savoia; 12 January 1562 – 26 July 1630), known as the Great, was the Duke of Savoy from 1580 to 1630. He was nicknamed Testa d'feu ("the Hot-Headed") for his rashness and military aggression.</note>
             </person>
@@ -129,17 +129,16 @@
             </person>
             <person sex="m">
                <persName>
-                  <surname>Archduke</surname>
-                  <forename>Albert</forename>
+                  <surname>Archduke Albert</surname>
                   </persName>
                <note resp="#ah">Albert VII was the ruling Archduke of Austria for a few months in 1619 and, jointly with his wife, Isabella Clara Eugenia, sovereign of the Habsburg Netherlands between 1598 and 1621. </note>
             </person>
             <person sex="m">
                <persName>
                   <surname>Lianho</surname>
-                  <forename>Philip of</forename>
+                  <forename>Philip of </forename>
                   </persName>
-               <note resp="#ah"/>
+               <note resp="#ah">Lope mentions this person as a famous painter.</note>
             </person>
            <person sex="m">
                <persName>
@@ -174,36 +173,35 @@
             <person sex="m">
                <persName>
                   <surname>Gregory</surname>
-                  <forename>Peter</forename>
+                  <forename>Peter </forename>
                   </persName>
-               <note resp="#ah"/>
+               <note resp="#ah">Lope mentions this person as an author of a history of hunting.</note>
             </person>
             <person sex="m">
                <persName>
                   <surname>the Twelfth</surname>
-                  <forename>Louis</forename>
+                  <forename>Louis </forename>
                   </persName>
                <note resp="#ah">Louis XII was a monarch of the House of Valois who ruled as King of France from 1498 to 1515 and King of Naples from 1501 to 1504.</note>
             </person>
             <person sex="m">
                <persName>
-                  <surname>Emperor</surname>
-                  <forename>Adrian</forename>
+                  <surname>Emperor Adrian</surname>
                   </persName>
-               <note resp="#ah">ALso known as Hadrian, he was Roman emperor from 117 to 138. Hadrian is known for building Hadrian's Wall, which marked the northern limit of Britannia. He also rebuilt the Pantheon and constructed the Temple of Venus and Roma.</note>
+               <note resp="#ah">Also known as Hadrian, he was Roman emperor from 117 to 138. Hadrian is known for building Hadrian's Wall, which marked the northern limit of Britannia. He also rebuilt the Pantheon and constructed the Temple of Venus and Roma.</note>
             </person>
             <person sex="m">
                <persName>
                   <surname>Budeus</surname>
                   </persName>
-               <note resp="#ah"/>
+               <note resp="#ah">Guillaume Budé, 16th century French Humanist who studied ancient Greek and was associated with the court of François I.</note>
             </person>
             <person sex="m">
                <persName>
                   <surname>the Rhodian</surname>
-                  <forename>Caelius</forename>
+                  <forename>Caelius </forename>
                   </persName>
-               <note resp="#ah"/>
+               <note resp="#ah">Lucius Coelius Antipater, 2nd century B.C. Roman historian. He did write about music, and "Rhodian" is a style of oratory.</note>
             </person>
             <person sex="m">
                <persName>
@@ -214,7 +212,7 @@
             <person sex="m">
                <persName><surname>Themiserus</surname>
                   </persName>
-               <note resp="#ah"/>
+               <note resp="#ah">Lope mentions this person as a Roman writer.</note>
             </person>
             <person sex="m">
                <persName>
@@ -231,9 +229,9 @@
             <person sex="m">
                <persName>
                   <surname>Gerand</surname>
-                  <forename>Gregory</forename>
+                  <forename>Gregory </forename>
                   </persName>
-               <note resp="#ah"/>
+               <note resp="#ah">Lope mentions this person as a historian of music.</note>
             </person>
             <person sex="m">
                <persName>
@@ -268,7 +266,7 @@
             <person sex="m">
                <persName>
                   <surname>Lullius</surname>
-                  <forename>Raymundus</forename>
+                  <forename>Raymundus </forename>
                   </persName>
                <note resp="#ah">Raymundus Lullius was a philosopher, logician, Franciscan tertiary and Majorcan writer. He is credited with writing the first major work of Catalan literature.</note>
             </person>
@@ -276,7 +274,7 @@
                <persName>
                   <surname>Scianus</surname>
                   </persName>
-               <note resp="#ah"/>
+               <note resp="#ah">He's referring to Scianus's horse, the Equus Scianus, a mythical jewel associated with Argos that brings bad luck upon its possessor.</note>
             </person>
             <person sex="m">
                <persName>
@@ -304,16 +302,16 @@
             <person sex="m">
                <persName>
                   <surname>Livius</surname>
-                  <forename>Titus</forename>
+                  <forename>Titus </forename>
                </persName>
                <note resp="#ah">Titus Livius was a Roman historian who wrote a monumental history of Rome and the Roman people covering the period from the earliest legends of Rome before the traditional foundation in 753 BC through the reign of Augustus in Livy's own time. </note>
             </person>
             <person sex="m">
                <persName>
                   <surname>Totan</surname>
-                  <forename>William</forename>
+                  <forename>William </forename>
                   </persName>
-               <note resp="#ah">An author.</note>
+               <note resp="#ah">An author who published in 1511 an anti-Semitic treatise.</note>
             </person>
             <person sex="m">
                <persName>
@@ -324,16 +322,16 @@
             <person sex="m">
                <persName>
                   <surname>Manchy</surname>
-                  <forename>Jerome</forename>
+                  <forename>Jerome </forename>
                   </persName>
-               <note resp="#ah">An author.</note>
+               <note resp="#ah">Jerome de Monchy, French nobleman.</note>
             </person>
             <person sex="m">
                <persName>
                   <surname>Pselho</surname>
-                  <forename>Michel</forename>
+                  <forename>Michel </forename>
                   </persName>
-               <note resp="#ah">An author.</note>
+               <note resp="#ah">Michael Psellos is an 11th century Byzantine philosopher.</note>
             </person>
             <person sex="m">
                <persName>
@@ -362,6 +360,18 @@
          </listPerson>
          
          <listPerson sortKey="myth">
+            <person sex="f">
+               <persName>
+                  <surname>Pyrrha</surname>
+               </persName>
+               <note resp="#ah">Pyrrha is the daughter of Pandora.</note>
+            </person>
+            <person sex="m">
+               <persName>
+                  <surname>Deucalion</surname>
+               </persName>
+               <note resp="#ah">Pyrrha's husband.</note>
+            </person>
             <person sex="f">
                <persName>
                   <surname>Helen</surname>
@@ -521,7 +531,7 @@
             <person sex="m">
                <persName>
                   <surname>Adam's nephew</surname>
-                  <forename>Tubal,</forename>
+                  <forename>Tubal, </forename>
                </persName>
                <note resp="#ah">According to the Bible, Tubal is the son of Lamech and Zillah, who formed tools out of bronze and iron.</note>
             </person>

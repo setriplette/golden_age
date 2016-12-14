@@ -33,20 +33,16 @@
                <note resp="#ah">8.7832° S, 34.5085° E</note>
             </place>
             <place>
-               <placeName>Argiere</placeName>
-               <!--<note resp=""/>-->
-            </place>
-            <place>
                <placeName>Fuchel</placeName>
                <note resp="#ah">32°39′N 16°55′W</note>
             </place>
             <place>
                <placeName>Mami</placeName>
-               <!--<note resp=""/>-->
+               <note resp="#ah">36.7538° N, 3.0588° E</note>
             </place>
             <place>
                <placeName>Xafer</placeName>
-              <!-- <note resp=""/>-->
+               <note resp="#ah">36.7538° N, 3.0588° E</note>
             </place>
             <place>
                <placeName>Spain</placeName>
@@ -70,7 +66,7 @@
             </place>
             <place>
                <placeName>Tarndan</placeName>
-               <!--<note resp=""/>-->
+               <note resp="#ah">30.4727° N, 8.8749° W</note>
             </place>
             <place>
                <placeName>Tafilet</placeName>
@@ -149,14 +145,6 @@
                <note resp="#ah">39.7259° N, 0.2637° W</note>
             </place>
             <place>
-               <placeName>Deucalion</placeName>
-               <!--<note resp=""/>-->
-            </place>
-            <place>
-               <placeName>Pyrrha</placeName>
-               <!--<note resp=""/>-->
-            </place>
-            <place>
                <placeName>Sagunto</placeName>
                <note resp="#ah">39.6799° N, 0.2784° W</note>
             </place>
@@ -198,7 +186,7 @@
             </place>
             <place>
                <placeName>Sisla</placeName>
-               <!--<note resp=""/>-->
+               <note resp="#ah">41.6639° N, 83.5552° W</note>
             </place>
             <place>
                <placeName>Saragossa</placeName>
@@ -235,10 +223,6 @@
             <place>
                <placeName>Lisbon</placeName>
                <note resp="#ah">38.7223° N, 9.1393° W</note>
-            </place>
-            <place>
-               <placeName>Luxan</placeName>
-               <!--<note resp=""/>-->
             </place>
             <place>
                <placeName>Belen</placeName>
@@ -294,7 +278,7 @@
             </place>
             <place>
                <placeName>Roman Empire</placeName>
-               <!--<note resp=""/>-->
+               <note resp="#ah"> 41.9028° N, 12.4964° E</note>
             </place>
             <place>
                <placeName>Caucasas</placeName>
@@ -302,7 +286,7 @@
             </place>
             <place>
                <placeName>Spanish Sea</placeName>
-               <!--<note resp=""/>-->
+               <note resp="#ah">25.3043° N, 90.0659° W</note>
             </place>
             <place>
                <placeName>Guadalupe</placeName>
