@@ -14,7 +14,8 @@
                 <xsl:apply-templates select="placeName/text()"/>
             </name>
             <description>
-                <xsl:apply-templates select="child::note"/>
+<!-- RJP:2016-12-14: This gets us the descriptive notes from the places XML <xsl:apply-templates select="child::note"/>-->
+                <xsl:apply-templates select="ancestor::TEI/child::teiHeader/descendant::title"/>
             </description>
             <Point>
                 <coordinates>

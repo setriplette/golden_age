@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Placemark>
+      <name>Ronda</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-5.1612,36.7462</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Amadeus</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-4.5225,38.0280</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Madrid</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-3.7038,40.4168</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Seville</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-5.9845,37.3891</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Flemish Region</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>3.7265,51.0109</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Castile and León</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-4.3976,41.8357</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Spain</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-3.7492,40.4637</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Sierra Morena</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-3.49,38.21</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Granada</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-3.5986,37.1773</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Córdoba</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-4.7794,37.8882</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Hispanola</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-71.5724,19.0019</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Valenica</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-0.3763,39.4699</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Vera de Plasencia</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-6.02,39.58</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Cádiz</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-6.2886,36.5271</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Andalusia</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-4.7278,37.5443</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Potosí</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-65.7550,-19.5723</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>The National Museum of Prado</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-3.6921,40.4138</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>China</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>104.1954,35.8617</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Toledo</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-4.0273,39.8628</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Venice</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>12.3155,45.4408</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Valladolid</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-4.7245,41.6523</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Mozanares, Cuidad Real</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-3.3716,39.0043</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Italy</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>12.5674,41.8719</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Casa del Campo</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-3.7038,40.4168</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Babylon</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>-73.3257,40.6957</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>France</name>
+      <description>La moza de cántaro</description>
+      <Point>
+         <coordinates>2.2137,46.2276</coordinates>
+      </Point>
+   </Placemark>
+</kml>

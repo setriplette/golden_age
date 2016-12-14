@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Placemark>
+      <name>Illescas</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-3.8490,40.1263</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Europe</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>15.2551,54.5260</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Seville</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-5.9845,37.3891</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Andaluscia</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-4.7278,37.5443</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Castile and León</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-4.3976,41.8357</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Spain</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-3.7492,40.4637</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Madrid</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-3.7038,40.4168</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Plaza Mayor</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-3.7074,40.4155</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Flemish Region</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>3.7265,51.0109</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Toledo</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-4.0273,39.8628</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Rome</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>12.4964,41.9028</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>The National Museum of Prado</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-3.6921,40.4138</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Recoletos</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-3.6866,40.4239</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>the Paseo de Recoletos</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-3.7038,40.4168</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Greece</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>21.8243,39.0742</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Granada</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-3.5986,37.1773</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Italy</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>12.5674,41.8719</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Lisbon</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-9.1393,38.7223</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Belen</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-106.7762,34.6628</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Hispanola</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-71.5724,19.0019</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Panama</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-80.7821,8.5380</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Troy</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>26.14,39.57</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Alcazár of Seville</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-5.9902,37.3831</coordinates>
+      </Point>
+   </Placemark>
+   <Placemark>
+      <name>Bridge of Segovia</name>
+      <description>La Dama Boba</description>
+      <Point>
+         <coordinates>-3.7228,40.4140</coordinates>
+      </Point>
+   </Placemark>
+</kml>
