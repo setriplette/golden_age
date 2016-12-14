@@ -204,5 +204,10 @@ p.desc{font-size: 14px;
     
 }
 
-    
+h2.svg{
+    color: steelblue;
+    padding-left: 40px;
+    font-family: 'Century Gothic';
+    padding-bottom: 10px;
+}
 

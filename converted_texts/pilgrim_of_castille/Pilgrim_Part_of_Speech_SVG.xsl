@@ -13,7 +13,7 @@
     <xsl:variable name="max_xValue" select="$xSpacer * $numB"/>
     <xsl:variable name="max_yValue" select="-(100 * $ySpacer)"/>
     <xsl:template match="/">
-        <svg width="850" height="850" viewBox="0 0 1000 1000">
+        <svg width="850" height="850" viewBox="0 0 900 900">
             <g transform="translate(100 750)">
                 <xsl:for-each select="descendant::div[@type='book']/head">
                     <xsl:variable name="xPos" select="position() * $xSpacer"/>
@@ -24,11 +24,11 @@
                 <text color="black" font-family="CenturyGothic" text-anchor="middle" x="400" y="-600" style="font-size:32px">Pilgrim of Castile</text>
                 <text y="-250" x="-15" color="black" font-family="CenturyGothic" text-anchor="middle" style="font-size:18px">50%</text>
                 <text y="-500" x="-15" color="black" font-family="CenturyGothic" text-anchor="middle" style="font-size:18px">100%</text>
-                <text x="600" y="-500" font-size="25px" font-family="CenturyGothic">Legend: Part of Speech</text>
-                <text x="650" y="-450" text-anchor="start" font-size="23px" fill="maroon" font-family="Avenir">-Noun</text>
-                <text x="650" y="-400" text-anchor="start" font-size="23px" fill="steelblue" font-family="Avenir">-Verb</text>
-                <text x="650" y="-350" text-anchor="start" font-size="23px" fill="#e8c135" font-family="Avenir">-Adverb</text>
-                <text x="650" y="-300" text-anchor="start" font-size="23px" fill="#666699" font-family="Avenir">-Adjective</text>
+                <text x="550" y="-500" font-size="20px" font-family="CenturyGothic">Legend: Part of Speech</text>
+                <text x="600" y="-450" text-anchor="start" font-size="23px" fill="maroon" font-family="Avenir">-Noun</text>
+                <text x="600" y="-400" text-anchor="start" font-size="23px" fill="steelblue" font-family="Avenir">-Verb</text>
+                <text x="600" y="-350" text-anchor="start" font-size="23px" fill="#e8c135" font-family="Avenir">-Adverb</text>
+                <text x="600" y="-300" text-anchor="start" font-size="23px" fill="#666699" font-family="Avenir">-Adjective</text>
                 <xsl:comment>X-axis</xsl:comment>
                 <line x1="30" y1="0" x2="{$max_xValue + $xSpacer}" y2="0" stroke="black" stroke-width="2"/>
                 <xsl:comment>Y-axis</xsl:comment>

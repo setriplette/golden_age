@@ -8,7 +8,7 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
     <xsl:template match="/">
-        <html>
+        <html lang="en">
             <head>
                 <title>The Pilgrim of Castile</title>
                 <link rel="stylesheet" type="text/css" href="prose_reading_view.css" />
@@ -47,7 +47,7 @@
     <xsl:template match="//text/body/div[@type='book']/head"><p class="bookHead"><xsl:apply-templates/></p></xsl:template>
     <xsl:template match="//head[@type='narrative']"><p class="narrative"><xsl:apply-templates/></p></xsl:template>
     <xsl:template match="//floatingText[@type='letter']/body/head"><p class="letter"><xsl:apply-templates/></p></xsl:template>
-    <xsl:template match="rs[@type='emotion']"><xsl:variable name="ana" select="./@ana"/><span class="emotion" lang="{$ana}"><xsl:apply-templates/></span></xsl:template>
+    <xsl:template match="rs[@type='emotion']"><xsl:variable name="ana" select="./@ana"/><span class="emotion" title="{$ana}"><xsl:apply-templates/></span></xsl:template>
     <xsl:template match="rs[@type='body']"><span class="body"><xsl:apply-templates/></span></xsl:template>
     <xsl:template match="persName"><span class="persName"><xsl:apply-templates/></span></xsl:template>
     <xsl:template match="placeName"><span class="placeName"><xsl:apply-templates/></span></xsl:template>
