@@ -147,7 +147,7 @@
             <!--Cádiz-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
+               <placeName>Cádiz
                   <geo>36.5271° N 6.2886° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
@@ -247,11 +247,11 @@
             <!--Casa del Campo-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>Dominican Republic
-                  <geo>18.7357° N, 70.1627° W</geo>
+               <placeName>Casa del Campo
+                  <geo>40.4168° N 3.7038° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp="#msb">The Dominican republic is located in the Cariibean that shares the island of Hispanola with Haiti. </note>
+               <note resp="#msb">This is the biggest plaza in the center of Madrid. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Babel-->
