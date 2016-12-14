@@ -13,19 +13,10 @@
                 <title>The Pilgrim of Castile</title>
                 <link rel="stylesheet" type="text/css" href="styleLope.css" />
                 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-                <script type="text/javascript" src="pilgrim_reading_view.js"></script>
+                
             </head>
             <body>
-                <ul class ="topnav" id="myTopnav">
-                    <li><a href="/index.html">Main</a></li>
-                    <li><a href="/playList.html">Plays</a></li>
-                    <li><a href="/proseList.html">Prose</a></li>
-                    <li><a href="/dama_boba/visualizations/dama_boba_viz.html">Data</a></li>
-                    <li><a href="/people.html">People</a></li>
-                    <li><a href="/places.html">Places</a></li>
-                    <li><a href="/about.html">About</a></li>
-                    <li><a href="/pilgrim_viz.html">Pilgrim</a></li>
-                </ul>
+                <xsl:comment>#include virtual="menu.html"</xsl:comment>
                 
                 <div id="partsOfspeech">
                     <svg xmlns="http://www.w3.org/2000/svg"
