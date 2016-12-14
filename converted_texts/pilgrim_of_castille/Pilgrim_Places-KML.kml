@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2">
+   <Document>
+      <Placemark>
+         <name>Castile</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-4.27,41.23</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Barcelona</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>2.1734,41.3851</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Italy</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>12.5674,41.8719</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Africa</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>34.5085,-8.7832</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Fuchel</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-16.55,32.39</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mami</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>3.0588,36.7538</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Xafer</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>3.0588,36.7538</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Spain</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-3.7492,40.4637</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Constantinople</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>28.9784,41.0082</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Cairo</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>31.2357,30.0444</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Fez</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-5.0078,34.0181</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Morocco</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-7.0926,31.7917</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Tarndan</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-8.8749,30.4727</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Tafilet</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-4.16,31.20</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ceuta</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-5.3213,35.8894</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pyrennean mountains</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>1.0012,42.6682</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>France</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>2.2137,46.2276</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Genoa</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>8.9463,44.4056</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Valencia</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>,</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mount Caucasus</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>44.1576,42.6366</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Montserrat</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-62.1874,16.7425</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Germany</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>10.4515,51.1657</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Strait of Magellan</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-70.8288,-53.7302</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Flanders</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>3.7265,51.0109</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Piedmont</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-79.0478,39.4804</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Naples</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>14.2681,40.8518</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Narbonne</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>3.0031,43.1843°</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Tortosa</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>0.5214,40.8126</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Castellón</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>,</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Algiers</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>3.0588,36.7538</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Almenara</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-0.2233,39.7534</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Faura</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-0.2637,39.7259</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sagunto</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-0.2784,39.6799</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Toledo</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-83.5552,41.6639</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>river Tagus</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-1.41,40.29</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Asturias</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-5.8593,43.3614</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Santillana</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-4.1066,43.3873</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Salamanca</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-5.6635,40.9701</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ostend</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>2.9287,51.2154</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Madrid</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-3.7038,40.4168</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Troy</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>26.14,39.57</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Corinth</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>22.9322,37.9386</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sisla</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-83.5552,41.6639</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Saragossa</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-0.8897,41.6489</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pamplona</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-1.6458,42.8125</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Seville</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-5.9845,37.3891</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Jaca</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-0.5471,42.5717</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Marseille</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>5.3698,43.2965</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Cartagena</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-0.59,37.36</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Oran</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-0.6337,35.6977</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Indies</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-66.4108,18.2345</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lisbon</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-9.1393,38.7223</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Belen</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-9.1393,38.7223</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Portugal</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-8.2245,39.3999</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Tetouan</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-5.3626,35.5889</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Gibraltar</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-5.3536,36.1408</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Europe</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>15.2551,54.5260</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mount Etna</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>14.9934,37.7510</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sicily</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>14.6588,37.3979</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Paris</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>2.3522,48.8566</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rome</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>12.4964,41.9028</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Greece</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>21.8243,39.0742</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Aragon</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-1,41</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Perpignan</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>2.8948,42.6887</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Iberia</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-4.0876,40.4830</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Roman Empire</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>12.4964,41.9028</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Caucasas</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>45.0000,43.5852</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Spanish Sea</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-90.0659,25.3043</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Guadalupe</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-100.15,25.40</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Norway</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>8.4689,60.4720</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Morena</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>77.9910,26.4934</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Andalucia</name>
+         <description>The Pilgrim of Castile</description>
+         <Point>
+            <coordinates>-4.7278,37.5443</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>

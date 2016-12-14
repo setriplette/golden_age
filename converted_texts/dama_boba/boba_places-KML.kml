@@ -24,7 +24,7 @@
          </Point>
       </Placemark>
       <Placemark>
-         <name>Andaluscia</name>
+         <name>Andalusia</name>
          <description>La Dama Boba</description>
          <Point>
             <coordinates>-4.7278,37.5443</coordinates>
@@ -90,16 +90,10 @@
          <name>Recoletos</name>
          <description>La Dama Boba</description>
          <Point>
-            <coordinates>-3.6866,40.4239</coordinates>
-         </Point>
-      </Placemark>
-      <Placemark>
-         <name>the Paseo de Recoletos</name>
-         <description>La Dama Boba</description>
-         <Point>
             <coordinates>-3.7038,40.4168</coordinates>
          </Point>
       </Placemark>
+      
       <Placemark>
          <name>Greece</name>
          <description>La Dama Boba</description>
