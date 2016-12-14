@@ -258,7 +258,7 @@
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
                <placeName>Babylon
-                  <geo>40.6957 -73.3257</geo>
+                  <geo>32.543724 44.423733</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
                <note resp="#msb">A major city of ancient Mesopotamia in the fertile plain between the Tigris and Euphrates rivers.</note>

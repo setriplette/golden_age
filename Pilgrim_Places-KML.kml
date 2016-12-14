@@ -146,7 +146,7 @@
          <name>Montserrat</name>
          <description>The Pilgrim of Castile</description>
          <Point>
-            <coordinates>-62.1874,16.7425</coordinates>
+            <coordinates>1.8298,41.5958</coordinates>
          </Point>
       </Placemark>
       <Placemark>
@@ -174,7 +174,7 @@
          <name>Piedmont</name>
          <description>The Pilgrim of Castile</description>
          <Point>
-            <coordinates>-79.0478,39.4804</coordinates>
+            <coordinates>5.67,45.24</coordinates>
          </Point>
       </Placemark>
       <Placemark>
@@ -202,7 +202,7 @@
          <name>Castellón</name>
          <description>The Pilgrim of Castile</description>
          <Point>
-            <coordinates>,</coordinates>
+            <coordinates>-0.0513,39.9864</coordinates>
          </Point>
       </Placemark>
       <Placemark>
@@ -237,7 +237,7 @@
          <name>Toledo</name>
          <description>The Pilgrim of Castile</description>
          <Point>
-            <coordinates>-83.5552,41.6639</coordinates>
+            <coordinates>-4.02729,39.8628</coordinates>
          </Point>
       </Placemark>
       <Placemark>
@@ -300,7 +300,7 @@
          <name>Sisla</name>
          <description>The Pilgrim of Castile</description>
          <Point>
-            <coordinates>-83.5552,41.6639</coordinates>
+            <coordinates>-5.3272,39.4513</coordinates>
          </Point>
       </Placemark>
       <Placemark>
@@ -482,7 +482,7 @@
          <name>Guadalupe</name>
          <description>The Pilgrim of Castile</description>
          <Point>
-            <coordinates>-100.15,25.40</coordinates>
+            <coordinates>-5.3272,39.4513</coordinates>
          </Point>
       </Placemark>
       <Placemark>
@@ -496,7 +496,7 @@
          <name>Morena</name>
          <description>The Pilgrim of Castile</description>
          <Point>
-            <coordinates>77.9910,26.4934</coordinates>
+            <coordinates>-5.3272,39.4513</coordinates>
          </Point>
       </Placemark>
       <Placemark>

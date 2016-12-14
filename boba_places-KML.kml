@@ -93,7 +93,6 @@
             <coordinates>-3.7038,40.4168</coordinates>
          </Point>
       </Placemark>
-      
       <Placemark>
          <name>Greece</name>
          <description>La Dama Boba</description>
@@ -126,7 +125,7 @@
          <name>Belen</name>
          <description>La Dama Boba</description>
          <Point>
-            <coordinates>-106.7762,34.6628</coordinates>
+            <coordinates>35.2024,31.7054</coordinates>
          </Point>
       </Placemark>
       <Placemark>

@@ -98,8 +98,8 @@
                <note resp="#ah">42.6366° N, 44.1576° E</note>
             </place>
             <place>
-               <placeName>Montserrat<geo>16.7425 -62.1874</geo></placeName>
-               <note resp="#ah">16.7425° N, 62.1874° W</note>
+               <placeName>Montserrat<geo>41.5958 1.8298</geo></placeName>
+               <note resp="#ah">Montserrat Spain</note>
             </place>
             <place>
                <placeName>Germany<geo>51.1657 10.4515</geo></placeName>
@@ -130,7 +130,7 @@
                <note resp="#ah">40.8126° N, 0.5214° E</note>
             </place>
             <place>
-               <placeName>Castellón</placeName>
+               <placeName>Castellón<geo>39.9864 -0.0513</geo></placeName>
                <note resp="#ah">39.9864° N, 0.0513° W</note>
             </place>
             <place>
@@ -150,7 +150,7 @@
                <note resp="#ah">39.6799° N, 0.2784° W</note>
             </place>
             <place>
-               <placeName>Toledo <geo>41.6639 -83.5552</geo></placeName>
+               <placeName>Toledo <geo>39.8628 -4.02729</geo></placeName>
                <note resp="#ah">41.6639° N, 83.5552° W</note>
             </place>
             <place>
