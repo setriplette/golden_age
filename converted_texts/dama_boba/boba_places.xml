@@ -18,7 +18,7 @@
          <listPlace><!--Illescas--><!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
                <placeName>Illescas
-                  <geo>40.1263 N 3.8490 W</geo>
+                  <geo>40.1263° N 3.8490° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
                <note resp="#st">Municipality in the province of Toledo, Spain.</note>
