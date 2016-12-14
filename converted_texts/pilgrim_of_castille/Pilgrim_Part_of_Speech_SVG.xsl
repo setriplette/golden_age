@@ -49,10 +49,19 @@
                     <xsl:variable name="adverbY2pos" select="$verbPerc + $nounPerc + $adverbPerc"/>
                     <xsl:variable name="adjY1pos" select="$verbPerc + $nounPerc + $adverbPerc"/>
                     <xsl:variable name="adjY2pos" select="$verbPerc + $nounPerc + $adverbPerc + $adjPerc"/>
+                    <xsl:variable name="nounPERC" select="$noun div $sumRS * 100"/>
+                    <xsl:variable name="verbPERC" select="$verb div $sumRS * 100"/>
+                    <xsl:variable name="adverbPERC" select="$adverb div $sumRS * 100"/>
+                    <xsl:variable name="adjPERC" select="$adj div $sumRS * 100"/>
                     <line class ="noun" x1="{$xPos}" y1="0" x2="{$xPos}" y2="-{$nounPerc}" stroke="maroon" stroke-width="50"/>
+                    <text x="{$xPos}" y="-{$nounPerc div 2}" text-anchor="middle" stroke="white"><xsl:value-of select="format-number($nounPERC, '0')"/><xsl:text>%</xsl:text></text>
                     <line class="verb" x1="{$xPos}" y1="-{$nounPerc}" x2="{$xPos}" y2="-{$verbY2pos}" stroke="steelblue" stroke-width="50"/>
+                    <text x="{$xPos}" y="-{($verbPerc div 2) + $nounPerc}" text-anchor="middle" stroke="white"><xsl:value-of select="format-number($verbPERC, '0')"/><xsl:text>%</xsl:text></text>
                     <line class="adverb" x1="{$xPos}" y1="-{$adverbY1pos}" x2="{$xPos}" y2="-{$adverbY2pos}" stroke="#e8c135" stroke-width="50"/>
+                    <text x="{$xPos + 50}" y="-{($adverbPerc div 2) + $adverbY1pos}" text-anchor="middle" stroke="black"><xsl:value-of select="format-number($adverbPERC, '0')"/><xsl:text>%</xsl:text></text>
+                    <line x1="{$xPos}" y1="-{($adverbPerc div 2) + $adverbY1pos}" x2="{$xPos + 35}" y2="-{($adverbPerc div 2) + $adverbY1pos}" stroke="black" stroke-width="2" stroke-dasharray="0.8"/>
                     <line class="adj" x1="{$xPos}" y1="-{$adjY1pos}" x2="{$xPos}" y2="-{$adjY2pos}" stroke="#666699" stroke-width="50"/>
+                    <text x="{$xPos}" y="-{($adjPerc div 2) + $adjY1pos}" text-anchor="middle" stroke="white"><xsl:value-of select="format-number($adjPERC, '0')"/><xsl:text>%</xsl:text></text>
                </xsl:for-each>
             </g>
         </svg>
