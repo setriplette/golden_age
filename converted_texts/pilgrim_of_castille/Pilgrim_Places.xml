@@ -17,75 +17,76 @@
       <body>
          <listPlace>
             <place>
-               <placeName>Castile</placeName>
+               <placeName>Castile<geo>41.23 -4.27</geo></placeName>
                <note resp="#ah">41°23′N 4°27′W</note>
             </place>
             <place>
-               <placeName>Barcelona</placeName>
+               <placeName>Barcelona<geo>41.3851 2.1734</geo></placeName>
+               
                <note resp="#ah">41.3851° N 2.1734° E</note>
             </place>
             <place>
-               <placeName>Italy</placeName>
+               <placeName>Italy<geo>41.8719 12.5674</geo></placeName>
                <note resp="#ah">41.8719° N, 12.5674° E</note>
             </place>
             <place>
-               <placeName>Africa</placeName>
+               <placeName>Africa <geo>-8.7832 34.5085</geo></placeName>
                <note resp="#ah">8.7832° S, 34.5085° E</note>
             </place>
             <place>
-               <placeName>Fuchel</placeName>
+               <placeName>Fuchel<geo>32.39 -16.55</geo></placeName>
                <note resp="#ah">32°39′N 16°55′W</note>
             </place>
             <place>
-               <placeName>Mami</placeName>
+               <placeName>Mami<geo>36.7538 3.0588</geo></placeName>
                <note resp="#ah">36.7538° N, 3.0588° E</note>
             </place>
             <place>
-               <placeName>Xafer</placeName>
+               <placeName>Xafer<geo>36.7538 3.0588</geo></placeName>
                <note resp="#ah">36.7538° N, 3.0588° E</note>
             </place>
             <place>
-               <placeName>Spain</placeName>
+               <placeName>Spain<geo>40.4637 -3.7492</geo></placeName>
                <note resp="#ah">40.4637° N, 3.7492° W</note>
             </place>
             <place>
-               <placeName>Constantinople</placeName>
+               <placeName>Constantinople<geo>41.0082 28.9784</geo></placeName>
                <note resp="#ah">41.0082° N, 28.9784° E</note>
             </place>
             <place>
-               <placeName>Cairo</placeName>
+               <placeName>Cairo<geo>30.0444 31.2357</geo></placeName>
                <note resp="#ah">30.0444° N, 31.2357° E</note>
             </place>
             <place>
-               <placeName>Fez</placeName>
+               <placeName>Fez<geo>34.0181 -5.0078</geo></placeName>
                <note resp="#ah">34.0181° N, 5.0078° W</note>
             </place>
             <place>
-               <placeName>Morocco</placeName>
+               <placeName>Morocco<geo>31.7917 -7.0926</geo></placeName>
                <note resp="#ah">31.7917° N, 7.0926° W</note>
             </place>
             <place>
-               <placeName>Tarndan</placeName>
+               <placeName>Tarndan<geo>30.4727 -8.8749</geo></placeName>
                <note resp="#ah">30.4727° N, 8.8749° W</note>
             </place>
             <place>
-               <placeName>Tafilet</placeName>
+               <placeName>Tafilet<geo>31.20 -4.16</geo></placeName>
                <note resp="#ah">31°20′22.43″N 4°16′5.48″W</note>
             </place>
             <place>
-               <placeName>Ceuta</placeName>
+               <placeName>Ceuta<geo>35.8894 -5.3213</geo></placeName>
                <note resp="#ah">35.8894° N, 5.3213° W</note>
             </place>
             <place>
-               <placeName>Pyrennean mountains</placeName>
+               <placeName>Pyrennean mountains<geo>42.6682 1.0012</geo></placeName>
                <note resp="#ah">42.6682° N, 1.0012° E</note>
             </place>
             <place>
-               <placeName>France</placeName>
+               <placeName>France<geo>46.2276 2.2137</geo></placeName>
                <note resp="#ah">46.2276° N, 2.2137° E</note>
             </place>
             <place>
-               <placeName>Genoa</placeName>
+               <placeName>Genoa<geo>44.4056 8.9463</geo></placeName>
                <note resp="#ah">44.4056° N, 8.9463° E</note>
             </place>
             <place>
@@ -93,39 +94,39 @@
                <note resp="#ah">39.4699° N, 0.3763° W</note>
             </place>
             <place>
-               <placeName>Mount Caucasus</placeName>
+               <placeName>Mount Caucasus<geo>42.6366 44.1576</geo></placeName>
                <note resp="#ah">42.6366° N, 44.1576° E</note>
             </place>
             <place>
-               <placeName>Montserrat</placeName>
+               <placeName>Montserrat<geo>16.7425 -62.1874</geo></placeName>
                <note resp="#ah">16.7425° N, 62.1874° W</note>
             </place>
             <place>
-               <placeName>Germany</placeName>
+               <placeName>Germany<geo>51.1657 10.4515</geo></placeName>
                <note resp="#ah">51.1657° N, 10.4515° E</note>
             </place>
             <place>
-               <placeName>Strait of Magellan</placeName>
+               <placeName>Strait of Magellan<geo>-53.7302 -70.8288</geo></placeName>
                <note resp="#ah">53.7302° S, 70.8288° W</note>
             </place>
             <place>
-               <placeName>Flanders</placeName>
+               <placeName>Flanders<geo>51.0109 3.7265</geo></placeName>
                <note resp="#ah">51.0109° N, 3.7265° E</note>
             </place>
             <place>
-               <placeName>Piedmont</placeName>
+               <placeName>Piedmont<geo>39.4804 -79.0478</geo></placeName>
                <note resp="#ah">39.4804° N, 79.0478° W</note>
             </place>
             <place>
-               <placeName>Naples</placeName>
+               <placeName>Naples<geo>40.8518 14.2681</geo></placeName>
                <note resp="#ah">40.8518° N, 14.2681° E</note>
             </place>
             <place>
-               <placeName>Narbonne</placeName>
+               <placeName>Narbonne<geo>43.1843° 3.0031</geo></placeName>
                <note resp="#ah">43.1843° N, 3.0031° E</note>
             </place>
             <place>
-               <placeName>Tortosa</placeName>
+               <placeName>Tortosa<geo>40.8126 0.5214</geo></placeName>
                <note resp="#ah">40.8126° N, 0.5214° E</note>
             </place>
             <place>
@@ -133,175 +134,175 @@
                <note resp="#ah">39.9864° N, 0.0513° W</note>
             </place>
             <place>
-               <placeName>Algiers</placeName>
+               <placeName>Algiers<geo>36.7538 3.0588</geo></placeName>
                <note resp="#ah">36.7538° N, 3.0588° E</note>
             </place>
             <place>
-               <placeName>Almenara</placeName>
+               <placeName>Almenara<geo>39.7534 -0.2233</geo></placeName>
                <note resp="#ah">39.7534° N, 0.2233° W</note>
             </place>
             <place>
-               <placeName>Faura</placeName>
+               <placeName>Faura<geo>39.7259 -0.2637</geo></placeName>
                <note resp="#ah">39.7259° N, 0.2637° W</note>
             </place>
             <place>
-               <placeName>Sagunto</placeName>
+               <placeName>Sagunto<geo>39.6799 -0.2784</geo></placeName>
                <note resp="#ah">39.6799° N, 0.2784° W</note>
             </place>
             <place>
-               <placeName>Toledo</placeName>
+               <placeName>Toledo <geo>41.6639 -83.5552</geo></placeName>
                <note resp="#ah">41.6639° N, 83.5552° W</note>
             </place>
             <place>
-               <placeName>river Tagus</placeName>
+               <placeName>river Tagus<geo>40.29 -1.41</geo></placeName>
                <note resp="#ah">40°29'11''N 1°41'51''W</note>
             </place>
             <place>
-               <placeName>Asturias</placeName>
+               <placeName>Asturias<geo>43.3614 -5.8593</geo></placeName>
                <note resp="#ah">43.3614° N, 5.8593° W</note>
             </place>
             <place>
-               <placeName>Santillana</placeName>
+               <placeName>Santillana<geo>43.3873 -4.1066</geo></placeName>
                <note resp="#ah">43.3873° N, 4.1066° W</note>
             </place>
             <place>
-               <placeName>Salamanca</placeName>
+               <placeName>Salamanca<geo>40.9701 -5.6635</geo></placeName>
                <note resp="#ah">40.9701° N, 5.6635° W</note>
             </place>
             <place>
-               <placeName>Ostend</placeName>
+               <placeName>Ostend<geo>51.2154 2.9287</geo></placeName>
                <note resp="#ah">51.2154° N, 2.9287° E</note>
             </place>
             <place>
-               <placeName>Madrid</placeName>
+               <placeName>Madrid <geo>40.4168 -3.7038</geo></placeName>
                <note resp="#ah">40.4168° N, 3.7038° W</note>
             </place>
             <place>
-               <placeName>Troy</placeName>
+               <placeName>Troy<geo>39.57 26.14</geo></placeName>
                <note resp="#ah">39°57′27″N 26°14′20″E</note>
             </place>
             <place>
-               <placeName>Corinth</placeName>
+               <placeName>Corinth<geo>37.9386 22.9322</geo></placeName>
                <note resp="#ah">37.9386° N, 22.9322° E</note>
             </place>
             <place>
-               <placeName>Sisla</placeName>
+               <placeName>Sisla<geo>41.6639 -83.5552</geo></placeName>
                <note resp="#ah">41.6639° N, 83.5552° W</note>
             </place>
             <place>
-               <placeName>Saragossa</placeName>
+               <placeName>Saragossa<geo>41.6489 -0.8897</geo></placeName>
                <note resp="#ah">41.6489° N, 0.8897° W</note>
             </place>
             <place>
-               <placeName>Pamplona</placeName>
+               <placeName>Pamplona<geo>42.8125 -1.6458</geo></placeName>
                <note resp="#ah">42.8125° N, 1.6458° W</note>
             </place>
             <place>
-               <placeName>Seville</placeName>
+               <placeName>Seville <geo>37.3891 -5.9845</geo></placeName>
                <note resp="#ah">37.3891° N, 5.9845° W</note>
             </place>
             <place>
-               <placeName>Jaca</placeName>
+               <placeName>Jaca<geo>42.5717 -0.5471</geo></placeName>
                <note resp="#ah">42.5717° N, 0.5471° W</note>
             </place>
             <place>
-               <placeName>Marseille</placeName>
+               <placeName>Marseille<geo>43.2965 5.3698</geo></placeName>
                <note resp="#ah">43.2965° N, 5.3698° E</note>
             </place>
             <place>
-               <placeName>Cartagena</placeName>
+               <placeName>Cartagena<geo>37.36 -0.59</geo></placeName>
                <note resp="#ah">10.3910° N, 75.4794° W</note>
             </place>
             <place>
-               <placeName>Oran</placeName>
+               <placeName>Oran<geo>35.6977 -0.6337</geo></placeName>
                <note resp="#ah">35.6977° N, 0.6337° W</note>
             </place>
             <place>
-               <placeName>Indies</placeName>
+               <placeName>Indies<geo>18.2345 -66.4108</geo></placeName>
                <note resp="#ah">18.2345° N, 66.4108° W</note>
             </place>
             <place>
-               <placeName>Lisbon</placeName>
+               <placeName>Lisbon<geo>38.7223 -9.1393</geo></placeName>
                <note resp="#ah">38.7223° N, 9.1393° W</note>
             </place>
             <place>
-               <placeName>Belen</placeName>
-               <note resp="#ah">34.6628° N, 106.7762° W</note>
+               <placeName>Belen<geo>38.7223 -9.1393</geo></placeName>
+               <note resp="#ah">looking for Belem, Portugal</note>
             </place>
             <place>
-               <placeName>Portugal</placeName>
+               <placeName>Portugal<geo>39.3999 -8.2245</geo></placeName>
                <note resp="#ah">39.3999° N, 8.2245° W</note>
             </place>
             <place>
-               <placeName>Tetouan</placeName>
+               <placeName>Tetouan<geo>35.5889 -5.3626</geo></placeName>
                <note resp="#ah">35.5889° N, 5.3626° W</note>
             </place>
             <place>
-               <placeName>Gibraltar</placeName>
+               <placeName>Gibraltar<geo>36.1408 -5.3536</geo></placeName>
                <note resp="#ah">36.1408° N, 5.3536° W</note>
             </place>
             <place>
-               <placeName>Europe</placeName>
+               <placeName>Europe<geo>54.5260 15.2551</geo></placeName>
                <note resp="#ah">54.5260° N, 15.2551° E</note>
             </place>
             <place>
-               <placeName>Mount Etna</placeName>
+               <placeName>Mount Etna<geo>37.7510 14.9934</geo></placeName>
                <note resp="#ah">37.7510° N, 14.9934° E</note>
             </place>
             <place>
-               <placeName>Sicily</placeName>
+               <placeName>Sicily<geo>37.3979 14.6588</geo></placeName>
                <note resp="#ah">37.3979° N, 14.6588° E</note>
             </place>
             <place>
-               <placeName>Paris</placeName>
+               <placeName>Paris<geo>48.8566 2.3522</geo></placeName>
                <note resp="#ah">48.8566° N, 2.3522° E</note>
             </place>
             <place>
-               <placeName>Rome</placeName>
+               <placeName>Rome<geo>41.9028 12.4964</geo></placeName>
                <note resp="#ah">41.9028° N, 12.4964° E</note>
             </place>
             <place>
-               <placeName>Greece</placeName>
+               <placeName>Greece<geo>39.0742 21.8243</geo></placeName>
                <note resp="#ah">39.0742° N, 21.8243° E</note>
             </place>
             <place>
-               <placeName>Aragon</placeName>
+               <placeName>Aragon<geo>41 -1</geo></placeName>
                <note resp="#ah">41°00′N 1°00′W</note>
             </place>
             <place>
-               <placeName>Perpignan</placeName>
+               <placeName>Perpignan<geo>42.6887 2.8948</geo></placeName>
                <note resp="#ah">42.6887° N, 2.8948° E</note>
             </place>
             <place>
-               <placeName>Iberia</placeName>
+               <placeName>Iberia<geo>40.4830 -4.0876</geo></placeName>
                <note resp="#ah">40.4830° N, 4.0876° W</note>
             </place>
             <place>
-               <placeName>Roman Empire</placeName>
+               <placeName>Roman Empire<geo>41.9028 12.4964</geo></placeName>
                <note resp="#ah"> 41.9028° N, 12.4964° E</note>
             </place>
             <place>
-               <placeName>Caucasas</placeName>
+               <placeName>Caucasas<geo>43.5852 45.0000</geo></placeName>
                <note resp="#ah">43.5852° N, 45.0000° E</note>
             </place>
             <place>
-               <placeName>Spanish Sea</placeName>
+               <placeName>Spanish Sea<geo>25.3043 -90.0659</geo></placeName>
                <note resp="#ah">25.3043° N, 90.0659° W</note>
             </place>
             <place>
-               <placeName>Guadalupe</placeName>
+               <placeName>Guadalupe<geo>25.40 -100.15</geo></placeName>
                <note resp="#ah">25°40′39″N 100°15′35″W</note>
             </place>
             <place>
-               <placeName>Norway</placeName>
+               <placeName>Norway<geo>60.4720 8.4689</geo></placeName>
                <note resp="#ah">60.4720° N, 8.4689° E</note>
             </place>
             <place>
-               <placeName>Morena</placeName>
+               <placeName>Morena<geo>26.4934 77.9910</geo></placeName>
                <note resp="#ah">26.4934° N, 77.9910° E</note>
             </place>
             <place>
-               <placeName>Andalucia</placeName>
+               <placeName>Andalucia<geo>37.5443 -4.7278</geo></placeName>
                <note resp="#ah">37.5443° N, 4.7278° W</note>
             </place>
          </listPlace>
