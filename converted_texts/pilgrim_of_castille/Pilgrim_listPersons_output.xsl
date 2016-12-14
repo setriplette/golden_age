@@ -6,10 +6,6 @@
     exclude-result-prefixes="xs math"
     xmlns="http://www.w3.org/1999/xhtml"
     version="3.0">
-    <xsl:variable name="person" select="//listPerson/person"/>
-    <xsl:variable name="typePerson" select="listPerson[$person]/@sortKey"/>
-    <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
-        omit-xml-declaration="yes"/>
     <xsl:template match="/">
         <html>
             <head>
@@ -39,9 +35,8 @@
                 <div id="listPerson">
                     <xsl:for-each select="descendant::person">
                         <xsl:sort order="ascending"/>
-                        
-                        <p><span class="{$typePerson}"><span class="forename"><xsl:apply-templates select="descendant::forename"/></span>
-                            <span class="surname"><xsl:apply-templates select="descendant::surname"/></span></span></p>
+                        <p><span class="forename"><xsl:apply-templates select="descendant::forename"/></span>
+                            <span class="surname"><xsl:apply-templates select="descendant::surname"/></span></p>
                         <p><span class="note"><xsl:apply-templates select="descendant::note"/></span></p>
                     </xsl:for-each>
                 </div>
