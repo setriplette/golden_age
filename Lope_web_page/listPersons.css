@@ -1,4 +1,20 @@
+body{
+    width:100%;
+}
+div#listPerson{
+    display:inline-block;
+    width:78%;
+}
 
+fieldset {
+    font-size: 18px;
+    line-height: 1.5;
+    width: 15%;
+    float:right;
+    padding: 10px;
+    position:fixed;
+    right:2%;
+}
 
 
 html{
