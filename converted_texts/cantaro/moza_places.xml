@@ -18,7 +18,7 @@
          <listPlace><!--Ronda--><!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
                <placeName>Ronda
-                  <geo>36.7462 5.1612</geo>
+                  <geo>36.7462 N 5.1612 W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
                <note resp="#st">City in the province of Málaga, Spain</note>
@@ -27,111 +27,91 @@
             <!--Adamuz-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Amadeus
+                  <geo>38.0280° N 4.5225° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Adamuz is a city located in the province of Córdoba, southern Spain.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Madrid-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Madrid
+                  <geo>40.4168° N 3.7038° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Madrid is Spain's central capital it includes expansive parks and beautiful landmarks. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Sevilla-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>Adamuz
-                  <geo>38.0280 4.5225</geo>
+               <placeName>Seville
+                  <geo>37.3891° N 5.9845° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp="#st">City in the province of Córdoba, Spain</note>
+               <note resp="#st">Sevilla is the capital of the Andalucía region in Spain.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Flandes-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Flemish Region
+                  <geo>51.0109° N 3.7265° E</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Flandes is a town in the Tolima of Colombia. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Castilla-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Castile and León
+                  <geo>41.8357° N 4.3976° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
-               <!--ST: in the note, describe the place briefly-->
-            </place>
-            <!--Ronda!-->
-            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
-            <place>
-               <placeName>
-                  <geo/>
-               </placeName>
-               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
-               <!--ST: in the note, describe the place briefly-->
-            </place>
-            <!--Ronda.-->
-            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
-            <place>
-               <placeName>
-                  <geo/>
-               </placeName>
-               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Castile and León is a region in the North West of Spain.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--España-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Spain
+                  <geo>40.4637° N 3.7492° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Spain is located in Europe near the Iberian Peninsula. The country has 17 regions with different cultures. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Sierra Morena-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Sierra Morena
+                  <geo>38°21'59.99" N -3°49'59.99" W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Sierra Morena is one of the main systems of mountain ranges in Spain. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Granada-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Granada
+                  <geo>37.1773° N 3.5986° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Granda is a city in the southern part of Andalucía in the Sierra Nevada mountains. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Córdoba-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Córdoba
+                  <geo>37.8882° N 4.7794° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Córdoba is located in the south of Andalusia and is the captial city of the province of Córdoba.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Indias-->
@@ -147,131 +127,131 @@
             <!--Valencia-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Valenica
+                  <geo>39.4699° N, 0.3763° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Valenica lies on Spain's southerneastern coast.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Vera de Plasencia-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Vera de Plasencia
+                  <geo>39°58'46.63" N -6°02'45.92" W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">La Vera de Plasencia is a market city in the province of Extremadura, Spain.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Cádiz-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
                <placeName>
-                  <geo/>
+                  <geo>36.5271° N 6.2886° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Cadíz is a anicent city in the southwest part of Spain and his home to the Spanish navy. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Andalucía-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Andalusia
+                  <geo>37.5443° N, 4.7278° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Andalusia is an area containing farm land, rivers and hills bordering the Coast.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Potosí-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Potosí
+                  <geo>19.5723° S 65.7550° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Potosí is located in the highlands in Bolivia, it used to be prone to silver mining.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Prado-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>The National Museum of Prado
+                  <geo>40.4138° N 3.6921° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">The Prado Museum is the Spanish national art museum located in central Madrid.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--China-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>China
+                  <geo>35.8617° N 104.1954° E</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">China is located in East Asia with vast grasslands and a high population.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Toledo-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Toledo
+                  <geo>39.8628° N 4.0273° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Toledo is a city on the plains of Castilla de La Mancha in Spain.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Venecia-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Venice
+                  <geo>45.4408° N 12.3155° E</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Venice is the capital of Italy's Veneto region, it's known for its distinct canals instead of roads. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Valladolid-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Valladolid
+                  <geo>41.6523° N 4.7245° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Valladolid is the capital of the de facto region in Castilla and León. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Manzanares-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Mozanares, Cuidad Real
+                  <geo>39.0043° N 3.3716° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Mazanares is a municipality located in Castile and León in Spain. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Italia-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Italy
+                  <geo>41.8719° N 12.5674° E</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">Italy is located in Europe and has a long Mediterranean coastline. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Casa del Campo-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Dominican Republic
+                  <geo>18.7357° N, 70.1627° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">The Dominican republic is located in the Cariibean that shares the island of Hispanola with Haiti. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Babel-->
@@ -287,11 +267,11 @@
             <!--Francia-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>France
+                  <geo>46.2276° N, 2.2137° E</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">France is located in Europe that houses medevial cities and mediterrianian beaches. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
          </listPlace>
