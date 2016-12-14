@@ -117,11 +117,11 @@
             <!--Indias-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Hispanola
+                  <geo>19.0019° N, 71.5724° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">The Indias are now the Americas, we use Hispanola for this which is now the common day Dominican Republic.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Valencia-->
@@ -257,11 +257,11 @@
             <!--Babel-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Babylon
+                  <geo>40.6957° N, 73.3257° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">A major city of ancient Mesopotamia in the fertile plain between the Tigris and Euphrates rivers.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Francia-->

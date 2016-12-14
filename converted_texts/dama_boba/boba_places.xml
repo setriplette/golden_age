@@ -147,11 +147,11 @@
             <!-- Recoletos Agustinos-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>the Paseo de Recoletos
+                  <geo>40.4168° N, 3.7038° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">A famous street in Madrid. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Grecia-->
@@ -207,11 +207,11 @@
             <!--Indias-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Hispanola
+                  <geo>19.0019° N, 71.5724° W</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">The Indias are now the Americas, we use Hispanola for this which is now the common day Dominican Republic.</note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!--Panamá.-->
@@ -224,24 +224,14 @@
                <note resp="#msb">This country that links Central and Souther America together as well as the Panama Canal. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
-            <!--Purgatorio-->
-            <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
-            <place>
-               <placeName>
-                  <geo/>
-               </placeName>
-               <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
-               <!--ST: in the note, describe the place briefly-->
-            </place>
             <!--Troya-->
             <!--ST: Here we output the placename as written in Lope. When you record the place name, use the English version of the name, or if that does not exist, the Spanish name..-->
             <place>
-               <placeName>
-                  <geo/>
+               <placeName>Troy
+                  <geo>39°57′27″N 26°14′20″E</geo>
                </placeName>
                <!--Inside the geo element, paste latitude (degrees N or S) and longitude values (degrees E or W) with a white space between. Find them by googling "placeName latitude longitude"-->
-               <note resp=""/>
+               <note resp="#msb">The ancient city where the Iliad took place. People are still excavating the ruins. </note>
                <!--ST: in the note, describe the place briefly-->
             </place>
             <!-- Alcázar-->
