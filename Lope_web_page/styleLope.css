@@ -17,9 +17,9 @@ h1{
 
 h2{
     color: steelblue;
-    padding-left: 40px;
+    padding-left: 20px;
     font-family: 'Century Gothic';
-    padding-bottom: 40px;
+    
 }
 
 
@@ -50,15 +50,15 @@ ul.projectTeam {
 }
 
 h2.projectTeam {
-    padding-top: 40px;
+    
     font-size: 24px;
-    padding-bottom: 20px;
+    
     
 }
 h2.projectAbout {
     
     font-size: 24px;
-    padding-bottom: 20px;
+    
     
 }
 
@@ -158,7 +158,7 @@ span.act {
 
 }
 span.aside {
-    color: white;
+    color: dimgray;
     font-family: 'Avenir';
     font-size: 16px;
     position: absolute;
@@ -173,7 +173,7 @@ th {
 
 }
 
-tr {}
+
 
 td {
     padding-right: 30px;
@@ -193,14 +193,14 @@ p.prose {
     color: black;
 }
 
-p.desc{font-size: 14px;
-    line-height: 1.0;
+p.desc{font-size: 18px;
+    line-height: 1.5;
     padding-left: 40px;
     
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right:0px;
-    color: purple;
+    color: black;
     
 }
 
