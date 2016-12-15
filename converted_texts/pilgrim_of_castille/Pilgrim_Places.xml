@@ -90,7 +90,7 @@
                <note resp="#ah">44.4056° N, 8.9463° E</note>
             </place>
             <place>
-               <placeName>Valencia</placeName>
+               <placeName>Valencia<geo>39.4699 -.3763</geo></placeName>
                <note resp="#ah">39.4699° N, 0.3763° W</note>
             </place>
             <place>
