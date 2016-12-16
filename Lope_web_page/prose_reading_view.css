@@ -1,6 +1,18 @@
+html{
+    margin: 0px;
+    padding: 0px;
+
+}
+
 body{
     width:100%;
+    margin: 0px;
+    padding: 0px;
 }
+#main_container{
+    padding: 8px;
+}
+
 p.prose {
     font-size: 18px;
     line-height: 1.5;

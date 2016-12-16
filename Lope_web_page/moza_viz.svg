@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg"     
+      width="900"
+      height="550"
+      viewBox="0 0 900 550">
    <g transform="translate(300 300)">
       <text x="-150"
             y="-160"
@@ -8,7 +10,7 @@
             font-family="avenir">Amount of speech by gender</text>
       <text x="-100"
             y="-200"
-            fill="purple"
+            fill="black"
             font-size="24"
             font-family="avenir">La moza de cantaro</text>
       <text x="200"
@@ -80,17 +82,10 @@
               cy="0"
               r="100"
               style="stroke:black; stroke-width:1; fill:none"/>
-      <!--This should be the total string 69073-->
-      <!--Total f string 31310-->
-      <!--Total m string 37763-->
-      <!--This is femWedge 0.453288549795144268-->
-      <!--This is manWedge 0.546711450204855732-->
-      <!--This is angle of manWedge in radians3.435089351193994-->
-      <!--This is angle of femWedge in radians6.283185307179586-->
-      <path id="manWedge"
+      <path id="moza_manWedge"
             d="M0,0                     L 100,0                     A100,100 0, 1,1 -95.72381309226024,-28.93011591884874                     Z"
             style="stroke:black; stroke-width:1; fill: steelblue"/>
-      <path id="femWedge"
+      <path id="moza_femWedge"
             d="M0,0                     L -95.72381309226024,-28.93011591884874                     A100,100 0 0,1 100,-2.4492935982947064E-14                     Z"
             style="stroke:black; stroke-width:1; fill: maroon"/>
    </g>
