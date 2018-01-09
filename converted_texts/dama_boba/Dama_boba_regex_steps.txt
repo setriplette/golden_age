@@ -96,7 +96,7 @@ and have to catch the unmarked ones by old-fashioned proofreading
     Find Acto\s([I]+)
     Replace </div><div type="act" number="\1">\0
 
-22. Remove line numbers in preparatiown for auto-numbering later
+22. Remove line numbers in preparation for auto-numbering later
     Find \s\d+(</l>)
     Replace \1
 

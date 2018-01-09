@@ -1,0 +1,12 @@
+Anzuelo regex steps
+
+Started from wikisource's print version which I saved to PDF and then copied. This deleted most of the web formatting.
+
+https://es.wikisource.org/wiki/El_anzuelo_de_Fenisa_(Versión_para_imprimir)
+
+1. To get rid of wikisource attribution at end of every page
+ Find El anzuelo de Fenisa \(.+\n.+\n
+ replace with nothing
+ 
+ 2. To get rid of what I think is the footer, which begins with Pag. and then has page number and the name of the play again
+Pág\.\s.+\nE.+Carpio\n

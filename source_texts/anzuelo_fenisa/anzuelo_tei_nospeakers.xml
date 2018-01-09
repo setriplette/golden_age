@@ -1,0 +1,6155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El anzuelo de Fenisa</title>
+            <author>Félix Lope de Vega y Carpio</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text in public domain adapted from www.wikisource.org</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text><front>
+     
+<castList>
+   <castItem type="role"><role xml:id="Camilo_anzuelo" ana="m">CAMILO</role></castItem>
+<castItem type="role"> <role xml:id="Albano_anzuelo" ana="m">ALBANO</role></castItem>
+<castItem type="role"><role xml:id="Fenisa_anzuelo" ana="f">FENISA</role></castItem>
+<castItem type="role"><role xml:id= "Celia_anzuelo" ana="f">CELIA</role></castItem>
+<castItem type="role"><role xml:id="Lucindo_anzuelo" ana="m">LUCINDO</role></castItem>
+<castItem type="role"><role xml:id= "Tristán_anzuelo" ana="m">TRISTÁN</role></castItem>
+<castItem type="role"><role xml:id="Criados_anzuelo" ana="m">DOS CRIADOS</role></castItem>
+   <castItem type="role"><role xml:id="Dinarda_anzuelo" ana="f">DINARDA</role></castItem>
+   <castItem type="role"><role xml:id="Bernardo_anzuelo" ana="m">BERNARDO</role></castItem>
+   <castItem type="role"><role xml:id="Fabio_anzuelo" ana="m">FABIO</role></castItem>
+<castItem type="role"><role xml:id="Osorio_anzuelo" ana="m">OSORIO, capitán.</role></castItem>
+<castItem type="role"><role xml:id="Campuzano_anzuelo" ana="m">CAMPUZANO</role></castItem>
+<castItem type="role"><role xml:id="Trebiño_anzuelo" ana="m">TREBIÑO </role></castItem>
+<castItem type="role"><role xml:id="Orozco_anzuelo" ana="m">OROZCO</role></castItem>
+<castItem type="role"><role xml:id="Félix_anzuelo" ana="m">DON FÉLIX</role></castItem>
+<castItem type="role"><role xml:id="Donato_anzuelo" ana="m">DONATO</role></castItem></castList></front>
+     <body><div type="act" n="I">
+<stage>Salen CAMILO y ALBANO, galanes.</stage>
+<sp><speaker>CAMILO</speaker>
+<l>«...que estoy celoso y voy leyendo en ellas»,</l>
+<l>acaba aquel soneto castellano.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿Dónde vais a matarme, plantas bellas?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¿En la arena del mar miras, Albano,</l>
+<l>las estampas que deja tu Fenisa?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Por ellas sigo su desdén en vano.</l>
+<l>Por besar el arena donde pisa,</l>
+<l>temo que el mar deshaga las señales,</l>
+<l>excediendo sus márgenes aprisa.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¿Letras escribe con los pies?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Y tales,</l>
+<l>que, leyendo la historia de mis celos,</l>
+<l>aprendo penas a la causa iguales.</l>
+<l>No han hecho furia ni rigor los cielos,</l>
+<l>para castigo de la humana vida,</l>
+<l>que sufran compararse a sus desvelos.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Que tenga celos y que celos pida</l>
+<l>un hombre que se emplea en gran sujeto,</l>
+<l>disculpa me parece conocida,</l>
+<l>porque quien ama, teme; y, en efeto,</l>
+<l>el temor de quien ama es una cosa</l>
+<l>que engendra en lo más firme mal conceto;</l>
+<l>pero querer una mujer famosa</l>
+<l>en engañar y en no querer ninguno</l>
+<l>-supuesto que confieso que es hermosa-,</l>
+<l>no tiene igual con desatino alguno:</l>
+<l>que no se llaman celos las traiciones.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Uno ha de amar y tener celos de uno;</l>
+<l>mas donde una mujer forma escuadrones</l>
+<l>de tantos hombres, que con menos gente</l>
+<l>Alejandro venció dos mil naciones,</l>
+<l>donde hay un galán dentro y otro enfrente,</l>
+<l>doce de a pie, cuarenta de a caballo,</l>
+<l>tal en la posesión, tal pretendiente,</l>
+<l>vergüenza es esta; y más que no lo hallo</l>
+<l>aun en los animales, pues sabemos</l>
+<l>que viven cien gallinas con un gallo,</l>
+<l>que glorioso levanta los estremos,</l>
+<l>el pardo gamo entre cincuenta gamas,</l>
+<l>de las puntas que nunca ofender vemos.</l>
+<l>Albano, deste género de damas</l>
+<l>huye la bolsa, pon en salvo el oro;</l>
+<l>que es lo demás andarte por las ramas.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Qué manso que parece siempre el toro</l>
+<l>al que está en la ventana! Y al letrado,</l>
+<l>¡qué cobarde el flamenco y tibio el moro!</l>
+<l>El escribir un libro concertado,</l>
+<l>¡qué fácil le parece al ignorante,</l>
+<l>y el llevar una cátedra al soldado!</l>
+<l>¡Qué fácil le parece al estudiante</l>
+<l>el conducir la nave al Occidente,</l>
+<l>la religión al mercader tratante!</l>
+<l>¡Qué fácil el hablar un presidente,</l>
+<l>un rey, un duque a un labrador grosero!</l>
+<l>¡Y el olvidar a quien de amor no siente!</l>
+<l>Amor no es calidad, ni gusto fiero;</l>
+<l>amor no es honra ni es mercadería;</l>
+<l>amor no es regidor ni caballero.</l>
+<l>Amor es consonancia y armonía</l>
+<l>que hacen el deseo y la hermosura,</l>
+<l>con que se aumenta cuanto el cielo cría.</l>
+<l>Si yo quisiera un bronce, una pintura,</l>
+<l>un ave, un árbol, cosa diferente</l>
+<l>de mi naturaleza, era locura,</l>
+<l>pero que amar una mujer intente,</l>
+<l>¿juzgas a desatino?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¡Qué respuesta</l>
+<l>tan hija de tu amor impertinente!</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Mas ¿qué me dices tú? ¿Que fuera honesta,</l>
+<l>dándome con Platón, cuyo aforismo</l>
+<l>ya me fastidia y con razón molesta?</l>
+<l>Los que, siendo de amor único abismo,</l>
+<l>dicen que se ha de amar el alma sola</l>
+<l>y que es amor pagalle con él mismo,</l>
+<l>un casto fuego dicen que acrisola</l>
+<l>sus sentidos amando y, en secreto,</l>
+<l>hacen su media noche a la española.</l>
+<l>Nerón no confesaba hombre perfeto,</l>
+<l>pero decía que en gozar su gusto,</l>
+<l>cual era descompuesto y cual discreto.</l>
+<l>Si amor es gusto, el que yo tengo es justo.</l>
+<l>Ama tú por allá dificultades,</l>
+<l>que no quiero su bien por su disgusto.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Las virtudes, Albano, y calidades</l>
+<l>de una mujer son justo fundamento</l>
+<l>de amor, que no las locas liviandades.</l>
+<l>No hay en toda Sicilia -estáme atento-,</l>
+<l>cuanto más en Palermo, donde estamos,</l>
+<l>mujer de más humilde pensamiento.</l>
+<l>Al puerto, a la ciudad, al monte vamos;</l>
+<l>allí hallaremos quien sus tretas diga,</l>
+<l>más que arenas el mar y el bosque ramos.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Lo mismo que te cansa a mí me obliga.</l>
+<l>Aquella libertad me rinde y mata,</l>
+<l>y el ver que deje amor y interés siga.</l>
+<l>Una mujer que quiere y se recata</l>
+<l>de ofender el galán con pensamientos,</l>
+<l>aunque la den un Potosí de plata,</l>
+<l>allá puede tratar de casamientos;</l>
+<l>que amor ha de ser fina picardía,</l>
+<l>poca seguridad, menos contentos.</l>
+<l>No ha de estar el amor sin compañía:</l>
+<l>digo sin competencia y sin disgusto;</l>
+<l>que por la noche es tan hermoso el día.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>A fe que habéis hallado vuestro gusto.</l>
+<l>Si esto es amor, Fenisa es alto objeto.</l>
+<l>Digo que améis y que el amor es justo.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Esotro es amor bobo, este discreto.</l></sp>
+        <stage>Entra FENISA y CELIA con mantos.</stage>
+        <sp><speaker>CELIA</speaker>
+<l>Admirada, y con razón,</l>
+<l>Fenisa, de tu venida,</l>
+<l>muestro tanta confusión.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Sospecho que se te olvida,</l>
+<l>Celia...</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Qué?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Mi condición.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>No sé qué tenga que ver</l>
+<l>con venir a la aduana,</l>
+<l>no siendo tú mercader,</l>
+<l>pues no eres tú muy liviana,</l>
+<l>aunque eres libre mujer.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Eso te ha de dar aviso</l>
+<l>de que sin causa no vengo.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Es amor?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Tan de improviso...!</l>
+<l>Pero yo, ¿cuándo le tengo?</l>
+<l>Si me adorase Narciso...</l>
+<l>Desde el primero que amé</l>
+<l>y que a olvidar me enseñó,</l>
+<l>tan diestra en no amar quedé,</l>
+<l>que, de uno que me burló,</l>
+<l>en los demás me vengué.</l>
+<l>Notablemente se arroja</l>
+<l>una mujer a querer</l>
+<l>cuando un gusto se le antoja,</l>
+<l>pero más aborrecer,</l>
+<l>cuando se cansa y se enoja.</l>
+<l>Según corre entre los hombres</l>
+<l>esto de amar con engaño,</l>
+<l>de mi desdén no te asombres.</l>
+<l>Basta al cuerdo un desengaño,</l>
+<l>que es amor. No me lo nombres.</l>
+<l>No porque yo no perciba</l>
+<l>sus regalos y su bien,</l>
+<l>pero no es razón que viva</l>
+<l>quien nació libre también</l>
+<l>de un hombre libre cautiva.</l>
+<l>Yo he dado en esta flaqueza</l>
+<l>de burlar cuantos engaña</l>
+<l>esto que llaman belleza.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Celia sola la acompaña.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿Celia?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>No más.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Linda pieza!</l>
+<l>¡Estraña imaginación</l>
+<l>es venir a la aduana</l>
+<l>deste puerto!</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Cosas son</l>
+<l>de su condición liviana.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Conozco su condición.</l>
+<l>Palermo es famoso puerto</l>
+<l>de estranjeros y de trato.</l>
+<l>Algún lance ha descubierto.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Ella es de Circe un retrato.</l>
+<l>De que te ha visto, te advierto.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Hablalla será mejor.</l>
+<l>¿Dónde bueno?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>A ver el mar,</l>
+<l>que me agrada su furor.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Todo te suele agradar</l>
+<l>cuanto carece de amor.</l>
+<l>¿Este desdén de las ondas,</l>
+<l>esta perpetua contienda</l>
+<l>te agrada...? Mas no respondas;</l>
+<l>por lo que tiene de hacienda</l>
+<l>pienso que su margen rondas.</l>
+<l>¿En qué rico forastero,</l>
+<l>en qué mercader famoso,</l>
+<l>en qué estraño marinero,</l>
+<l>echas el anzuelo hermoso</l>
+<l>para buscar su dinero?</l>
+<l>¿Qué es lo que buscas aquí,</l>
+<l>en el puerto deste mar?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Seguro estarás de mí</l>
+<l>que no te vengo a buscar.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Yo vengo a buscarte a ti.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Qué me quieres?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Solo verte,</l>
+<l>para alivio de una vida</l>
+<l>que has condenado a la muerte.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Llamábasme tú homicida?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>No es poco bien conocerte.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Albano, si no has sabido</l>
+<l>esta condición que el cielo</l>
+<l>me ha dado, que oigas te pido,</l>
+<l>porque cese tu desvelo</l>
+<l>de competir con mi olvido.</l>
+<l>Yo tuve en mi nacimiento</l>
+<l>una estrella que me obliga</l>
+<l>a que en este mar violento</l>
+<l>peces busque, peces siga,</l>
+<l>como otros aves del viento.</l>
+<l>¿No has visto que un gran señor</l>
+<l>va por los valles y cerros,</l>
+<l>despeñado cazador,</l>
+<l>ya con aves, ya con perros,</l>
+<l>sin temer nieve o calor?</l>
+<l>Pues eso mismo hay en mí,</l>
+<l>pero apliqueme a pescar;</l>
+<l>y a eso vengo por aquí.</l>
+<l>Tiendo la red en el mar,</l>
+<l>que es la estrella en que nací.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Ojos y lengua son cebo</l>
+<l>del anzuelo deste amor;</l>
+<l>si pica y es bobo y nuevo,</l>
+<l>doyle cuerda, y del favor</l>
+<l>asido un año le llevo.</l>
+<l>Si es inútil y está diestro,</l>
+<l>aunque caiga, vuelve al mar,</l>
+<l>porque ofendida me muestro</l>
+<l>que, si no ha de aprovechar,</l>
+<l>ocupe el anzuelo nuestro.</l>
+<l>Si yo viese la hermosura</l>
+<l>mayor que naturaleza</l>
+<l>ha dado a mortal criatura;</l>
+<l>si viese más gentileza,</l>
+<l>más tierno amor, más blandura;</l>
+<l>si viese por mí llorar;</l>
+<l>si me viese eternizar</l>
+<l>más que Laura y que Beatriz;</l>
+<l>si viese un mozo infeliz</l>
+<l>de mis balcones colgar;</l>
+<l>si viese que por Fenisa</l>
+<l>Píramo se pasa el pecho,</l>
+<l>y a Leandro ya en camisa,</l>
+<l>mientras no viese provecho,</l>
+<l>todo era cosa de risa.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¿Oístelo?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Ya lo oí.</l>
+<l>Escucha, Fenisa.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Di.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Si hubiese quien llorase,</l>
+<l>te amase y te regalase,</l>
+<l>¿tendríasle amor?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Eso sí.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿Con qué te contentarás</l>
+<l>para prueba deste amor?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Necio por estremo estás.</l>
+<l>¿Quiéresme entender mejor?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues declárome más.</l>
+<l>Quien tiene un jardín, ¿qué hace?</l>
+<l>Riega, regala, cultiva</l>
+<l>la yerba o árbol que nace,</l>
+<l>para que después reciba</l>
+<l>el fruto que satisface.</l>
+<l>Quien tiene un caballo hermoso</l>
+<l>asiste a verle comer,</l>
+<l>de su estancia cuidadoso;</l>
+<l>hasta el herrar quiere ver,</l>
+<l>de sus estampas curioso.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Mira el freno y el bocado</l>
+<l>que lengua y boca no ofenda,</l>
+<l>tráele bien enjaezado</l>
+<l>y por puntos le encomienda</l>
+<l>al solícito criado.</l>
+<l>Bozales le manda hacer</l>
+<l>y rizar y componer</l>
+<l>de bandas de bizarría;</l>
+<l>y todo esto para un día</l>
+<l>en que le quiere correr.</l>
+<l>¿Hasme entendido?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Bien creo</l>
+<l>que te entiendo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues ¿qué aguardas</l>
+<l>a conocer mi deseo?</l></sp>
+        <stage>Sale LUCINDO, TRISTÁN, hombre de mar, uno mercader y otro criado.</stage>
+        <sp><speaker>LUCINDO</speaker>
+<l>¿Has contentado las guardas?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Que quedan contentas creo.</l>
+<l>Toda la ropa está fuera,</l>
+<l>no queda cosa en la nave.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Oh, Sicilia!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Qué te altera?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Qué bien, tras tanto mar, sabe,</l>
+<l>Tristán, la verde ribera!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Diraslo por las mujeres</l>
+<l>que pasean por la playa.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Qué mal conocerme quieres!</l>
+<l>No hayas miedo tú que vaya</l>
+<l>por el mar de sus placeres</l>
+<l>esta nave de mi edad,</l>
+<l>aunque bonanza prometa,</l>
+<l>porque no hay seguridad,</l>
+<l>en la mujer más perfeta,</l>
+<l>de mudanza o libertad.</l>
+<l>Advierte que no te digo</l>
+<l>perfeta en virtud.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Pues ¿qué?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>En amar.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Amor bendigo.</l>
+<l>¡Plega a Dios que no te dé</l>
+<l>de esa libertad castigo!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Si mi padre aquí me envía</l>
+<l>desde Valencia, Tristán,</l>
+<l>con esta mercadería,</l>
+<l>y mis deudos, que allá están,</l>
+<l>con hacienda suya o mía;</l>
+<l>si de lo que he de vender</l>
+<l>tengo de cargar de trigo,</l>
+<l>¿por qué me nombras mujer,</l>
+<l>que es el mayor enemigo</l>
+<l>del trato del mercader?</l>
+<l>Ni el fiar ni el porfiar,</l>
+<l>ni el alzarse, ni el quebrar,</l>
+<l>ni el no pagar los señores,</l>
+<l>ni el morirse los deudores,</l>
+<l>ni la inclemencia del mar,</l>
+<l>igualan a que se arroje</l>
+<l>un mercader a querer,</l>
+<l>ni hay pirata que despoje</l>
+<l>como una hermosa mujer</l>
+<l>que entre los brazos le coge.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Plega al cielo que te dure</l>
+<l>tan alto conocimiento!</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>En fin, ¿dices que procure</l>
+<l>regalarte?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Ese es mi intento,</l>
+<l>porque el amor se asegure;</l>
+<l>que no puede amor durar</l>
+<l>sin fundamento y estribo.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Y ¿qué es el estribo?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>El dar,</l>
+<l>porque es, no habiendo dativo,</l>
+<l>cantar mal y porfiar.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Voy a tratar de tu gusto;</l>
+<l>dame esta noche licencia.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Si me regalas, ¿no es justo?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Perdiendo voy la paciencia.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Yo siento vuestro disgusto.</l>
+<l>¿Pensáis regalarla?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Sí,</l>
+<l>que estoy muriendo por ella.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¿No os desapasiona aquí</l>
+<l>verla interesable?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Es bella,</l>
+<l>y más me amartela ansí.</l>
+<l>Este interés y desdén</l>
+<l>me obliga a ver si la venzo.</l></sp>
+        <stage>Vanse CAMILO y ALBANO.</stage>
+        <sp><speaker>FENISA</speaker>
+<l>El hombre parece bien.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Pues llega a hablarle.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Comienzo.</l>
+<l>¿Fuéronse?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Ya no se ven.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Parécete pez el hombre</l>
+<l>que me será de provecho?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Llega y pregunta su nombre.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Por mi vida, que es bien hecho!</l>
+<l>Dios os guarde, gentilhombre.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Y a vos os dé un rico esposo,</l>
+<l>si sois libre; y si tenéis</l>
+<l>marido -pues fue dichoso</l>
+<l>en ser vuestro-, le gocéis</l>
+<l>sin pensamiento celoso.</l>
+<l>¿Qué es lo que queréis de mí?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Cuándo llegastes aquí?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Hoy vi la tierra y la aurora</l>
+<l>juntas, pero el sol agora,</l>
+<l>que hasta veros no le vi.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Con poética licencia</l>
+<l>me habéis hecho vuestro sol.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Diomela vuestra presencia.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Qué nación?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Soy español.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿De qué parte?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>De Valencia.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Si fuérades de Toledo,</l>
+<l>tenía qué preguntaros.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Solo de Valencia puedo...</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Puedo yo también hablaros?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Bien puede, estandose quedo.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Va de quedo, y digo ansí:</l>
+<l>¿quién es aquesta su ama?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Una dama.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Dama?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Y ¿de qué manera es dama?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Eso me pregunta a mí?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Pues ¿está mal preguntado?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Cómo es él hombre?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Formado</l>
+<l>de cuatro elementos soy,</l>
+<l>tengo alma y cuerpo, y estoy</l>
+<l>de potencias adornado;</l>
+<l>diferénciome a mujer</l>
+<l>en las barbas y el valor.</l>
+<l>No me mande proceder,</l>
+<l>sino advierta que, en rigor,</l>
+<l>dama es oficio, y no es ser.</l>
+<l>Doncellas suelen decir</l>
+<l>a muchas, sin advertir</l>
+<l>que se han de diferenciar:</l>
+<l>que hay doncellas de casar</l>
+<l>y doncellas de servir;</l>
+<l>y así dama ha de tener</l>
+<l>su diferencia forzosa.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Por lo menos es mujer</l>
+<l>discreta, gallarda, hermosa</l>
+<l>y de honrado proceder.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Y ¿qué busca por aquí?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Nuevas de un perdido hermano.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Peligro corréis ansí.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Peligro?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Luego ¿no es llano?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿No es tierra segura?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Sí,</l>
+<l>pero el mar estos altivos</l>
+<l>peñascos quiere exceder</l>
+<l>y sus límites nativos;</l>
+<l>sin duda os quiere prender</l>
+<l>por pescados fugitivos.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¡Lindo bellaco!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Yo lindo?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Tu conmigo españolizas?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Digo, mi bien, que me rindo.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Esta humildad solemnizas.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Dime tu nombre.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Lucindo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Si nombre de luz tenías,</l>
+<l>¿qué mucho que me encendieses?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Las desconfianzas mías</l>
+<l>querría que conocieses.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Español, ¿tú desconfías?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues ¿no ha de desconfiar</l>
+<l>un forastero?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>No sé...</l>
+<l>¡Nunca yo viniera al mar,</l>
+<l>pues otro en su playa hallé,</l>
+<l>donde me pienso anegar!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Que te he parecido bien?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>No sé cómo te encarezcan</l>
+<l>estos mis ojos tan bien</l>
+<l>ese talle, sin que crezcan</l>
+<l>las aguas del mar que ven.</l>
+<l>Pero ¿qué digo? No más.</l>
+<l>Loca estoy. Hombre, ¿qué es esto?</l>
+<l>¡Jesús! ¿Qué hechizos me das?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Tan presto!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Ay, Dios! Vete presto;</l>
+<l>mas, espera, ¿adónde vas?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>A la posada; es forzoso.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Si por mis deudos no fuera,</l>
+<l>dulce español generoso,</l>
+<l>en mi casa te la diera,</l>
+<l>como en el alma es forzoso;</l>
+<l>pero bien podrás entrar</l>
+<l>con decir que de mi hermano</l>
+<l>sabes nuevas.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Que hay lugar?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Sígueme.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Dame esa mano,</l>
+<l>que te la quiero besar.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Espera, a Celia hablaré,</l>
+<l>para que avisada esté.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Y yo a este criado mío.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Celia...</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Señora...</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Confío</l>
+<l>que lo que buscaba hallé.</l>
+<l>No ha venido forastero</l>
+<l>a Sicilia en muchos años,</l>
+<l>mercader o caballero,</l>
+<l>donde puedan mis engaños</l>
+<l>pescar tan lindo dinero.</l>
+<l>Una nave trae cargada</l>
+<l>de paños, medias y rasos.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Hate dicho la posada?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Ya la sé.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¡Dichosos pasos</l>
+<l>y tarde bien empleada!</l>
+<l>Y ¿qué modo de hombre es él?</l>
+<l>¿Es negocio moscatel</l>
+<l>o discreto vergonzoso?</l>
+<l>¿Procede a lo generoso?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Cayó como mosca en miel;</l>
+<l>díjele cuatro dulzuras,</l>
+<l>encarecile su talle</l>
+<l>y está mortal.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Qué procuras?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>El cuerpo en cueros dejalle</l>
+<l>y el alma con mataduras.</l>
+<l>Tápate y vamos de aquí,</l>
+<l>porque nos venga siguiendo.</l></sp>
+        <stage>Vanse las dos.</stage>
+        <sp><speaker>TRISTÁN</speaker>
+<l>¿Eso te ha pasado?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Qué mujer es?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No lo entiendo.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Mas que se burla de ti.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿De mí? Pues, ¿qué me ha tomado?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Qué piensas tú que es mirar</l>
+<l>y hablar tierno y regalado?</l>
+<l>Escrituras de pagar</l>
+<l>lo que se hubiere gozado.</l>
+<l>Y para que no te asombre</l>
+<l>esta mi nueva opinión,</l>
+<l>advierte que, hablando un hombre</l>
+<l>con las mujeres que son</l>
+<l>deste trato y deste nombre,</l>
+<l>los ojos están diciendo:</l>
+<l>«Sepan cuantos esta vieren</l>
+<l>que nos estamos rindiendo</l>
+<l>a pagar cuanto quisieren</l>
+<l>los que nos están vendiendo.</l>
+<l>Y renunciamos las leyes</l>
+<l>que al discreto dan los reyes,</l>
+<l>y al galán por su decoro,</l>
+<l>mas no sé si las de Toro,</l>
+<l>que donde hay labranza, hay bueyes».</l>
+<l>Solamente mientras trata,</l>
+<l>la de la non numerata</l>
+<l>pecunia queda en su fuerza.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Aquí, Tristán, ¿quién me fuerza,</l>
+<l>quién me obliga, quién me mata?</l>
+<l>Si dije que iría tras ella,</l>
+<l>fue porque la vi tan bella.</l>
+<l>Pero también puede ser</l>
+<l>una principal mujer</l>
+<l>y alguna ilustre doncella.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Doncella y ilustre? No;</l>
+<l>que mujer que tiene lustre,</l>
+<l>con alguno se le dio.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues siendo una dama ilustre,</l>
+<l>¿qué pierdo en servirla yo?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Dama ilustre junto al mar!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿No pudo salir a ver?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Pudo salir a pescar.</l>
+<l>Buscona debe de ser.</l>
+<l>Mas, ¿qué te ha de rebuscar?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Ahora bien, ¿qué puede hacer</l>
+<l>esta mujer, si es mujer</l>
+<l>que busca?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Notable daño,</l>
+<l>porque de su falso engaño</l>
+<l>todo se puede creer.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Es tomarme mi dinero?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Y eso, ¿es poco?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No he vendido,</l>
+<l>puesto que vender espero</l>
+<l>lo que a Sicilia he traído.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Tú eres lindo majadero.</l>
+<l>¿No se lo darás después?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No la veré después.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Vamos,</l>
+<l>que apenas mueve los pies</l>
+<l>para que no la perdamos...</l>
+<l>Pero temo que le des</l>
+<l>el dinerillo que llevas.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Guarda tú la bolsa allá.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Muestra, pero no te atrevas</l>
+<l>a dar la cadena.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Está</l>
+<l>con llave y con guardas nuevas.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Quítatela, por mi vida!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Toma, guárdala también.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>No te enfades que te pida</l>
+<l>esas dos sortijas.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Bien.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Es esa piedra escogida;</l>
+<l>que el decir que los amantes</l>
+<l>tiran por las calles piedras,</l>
+<l>es por piedras semejantes;</l>
+<l>que, a una piedra, tales yedras</l>
+<l>son a consumir bastantes.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Eso se suele entender,</l>
+<l>porque locos suelen ser.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Otro sentido has de dalle:</l>
+<l>diamantes echa en la calle</l>
+<l>quien sirve una vil mujer.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Sin diamantes y dinero</l>
+<l>y sin cadena voy.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Vamos,</l>
+<l>que si mar la considero,</l>
+<l>con causa nos desnudamos</l>
+<l>para pasarla primero.</l></sp>
+        <stage>Vanse. Sale DINARDA, en hábito de hombre de camino, y dos pajes, BERNARDO y FABIO.</stage>
+        <sp><speaker>DINARDA</speaker>
+<l>Parece que escupe el mar</l>
+<l>muchachos a la ribera.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>La tierra sé que me espera,</l>
+<l>la tierra quiero besar.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Es madre la tierra, en fin,</l>
+<l>y como madre sustenta.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¡Qué temeraria tormenta!</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>No te faltara un delfín,</l>
+<l>en quien hallaras ventura,</l>
+<l>que te sacara del mar,</l>
+<l>como al otro por cantar,</l>
+<l>a ti por tanta hermosura.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Qué habemos de hacer los tres,</l>
+<l>ya que a Sicilia llegamos,</l>
+<l>sin dineros y sin amos?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Servir.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Servir?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Servir, pues.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Yo pienso hacerme soldado,</l>
+<l>y sueldo del Rey tirar.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Yo no me pienso soldar</l>
+<l>porque nunca fui quebrado,</l>
+<l>pero si hay un capitán,</l>
+<l>le llevaré la jineta.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¡Por Dios, que es cosa sujeta!</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Cuantos nacieron lo están.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Cuantos nacieron?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Cómo?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>El rey sirve de ser rey,</l>
+<l>de hacer justicia, dar ley;</l>
+<l>el señor, de mayordomo,</l>
+<l>de camarero, de ser</l>
+<l>gentilhombre o de la boca,</l>
+<l>o el oficio que le toca</l>
+<l>a su pesar o placer;</l>
+<l>el prelado, de acudir</l>
+<l>a su iglesia diligente;</l>
+<l>al gobierno, el presidente;</l>
+<l>el oidor también a oír;</l>
+<l>el alguacil, a prender;</l>
+<l>el alcalde, a castigar;</l>
+<l>el que es letrado, a abogar,</l>
+<l>a defender o ofender;</l>
+<l>al proceso, el escribano;</l>
+<l>al enfermo, el que es doctor;</l>
+<l>el oficial, al señor;</l>
+<l>y al hidalgo, el que es villano;</l>
+<l>la casada, a su marido;</l>
+<l>a su padre, la doncella,</l>
+<l>y el padre la sirve a ella</l>
+<l>en la comida y vestido...</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Mas ¿de qué sirve alargarse?</l>
+<l>¿Quién hay que no sirva aquí</l>
+<l>en darse a comer a sí,</l>
+<l>en vestirse y desnudarse?</l>
+<l>Diógenes con ventaja</l>
+<l>solamente no sirvió,</l>
+<l>pero dicen que vivió</l>
+<l>metido en una tinaja.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Verdad es que, a sí o alguno,</l>
+<l>todos sirven, mas quisiera</l>
+<l>que entre los tres no sirviera</l>
+<l>ninguno, Fabio, a ninguno.</l>
+<l>Los tres somos españoles,</l>
+<l>que, en saliendo de su tierra,</l>
+<l>o sea en paz o sea en guerra,</l>
+<l>se hacen príncipes y soles.</l>
+<l>Hagamos lo mismo acá</l>
+<l>y, pues de España venimos,</l>
+<l>parezcamos lo que fuimos.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Bien dice.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Bien dicho está.</l>
+<l>Oíd: echemos los tres</l>
+<l>suertes quién será el señor,</l>
+<l>y al que saliere, en rigor,</l>
+<l>sirvan los dos.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Justo es.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Añadirémosle un don,</l>
+<l>diremos que es caballero,</l>
+<l>y aunque con poco dinero,</l>
+<l>tendrá mucha presunción.</l>
+<l>Acudirá a los soldados,</l>
+<l>acompañará al Virrey,</l>
+<l>darále ventaja el Rey</l>
+<l>y las pagas de criados,</l>
+<l>con que alguna principal</l>
+<l>mujer de Sicilia venga</l>
+<l>donde, por ventura, tenga</l>
+<l>ventura a español igual.</l>
+<l>¿Qué os parece?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Que pareces</l>
+<l>hombre de Toledo, en fin.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿No es mejor que un amo ruin?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Digo que sí treinta veces;</l>
+<l>porque, en efeto, es servir</l>
+<l>a un bellaco mentecato,</l>
+<l>que a tres holas tire un plato.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Sí, pero habéis de advertir</l>
+<l>que, en entrando en la posada,</l>
+<l>juntos hemos de comer,</l>
+<l>porque señor no ha de haber,</l>
+<l>si está la puerta cerrada.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Bien ha dicho.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Va de suerte.</l>
+<l>Tres reales tengo aquí.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿Son de España todos?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Pues bien, ¿de qué nos advierte?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Ponlos en este sombrero.</l>
+<l>El uno es real castellano,</l>
+<l>el segundo valenciano</l>
+<l>y de Navarra el tercero;</l>
+<l>quien sacare el de Castilla,</l>
+<l>ese es rey.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Meto la mano.</l>
+<l>Yo he sacado el valenciano.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Perdiste.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>No es maravilla.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Saca tú.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Saco.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>El que queda</l>
+<l>me toca.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Y ser dueño a mí.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿Es el de Castilla?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>El premio se te conceda.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Sea en buen hora el señor.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Bien está empleado en ti,</l>
+<l>que aunque me cayera a mí,</l>
+<l>no fuera el gusto mayor.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Por muchos años y buenos</l>
+<l>seas dueño de los dos.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Para serviros, ¡por Dios!,</l>
+<l>puedo decir a lo menos.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Con mil razones la suerte</l>
+<l>cayó en tu gentil persona.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Quita el gentil y perdona.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Va de nombre.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Venga.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Advierte:</l>
+<l>haste de llamar don Juan.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿De qué?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Escoge.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Escoger quiero,</l>
+<l>que no seré yo el primero.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Famoso nombre es Guzmán.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Tómasele ya quienquiera.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Será Mendoza.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Peor,</l>
+<l>que no hay morisco aguador</l>
+<l>que no se enmendoce.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Espera.</l>
+<l>¿Quieres Sandoval o Rojas,</l>
+<l>Manrique, Zúñiga, Lara,</l>
+<l>Cárdenas, Enríquez?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Para;</l>
+<l>todo el calendario arrojas.</l>
+<l>El Lara escojo no más:</l>
+<l>don Juan de Lara es mi nombre.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¡Por Dios, que vas gentilhombre!</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Habéis de venir detrás?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Pues, ¿eso dudas?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Aquí</l>
+<l>se ve la industria española.</l>
+<l>¡Hola, pajes!</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¡Señor!</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¡Hola!</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¡Señor!</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Venid por aquí.</l></sp><stage>Vanse, y salen FENISA y CELIA, y LUCINDO y TRISTÁN.</stage><sp><speaker>FENISA</speaker>
+<l>Siéntate, por vida mía.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿No ves que es tarde, mi bien?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Lo que en mí es amor, también</l>
+<l>en ti ha de ser cortesía.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Alégrame tanto el ver</l>
+<l>tu casa tan bien compuesta,</l>
+<l>que esto tengo por más fiesta</l>
+<l>que sentarme.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Hazme un placer:</l>
+<l>que lo que te diere gusto</l>
+<l>lo lleves a tu posada.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No me dará gusto nada</l>
+<l>con partido tan injusto.</l>
+<l>¡Qué bella Cleopatra!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Bella,</l>
+<l>porque amando se mató;</l>
+<l>que ya por ti hiciera yo</l>
+<l>lo que por Antonio ella.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Qué bello Narciso!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Ay, Dios!</l>
+<l>No te mires como él;</l>
+<l>y si has de ser tan crüel,</l>
+<l>parezcámonos los dos:</l>
+<l>tú en decir amores tales</l>
+<l>y yo en ser Eco a tu llanto.</l>
+<l>¿Ríeste?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>De oír me espanto</l>
+<l>que con Narciso me iguales.</l>
+<l>No soy, Fenisa, más hombre</l>
+<l>que lindo, robusto y fuerte.</l>
+<l>¡Oh, qué Porcia!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>De su muerte</l>
+<l>no quiere amor que me asombre;</l>
+<l>que las brasas, los enojos</l>
+<l>con que muere, de amor loca,</l>
+<l>si le entraron por la boca,</l>
+<l>me entran a mí por los ojos.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Es este Adonis?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Ansí</l>
+<l>te imagino yo, viniendo</l>
+<l>de caza... ¿Qué estás diciendo?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Que parezco al jabalí.</l>
+<l>Y lo que aquí cierto es,</l>
+<l>es que eres Venus hermosa,</l>
+<l>por cuya sangre la rosa</l>
+<l>nació de tus blancos pies.</l>
+<l>Aquí está la griega Elena.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Y el mismo Paris en ti.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Buena cama!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Limpia sí,</l>
+<l>y por tu esperanza buena.</l>
+<l>Mas ¿cómo se me olvidó</l>
+<l>regalarte?...</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Deja agora</l>
+<l>regalos.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Celia...</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Señora...</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Este ¿es mentecato?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>No.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues, ¿qué sientes?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Que es discreto.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿En qué lo has visto?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>En que ya</l>
+<l>viene sin cadena acá.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>No lo advertí, te prometo.</l>
+<l>Quedo, sin cadena viene.</l>
+<l>Él es bellaco.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Y ¡qué tal!</l>
+<l>Lo que intentas saldrá mal.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Por qué?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Gran defensa tiene.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Engañar, Celia, un cuitado</l>
+<l>barbitonto, boquinecio,</l>
+<l>no fuera hazaña de precio</l>
+<l>ni digna de humor taimado;</l>
+<l>pasmar un ingenio agudo</l>
+<l>es lo que se ha de estimar.</l>
+<l>¿Cadena sabéis guardar?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Y que se la pesques dudo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Estudiar con más cuidado;</l>
+<l>que engañar a un cauteloso</l>
+<l>es pleito dificultoso</l>
+<l>que hace estudiar al letrado.</l>
+<l>Ábreme esa librería</l>
+<l>de engaños, trazas y enredos.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<stage>Aparte.</stage>
+<l>¿Qué temes?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Tengo mil miedos</l>
+<l>a tu humor y cortesía.</l>
+<l>¡Guarda que te ha de engañar!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿En qué, pues tienes el oro?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Circe, tu deidad imploro.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿El cebo quieres gastar?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Ve por el primer anzuelo.</l>
+<l>Traigan aquí colación.</l>
+<l>Siéntate, amores.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Que son</l>
+<l>términos nobles, recelo.</l>
+<l>¿Qué he de perder en sentarme?</l>
+<l>Siéntase en dos sillas.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Ya te asientas?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Calla, loco.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Háblame, mi vida, un poco;</l>
+<l>que está en tu mano alegrarme.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Qué te diré?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Que me quieres,</l>
+<l>aunque mientas.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No estoy muerto;</l>
+<l>mas bien te quiero por cierto.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Por cierto? ¡Oh, qué lindo eres!</l>
+<l>¿Qué es por cierto? ¿Tú eres, di,</l>
+<l>español?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues, ¿no lo ves?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>El por cierto no lo es,</l>
+<l>el talle y la lengua sí.</l>
+<l>Yo aseguro que en mil años</l>
+<l>no ha pasado otro por cierto</l>
+<l>a Italia.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Que soy, te advierto,</l>
+<l>nuevo por reinos estraños.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Bien pareces de Valencia.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Somos muy tiernos allá.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>El por cierto lo dirá.</l>
+<l>Jura luego en mi conciencia;</l>
+<l>y queriendo encarecer</l>
+<l>lo que a darte gusto cuadre,</l>
+<l>di por vida de mi madre,</l>
+<l>que bien será menester.</l>
+<l>Vesme estar desatinada</l>
+<l>y, cuando desto te advierto,</l>
+<l>me respondes un por cierto</l>
+<l>envuelto en agua rosada.</l>
+<l>No, español, yo no te agrado,</l>
+<l>o tú quieres bien allá,</l>
+<l>que ausencia pena te da.</l>
+<l>Oye: ¿estás enamorado?</l>
+<l>Por mis ojos, por los tuyos,</l>
+<l>por los de amor, aun cïegos,</l>
+<l>que te muevas a mis ruegos</l>
+<l>y me encarezcas los suyos.</l>
+<l>¿Son negros, garzos o azules?</l>
+<l>¿Qué pelo, qué humor, qué talle?</l>
+<l>¿Pensaste agora en su calle?</l>
+<l>Ea, no lo disimules;</l>
+<l>en Valencia estás agora.</l>
+<l>¿Qué hay nuevo en Valencia? Diga.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Oh, socarrona!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Mi amiga,</l>
+<l>toda Valencia os adora:</l>
+<l>esto hay de nuevo. Y si allá</l>
+<l>algún gusto me entretuvo,</l>
+<l>hasta veros vida tuvo</l>
+<l>y, porque os vi, muerto está.</l>
+<l>Una mujer me quería</l>
+<l>dar a su madre por suegra,</l>
+<l>entre blanca y pelinegra,</l>
+<l>y el ingenio argentería.</l>
+<l>Enviámonos las almas</l>
+<l>en papeles cuatro meses,</l>
+<l>con requiebros portugueses,</l>
+<l>trayendo este amor en palmas.</l>
+<l>Vila en una huerta un día,</l>
+<l>más cerca, menos hermosa;</l>
+<l>hablela, hallela enfadosa,</l>
+<l>tocábala, estaba fría.</l>
+<l>Salí con menos pasión,</l>
+<l>y ofreciéndose esta ausencia,</l>
+<l>no dejé cosa en Valencia,</l>
+<l>fuera de la obligación.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Ay de mí! ¡Cómo era cierto!</l>
+<l>¿Que hombre que a mí me agradase</l>
+<l>otra amase y me tratase</l>
+<l>con traición?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Oye.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Hasme muerto.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Lloras? El lienzo desvía.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Hay semejante bellaca?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>El sol de esas nieblas saca,</l>
+<l>regalada prenda mía.</l>
+<l>No me des esos enojos.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>A fe que tiene él acá</l>
+<l>prendas que trujo de allá.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Tormento me dan tus ojos,</l>
+<l>verdades me hacen decir,</l>
+<l>mil jarros de agua me dan.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Dónde las prendas están?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Hay tan notable fingir?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>A fe que era la cadena,</l>
+<l>por eso se la quitó.</l>
+<l>No lloro sin causa yo.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿La cadena te dio pena?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Él se ablanda. ¡Vive Dios,</l>
+<l>que la cadena se anega!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Oye, mi vida, y sosiega.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Cadena, volved por vos.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Como no traigo dinero,</l>
+<l>hasta venderla envié</l>
+<l>con Tristán...</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Yo la llevé</l>
+<l>en casa de un caballero.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Y ¿qué dinero te dio?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>No estaba en casa, y dejela.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>El picarón me desvela,</l>
+<l>pero destos pesco yo.</l>
+<l>¿El dinero te ha faltado?</l>
+<l>Celia...</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Señora...</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿No vienes?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Aquí la conserva tienes.</l></sp>
+        <stage>Entra CELIA con dos criados y un escudero con una conserva, paño al hombro, taza y salva.</stage>
+        <sp><speaker>FENISA</speaker>
+<l>Come, mi vida, un bocado.</l>
+<l>Ve, Celia, y sácame aquí</l>
+<l>el escritorio pequeño.</l>
+<l>Melindres come, mi dueño,</l>
+<l>del alma que vive en ti;</l>
+<l>come, que ya eres señor</l>
+<l>desta casa.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Qué criados</l>
+<l>tan bien puestos, tan honrados!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Tristán...</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Señor...</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Grande error</l>
+<l>es no creer que esta dama</l>
+<l>es persona principal.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Hasta agora pensé mal</l>
+<l>de sus obras y su fama;</l>
+<l>digo que pido perdón.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿No bebes?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Denme a beber.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Necio has estado en comer.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Calla, que ha sido invención;</l>
+<l>que el bocado que cogí</l>
+<l>le guardé en el lienzo.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Bien.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Y luego fingí también</l>
+<l>que le comí.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Bebes?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>No bebas.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Qué puede haber</l>
+<l>en el vino?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Mucho mal.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>No ha comido. ¿Hay cosa igual?</l>
+<l>Demonio debe de ser.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Agua bebo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Agua le den.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>En agua no habrá sospecha.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Este mi engaño sospecha,</l>
+<l>y hele de engañar más bien.</l></sp>
+        <stage>Sale CELIA con un escritorio pequeño.</stage>
+        <sp><speaker>CELIA</speaker>
+<l>Ya el escritorio está aquí.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Llégamele luego acá.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Tienes la llave?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Aquí está,</l>
+<l>que en la manga la metí.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Qué tienes ahí?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Estos días</l>
+<l>muy desproveído está;</l>
+<l>bagatelas son, que allá</l>
+<l>soléis llamar niñerías.</l>
+<l>Estos son guantes, bien puedes</l>
+<l>tomar estos cuatro pares.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Son de ámbar?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Sí, no repares.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Hácesme dos mil mercedes.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pastillas has menester;</l>
+<l>no son limpias las posadas.</l>
+<l>Seis docenas estremadas</l>
+<l>me envió una monja ayer.</l>
+<l>Toma, en ese papel van.</l>
+<l>¿Qué tengo yo más que darte?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Con qué puedo yo pagarte?</l>
+<l>Perdidos vamos, Tristán.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>En estraña confusión</l>
+<l>te ha puesto aquesta mujer.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Medias solía tener</l>
+<l>de Nápoles.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Buenas son.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Tristán...</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Señora...</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Aquí van</l>
+<l>dos pares.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Guárdete Dios.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>También las hay para vos;</l>
+<l>tomad.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Qué es esto, Tristán?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Qué ha de ser? Indias cifradas</l>
+<l>en escritorios de amor.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Hácenos tanto favor,</l>
+<l>que están las manos turbadas.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Toma este bolsillo.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Beso</l>
+<l>tus manos. Escucha.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Di.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Dineros suenan aquí,</l>
+<l>y lo mismo dice el peso.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Cien escudos hallarás,</l>
+<l>mientras no tienes dinero;</l>
+<l>y por lo que yo te quiero,</l>
+<l>que vayas pidiendo más;</l>
+<l>que cuando muchos te sobren,</l>
+<l>me lo pagarás, si quieres.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Hija de Alejandro eres.</l>
+</sp>
+<sp><speaker>LISEO</speaker>
+<l>Yo te juro que se cobren.</l>
+</sp>
+<sp><speaker>ESCUDERO</speaker>
+<l>¿Qué pez es este?</l>
+</sp>
+<sp><speaker>LISEO</speaker>
+<l>No sé.</l>
+</sp>
+<sp><speaker>ESTACIO</speaker>
+<l>Un mercader valenciano.</l>
+</sp>
+<sp><speaker>LISEO</speaker>
+<l>Ganando va por la mano.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Perderáse por el pie.</l>
+</sp>
+<sp><speaker>ESTACIO</speaker>
+<l>Pues que Fenisa le fía,</l>
+<l>hipotecado tendrá.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Mi señora, tarde es ya,</l>
+<l>y también la hacienda mía</l>
+<l>quiere un poco de cuidado.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>El cielo vaya contigo.</l>
+<l>¿Haste de acordar, amigo,</l>
+<l>del alma que me has llevado?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Cadenas de obligaciones</l>
+<l>me acordarán mi ventura,</l>
+<l>pues, sin las de tu hermosura,</l>
+<l>en las que llevo me pones.</l>
+<l>Pienso que sabré pagarte,</l>
+<l>aunque si esta nave fuera</l>
+<l>de oro puro, no pudiera</l>
+<l>deste bien mínima parte.</l>
+<l>¡Ojalá fueran sus jarcias</l>
+<l>cuerdas de perlas de Oriente,</l>
+<l>[.......................................]</l>
+<l>[.......................................]</l>
+<l>el corredor de su popa</l>
+<l>fuera de diamantes hecho,</l>
+<l>de historias varias el techo,</l>
+<l>del pincel mejor de Europa;</l>
+<l>y para arrastrar en faldas</l>
+<l>de tu ropa ricas telas,</l>
+<l>fueran brocado sus velas,</l>
+<l>sus árboles de esmeraldas,</l>
+<l>la jareta de cadenas,</l>
+<l>los trinquetes y mesanas</l>
+<l>de rubíes como granas</l>
+<l>y de coral las entenas!</l>
+<l>Esta te diera en presente</l>
+<l>y, en la mitad del fogón,</l>
+<l>pusiera mi corazón,</l>
+<l>porque ardiera eternamente.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Guárdeteme Dios mil años.</l>
+<l>¡Hola! Acompañalde todos.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Qué es esto?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Notables modos...</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿De qué?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>De amor o de engaños.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Yo presumo que es amor;</l>
+<l>que amor en obras se ve.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>En el fin te lo diré,</l>
+<l>que allá se sabrá mejor.</l></sp>
+        <stage>Vanse LUCINDO, TRISTÁN y criados.</stage>
+        <sp><speaker>CELIA</speaker>
+<l>A mucho te has atrevido.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Esta es ganancia segura.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Así Dios me dé ventura,</l>
+<l>que pienso que te ha entendido.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues ¿qué gusto puede haber</l>
+<l>como avisar y engañar?</l></sp>
+        <stage>Entra el capitán OSORIO, DINARDA en hábito de caballero, BERNARDO y FABIO, pajes.</stage>
+        <sp><speaker>OSORIO</speaker>
+<l>¿Puedo entrar?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Puedes entrar.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Un huésped traigo a comer.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Vuesa merced, mi señora,</l>
+<l>me tenga por su criado.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Seáis, señor, bien llegado.</l>
+<l>¿Es de España?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Y llega agora.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Caballero?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿No lo ves?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿El nombre?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Don Juan de Lara.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Buena cara.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Linda cara.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Partí de España habrá un mes,</l>
+<l>llegué a Sicilia en el día</l>
+<l>de mi vida más dichoso,</l>
+<l>pues veo ese rostro hermoso.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Estimo la cortesía.</l>
+<l>¿A qué venís?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>A servir</l>
+<l>al Rey con los alimentos</l>
+<l>de padre y madre avarientos,</l>
+<l>hasta quererse morir.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Dios los despache a su cielo.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Pajes...</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Señor...</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Responded.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Amén.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Notable merced</l>
+<l>me hiciera.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Gentil mozuelo!</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Llegué a un corro de soldados,</l>
+<l>hallé al señor capitán,</l>
+<l>que es de mi tierra y que están</l>
+<l>deudos con deudas casados;</l>
+<l>ofreciome su posada,</l>
+<l>y, para mayor favor,</l>
+<l>me trujo aquí.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Obliga amor</l>
+<l>ver vuestra persona honrada;</l>
+<l>no hay cartas más efectivas,</l>
+<l>para que el favor se halle,</l>
+<l>que la buena cara y talle.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Comamos, Celia, ansí vivas.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Ya está todo prevenido.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Fabio...</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿Qué?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Ya la picaña</l>
+<l>se inclina al humor de España.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Hablándose están de oído.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>En entrándose, me llego.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿A quién?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>A la francisquina.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Mas ¿qué? ¿Tenemos mohína?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Aqueso niego y reniego,</l>
+<l>que está la mujer por mía</l>
+<l>desde que el umbral pisé.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿Ya me dais celos?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿De qué?</l>
+<l>Vos me enseñáis cortesía.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Vamos, que yo gusto mucho</l>
+<l>que honréis al señor don Juan.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Tiernas las hembras están.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Escucha, Celia.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Ya escucho.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Notable español!</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Gallardo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>En mi vida tuve amor,</l>
+<l>pero ya fuera mejor</l>
+<l>no haberle visto.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Eso aguardo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>De Sevilla dice que es.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Es gente en estremo airosa.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Fuera de la cara hermosa,</l>
+<l>me matan piernas y pies.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Tienes lindo gusto.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>El mío</l>
+<l>este despejo procura,</l>
+<l>que del hombre la hermosura</l>
+<l>consiste en piernas y brío.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Venid, don Juan, a comer.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Pajes...</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Señor...</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¡Bueno va!</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Pica?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Picada está ya,</l>
+   <l>aunque fue sin alfiler.</l></sp>
+</div><div type="act" n="II">
+<stage>Salen LUCINDO y TRISTÁN.</stage>
+
+<sp><speaker>LUCINDO</speaker>
+<l>No te congoje, Tristán,</l>
+<l>que entre y salga quien quisiere;</l>
+<l>parientes suyos serán.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Por mí, sea lo que fuere</l>
+<l>este español capitán.</l>
+<l>Bien sé que en un mes y más</l>
+<l>que ninguna cosa das</l>
+<l>y mil regalos recibes.</l>
+<l>Seguro de engaños vives,</l>
+<l>pero de amor no lo estás.</l>
+<l>Quien no da no tiene acción</l>
+<l>a pedir celos, ni hacer</l>
+<l>de agravios demostración.</l>
+<l>Solo el dar en la mujer</l>
+<l>alcanza juridicción;</l>
+<l>ese, al injusto adulterio</l>
+<l>del trato noble y sencillo,</l>
+<l>puede llamar vituperio,</l>
+<l>porque tiene horca y cuchillo</l>
+<l>con su mero y mixto imperio.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Mas has de advertir también</l>
+<l>que la vas queriendo bien;</l>
+<l>y aunque no te cuesta nada,</l>
+<l>¡bueno quedas, si se enfada</l>
+<l>y te trata con desdén!</l>
+<l>Que por ver que la desvía</l>
+<l>de tu gusto otro interés</l>
+<l>que enriquecerla porfía,</l>
+<l>lo que no has dado en un mes</l>
+<l>vendrás a darle en un día.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No pienso yo que Fenisa,</l>
+<l>Tristán, por otro me deje,</l>
+<l>que eso de interés es risa.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Amor, ostinado hereje,</l>
+<l>las mismas verdades pisa.</l>
+<l>El que en mujer se confía</l>
+<l>lejos está de discreto.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No ha sido la culpa mía;</l>
+<l>es la hermosura, en efeto,</l>
+<l>una breve tiranía.</l>
+<l>Todos los sabios de Grecia,</l>
+<l>que vieran que una mujer</l>
+<l>cuanto es interés desprecia</l>
+<l>con hidalgo proceder,</l>
+<l>y que no es fea ni es necia,</l>
+<l>Diógenes o Timón,</l>
+<l>que jamás trató con gente,</l>
+<l>que vieran tanta afición,</l>
+<l>se rindieran tiernamente</l>
+<l>por amor u obligación.</l>
+<l>Yo me resistí unos días,</l>
+<l>mas, viendo tantas verdades,</l>
+<l>rendí mis vanas porfías.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Con razón me persüades.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Venció las sospechas mías.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Al principio fue el error. }}</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No le pude hacer mayor</l>
+<l>que no retirarme luego.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Estando cerca del fuego,</l>
+<l>era forzoso el calor.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Si con la razón se mide,</l>
+<l>no lo será que te asombre</l>
+<l>que ¿cómo, hasta que le olvide,</l>
+<l>ha de retirarse un hombre</l>
+<l>de una mujer que no pide?</l>
+<l>Digo que, si a mí me hicieren</l>
+<l>regalos, mientras me dieren</l>
+<l>y de pedirme se estrañen,</l>
+<l>doy licencia que me engañen</l>
+<l>cuantas mujeres quisieren.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>No reprehendo el entrar</l>
+<l>en su casa, pues no hay dar</l>
+<l>el valor de un alfiler...</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues ¿qué dices?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>El querer.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No lo he podido escusar.</l>
+<l>Es bellísima, Tristán,</l>
+<l>y es justo que consideres</l>
+<l>partes que en el alma están.</l>
+<l>La hermosura en las mujeres</l>
+<l>es gracia que a todos dan.</l>
+<l>El villano y el señor</l>
+<l>ven la hermosura exterior;</l>
+<l>la más cuerda o la más loca</l>
+<l>para cualquiera se toca,</l>
+<l>pues ha de verla en rigor.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Sola una vez la hermosura</l>
+<l>goza el que llevó la palma;</l>
+<l>lo que es nuevo poco dura,</l>
+<l>lo que es secreto es el alma;</l>
+<l>esta el amor asegura,</l>
+<l>esta se muestra en el trato,</l>
+<l>desta nace mi afición.</l>
+<l>Ya no hay amar con recato,</l>
+<l>que, tras tanta obligación,</l>
+<l>fuera bajeza de ingrato.</l>
+<l>Yo la adoro, porque sé</l>
+<l>que es verdadero su amor.</l>
+<l>Ya por esta puerta entré,</l>
+<l>de interés competidor:</l>
+<l>no es bien que celoso esté.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Este español capitán</l>
+<l>y otros que entran en su casa,</l>
+<l>ninguna pena me dan,</l>
+<l>porque es cosa que no pasa</l>
+<l>de conversación, Tristán;</l>
+<l>fuera de que yo he venido</l>
+<l>y me iré cuando quisiere,</l>
+<l>gustoso y entretenido,</l>
+<l>a donde verla no espere</l>
+<l>y el ausencia cause olvido.</l>
+<l>Contaré en Valencia el cuento</l>
+<l>a los amigos y damas</l>
+<l>con grande gusto y contento...</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Con razón cuento le llamas.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Llamaron?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Gente siento.</l></sp>
+   <stage>Sale CELIA, con manto, y el escudero con un tabaque con un tafetán encima cubierto.</stage>
+   <sp><speaker>CELIA</speaker>
+<l>¡Qué descuidado estarás</l>
+<l>desta visita!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Jamás,</l>
+<l>Celia, lo estoy de tu dueño.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Allá nos quitas el sueño</l>
+<l>y acá sin memoria estás.</l>
+<l>Más qué, ¿agora te levantas?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No duermen los mercaderes</l>
+<l>tanto, y más con penas tantas.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Penas, si adorado eres?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿De que las tenga te espantas?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Quisiera, para un presente</l>
+<l>que traigo, hallarte acostado,</l>
+<l>y este viejo impertinente</l>
+<l>tan tarde se ha levantado</l>
+<l>-como ya ni ve ni sienteque</l>
+<l>a mediodía he venido.</l>
+</sp>
+<sp><speaker>ESCUDERO</speaker>
+<l>Siempre me culpas a mí</l>
+<l>de tu descuido y olvido.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Qué traes, mi Celia, aquí?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Seis camisas he traído.</l>
+<l>Mira ¡qué flamenca holanda!,</l>
+<l>pues no pienses que esto es randa.</l>
+<l>Todo es fina cadeneta</l>
+<l>de la aguja más perfeta</l>
+<l>y de la mano más blanda.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>De la limpieza lo arguyo.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Este es corazón.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Y ¿cúyo?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>De quien te le tiene dado;</l>
+<l>que más puntas que ha labrado</l>
+<l>le quedan pasando el suyo.</l>
+<l>Mandome que te vistiese</l>
+<l>la mejor y te dijese</l>
+<l>que ojalá que ella pudiera</l>
+<l>servirte de camarera,</l>
+<l>y que un abrazo te diese.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Ese te daré yo agora,</l>
+<l>y a aquella tan gran señora</l>
+<l>iré a llevarle después</l>
+<l>mil besos para los pies</l>
+<l>de donde nace el aurora.</l>
+<l>Trae, Tristán, esa pieza</l>
+<l>de tela, que Celia lleve</l>
+<l>a su celestial belleza;</l>
+<l>que es encarnada, y su nieve</l>
+<l>tendrá mayor sutileza.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Yo voy.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Deténte, Tristán,</l>
+<l>que sé que me matarán</l>
+<l>si la llevo.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Cosa estraña!</l>
+<l>Mucho Fenisa se engaña,</l>
+<l>porque cuantos aman dan;</l>
+<l>y esto no fuera interés,</l>
+<l>que fuera señal de amor.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Este es su gusto; después</l>
+<l>podrás reñirla mejor,</l>
+<l>cuando en su brazos estés.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Ya que ella es de condición</l>
+<l>tan esquiva, tú bien puedes</l>
+<l>tomar en esta ocasión</l>
+<l>estos escudos.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Mercedes...</l>
+<l>Como de tus manos son,</l>
+<l>no los he de recebir.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues aquí no lo verán.</l>
+</sp>
+<sp><speaker>ESCUDERO</speaker>
+<l>Las paredes lo dirán,</l>
+<l>que todas saben oír.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Notable mujer, Tristán!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Pintar en el viento quiero</l>
+<l>y un monte soberbio entero</l>
+<l>de átomos del sol hacer,</l>
+<l>pues he visto una mujer</l>
+<l>enemiga de dinero.</l>
+<l>Antes pensé que la mano</l>
+<l>un letrado, un alguacil,</l>
+<l>[.......................................]</l>
+<l>un médico y un escribano,</l>
+<l>un barbero, un cirujano,</l>
+<l>huyera al darle dinero,</l>
+<l>que una dueña quintañona</l>
+<l>y un reverendo escudero.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Todo Fenisa lo abona;</l>
+<l>con justa causa la quiero.</l>
+<l>Dile, Celia, que esta tarde</l>
+<l>la iré a ver, y que me aguarde</l>
+<l>con el deseo que estoy.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>A pedir albricias voy.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>El cielo, Celia, te guarde.</l>
+<l>Pero ¿qué miras?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Tu cama</l>
+<l>me mandó mirar mi ama,</l>
+<l>si señal se puede ver</l>
+<l>de haber dormido mujer.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Celos?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Tienes mala fama.</l>
+<l>También para que mirase</l>
+<l>las sábanas y almohadas,</l>
+<l>porque de allá te enviase</l>
+<l>unas de aljófar labradas.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Grande amor!</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Por celos pase,</l>
+<l>que está ya que es compasión</l>
+<l>con tanta cara la triste.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Conozco mi obligación.</l>
+<l>Adiós.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Adiós.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Tú naciste</l>
+<l>de pies.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Mis venturas son.</l></sp>
+   <stage>Vanse todos, y salen ALBANO y CAMILO.</stage>
+   <sp><speaker>CAMILO</speaker>
+<l>¿De qué os hacéis tantas cruces?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿No me tengo de espantar?</l>
+<l>¿A qué más pueden llegar</l>
+<l>unos bríos andaluces?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Luego ¿dais en que es mujer?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Si no es mujer, estoy loco.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>No será mucho.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>No es poco,</l>
+<l>si ya no hay más que perder.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¿Vos no veis que es desatino</l>
+<l>ver un mancebo y decir</l>
+<l>que es mujer?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿Quién puede ver</l>
+<l>la fuerza de su destino?</l>
+<l>En la más bella ciudad</l>
+<l>que mira el sol en Europa,</l>
+<l>pues todo el oro que cría</l>
+<l>es para hacerle corona;</l>
+<l>en la gran puerta de España,</l>
+<l>pues, abriéndola a dos flotas,</l>
+<l>entra por ello el gobierno</l>
+<l>universal para todas;</l>
+<l>en Sevilla, y en la calle</l>
+<l>Baños de la Reina Mora,</l>
+<l>nació Dinarda, Camilo,</l>
+<l>tú juzgarás si es hermosa,</l>
+<l>que yo desde que la vi</l>
+<l>juzgaba que della sola</l>
+<l>hiciera Zeusis de Elena</l>
+<l>la estampa maravillosa.</l>
+<l>Servila, y después de un año</l>
+<l>de paseos y de rondas,</l>
+<l>papeles y diligencias</l>
+<l>de terceras cautelosas,</l>
+<l>rindiose a solo escribirme,</l>
+<l>que, si dijera otra cosa,</l>
+<l>a mi verdad y a su sangre</l>
+<l>haría ofensa notoria.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Todo aqueste amor fue en letras,</l>
+<l>que a letra vista se cobran,</l>
+<l>mas no se pagó ninguna,</l>
+<l>aunque se acetaron todas.</l>
+<l>No hay estilo tan dichoso</l>
+<l>que no corte y interrompa</l>
+<l>el acelerado rayo</l>
+<l>de una estrella rigurosa.</l>
+<l>Tiene el duque de Medina</l>
+<l>-ya entenderás que es Sidoniajunto</l>
+<l>a su casa en Sevilla</l>
+<l>un corredor de pelota.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Como era todo en un barrio,</l>
+<l>frecuentaba a todas horas</l>
+<l>su juego, o viendo o jugando,</l>
+<l>que va esta edad por la posta.</l>
+<l>Tiene aqueste corredor,</l>
+<l>no enfrente, sino en la popa,</l>
+<l>las armas de los Guzmanes,</l>
+<l>y, sobre el timbre y las hojas,</l>
+<l>que con diversos penachos</l>
+<l>cercan el escudo y orlas,</l>
+<l>al gran don Alfonso Pérez</l>
+<l>de Guzmán -y el Bueno nombransobre</l>
+<l>el muro de Tarifa,</l>
+<l>que al moro la daga arroja</l>
+<l>para que mate a su hijo</l>
+<l>-¡divina hazaña española!-,</l>
+<l>y, debajo de las armas,</l>
+<l>aquella sierpe espantosa</l>
+<l>que mató en África, haciendo</l>
+<l>la hazaña de Heracles corta.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Entra por la boca el asta,</l>
+<l>sale por las duras conchas</l>
+<l>el hierro bañado en sangre,</l>
+<l>ciñe el escudo la cola.</l>
+<l>Estas armas, timbre y sierpe,</l>
+<l>que aquesta pared adornan,</l>
+<l>un día estaba mirando</l>
+<l>grande juventud ociosa,</l>
+<l>porque, acabado un partido</l>
+<l>y desde una parte a otra,</l>
+<l>peloteándose andaban,</l>
+<l>por ser la tarde lluviosa.</l>
+<l>Dio un caballero a la sierpe</l>
+<l>un pelotazo en la boca,</l>
+<l>y dijo: «En África había</l>
+<l>una contienda dudosa</l>
+<l>sobre quién mató esta sierpe,</l>
+<l>pero sepan desde agora</l>
+<l>que yo la he muerto, pues hay</l>
+<l>testigos desta pelota».</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Respondí, aunque era de burlas,</l>
+<l>por la afición que me toca</l>
+<l>a la casa de Medina:</l>
+<l>«Cuando el moro hurtó la honra</l>
+<l>en África a don Alonso</l>
+<l>desta sierpe venenosa</l>
+<l>la boca le mandó abrir,</l>
+<l>faltó la lengua, mas diola</l>
+<l>don Alonso; y así el moro</l>
+<l>perdió el crédito y la joya».</l>
+<l>«Miraré yo si la tiene»,</l>
+<l>me replicó. Yo, la cólera</l>
+<l>revuelta, asile del brazo</l>
+<l>y dije: «Lo dicho sobra;</l>
+<l>que el Guzmán que tiene allí</l>
+<l>daga, si cortáis su gloria,</l>
+<l>os la tirará a los pechos».</l>
+<l>¡Mira qué ocasión tan loca!</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Era su mayor amigo</l>
+<l>un hermano de la diosa</l>
+<l>que idolatraban mis ojos,</l>
+<l>pues fui de los suyos Troya.</l>
+<l>Llegó y dijo: «Si esta sierpe</l>
+<l>saliera echando ponzoña</l>
+<l>de donde la veis pintada,</l>
+<l>alguno que aquí blasona</l>
+<l>huyera, mientras mi primo</l>
+<l>la despedazaba y, rota,</l>
+<l>honraba también sus armas,</l>
+<l>como el Guzmán de Sidonia».</l>
+<l>Respondí, sin reparar</l>
+<l>en amor ni en otra cosa:</l>
+<l>«Pues veamos quién la mata,</l>
+<l>quién huye o quién se alborota,</l>
+<l>que yo quiero ser la sierpe</l>
+<l>de Guzmán, aunque Mendoza».</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Dije y, alzando la pala,</l>
+<l>antes de sacar la hoja,</l>
+<l>le di con ella en los pechos;</l>
+<l>y como si la persona</l>
+<l>del propio Guzmán saliera</l>
+<l>a la defensa forzosa,</l>
+<l>despejan el corredor,</l>
+<l>donde tras esta deshonra</l>
+<l>salieron heridos tres</l>
+<l>y yo con justa vitoria.</l>
+<l>Mis padres, deudos y amigos,</l>
+<l>por escusar la discordia</l>
+<l>que ya en todos se engendraba,</l>
+<l>por discreto acuerdo toman</l>
+<l>que me pasase a Sicilia,</l>
+<l>y por cartas me acomodan</l>
+<l>con el de Feria, virrey</l>
+<l>de aquestas islas famosas,</l>
+<l>donde el ausencia y el tiempo,</l>
+<l>que cuanto quieren transforman,</l>
+<l>mudándome de Dinarda,</l>
+<l>de Fenisa me enamoran,</l>
+<l>en cuya casa hoy he visto</l>
+<l>este español, esta sombra,</l>
+<l>que si no es ella, una estampa</l>
+<l>las hizo. Esta fue mi historia.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Oíd, que salen los dos.</l>
+<l>No paséis más adelante.</l></sp>
+   <stage>Entran FENISA, DINARDA, BERNARDO y FABIO.</stage>
+   <sp><speaker>FENISA</speaker>
+<l>¿No quieres tú que me espante</l>
+<l>de tu desdén?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>No, ¡por Dios!,</l>
+<l>sino estar agradecida</l>
+<l>a la lealtad que he mostrado</l>
+<l>al capitán.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Tú has vengado</l>
+<l>muchos de quien fui homicida.</l>
+<l>Mas mira que pensaré</l>
+<l>que es miedo, y que no es lealtad.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Sabe amor que esto es verdad.</l>
+<l>Con él en tu casa entré,</l>
+<l>él me trujo, él te ha servido.</l>
+<l>¿No ves tú que no es razón</l>
+<l>que haga tan vil traición</l>
+<l>a un hombre tan bien nacido?</l>
+<l>Si solo y por mí te viera,</l>
+<l>¡ay, Dios, cuán bien me empleara!</l>
+<l>¡Qué de veces te abrazara!</l>
+<l>¡Qué de amores te dijera!</l>
+<l>Mi ventura no lo quiso,</l>
+<l>sino que en este acidente</l>
+<l>fuesen tus ojos la fuente,</l>
+<l>y yo su loco Narciso.</l>
+<l>Tántalo soy: ya me toca</l>
+<l>el morir y enloquecer,</l>
+<l>pues no te puedo beber</l>
+<l>tiniendo el agua a la boca.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Bien puedes tú con secreto</l>
+<l>ser dueño de quien te adora.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>No me lo mandes, señora;</l>
+<l>que soy noble te prometo.</l>
+<l>Osorio me trujo aquí;</l>
+<l>débole amor y dinero.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pagarte esas deudas quiero.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¿Es ella, en efeto?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Pues, ¿cómo tratan de amor</l>
+<l>dos mujeres? ¡Loco estáis!</l>
+<l>Mas, ¿por qué no os informáis</l>
+<l>destos dos pajes mejor?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Aguardad, por vida mía.</l>
+<l>¡Ah, hidalgo!</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿Dechite a me?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>A vos digo, si podré</l>
+<l>hablaros en cortesía.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Di gracia, patrón, ¿que cosa</l>
+<l>me volite?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Estoy sin seso.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Parlati, siniore, adesso.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Ay, bella Dinarda hermosa!</l>
+<l>¿Quién es este caballero?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿Questo gentilhomo?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>El sinior Rugero.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Ansí</l>
+<l>su nombre propio es Rugero.</l>
+<l>Pues ¿de dónde es?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Veneciano,</l>
+<l>aunque venuto de Roma.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿No es español?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¡Qué ira toma!</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¡Guarda, españolo marrano!</l>
+<l>¡Cancaro che venga a tuti</l>
+<l>li traditori españoli,</l>
+<l>furfanti, ladri, marioli,</l>
+<l>assasini per tre escuti!</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Camilo, ¡cosa inhumana!</l>
+<l>¡Por Dios, que me vuelvo loco!</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Expecta, di gracia, un poco</l>
+<l>la cancione chichiliana:</l>
+<l>Se tuta la Chichilia</l>
+<l>fose macarrone,</l>
+<l>el faro di Micina</l>
+<l>vino moscatelo,</l>
+<l>el monte Mongibelo</l>
+<l>formacho gratato,</l>
+<l>e tutto lo españolo</l>
+<l>fossino amazato,</l>
+<l>¡como triunfaria</l>
+<l>lo chichiliano!</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Basta, que ya el pajecillo</l>
+<l>os da la vaya.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Aguardad,</l>
+<l>que él me dirá la verdad.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Apenas puedo sufrillo.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Disimula, Fabio, un poco;</l>
+<l>no conozcan a Dinardo.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Muero de risa, Bernardo.</l>
+<l>¿Hablo bien?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Vuélvesle loco.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Pilla este escudo, fanchiulo,</l>
+<l>y dime...</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿Que voi di me?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Esta, ¿es mujer?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿Como? ¿Que?</l>
+<l>¿Volite pillar trastulo?</l>
+<l>¿Donna lo siniore mio?</l>
+<l>¡Ohimè! ¿Que diavolo è questo?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Yo sé que de hombre se ha puesto.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>No me fastidiar, ¡per Dio!,</l>
+<l>ne mi facha intrar in colera.</l>
+<l>¡Femina far lo siniore!</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Femina?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Si.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¡Hu, traditore!</l>
+<l>Tache per tua vita e tolera.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Necio andáis.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Cómo?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¡Por Dios...!</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>En vuestra malicia he dado.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¡Que pienso que han sospechado</l>
+<l>alguna fealdad de vos!</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Pues, ¿preguntar si es mujer</l>
+<l>os parece sospechoso?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Que nos vamos es forzoso.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Y forzoso enloquecer.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Hablad después a Fenisa;</l>
+<l>que nadie os dirá mejor</l>
+<l>si es hombre o mujer.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+   <l>¡Oh, amor!...</l></sp>
+<stage>Vanse ALBANO y CAMILO.</stage>
+
+<sp><speaker>FABIO</speaker>
+<l>Muriéndome estoy de risa</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Fuéronse?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Los dos se van.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Pues yo sé, Fabio, que quedo</l>
+<l>con más malicia que miedo.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿Qué sospechas te le dan?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>De que Dinardo es mujer.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Eso me parece a mí,</l>
+<l>aunque nunca me atreví</l>
+<l>a procurallo saber;</l>
+<l>fuera de que está Fenisa</l>
+<l>loca por él.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Es verdad,</l>
+<l>aunque la dificultad</l>
+<l>con que la trata me avisa.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Luego el respeto que tiene</l>
+<l>al capitán, ¿es fingido?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Pienso que todo lo ha sido</l>
+<l>y que de otra causa viene.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Desde hoy emprendo saber</l>
+<l>si es mujer.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Y yo, ¡por Dios!</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Pues comencemos los dos</l>
+<l>desde agora a pretender.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>En fin, don Juan, ¿te resuelves</l>
+<l>a no pagar este amor?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Conociendo mi valor,</l>
+<l>Fenisa, ¿a probarme vuelves?</l>
+<l>Haz una cosa: da traza</l>
+<l>que este capitán se ausente,</l>
+<l>pues tú podrás fácilmente</l>
+<l>esto o mudarle la plaza;</l>
+<l>y en su ausencia te prometo</l>
+<l>corresponder a tu amor.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues, mi bien, de tu valor</l>
+<l>fío, y la palabra aceto.</l></sp><stage>Entra CELIA.</stage>
+   <sp><speaker>CELIA</speaker>
+<l>Aquí está Lucindo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Quién?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>El mercader de Valencia.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Dame, mis ojos, licencia.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Licencia tienes, mi bien.</l></sp>
+   <stage>Vanse FENISA y CELIA.</stage>
+   <sp><speaker>DINARDA</speaker>
+<l>Siguiendo un loco pensamiento vine</l>
+<l>desde Sevilla hasta Sicilia, cielos;</l>
+<l>de vergüenza y honor rompí los velos,</l>
+<l>que no hay cosa que amor no desatine.</l>
+<l>Mas ¿qué le sirve al alma que camine</l>
+<l>entre tantas congojas y desvelos,</l>
+<l>si sacándome amor, me vuelven celos,</l>
+<l>y no sé de los dos a cuál me incline?</l>
+<l>Aquí le hallé con nuevo pensamiento</l>
+<l>el alma, el gusto en otro amor estraño,</l>
+<l>con que mudó mi desatino intento.</l>
+<l>No más perjura fe, no más engaño,</l>
+<l>que es para heridas de un amor violento</l>
+<l>divina contrayerba el desengaño.</l></sp>
+   <stage>Salen LUCINDO y TRISTÁN.</stage><sp><speaker>LUCINDO</speaker>
+<l>¿No le dio Celia mi recado?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Pienso</l>
+<l>que tiene algunos huéspedes Fenisa.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Es caballo de Troya aquesta casa,</l>
+<l>que siempre está preñada de armas y hombres?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Pues ¿cuál audiencia pública, Lucindo,</l>
+<l>iguala al patio de una cortesana?</l>
+<l>Aquí tiene sus horas y aquí juzga.</l>
+<l>Verás los abogados y terceros,</l>
+<l>los solicitadores y escribanos,</l>
+<l>procesos de papeles que le envían</l>
+<l>sobornos de regalos y presentes,</l>
+<l>pleitos en vista, pleitos en revista...</l>
+<l>A unos despacha y a otros entretiene,</l>
+<l>como tienen favor o traen dineros.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Quién es este español que tan solícito</l>
+<l>frecuenta aquesta casa?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Este es... Sospecho</l>
+<l>que es el del alma.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Y yo ¿qué soy?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Del cuerpo.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Donaire tienes. Si Fenisa vive</l>
+<l>en el cuidado que la ves conmigo,</l>
+<l>si le cuesto regalos y dineros,</l>
+<l>¿cuál otro puede haber que sea del alma?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Qué chapetón estás en estas Indias!</l>
+<l>¿No sabes tú que hay almas en que caben</l>
+<l>más de dos y de tres y de trecientos?</l>
+<l>Cuando ves escribir treinta papeles</l>
+<l>una buena señora a treinta amantes,</l>
+<l>cuando ves que otros tantos la visitan,</l>
+<l>cuando ves que a uno pide el coche, a otro</l>
+<l>la basquiña, a cual tiene dentro en casa,</l>
+<l>a cual habla en la reja, a cual de noche,</l>
+<l>¿has de pensar que es alma edificada</l>
+<l>a la traza de un grande monesterio,</l>
+<l>en que hay su dormitorio con sus celdas,</l>
+<l>que de una puerta adentro caben todas?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Hablaros, caballero, he deseado.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>No menos yo, que os soy aficionado.</l>
+<l>Mas si es de celos de Fenisa, os pido</l>
+<l>no los tengáis de mí, porque a su casa</l>
+<l>me ha traído cuidado diferente.</l>
+<l>¿Cuándo os volvéis a España?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Yo he pensado</l>
+<l>que por todo este mes, porque a mi gusto</l>
+<l>he despachado cuanto della truje,</l>
+<l>mas tiéneme cautivo el desta dama.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Con vos me pienso ir hasta Valencia,</l>
+<l>aunque soy de Sevilla, porque quiero</l>
+<l>ir a la corte y pretender en ella</l>
+<l>la remuneración de mis servicios,</l>
+<l>primero que a mi patria vuelva.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Diga,</l>
+<l>señor lacayo, ¿es español acaso?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Y ellos, ¿qué son? ¿Señores pajarotes?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Noi altri semo certi gentilhomini,</l>
+<l>venuti adesso, adesso de Venecia.</l>
+<l>Diga, di gracia, e non montar in colera,</l>
+<l>como se chiama in España quella lira</l>
+<l>con que fanno ai caballi chiquichiqui.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Llámase el diablo que te lleve.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Deso</l>
+<l>no más se corre un hombre tan discreto?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿No saben qué han de hacer, señores pajes?</l>
+<l>Tener respeto a un hombre de mi término.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Sopra la mia parola, estate sano.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>No entiendo de parola; háganse afuera,</l>
+<l>que les daré, en mi lengua, cuatro coces.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Bene dice, ¡per Dio!, l'è una bestia.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues tendré a gran merced que nos hablemos.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>A donde digo estoy.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Iré a buscaros.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Fabio, don Juan se va.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Señor lacayo,</l>
+<l>a revederce al altro mondo.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Pícaro!</l>
+<l>Caballero soy yo.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Me recomendo.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Pajes?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Señor...</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Hacia palacio vamos.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Qué hay de Fenisa?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Amores y promesas.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿No te da nada?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Ya se va trazando.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Parécete mujer?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Probarlo puedo;</l>
+<l>mas es probar cuchillo con el dedo.</l></sp>
+   <stage>Vanse DINARDA, BERNARDO y FABIO, y entra CELIA.</stage>
+   <sp><speaker>CELIA</speaker>
+<l>Mi señora te suplica,</l>
+<l>Lucindo, que la perdones;</l>
+<l>que por ciertas ocasiones</l>
+<l>que aquí no te significa,</l>
+<l>no puede salir a verte.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Ya, Celia, me dio a entender</l>
+<l>que no es posible querer</l>
+<l>la mujer que se divierte.</l>
+<l>Está muy entretenida;</l>
+<l>es lindo don Juan de Lara.</l>
+<l>Habrá picado en la cara;</l>
+<l>ahí, Celia, estará perdida.</l>
+<l>Conozco su condición;</l>
+<l>toda mujer que profesa</l>
+<l>esta cólera francesa</l>
+<l>no es firme de corazón.</l>
+<l>¡Bueno quedaré yo agora,</l>
+<l>que su amor loco en exceso</l>
+<l>me ha puesto!</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>No digas eso,</l>
+<l>Lucindo, de mi señora,</l>
+<l>que eres la vida por quien</l>
+<l>recibe aliento vital,</l>
+<l>y aunque el verte le esté mal,</l>
+<l>ella lo dirá más bien.</l>
+<l>Vase.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Escucha.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Enojada fue.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Qué le dije?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Ha sido error</l>
+<l>llamar fingido su amor.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Qué es esto, Tristán?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>No sé.</l></sp>
+   <stage>Sale FENISA, de luto, con una carta en la mano, y CELIA.</stage>
+   <sp><speaker>LUCINDO</speaker>
+<l>¡Luto vos, señora mía!</l>
+<l>¿Qué toca es esa y qué llanto?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Para no afligiros tanto.</l>
+<l>no veros, mi bien, quería;</l>
+<l>mas como allá dentro oí</l>
+<l>ofender mi justo amor,</l>
+<l>estimo tanto mi honor,</l>
+<l>que a defenderle salí.</l>
+<l>Vos sois la vida que vivo,</l>
+<l>vos los ojos con que veo,</l>
+<l>el gusto con que deseo</l>
+<l>el que de veros recibo.</l>
+<l>Sois el aire que alimenta</l>
+<l>las alas del corazón,</l>
+<l>vos sois la respiración</l>
+<l>que para vivir me alienta.</l>
+<l>Sois el nervimiento mío,</l>
+<l>sois la fe de mi verdad,</l>
+<l>la ley de mi voluntad,</l>
+<l>el alma de mi albedrío.</l>
+<l>Y pues en tanto dolor</l>
+<l>os hablo tan tiernamente,</l>
+<l>creed que no es acidente,</l>
+<l>sino verdadero amor.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Fenisa y fénix, en quien</l>
+<l>se abrasa el alma que os di</l>
+<l>para renovarse en mí,</l>
+<l>¿qué es lo que tenéis, mi bien?</l>
+<l>¿Qué os puede haber sucedido,</l>
+<l>dulce prenda destos ojos,</l>
+<l>que en nubes de agua y de enojos</l>
+<l>vuestro sol tiene escondido?</l>
+<l>¿Qué luto es este que enluta</l>
+<l>tu resplandeciente esfera?</l>
+<l>¿Qué ocasión en ti tan fiera</l>
+<l>su sentimiento ejecuta?</l>
+<l>¡Vos eclipsada, mi sol!</l>
+<l>¿Vos con cercos de agua y llanto?</l>
+<l>¡Que dure mi vida tanto!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Ay, mi adorado español!</l>
+<l>Si queja podéis tener,</l>
+<l>es que estando vos presente</l>
+<l>me pueda ajeno acidente</l>
+<l>afligir y entristecer.</l>
+<l>Mas si sabéis la ocasión,</l>
+<l>pienso que disculparéis</l>
+<l>estas lágrimas que veis</l>
+<l>porque, en fin, de sangre son.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Cómo de sangre?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues ya</l>
+<l>todo saberlo queréis,</l>
+<l>en esta carta veréis</l>
+<l>la causa y quién me la da.</l>
+<l>Lee LUCINDO la carta.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>«Hermana mía, y la postrera vez que podré llamaros hermana: A mí me han sentenciado a muerte</l>
+<l>en vista y revista. La parte, por ruegos del príncipe de Butera, perdona por dos mil ducados. No</l>
+<l>tengo humano remedio de pagarlos; si allá hubiere alguno, vuestra sangre soy; y que anduve en</l>
+<l>las entrañas mismas donde anduvistes. De Mecina, etc. Camilo Fénix».</l>
+<l>¡Estraña carta!</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¡Ay de mí,</l>
+<l>que se cayó desmayada!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>La carta es tierna.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Mi amada</l>
+<l>Fenisa!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿No hay agua?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pero no vayas por ella,</l>
+<l>que están mis ojos presentes,</l>
+<l>que es vergüenza de otras fuentes</l>
+<l>que de las suyas traella.</l>
+<l>Coge aquí, Celia, aunque tanto</l>
+<l>dolor tiene el pecho lleno,</l>
+<l>que podrá darle veneno</l>
+<l>una drama de mi llanto.</l>
+<l>¡Ah, mi bien! ¿Vivís? Mas ¿quién</l>
+<l>preguntara tal error?</l>
+<l>Vivir ya es señal mayor,</l>
+<l>porque vos viváis también.</l>
+<l>Volved en vos, que habrá medio</l>
+<l>para ese mal.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Ay, mi hermano!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Habla?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Amor soberano</l>
+<l>de tu piedad fue remedio.</l>
+<l>León fue mi sentimiento,</l>
+<l>que la muerta gloria mía</l>
+<l>volvió a la vida que había</l>
+<l>llegado al último aliento.</l>
+<l>¿Qué puedo yo hacer por vos</l>
+<l>y ese desdichado hermano?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Todo remedio es en vano.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues busquémoslo los dos.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>El que en esto puede haber</l>
+<l>es que, pues habéis vendido</l>
+<l>la hacienda que habéis traído,</l>
+<l>según dijisteis ayer,</l>
+<l>sobre mis joyas y hacienda</l>
+<l>me prestéis dos mil ducados;</l>
+<l>que estos rigores pasados...</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No tratéis, mi bien, de prenda,</l>
+<l>que no es pequeña el amor</l>
+<l>y obligación que yo os debo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Herrarme queréis de nuevo.</l>
+<l>Tenéis español valor.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pero advertid, gloria mía,</l>
+<l>que un mercader sin dinero</l>
+<l>es como amor sin tercero,</l>
+<l>es como sin luz el día.</l>
+<l>Habéisme de prometer</l>
+<l>pagar en breve, que ya</l>
+<l>mi partida cerca está,</l>
+<l>y será echarme a perder.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Luego que salga mi hermano,</l>
+<l>unas casas venderemos</l>
+<l>que cerca de aquí tenemos,</l>
+<l>y os pagaré de mi mano.</l>
+<l>Pero tomad, por mi vida,</l>
+<l>mis joyas: yo gusto desto.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Tristán, parte a casa presto,</l>
+<l>y en el arca guarnecida</l>
+<l>un gato hallarás que tiene</l>
+<l>en oro dos mil ducados.</l>
+<l>Esta es la llave.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¡Qué honrados</l>
+<l>pensamientos!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Al fin viene</l>
+<l>de tierra ejemplo en el mundo</l>
+<l>en hacer bien y amistad.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Más debo a tu voluntad.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Débesme un amor profundo.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿No vas, Tristán?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Sí, señor.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues ¿qué miras?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Estás loco?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Déjame ser noble un poco</l>
+<l>y no ingrato a tanto amor.</l>
+<l>Yo conozco esta mujer</l>
+<l>y yo lo sabré cobrar.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Las joyas puedes tomar.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Cuando fuere menester.</l>
+<l>Vase.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Qué os dice Tristán?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Querría</l>
+<l>que vuestras joyas tomara.</l>
+<l>Es mercader, y repara</l>
+<l>en prendas.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Por vida mía...!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Por vida vuestra, mi bien,</l>
+<l>que basta un cabello en prenda</l>
+<l>de más oro; y nadie entienda</l>
+<l>que otra quiero que me den.</l>
+<l>Las almas, ¿tienen valor?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Qué mayor?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Si se celebra</l>
+<l>que de cada sutil hebra</l>
+<l>cuelga mil almas amor,</l>
+<l>¿qué más prenda que un cabello</l>
+<l>donde mil almas están?</l>
+<l>Mas voy a ver si Tristán</l>
+<l>yerra o acierta con ello,</l>
+<l>para que lo traiga al punto.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Vente hoy a comer conmigo,</l>
+<l>bizarro español.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Yo digo</l>
+<l>que vendré.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Y contigo junto</l>
+<l>vendrá todo el bien que tengo.</l>
+<l>Ven, mi señor, y encamina</l>
+<l>este dinero a Micina.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Espérame, que ya vengo.</l>
+<l>Vase.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Fuese?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>La escalera abajo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Mamola su señoría.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Mientras vemos luz, es día.</l>
+<l>No hagas fiestas y habla bajo,</l>
+<l>que se puede arrepentir</l>
+<l>de aquí a la posada el hombre.</l>
+<l>Mas, ¿a quién hay que no asombre</l>
+<l>tu artificioso vivir?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Calla, que es cosa de risa</l>
+<l>cómo eso pescar verás.</l>
+<l>No se ha de olvidar jamás</l>
+<l>el anzuelo de Fenisa.</l>
+<l>Quedo, que llaman.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Quién sube?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Mira si maula aquel gato.</l></sp>
+   <stage>Sale TRISTÁN.</stage>
+   <sp><speaker>TRISTÁN</speaker>
+<l>Para no mostrarme ingrato,</l>
+<l>ni un instante me detuve.</l>
+<l>Aquí viene aquel dinero.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Muestra a ver. Escudos son.</l>
+<l>Tristán, pilla este doblón</l>
+<l>y dile a aquel caballero</l>
+<l>que venga luego a comer,</l>
+<l>que le aguardo agradecida,</l>
+<l>y vuélvete, por mi vida,</l>
+<l>que tengo un poco que hacer.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>De lo prestado barato...</l>
+<l>¡oh, qué mal indicio es!</l>
+<l>Este ratón al revés</l>
+<l>nos ha cogido este gato.</l>
+<l>Vase.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Bajose?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Iba murmurando.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>También murmuran los ríos,</l>
+<l>y de oír y ver sus bríos</l>
+<l>se están los peces holgando.</l>
+<l>¿Será gran descompostura</l>
+<l>besar este gato?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>No,</l>
+<l>que es de algalia, y pienso yo</l>
+<l>que de su aliento asegura.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Ves aquí, Celia, a Lucindo</l>
+<l>besado en forma de gato.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿No hay mujer que sin recato</l>
+<l>quiere y besa a un perro lindo?</l>
+<l>Pues, ¿por qué no besarás</l>
+<l>un gato que es como un oro?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Yo lo diera a quien adoro.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>No lo digas. Loca estás.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Quiero a don Juan que me pierdo.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Llama a ese gato don Juan.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Llaman?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Sí, llamando están.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues con dinero me acuerdo</l>
+<l>de amor, gran mal me apercibo.</l>
+<l>Guarda este Lucindo en pelo.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Voy.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Cierra bien, que recelo</l>
+   <l>del alma de oro que es vivo.</l></sp>
+<stage>Vase CELIA y sale el capitán OSORIO.
+</stage>
+<sp><speaker>OSORIO</speaker>
+<l>Después que vives ya tan recogida,</l>
+<l>Fenisa, que a tu puerta y tu ventana</l>
+<l>apenas hay un hombre que resida</l>
+<l>un hora de la tarde o la mañana;</l>
+<l>después que has dado en reducir tu vida</l>
+<l>al estilo y manera valenciana,</l>
+<l>ni admites juego ni conversa quieres,</l>
+<l>que bien medran con esto las mujeres.</l>
+<l>Solía yo ser tu galán de esquina,</l>
+<l>el bravo de tu puerta y el matante,</l>
+<l>el que echaba los hombres en cecina,</l>
+<l>y de tu encantamento era el gigante.</l>
+<l>Ya duermes, como tímida gallina,</l>
+<l>debajo de las alas de tu amante,</l>
+<l>y antes que el sol acabe su carrera,</l>
+<l>no hay una mosca de tu puerta afuera.</l>
+<l>Estás enamorada, que parece</l>
+<l>cosa imposible en condición tan loca.</l>
+<l>¿Qué luto es este y qué desdén que ofrece</l>
+<l>tu vista y el silencio de tu boca?</l>
+<l>¿Es don Juan, por ventura, el que merece</l>
+<l>volver en agua tu cristal de roca?</l>
+<l>Dame parte de todo como amigo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Bien tengo, capitán, que hablar contigo.</l>
+<l>Siempre al favor de tu española espada</l>
+<l>en Sicilia viví, gallardo Osorio,</l>
+<l>siempre, con libertad o enamorada,</l>
+<l>mi pecho te mostré claro y notorio.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Mira que traigo una camarada,</l>
+<l>no para alfeñicarse en locutorio,</l>
+<l>sino para provecho de tu casa.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues suban todos, y hasta el dueño abrasa.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¡Oh, soldados! ¿Que digo? Ya hay licencia.</l></sp>
+   <stage>Salen muy gallardos CAMPUZANO, TRIBIÑO y OROZCO.</stage>
+   <sp><speaker>CAMPUZANO</speaker>
+<l>Beso a vuesa merced las manos.</l>
+</sp>
+<sp><speaker>TRIBIÑO:</speaker>
+<l>Todos</l>
+<l>nos remitimos ya a su elocuencia.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Españoles? Haránse de los godos.</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>¿Hay sillas?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Celia...</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Bueno en mi conciencia.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Guardaste aquello?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Está cuarenta codos</l>
+<l>debajo de la tierra.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Bien has hecho.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Qué chusma es esta? ¿Es gente de provecho?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Soldados y españoles, plumas, galas,</l>
+<l>palabras, remoquetes, bernardinas,</l>
+<l>arrogancias, bravatas y obras malas.</l>
+</sp>
+<sp><speaker>TRIBIÑO:</speaker>
+<l>Siempre me agradan estas francisquinas.</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>¡Que siempre en agua de fregar resbalas!</l>
+</sp>
+<sp><speaker>TRIBIÑO:</speaker>
+<l>Vos sois poeta, allá cosas divinas...</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>No sé, a fe de soldado, desta seta.</l>
+<l>Verdad es que en España fui poeta.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>Y ¿érades vos de aquellos impecables,</l>
+<l>cuyos versos distila en alambique</l>
+<l>la culta musa?</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>Fui de los palpables,</l>
+<l>imitador de Laso y de Manrique.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Juguemos.</l>
+</sp>
+<sp><speaker>TRIBIÑO:</speaker>
+<l>Vengan dados.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Como entables</l>
+<l>juego en tu casa y español se pique,</l>
+<l>habrá día que valga cien ducados,</l>
+<l>y docientos es poco.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>Traigan dados.</l>
+<l>Van llegando un bufete, mete un escudero en una salvilla los dados; comiencen a echar, y</l>
+<l>entra TRISTÁN.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Puédote hablar?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Qué me quieres?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Mi señor queda a la puerta.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Qué quiere?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Comer, si acierta.</l>
+<l>¡Graciosas sois las mujeres!</l>
+<l>¿No le convidaste?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Yo?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Luego olvidaste, señora,</l>
+<l>el concierto?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues ¿ya es hora?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Cómo es hora? La una dio.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿La una?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Bien, por mi vida!</l>
+<l>Tras el gato, falsos tratos;</l>
+<l>pues cuando bajan los gatos,</l>
+<l>suelen sacar la comida.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>Más a trece.</l>
+</sp>
+<sp><speaker>TRIBIÑO:</speaker>
+<l>Digo aquí.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>Aquesto más.</l>
+</sp>
+<sp><speaker>TRIBIÑO:</speaker>
+<l>Topo y tengo.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Yo no topo a lo que vengo.</l>
+<l>No lo habrá dicho por mí.</l>
+</sp>
+<sp><speaker>TRIBIÑO:</speaker>
+<l>Nueve, y diez, y trece.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>Bien.</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>Esto le corre detrás.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Si corriera el gato más,</l>
+<l>no le alcanzaran tan bien.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Dile, Tristán, a tu dueño</l>
+<l>que han venido estos soldados,</l>
+<l>todos hidalgos honrados,</l>
+<l>con mi enojo, y no pequeño,</l>
+<l>que me perdone y me vea</l>
+<l>a la tarde.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>No hay en casa</l>
+<l>cosa que comer, y pasa</l>
+<l>la hora.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Dios le provea.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Dios le provea? Pues ¿llega</l>
+<l>a puerta de algún convento?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Vete, Tristán.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>Más.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Reviento.</l>
+<l>¡Ah, juventud loca y ciega!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Oyes?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Qué?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Di que se venga</l>
+<l>esta tarde a merendar,</l>
+<l>que le quiero regalar.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Para purgar se prevenga,</l>
+<l>que a fe que en esta respuesta</l>
+<l>no llevo mal testimonio.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Mira que hay aquí un demonio.</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>La mitad me debéis desta.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Yo le llevo gentil lazo.</l>
+<l>Aunque discreto, cayó.</l>
+<l>Él lindo gato le dio,</l>
+<l>mas ella lindo gatazo.</l>
+<l>Vase.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>No juego más.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Quién ganó,</l>
+<l>para darle el parabién?</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>Para que barato os den</l>
+<l>mis manos y os sirva, yo.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿Tienes qué comer?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>No falta.</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>Celia, tomad esto vos.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿Hay criados?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Aquí hay dos.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Vayan Cosmillo y Peralta</l>
+<l>y traigan cuatro capones,</l>
+<l>seis perdices, tres conejos.</l>
+</sp>
+<sp><speaker>TRIBIÑO:</speaker>
+<l>¿Y vino?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Cuatro pellejos.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>¿Fruta?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Peras y melones.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Echa una pastilla aquí.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>No habéis visto la limpieza</l>
+<l>de Fenisa.</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>Desta pieza,</l>
+<l>ya lo demás presumí.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Venid, y veréis su aseo,</l>
+<l>su pintura, estrado y cama.</l>
+</sp>
+<sp><speaker>TRIBIÑO:</speaker>
+<l>¡Por Dios, que es bizarra dama!</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>Días ha que la deseo</l>
+<l>hablalla.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Tened paciencia.</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>No es posible que repose.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Qué hay de Lucindo?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Quedose</l>
+<l>a la luna de Valencia.</l></sp><stage>Vanse. Entran LUCINDO y TRISTÁN.</stage><sp><speaker>LUCINDO</speaker>
+<l>Pasaré con esta daga</l>
+<l>tu pecho.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Pues yo, señor,</l>
+<l>¿qué culpa tengo, en rigor?</l>
+<l>¿Qué quieres tú que le haga?</l>
+<l>¿Qué tengo de responder,</l>
+<l>si estaban cuatro soldados</l>
+<l>coseletes?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Cómo? ¿Armados?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Yo los vi resplandecer.</l>
+<l>Antes dije mil lisonjas,</l>
+<l>viendo en dagas y en lanzones</l>
+<l>más hierro por guarniciones</l>
+<l>que a un locutorio de monjas.</l>
+<l>Llega tú, llama y pregunta;</l>
+<l>quizá el gato te dirá:</l>
+<l>«Hacia aquel desván está».</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Llevo la color difunta.</l>
+<l>¡Ah, mujer! Sospechas llevo</l>
+<l>que me has engañado.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Pasa</l>
+<l>de engaño. Es rabia.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Ah de casa!</l>
+<l>A la ventana, CELIA.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Pues, ¿qué tenemos de nuevo?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Celia o infierno, ¿qué es esto</l>
+<l>que hace tu ama conmigo?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Pues, ¿de qué se queja, amigo,</l>
+<l>que viene tan descompuesto?</l>
+<l>¡Jesús! ¿Infierno soy yo?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Llámame, Celia, ese cielo.</l>
+<l>Quizá me engaña el recelo</l>
+<l>que otras veces me engañó.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Está comiendo, no creo</l>
+<l>que podrá salirte a hablar.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Es buen modo de burlar</l>
+<l>esto que a mis ojos veo!</l>
+<l>¿No era el convidado yo?</l>
+<l>Pónese FENISA.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Con quién habla? ¿Qué es aquesto?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Mi vida!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Quién es?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Tan presto</l>
+<l>de quién soy se te olvidó?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Soy algo corta de vista.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues no se te echa de ver.</l>
+<l>Más que lince sueles ser</l>
+<l>sin que un muro te resista.</l>
+<l>¿Por qué tu vista condenas</l>
+<l>más que a tus ojos ingratos,</l>
+<l>pues es tal, que hasta los gatos</l>
+<l>ves en las arcas ajenas?</l>
+<l>Y cuando fueras tan corta</l>
+<l>de vista, ¿no ha conocido</l>
+<l>mi voz, Fenisa, tu oído?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Esa, Lucindo, reporta,</l>
+<l>y ven esta noche acá,</l>
+<l>que agora fue un acidente</l>
+<l>el estar aquí esta gente.</l>
+<l>Y no te espantes si está,</l>
+<l>porque, como te pedí</l>
+<l>el dinero que ya sabes</l>
+<l>para ocasiones tan graves,</l>
+<l>y me dijiste que sí,</l>
+<l>y Tristán no le ha traído,</l>
+<l>válgome de lo que puedo.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Agora me deja el miedo</l>
+<l>desocupado el sentido.</l>
+<l>Tristán, ¿que no se lo diste?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Cómo no? ¡Qué lindo cuento!</l>
+<l>Y lo metió en su aposento</l>
+<l>Celia.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues, ¿qué es esto? ¡Ay, triste!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Mandas otra cosa?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Escucha:</l>
+<l>quede difinido aquí</l>
+<l>cómo el dinero te di.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Tuvieras razón, y mucha,</l>
+<l>si tú me le hubieras dado.</l></sp><stage>Vanse las dos.</stage><sp><speaker>LUCINDO</speaker>
+<l>Tristán, habla.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Fuese ya.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Qué he de hacer?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Que entres allá,</l>
+<l>que yo me pondré a tu lado.</l>
+<l>Todos españoles son,</l>
+<l>y todos te han de ayudar.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Las puertas quiero quebrar.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Tienes enojo y razón.</l>
+<l>Llaman recio, y salen OROZCO, OSORIO, CAMPUZANO y TRIBIÑO, las espadas desnudas.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿Quién es el descomedido</l>
+<l>que, estando aquí honrada gente,</l>
+<l>llama temerariamente?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Yo, caballeros, no he sido.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Pues ¿quién?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Un paje, sospecho,</l>
+<l>que cuatro platos traía.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿Platos?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>¿De quién sería?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>De algún galán de provecho,</l>
+<l>y como sintió el ruido</l>
+<l>se volvió.</l>
+</sp>
+<sp><speaker>CAMPUZANO</speaker>
+<l>Discreto fue.</l>
+</sp>
+<sp><speaker>OROZCO</speaker>
+<l>Vamos a comer, que, a fe,</l>
+<l>que fuera bien recebido.</l>
+<l>Éntranse todos los soldados.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Con lindo anzuelo, con famoso estilo,</l>
+<l>con ser un pez tan diestro, me ha burlado.</l>
+<l>¡Qué bien que vuelvo a España despachado!</l>
+<l>¡Qué bien me ha herido por el mismo filo!</l>
+<l>A llanto del famoso cocodrilo</l>
+<l>mi oído blandamente regalado,</l>
+<l>a tus manos llegué, como engañado</l>
+<l>peregrino de amor que pasa al Nilo.</l>
+<l>Dadme, cielos, venganza del anzuelo;</l>
+<l>desta mujer cruel quebrad la caña,</l>
+<l>que es su artificio destruición del suelo.</l>
+<l>Mirad que con sus lágrimas engaña,</l>
+<l>mirad que vuelvo, en tanto desconsuelo,</l>
+   <l>lleno de amor y sin dinero a España.</l></sp>
+<stage>Vase.</stage>
+
+<sp><speaker>TRISTÁN</speaker>
+<l>Adiós, Sicilia; adiós, enredo isleño;</l>
+<l>adiós, Palermo, puerto y franca puerta</l>
+<l>a las naciones deste mundo abierta,</l>
+<l>en quien tanta codicia rompe el sueño.</l>
+<l>Adiós, famoso gato, aunque pequeño,</l>
+<l>vivo os quedáis: nuestra esperanza es muerta,</l>
+<l>pues no volvéis a España. Cosa es cierta</l>
+<l>que no se muda el gato con el dueño.</l>
+<l>Adiós, Fenisa; adiós, gato del gato;</l>
+<l>adiós, cabo de gato, cuyo espejo</l>
+<l>puede servir de ejemplo y de recato.</l>
+<l>Pero permita Dios que tu pellejo</l>
+<l>antes de un mes, por tu bellaco trato,</l>
+   <l>sirva de gato a un avariento viejo.</l></sp>
+</div><div type="act" n="III">
+<stage>Sale DINARDA, en hábito de hombre, y BERNARDO.</stage>
+<sp><speaker>DINARDA</speaker>
+<l>Pues, ¿cómo vienes así?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Estoy malo.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Tú? ¿De qué?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>No sé.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Cómo que no sé?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Ni sé el mal, ni sé de mí.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Hate probado la tierra?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Más, el cielo me ha probado.</l>
+<l>¡Ay, qué dolor que me ha dado!</l>
+<l>¡Qué fuego mi pecho encierra!</l>
+<l>¡Ay, ay! ¡Jesús, qué acidente!</l>
+<l>Tócame este pulso.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Muestra</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Si es tanta la amistad nuestra,</l>
+<l>ponme la mano en la frente.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Ni el pulso, Bernardo, tiene</l>
+<l>movimiento estraordinario,</l>
+<l>ni más de aquel necesario</l>
+<l>calor a la frente viene.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Tócame el rostro.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Ni en él</l>
+<l>tienes muestras de calor.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¡Ay, qué terrible dolor!</l>
+<l>¡Ay, que dolor tan crüel!</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Dónde?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Al pecho se ha abajado.</l>
+<l>Saltos me da el corazón.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Estraños dolores son.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>De estraña causa me han dado.</l>
+<l>Ponme la mano, así vivas,</l>
+<l>sobre el corazón.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Sí haré.</l>
+<l>Mas di al dolor que se esté</l>
+<l>quedo.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Su acidente avivas.</l>
+<l>¿No sientes que el corazón</l>
+<l>te dice la causa dél?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Yo no siento nada dél.</l>
+<l>Estos sus efetos son.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿No te dice nada?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Nada.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Ni que eres tú quien le mueve?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Yo?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Tú, pues.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Cosa que lleve...?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Quedo, quedo. ¿Esto te enfada?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Luego ¿no me ha de enfadar</l>
+<l>que me tengas por mujer?</l></sp><stage>Sale FABIO.</stage><sp><speaker>FABIO</speaker>
+<l>¿Soy por acá menester?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Sí, porque quiere negar.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¿Por qué niegas lo que ya</l>
+<l>sabemos los dos?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¡Por Dios,</l>
+<l>que es concierto de los dos!</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Así concertado está;</l>
+<l>que solo esperando estaba</l>
+<l>que te defendieses dél.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¡Infames!</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>No seas cruel,</l>
+<l>deja invenciones, acaba.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Desde que entraste en la nave,</l>
+<l>echamos todos de ver</l>
+<l>que eres mujer.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Yo, mujer?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Tú, pues.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Yo?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Fabio lo sabe.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Fabio, ¿qué has visto de mí?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Lo que no he visto.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¡Villano!</l>
+<l>Si pongo a la espada mano...</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Deténte.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Forzáisme aquí?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Somos muy mozos los dos</l>
+<l>para viejos de Susana.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Yo, Susana?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Cosa es llana</l>
+<l>en cuanto a mujer, ¡por Dios!,</l>
+<l>que de lo que es la inocencia</l>
+<l>era testimonio en ti.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Llaman?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Sospecho que sí.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Perdí la ocasión.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Paciencia.</l></sp><stage>Sale FENISA y CELIA.</stage><sp><speaker>FENISA</speaker>
+<l>¿Nunca he de ver yo tu casa?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¡Oh, Fenisa! ¡Oh, mi señora!</l>
+<l>¡Oh, amiga Celia! ¡Oh, aurora</l>
+<l>del sol que el alma me abrasa!</l>
+<l>¿En esta humilde posada</l>
+<l>tanto bien?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Adónde está</l>
+<l>el capitán?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Salió ya.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Vengo, mi español, cansada</l>
+<l>de comprar cosas que son</l>
+<l>forzosas a las mujeres.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Quieres descansar y quieres,</l>
+<l>por mi vida, colación?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>La que tomara de ti</l>
+<l>en la caja de esa boca</l>
+<l>la estoy mirando.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Era poca</l>
+<l>para servirte de mí;</l>
+<l>que el azúcar de Canaria,</l>
+<l>ni cuanto labran Valencia</l>
+<l>y Lisboa...</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Una advertencia</l>
+<l>nos ha de ser necesaria.</l>
+<l>Esta, ¿no ha venido aquí?</l>
+<l>Pues calla y deja hacer.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Deja, don Juan, de ofrecer,</l>
+<l>pues es al revés en ti;</l>
+<l>que lo ordinario es besar</l>
+<l>y no ofrecer, y tú ofreces</l>
+<l>y no besas.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Cuantas veces,</l>
+<l>Fenisa, voy a intentar</l>
+<l>besar la imagen que amor</l>
+<l>en su demanda me enseña,</l>
+<l>luego me aparta y despeña</l>
+<l>este siempre necio honor.</l>
+<l>Pero, ¿quieres, por mi vida,</l>
+<l>ver mi aposento y estancia,</l>
+<l>donde no hay paños de Francia,</l>
+<l>ni cama de oro vestida,</l>
+<l>escritorios alemanes</l>
+<l>ni portugueses olores,</l>
+<l>sino los deseos mayores</l>
+<l>y los gustos más galanes?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Recíbolo a más amor</l>
+<l>que si viera de Venecia</l>
+<l>el tesoro, o el que precia</l>
+<l>Florencia de su señor.</l>
+<l>Ni el Aranjüez de España</l>
+<l>viera con más alegría.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Entra, dulce prenda mía.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Van juntos?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¡Cosa estraña!</l>
+<l>Ello es engaño sin duda.</l>
+<l>pues requebrándose van.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Por los indicios que dan,</l>
+<l>Bernardo, de intento muda.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Mudarele donde sé</l>
+<l>de cierta ciencia, que quiero</l>
+<l>una mujer y, primero,</l>
+<l>de esperiencia lo sabré.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Mas, ¿que me quieres hurtar</l>
+<l>el pensamiento y que quieres</l>
+<l>a Celia?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Mi amigo eres</l>
+<l>y, aunque me puedo enojar,</l>
+<l>soy, Fabio, de parecer</l>
+<l>que los dos la conquistemos,</l>
+<l>que yo sé que no seremos</l>
+<l>muchos para una mujer.</l>
+<l>Cógenla en medio.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Celia...</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Celia...</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Qué queréis?</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Yo te quiero.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Yo te adoro.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Yo me derrito.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Yo lloro.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Por tan libre me tenéis?</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Antes honrarte queremos.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Los medios son bien honrosos.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Somos estremos viciosos,</l>
+<l>y nuestra virtud te hacemos.</l></sp><stage>Sale ALBANO y CAMILO.</stage><sp><speaker>ALBANO</speaker>
+<l>Aquí Fenisa entró.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Pues aquí vive</l>
+<l>el capitán Osorio, camarada</l>
+<l>de ese don Juan.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Sus pajes son aquestos.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Y Celia aquella.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Oh, Celia! ¿En esta casa?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Parécete milagro?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Dejo a Osorio</l>
+<l>cuatro calles de aquesta, y no fue mucho</l>
+<l>tener a novedad que estéis en ella.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Eso del capitán es cosa antigua.</l>
+<l>Las mujeres, Albano, y deste gusto,</l>
+<l>pican en novedades por momentos.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Pues, ¿qué soldado vive aquí?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¡Oh, qué gracia!</l>
+<l>Vive la gentileza, la hermosura,</l>
+<l>la perla más preciosa que ha pasado</l>
+<l>de España a Italia, vive el mismo Adonis,</l>
+<l>de quien agora mi señora es Venus.</l>
+<l>Vive don Juan de Lara.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¿Qué os parece?</l>
+<l>¿Será agora mujer don Juan de Lara?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Celia, espera por Dios; escucha, Celia.</l>
+<l>¿Fenisa con don Juan?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Deja los celos</l>
+<l>del capitán, que nunca amó Fenisa,</l>
+<l>y cree que don Juan la tiene loca.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Fenisa y don Juan dices que se hablan!</l>
+<l>¿Y los has visto juntos?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Yo lo digo,</l>
+<l>y aun tú lo puedes ver.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Válgame el cielo!</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Albano, si en las cosas que se dudan</l>
+<l>no habemos de dar crédito a los ojos,</l>
+<l>¿qué probanza nos queda más segura?</l>
+<l>Dejad aqueste loco pensamiento;</l>
+<l>que don Juan no es Dinarda, vuestra dama,</l>
+<l>ni así ha de ser por fuerza.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Agora digo</l>
+<l>que no es milagro en la naturaleza</l>
+<l>la estraña diferencia de los rostros.</l>
+<l>Yo estoy desengañado.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Mira, Albano,</l>
+<l>si mandas otra cosa.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Dios te guarde.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Mi señora me llama.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Y a nosotros</l>
+<l>don Juan.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Hoy, Celia, has de quedar por mía.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Y de los dos.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¡Qué tierna me han hallado!</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Bien caben muchas bestias en un prado.</l></sp><stage>Vanse CELIA y BERNARDO, quedan ALBANO y CAMILO.</stage><sp><speaker>CAMILO</speaker>
+<l>¿Y está de averiguar alguna cosa</l>
+<l>en razón de que aqueste caballero</l>
+<l>es hombre, y hombre que a Fenisa ha dado?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>A lo menos, Camilo, me ha servido</l>
+<l>este retrato de Dinarda bella</l>
+<l>de alborotarme el alma de tal modo,</l>
+<l>que ha borrado la estampa de Fenisa.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>No de otra suerte que la sombra huye</l>
+<l>al resplandor de sol o la mentira</l>
+<l>cuando se prueba la verdad gloriosa,</l>
+<l>huyó Fenisa, que era amor fingido</l>
+<l>a la luz del retrato de Dinarda,</l>
+<l>y quedastes, Albano, de su engaño</l>
+<l>libre; piedad que le debéis al cielo,</l>
+<l>porque desde el primero movimiento</l>
+<l>de sus divinos tornos hasta el último</l>
+<l>que han dado sus esferas celestiales,</l>
+<l>no se ha visto mujer tan engañosa.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Forasteros son estos.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Y españoles.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>A la cuenta, no ha mucho que salieron</l>
+<l>del mar.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>De almacenar su hacienda vienen.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Vamos de aquí.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¡Qué buenos talles tienen!</l></sp><stage>Vanse. Entran LUCINDO, TRISTÁN, DON FÉLIX y DONATO, criado.</stage><sp><speaker>DON FÉLIX</speaker>
+<l>El amistad de un camino</l>
+<l>tan largo, y haber hallado</l>
+<l>en vos pecho tan honrado</l>
+<l>y entendimiento divino,</l>
+<l>Lucindo, no me permite</l>
+<l>ni dejaros, ni dejar</l>
+<l>de daros parte y lugar</l>
+<l>a donde a nadie se admite,</l>
+<l>que es lo que un alma atesora.</l>
+<l>Lo que en la nave encubrí</l>
+<l>desde Vinarós aquí</l>
+<l>quiero que sepáis ahora...</l>
+<l>Retírate allá, Donato.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Desvíate allá, Tristán.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Leyes del mundo, que van</l>
+<l>donde quiere el tiempo ingrato,</l>
+<l>Lucindo, mi edad mejor</l>
+<l>en su sazón han cortado,</l>
+<l>como suele el tosco arado</l>
+<l>llevar de paso la flor.</l>
+<l>Yo vengo a matar un hombre</l>
+<l>a Sicilia.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Habéisme honrado</l>
+<l>en no haberme despreciado</l>
+<l>por la humildad de mi nombre;</l>
+<l>que siendo don Félix vos,</l>
+<l>caballero sevillano,</l>
+<l>yo mercader valenciano,</l>
+<l>tan desiguales los dos,</l>
+<l>debo estimar con razón</l>
+<l>que me tratéis como amigo.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Bien veréis en lo que os digo</l>
+<l>si os he dado el corazón.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Para que no presumáis</l>
+<l>que no estimo esa merced,</l>
+<l>que os quiero pagar creed,</l>
+<l>aunque de mi amor lo estáis.</l>
+<l>¿Vos a Sicilia venís</l>
+<l>a matar un hombre?</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Vengo</l>
+<l>a matar un hombre, y tengo</l>
+<l>razón.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Muy bien advertís.</l>
+<l>Yo vengo a tomar venganza</l>
+<l>de una mujer y también</l>
+<l>tengo razón.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Si de quien</l>
+<l>hizo de vos confianza,</l>
+<l>Lucindo, tenerse puede,</l>
+<l>mirad si puedo ayudaros.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Querría el caso contaros,</l>
+<l>si el tiempo lugar concede.</l>
+<l>Yo vine a Palermo habrá</l>
+<l>dos meses y una mujer</l>
+<l>fingió quererme.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>¿Querer</l>
+<l>saben?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Olvídanlo ya.</l>
+<l>Regalome, fingió estar</l>
+<l>enamorada de mí;</l>
+<l>que el anzuelo en que caí</l>
+<l>pudiera entonces pescar</l>
+<l>al más severo Catón,</l>
+<l>al más recatado estilo,</l>
+<l>porque es aquí un cocodrilo</l>
+<l>que llora y mata a traición.</l>
+<l>Es entre dama y señora,</l>
+<l>entre cortesana y grave,</l>
+<l>que sabe engañar y sabe</l>
+<l>ser firme hasta que enamora.</l>
+<l>De allí abajo no hay amor,</l>
+<l>porque a quien ha de querer</l>
+<l>o ha de ser otra mujer,</l>
+<l>o tratalla con rigor.</l>
+<l>El anzuelo con que pesca</l>
+<l>es regalar al que coge,</l>
+<l>para que después se arroje.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>¡Linda treta!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Linda y fresca.</l>
+<l>Hallela en su casa un día</l>
+<l>con más luto que una mula</l>
+<l>canóniga...</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>¡Cuánto adula</l>
+<l>una falsa cortesía!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Diome una carta, de suerte</l>
+<l>que vi en ella que quedaba</l>
+<l>preso su hermano y que estaba,</l>
+<l>Félix, sentenciado a muerte,</l>
+<l>mas que por dos mil ducados</l>
+<l>la parte perdonaría.</l>
+<l>Esto fue porque sabía,</l>
+<l>o de mí o de mis criados,</l>
+<l>que yo tenía el dinero</l>
+<l>de lo que había vendido.</l>
+<l>No vi este gato fingido</l>
+<l>y disele verdadero,</l>
+<l>porque con joyas y prendas</l>
+<l>me quería asegurar,</l>
+<l>mas no las quise tomar.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Necedad.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Muy bien enmiendas.</l>
+<l>De allí adelante se fue</l>
+<l>secándose poco a poco;</l>
+<l>yo a su reja y puerta loco</l>
+<l>algunas noches pasé.</l>
+<l>Negó el dinero; entendí</l>
+<l>cobrarlo, y era sacar</l>
+<l>una sortija del mar.</l>
+<l>Cuando el imposible vi,</l>
+<l>volvime a Valencia, donde</l>
+<l>no fui muy bien recebido,</l>
+<l>de donde agora he venido</l>
+<l>para ver si corresponde</l>
+<l>la venganza al pensamiento,</l>
+<l>que esta hacienda que registro</l>
+<l>no es más de porque al registro</l>
+<l>acuda este lobo hambriento.</l>
+<l>Cuanto saqué de la nave</l>
+<l>y metí en el aduana</l>
+<l>fue ostentación tan liviana,</l>
+<l>que apenas en ella cabe</l>
+<l>y no vale cien escudos.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Así mi desdicha fuera,</l>
+<l>que, como hacienda perdiera,</l>
+<l>ella y yo fuéramos mudos.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Es honra?</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>No es menos prenda.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Sí, pero habéis de saber</l>
+<l>que en cualquiera mercader</l>
+<l>es honra también la hacienda.</l>
+<l>Tras el caudal, si se pierde,</l>
+<l>va el crédito, pues, perdido.</l></sp><stage>Sale CELIA, y FENISA.</stage><sp><speaker>CELIA</speaker>
+<l>Pues ¿no me dirás qué ha sido?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Nadie, Celia, me lo acuerde.</l>
+<l>Nadie me nombre a don Juan.</l>
+<l>El que le abriere mi puerta</l>
+<l>no la verá más abierta.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¡Jesús! ¿Lucindo y Tristán?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Válame Dios! ¿No era ido?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Fuese y ha vuelto.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿A qué viene?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Viene a ese trato que tiene.</l>
+<l>¿Si te habrá puesto en olvido?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Los hombres, Celia, no olvidan</l>
+<l>a donde los tratan mal,</l>
+<l>que es condición natural</l>
+<l>porfiar donde les pidan.</l>
+<l>Si de don Juan no viniera</l>
+<l>tan mohína, aquí le hablara.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Pues ¿qué fue aquesto?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>«Repara,</l>
+<l>mira, advierte considera,</l>
+<l>lo que dirá el capitán».</l>
+<l>Y tras esto, me ha rogado</l>
+<l>que diga que me ha gozado.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Los dos mirándote están.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Ay, don Félix! Esta es</l>
+<l>la causa de mis enojos.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Sabes algo destos ojos?</l>
+<l>¿Qué es lo que en sus niñas ves?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Sé que esas niñas lo son</l>
+<l>de manera, en la mudanza,</l>
+<l>que dan menos esperanza</l>
+<l>después de la posesión.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Suelen los recién venidos</l>
+<l>abrazar los bien hallados.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Bien venidos tan cansados</l>
+<l>siempre son mal recibidos.</l>
+<l>Pagástete de tu mano,</l>
+<l>no fiando de la mía</l>
+<l>en la mayor niñería</l>
+<l>que pudo un pecho liviano.</l>
+<l>Sabe Dios que no sentí</l>
+<l>perder, Fenisa, el dinero,</l>
+<l>mas ver mi amor verdadero,</l>
+<l>y haberle fingido en ti;</l>
+<l>que con dar vuelta a Valencia,</l>
+<l>adonde hay padres honrados,</l>
+<l>traigo treinta mil ducados.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Tienes tú poca paciencia.</l>
+<l>Yo solo quise probarte.</l>
+<l>Confieso que recibí</l>
+<l>el dinero y me escondí</l>
+<l>en la mira de adorarte.</l>
+<l>Gusté de escuchar tus quejas,</l>
+<l>porque, oyendo sus estremos,</l>
+<l>porque no nos arrojemos</l>
+<l>tienen las ventanas rejas.</l>
+<l>El día que te partiste</l>
+<l>con Celia envié a llamarte.</l>
+<l>Acababas de embarcarte.</l>
+<l>¡Qué buena noche me diste!</l>
+<l>¡Qué lágrimas me costó</l>
+<l>haber querido y querer</l>
+<l>probarte!</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>¡Astuta mujer!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Desta suerte me engañó.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>No sé cómo te refiero</l>
+<l>aquel dolor desigual.</l>
+<l>Solamente en tanto mal</l>
+<l>me consoló tu dinero.</l>
+<l>Aquella prenda tomaba</l>
+<l>en las manos y decía</l>
+<l>cosas que quien las oía</l>
+<l>enternecida quedaba.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Es posible, mi señora,</l>
+<l>que merecí con mi ausencia</l>
+<l>lágrimas tuyas? Paciencia.</l>
+<l>Necio fui; súpelo agora.</l>
+<l>¡Vive Dios, que si en la mar</l>
+<l>esa nueva me llegara,</l>
+<l>que a las aguas me arrojara</l>
+<l>y te volviera a buscar!</l>
+<l>En la calle estás, mi bien;</l>
+<l>no es justo tenerte aquí.</l>
+<l>Si tú me quieres así,</l>
+<l>yo te quiero así también.</l>
+<l>Patria y padres, perdonad:</l>
+<l>no ha de volver del dinero</l>
+<l>a Valencia escudo entero.</l>
+<l>¿Entero? Ni la mitad.</l>
+<l>Ve, Fenisa, a la aduana,</l>
+<l>infórmate si he traído</l>
+<l>hacienda y, por Dios te pido,</l>
+<l>de esa beldad soberana,</l>
+<l>que en vendiéndola te entregues</l>
+<l>en la plata y en el oro,</l>
+<l>pues me basta por tesoro</l>
+<l>que mirarte no me niegues.</l>
+<l>¿Podrete agora abrazar?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Agora y siempre, mi bien.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Vete con Dios, y prevén</l>
+<l>para esta noche lugar,</l>
+<l>que voy con aqueste hidalgo</l>
+<l>en casa de un mercader,</l>
+<l>que merced me quiere hacer,</l>
+<l>por él, no por lo que valgo,</l>
+<l>de que a cambio se me den</l>
+<l>tres mil ducados en tanto</l>
+<l>que vendo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>De ti me espanto.</l>
+<l>¿No era yo buena, mi bien,</l>
+<l>para negociar las cosas</l>
+<l>de tu gusto?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues ¿tendrías</l>
+<l>quien me lo diese?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Estos días</l>
+<l>ciertas doncellas hermosas</l>
+<l>a un capitán han hablado</l>
+<l>que tienen ciertos escudos,</l>
+<l>que están suspensos y mudos</l>
+<l>sin provecho y con cuidado.</l>
+<l>A cambio te los darán.</l>
+<l>¿Para qué son?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Para trigo,</l>
+<l>que hay falta allá.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Espera, amigo,</l>
+<l>que estas te acomodarán.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>De aquesta mercadería</l>
+<l>que traigo hay agora acá</l>
+<l>y, si la vendo, será</l>
+<l>con poca ganancia mía.</l>
+<l>Si aguardo un mes, ganaré</l>
+<l>la mitad por medio, y quiero,</l>
+<l>tomando aqueste dinero,</l>
+<l>aunque pierda, pues podré</l>
+<l>esquitallo en la ganancia,</l>
+<l>fletar la nave...</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Harás bien</l>
+<l>y yo haré que te le den.</l>
+<l>Pero, ¿será de importancia</l>
+<l>el resguardo de tu hacienda?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Del almacén en que está</l>
+<l>daré las llaves.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Será,</l>
+<l>Lucindo, bastante prenda.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Para tener más lugar</l>
+<l>de estar contigo, no quiero</l>
+<l>vender tan presto, y espero</l>
+<l>que te sabré regalar.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Harto regalo me ofreces</l>
+<l>con verte, dulce bien mío.</l>
+<l>¿Pagarasme?</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Yo confío</l>
+<l>pagarte como mereces.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Advierte que han de querer</l>
+<l>treinta por ciento.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Eso es cosa</l>
+<l>crüel.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues será forzosa.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>No es razón.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Esto ha de ser.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Tú negocia que sean veinte,</l>
+<l>por vida de aquesos ojos.</l>
+<l>Mas no quiero darte enojos,</l>
+<l>mi alma, que pasa gente.</l>
+<l>Yo te iré a ver esta tarde.</l>
+<l>Habla a Fenisa, Tristán.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Tristán, qué bueno y galán!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Señora, el cielo te guarde.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Ya, como ricos venís,</l>
+<l>hablaréis por petición.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Otra ha sido la ocasión.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Ya sé lo que presumís.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Ojalá presunción fuera!</l>
+<l>No es sino pura verdad.</l>
+<l>¡Mal haya la voluntad</l>
+<l>que en querer se persevera!</l>
+<l>Habiéndole tú engañado,</l>
+<l>viene este tonto a querer</l>
+<l>a la más falsa mujer.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Tristán!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Estoy enojado.</l>
+<l>¡Si vieras al moscatel</l>
+<l>en la mar, lleno de fuego,</l>
+<l>por hallar algún sosiego</l>
+<l>querer arrojarse en él!</l>
+<l>¡Si le vieras en Valencia</l>
+<l>llorar hasta que juntó</l>
+<l>tanta hacienda y se embarcó!</l>
+<l>Pensé perder la paciencia.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Trae mucha?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>No, casi nada:</l>
+<l>treinta mil ducados son.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Probar quise su afición.</l>
+<l>Su hacienda tengo guardada.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Ahora bien, gaste su hacienda,</l>
+<l>vaya a tu casa esta vez,</l>
+<l>dé a sus padres tal vejez,</l>
+<l>cumpla bien con su encomienda,</l>
+<l>que con no volver a España</l>
+<l>con él, habré yo cumplido.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Tristán, no me has conocido.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Conozco quién es la caña</l>
+<l>adonde prendió el anzuelo</l>
+<l>que aquel gato nos pescó.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Qué vestido te hice yo</l>
+<l>de un famoso terciopelo,</l>
+<l>con mil pasamanos de oro,</l>
+<l>que por irte le perdiste!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¿Vestido, por Dios, me hiciste?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Qué linda cosa!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Eso ignoro,</l>
+<l>pues tentado de galán,</l>
+<l>yo te llevaré este loco,</l>
+<l>que no ha de valerte poco.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Si me le llevas, Tristán,</l>
+<l>el vestido y cien ducados</l>
+<l>son tuyos.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Beso tus pies.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Adiós.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Adiós.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Esta es</l>
+<l>la ocasión de mis cuidados.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Mira, mi bien, que te espero.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Haz el dinero traer.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues advierte que ha de ser</l>
+<l>treinta por ciento el dinero.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Como quisieres.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿A quién</l>
+<l>lo piensas pedir?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>A mí,</l>
+<l>que los dos mil tengo allí;</l>
+<l>los mil haré que me den</l>
+<l>sobre joyas y vestidos.</l>
+<l>Treinta por ciento, ¿es ganancia,</l>
+<l>dime, de poca importancia?</l>
+<l>Y este pierde los sentidos</l>
+<l>por mí y, si vende, es muy llano</l>
+<l>que me ha de dar cuanto tenga.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Guarda, señora, no venga</l>
+<l>con intento más villano;</l>
+<l>que los hombres suelen ser</l>
+<l>astutos en la venganza.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Al que dellos más alcanza</l>
+<l>le engaña cualquier mujer.</l>
+<l>Vamos por el aduana</l>
+<l>y en el registro veré</l>
+<l>su hacienda, para que esté</l>
+<l>segura.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Esa prenda es llana,</l>
+<l>porque del libro sabrás,</l>
+<l>y el registro, lo que trae.</l></sp><stage>Vanse las dos.</stage><sp><speaker>DON FÉLIX</speaker>
+<l>Si en el engaño no cae,</l>
+<l>lindo gatazo le das.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Que ella me le diese a mí</l>
+<l>es lo que agora deseo.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Que se va trazando creo</l>
+<l>para que suceda así.</l></sp><stage>Sale el capitán OSORIO y DINARDA.</stage><sp><speaker>OSORIO</speaker>
+<l>No hay para qué satisfacerme en nada:</l>
+<l>yo sé que sois honrado caballero.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Gente es esta. Volved a la posada</l>
+<l>mientras que solicito este dinero.</l>
+<l>Y si habéis de matar por propia espada</l>
+<l>ese que os ofendió, deciros quiero</l>
+<l>más seguro camino.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Yo quisiera</l>
+<l>que con secreto mi venganza fuera.</l></sp><stage>Vanse FÉLIX y LUCINDO.</stage><sp><speaker>DINARDA</speaker>
+<l>Que estuviese Fenisa en mi aposento</l>
+<l>no niego, capitán, pero es muy llano</l>
+<l>que os vino a ver.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Yo sé su pensamiento</l>
+<l>y sé también su proceder liviano.</l>
+<l>Encarcelar el sol, prender el viento,</l>
+<l>me pareció más fácil que el tirano</l>
+<l>pecho desta mujer rendirse a un hombre,</l>
+<l>si es cosa justa que mujer la nombre.</l>
+<l>Con esto ha conservado el artificio</l>
+<l>de pescar las haciendas estranjeras,</l>
+<l>porque ese amor en gente de ese oficio</l>
+<l>derriba por el suelo sus quimeras;</l>
+<l>mas como el más espléndido edificio,</l>
+<l>que inmortal a los tiempos consideras,</l>
+<l>está sujeto al rayo, tú lo fuiste,</l>
+<l>que con su libertad en tierra diste.</l>
+<l>Ella te adora, yo lo sé ¿Qué dudas?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Y ¿oféndote, por dicha, en que me adore?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Están las piedras, del milagro, mudas,</l>
+<l>que lo es muy grande que te busque y llore;</l>
+<l>mas, si a quien tantos desnudó desnudas,</l>
+<l>no dudes que tu ingenio se mejore</l>
+<l>por haber engañado al mismo engaño,</l>
+<l>al mismo enredo, astucia, traza y daño.</l>
+<l>Corrido de las burlas que me ha hecho</l>
+<l>y tantos, al fin, hombres y estranjeros,</l>
+<l>quiero que pruebes a vengar mi pecho,</l>
+<l>solamente en materia de dineros.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Si para alguna cosa de provecho</l>
+<l>fuere don Juan, su vida y sus aceros</l>
+<l>ordena, manda, corta, pon y quita,</l>
+<l>que tú me obligas y un agravio incita.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿Agravio a ti?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Después sabrás el cuento.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Mira; ninguna cosa estas mujeres</l>
+<l>buscan ni intentan más que el casamiento.</l>
+<l>Toca esta tecla, si engañarlas quieres.</l>
+<l>Debe de ser la causa el escarmiento</l>
+<l>de sus livianos gustos y placeres;</l>
+<l>y cuando aquesto no les dé codicia,</l>
+<l>el librarse también de la justicia.</l>
+<l>Fuera desto, el temor que al tiempo tienen,</l>
+<l>viendo que ya se acaba la hermosura</l>
+<l>y que, si a verse con arrugas vienen,</l>
+<l>no tienen cama o posesión segura.</l>
+<l>Muchos verás que así las entretienen</l>
+<l>diciendo que hoy, mañana, y por ventura</l>
+<l>en algunos es flor. ¿Hasme entendido?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Tú quieres que me finja su marido?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Déjame hacer, verás el fin que llevo.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Poco a poco a su casa hemos llegado.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Tú serás de su Troya Sinón nuevo.</l></sp><stage>Salen FENISA y CELIA.</stage><sp><speaker>FENISA</speaker>
+<l>Todo el dinero tengo ya contado.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Paréceme, Fenisa, estraño cebo</l>
+<l>del anzuelo de amor tanto ducado.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿No ves que me informé de los que tiene?</l>
+<l>Llámame al capitán.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Él mismo viene.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>A buscarte enviaba.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿En qué te sirvo?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Cierto dinero doy a cambio a un hombre,</l>
+<l>codiciosa de ver tanta ganancia,</l>
+<l>y, porque espero otra mayor, querría</l>
+<l>que dijeses que es tuyo y que es hacienda</l>
+<l>de unas doncellas.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿No te dan resguardo?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Danme cincuenta cajas, por lo menos,</l>
+<l>de paños y de sedas de Valencia</l>
+<l>y cien pipas de aceite registradas.</l>
+<l>Desto tendré las llaves y el seguro</l>
+<l>de las guardas del Rey, que, sin mi orden,</l>
+<l>no se dará a su dueño ni a otro alguno.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Paréceme muy bien.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Cómo no llega</l>
+<l>don Juan?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Porque está agora vergonzoso</l>
+<l>de cierta pretensión.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Malicias tuyas.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿Cómo malicias? ¡Vive Dios, que quise,</l>
+<l>sabiendo que has estado en su aposento,</l>
+<l>pasarle el pecho con aquesta daga</l>
+<l>y que me dijo que le perdonase,</l>
+<l>porque si alguna cosa te había dicho,</l>
+<l>era con solo intento de casarse!</l>
+<l>Yo, viendo la ocasión de tu remedio,</l>
+<l>y que con él casada, si te lleva</l>
+<l>a España, allá serás lo que quisieres,</l>
+<l>quiero perder de mi derecho y gusto,</l>
+<l>porque te ganes tú, que, por ventura,</l>
+<l>si voy a pretender como sospecho,</l>
+<l>te acordarás que tu remedio he hecho.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Ay, capitán! ¿Engáñasme?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>No creas</l>
+<l>que en mi vida engañé mujer ninguna.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Ay, español, cómo conozco agora</l>
+<l>la verdad española y el buen trato!</l>
+<l>Si se efetúa, os doy el mismo día</l>
+<l>dos cadenas que valgan mil ducados.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Yo le he dicho a don Juan que estás muy rica.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>No engañas a don Juan, porque, si digo</l>
+<l>verdad, puedo esta noche darle en dote</l>
+<l>catorce mil ducados como uno.</l></sp><stage>Entra TRISTÁN.</stage><sp><speaker>TRISTÁN</speaker>
+<l>Lucindo, mi señor, queda esperando</l>
+<l>con los de la aduana.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Osorio, vamos.</l>
+<l>Tú, Celia, dile a Estacio y a Fabricio</l>
+<l>carguen ese dinero y que me sigan.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Despedireme de don Juan.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues dile</l>
+<l>que es alma desta vida.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Qué se ha hecho?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>A un negocio forzoso los dos vamos.</l>
+<l>Está loca Fenisa y me promete</l>
+<l>mil ducados, don Juan, en dos cadenas.</l>
+<l>Quédate por aquí.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Guárdete el cielo.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Oh, qué bien se concierta! Agora es tiempo,</l>
+<l>fortuna, de tu paso diligente.</l>
+<l>¡Por Dios, que va a mamarla dulcemente!</l></sp><stage>Vanse, y queda DINARDA sola.</stage><sp><speaker>DINARDA</speaker>
+<l>Perdidos pasos doy, gastando al viento</l>
+<l>suspiros, llantos, locas diligencias.</l>
+<l>Ya no me queda en qué probar paciencias,</l>
+<l>que todo lo venció mi sufrimiento.</l>
+<l>Si amor es un continuo pensamiento,</l>
+<l>¡qué mucho que le rompan mil ausencias!;</l>
+<l>pues querer que me quieran por violencias</l>
+<l>ni es ley de amor ni generoso intento.</l>
+<l>Mudose Albano, ¡Oh, tiempos miserables!</l>
+<l>¡Y blasonan los hombres que adoramos</l>
+<l>que sus firmezas son incontrastables!</l>
+<l>Mujeres sin disculpa nos mudamos.</l>
+<l>Los hombres no, porque, si son mudables,</l>
+<l>dicen que es por la causa que les damos.</l></sp><stage>Entra ALBANO.</stage><sp><speaker>ALBANO</speaker>
+<l>Mucho me huelgo de hallaros,</l>
+<l>don Juan, solo en este puesto.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Y yo de veros y hablaros,</l>
+<l>que también vengo dispuesto</l>
+<l>a informarme y a informaros.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Válame Dios! ¿Que este sea</l>
+<l>don Juan y que no es Dinarda,</l>
+<l>quién ha de haber que lo crea?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Mucho el temor me acobarda,</l>
+<l>que conocerme desea.</l>
+<l>Pues téngolo de negar,</l>
+<l>si aquí supiese morir.</l>
+<l>Ya que me venís a hablar</l>
+<l>o comenzad a decir,</l>
+<l>o comenzad a escuchar.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Cuando en esta casa entrastes,</l>
+<l>sabíades mi intención,</l>
+<l>¿por qué vos después llegastes?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Eso está en el corazón,</l>
+<l>que vos siempre me negastes.</l>
+<l>Y solo Dios lo sabría,</l>
+<l>porque un hombre, al fin mudable,</l>
+<l>tendrá dos mil cada día.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Jesús! Que mire, que hable,</l>
+<l>es la misma prenda mía.</l>
+<l>Pero Celia me ha contado</l>
+<l>que de Fenisa ha gozado,</l>
+<l>y esto no pudiera ser</l>
+<l>siendo este don Juan mujer,</l>
+<l>como lo tengo sonado.</l>
+<l>Quiérome disimular.</l>
+<l>Vuestros criados hablé,</l>
+<l>cuando me quise informar.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Pues bien, ¿a qué efeto fue?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>A efeto de preguntar</l>
+<l>vuestra patria y vuestro nombre;</l>
+<l>y burláronse de mí.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Son pajes.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>No porque asombre</l>
+<l>el veros venir aquí</l>
+<l>tan gallardo y gentilhombre,</l>
+<l>que deso no estoy celoso,</l>
+<l>mas para solo saber</l>
+<l>si sois hombre generoso,</l>
+<l>porque con esta mujer</l>
+<l>procedáis más cauteloso.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¡Qué gracia en eso tenéis!</l>
+<l>¿De cautelas me advertís?</l>
+<l>Sin duda que las sabéis.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Vos, ¿para qué la servís?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Vos, ¿para qué la queréis?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Yo por solo entretener</l>
+<l>la ausencia de una mujer</l>
+<l>de quien desdichas me apartan,</l>
+<l>que eternamente se hartan</l>
+<l>de verme morir y arder.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Vos queréis mujer ausente?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Quiero una mujer que adoro,</l>
+<l>tan bella, que no consiente</l>
+<l>que se le compare el oro,</l>
+<l>ni el mismo sol en Oriente.</l>
+<l>Como a imagen la tenía</l>
+<l>en el altar del respeto,</l>
+<l>donde el alma le ofrecía;</l>
+<l>cuyo retrato os prometo</l>
+<l>hace en vos la ausencia mía;</l>
+<l>y de colores de amor</l>
+<l>en la tabla del deseo</l>
+<l>os hizo con tal primor,</l>
+<l>que parece que la veo,</l>
+<l>aunque la cubre el temor.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Quisiera saber quién era</l>
+<l>para escribirle ese engaño</l>
+<l>que vuestra fe vitupera,</l>
+<l>porque, viendo el desengaño,</l>
+<l>ausente os aborreciera;</l>
+<l>que a una piedra mueve a risa</l>
+<l>que aquí finjáis adorar</l>
+<l>a quien vuestro olvido pisa,</l>
+<l>y me vengáis a matar</l>
+<l>por los celos de Fenisa.</l>
+<l>Pues, Albano, estad atento</l>
+<l>a lo que os voy a decir</l>
+<l>de ese antiguo pensamiento:</l>
+<l>ni tengo que competir,</l>
+<l>ni vuestros engaños siento.</l>
+<l>Deste que agora tenéis,</l>
+<l>os digo que no intentéis</l>
+<l>entrar desde hoy en su casa,</l>
+<l>porque Fenisa se casa.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿Con quién?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Allá lo sabréis.</l>
+<l>Y ¿qué sirve preguntar</l>
+<l>con quién se casa esta dama,</l>
+<l>amando en otro lugar?</l>
+<l>¿No veis que en eso se infama</l>
+<l>la que estaba en el altar?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Oíd.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Yo, cuentos ajenos?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¡Ay, ojos de engaños llenos!</l>
+<l>¿Con quién se casa?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Conmigo.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿Con vos?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Sí, conmigo digo.</l>
+<l>Vase.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Por muchos años y buenos.</l>
+<l>Acabose. Yo, ¿qué intento?</l>
+<l>¡Por Dios, que me vuelve loco</l>
+<l>tan estraño pensamiento!</l>
+<l>Ya mi desengaño toco,</l>
+<l>ya con la verdad consiento,</l>
+<l>ya me parece que es ella,</l>
+<l>ya me parece que no,</l>
+<l>mas lo que saco de vella</l>
+<l>es que en mí resucitó</l>
+<l>cuanto he pasado por ella.</l></sp><stage>Entra CAMILO.</stage><sp><speaker>CAMILO</speaker>
+<l>En vuestra busca he venido</l>
+<l>por la ciudad descompuesto</l>
+<l>y a gran ventura he tenido</l>
+<l>hallaros en este puesto.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Quedo, Camilo. ¿Qué ha sido?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Un hombre medio embozado</l>
+<l>y español recién llegado,</l>
+<l>solícito preguntaba</l>
+<l>adónde Albano posaba</l>
+<l>entre uno y otro soldado.</l>
+<l>Llegué y díjeselo, y luego</l>
+<l>le pregunté qué os quería.</l>
+<l>Mostró algún desasosiego</l>
+<l>y dijo que volvería</l>
+<l>sin que bastase mi ruego.</l>
+<l>Seguile y en su posada</l>
+<l>pregunté quién era.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿Y bien?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Ninguno me dijo nada.</l>
+<l>Fui a la mar, que fue también</l>
+<l>una advertencia estremada,</l>
+<l>y una nave valenciana</l>
+<l>hallé que había surgido,</l>
+<l>pienso que ayer de mañana,</l>
+<l>y que aquesta había traído</l>
+<l>cierta gente sevillana.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿Sevillana dijo?</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Sí.</l>
+<l>Pues don Félix está aquí,</l>
+<l>el hermano de Dinarda,</l>
+<l>de alguna traición te guarda.</l></sp><stage>Salen LUCINDO y TRISTÁN.</stage><sp><speaker>LUCINDO</speaker>
+<l>Altamente la cogí.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Divinamente cayó.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¿Está en la nave el dinero?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Nuestra gente le embarcó.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Pues, si hace viento, ¿qué espero?</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Lo mismo te digo yo.</l>
+<l>Esta tiene mil valientes;</l>
+<l>que, descubierto el engaño,</l>
+<l>importa hallarnos ausentes.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Quién se hallara al desengaño!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Ni lo digas ni lo intentes.</l>
+<l>Conozco que fuera justo</l>
+<l>alquilar una ventana</l>
+<l>para mirar con tal gusto</l>
+<l>esta Circe cortesana</l>
+<l>rabiar de puro disgusto,</l>
+<l>pero, el peligro advertido,</l>
+<l>cojamos en alta mar,</l>
+<l>Lucindo, aqueste ruido.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Tristán, ¡cuál ha de quedar!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Notable gatazo ha sido.</l>
+<l>Todos tenemos anzuelo.</l>
+<l>¡Hola, pícara gallarda,</l>
+<l>quédate a Dios!</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>¡Qué recelo</l>
+<l>me ha dado esta gente!</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>Aguarda.</l>
+<l>No es nada.</l>
+</sp>
+<sp><speaker>LUCINDO</speaker>
+<l>Dad viento, cielo,</l>
+<l>a la nave con que trato,</l>
+<l>que de fama y tiempo ingrato</l>
+<l>mayor opinión espero</l>
+<l>que Jasón por su cordero,</l>
+<l>por este dorado gato.</l>
+<l>Cese la famosa historia</l>
+<l>del vellocino, que frisa</l>
+<l>con la más alta memoria,</l>
+<l>que el anzuelo de Fenisa</l>
+<l>me ha dado mayor vitoria.</l>
+<l>Vase.</l>
+</sp>
+<sp><speaker>TRISTÁN</speaker>
+<l>¡Cielos, dad viento a la nave</l>
+<l>en que me vuelvo a Valencia,</l>
+<l>para que en ella me alabe</l>
+<l>que pude vencer la ciencia</l>
+<l>de la mujer que más sabe!</l>
+<l>Cien ducados y un vestido</l>
+<l>hoy a Fenisa he cogido;</l>
+<l>mi amo, tres mil ducados,</l>
+<l>que, los dos mil rescatados,</l>
+<l>mil por la ganancia han sido.</l>
+<l>Quédate en paz, pescadora</l>
+<l>de bolsas, anzuelo estraño</l>
+<l>de gatos, áspid que llora.</l>
+<l>Mamaste tu mismo engaño,</l>
+<l>Circe de enredos autora.</l>
+<l>Ya no será de importancia</l>
+<l>poner cebo a la ganancia,</l>
+<l>llorar, mover y fingir,</l>
+<l>que ojos que nos vieren ir</l>
+<l>no nos verán más en Francia.</l>
+<l>Vase.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Bien me parece y sería</l>
+<l>cuerda cosa ir a la mar.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>De esa nave en que venía</l>
+<l>me quiero luego informar,</l>
+<l>antes que se cierre el día;</l>
+<l>que no faltará algún hombre</l>
+<l>que sepa también el nombre,</l>
+<l>y las señas me dirán.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Agravios, ¿qué no podrán?</l>
+<l>Lo que intenta no te asombre,</l>
+<l>porque escribe el ofendido</l>
+<l>en mármol y el que ofendió</l>
+<l>en agua.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Pues he sabido</l>
+<l>que viene, no seré yo</l>
+<l>quien viva con tanto olvido.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Bien haces, porque, en efeto,</l>
+<l>el que agravia no de un muro</l>
+<l>ni del lugar más secreto,</l>
+<l>aun no ha de vivir seguro</l>
+<l>de sí mismo, si es discreto.</l></sp><stage>Vanse. Salen FENISA y CELIA.</stage><sp><speaker>CELIA</speaker>
+<l>Contenta vienes.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>No estuve</l>
+<l>en mi vida más contenta.</l>
+<l>La suerte, a mi bien atenta,</l>
+<l>sobre su rueda me sube.</l>
+<l>He vuelto un hombre a mi casa</l>
+<l>que la puede enriquecer,</l>
+<l>y seré de otro mujer,</l>
+<l>que por lo menos me abrasa.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Seguro queda el dinero</l>
+<l>que a Lucindo agora has dado.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Con qué astucia le he engañado!</l>
+<l>Él es lindo majadero.</l>
+<l>¿Hay hombre tan mentecato?</l>
+<l>¿Estas bestias cría España?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Es toda España montaña</l>
+<l>bárbara en ingenio y trato.</l>
+<l>¡Mira tú qué policía,</l>
+<l>pues, de plata que le ofrece</l>
+<l>la India, a Italia enriquece,</l>
+<l>a Francia y a Berbería!</l>
+<l>¿Qué nación sustenta el mundo</l>
+<l>donde no corra por ley</l>
+<l>plata y armas de su rey?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Qué bien mis negocios fundo!</l>
+<l>Treinta por ciento y, tras esto,</l>
+<l>lo que queda que pescar.</l>
+<l>Destos querría yo hallar.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Pocos hallarás tan presto.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Las llaves del almacén</l>
+<l>he puesto en el escritorio.</l>
+<l>¿Adónde, Celia, fue Osorio?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Fue por don Juan.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Ay, mi bien!</l></sp><stage>Entra BERNARDO.</stage><sp><speaker>BERNARDO</speaker>
+<l>Deme vuestra señoría,</l>
+<l>como a su paje, la mano.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Amigo Bernardo, hermano!</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Goces de tal compañía</l>
+<l>más de mil años. Amén.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Toma este anillo, Bernardo,</l>
+<l>por el español gallardo</l>
+<l>que es dueño tuyo y mi bien.</l>
+<l>Mira que el diamante vale</l>
+<l>cuarenta escudos y más.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>Cuando me mandes, verás</l>
+<l>que hay quien su firmeza iguale.</l></sp><stage>Entra FABIO.</stage><sp><speaker>FABIO</speaker>
+<l>De la vostra señoria</l>
+<l>beso le mani e li piedi,</l>
+<l>e vollo chieder mercedi.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Oh, Fabio!</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¡Oh, patrona mia!</l>
+<l>Un seculo e più, segnora,</l>
+<l>godiate il vostro consorte,</l>
+<l>contenta fin a la morte,</l>
+<l>e dapoi de morta anchora.</l>
+<l>Mai abiate gelosia,</l>
+<l>e Dio vi done filloli</l>
+<l>maschi, beli e españoli.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>El cielo hacerlo podría.</l>
+<l>Toma esta joya, mi Fabio,</l>
+<l>que esa lengua me consuela.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¡Oh, patronchina mia bela!</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Oh, paje discreto y sabio!</l></sp><stage>Entra OSORIO.</stage><sp><speaker>OSORIO</speaker>
+<l>A decirte que le espere</l>
+<l>me envía el señor don Juan.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Oh, famoso capitán,</l>
+<l>que mi padre y dueño eres!</l>
+<l>Esta vuelta de cadena</l>
+<l>en mi nombre has de traer.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>No era menester prender</l>
+<l>a quien tu amor encadena,</l>
+<l>mas ya que tan liberal</l>
+<l>el cielo te fabricó,</l>
+<l>traerela en tu nombre yo,</l>
+<l>a un esclavo tuyo igual.</l>
+<l>Esto es gran favor, es mucho.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Vedite che ca me doglio!</l>
+<l>No lo voglio, no lo voglio;</l>
+<l>y intratemelo en capucho.</l></sp><stage>Entra DINARDA.</stage><sp><speaker>DINARDA</speaker>
+<l>Perdona si me he tardado.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Seas, mi bien, bien venido.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Quien viene a ser tu marido</l>
+<l>al mayor bien ha llegado.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Qué te podría yo dar</l>
+<l>por esa palabra, amores?</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Muchas perlas, muchas flores,</l>
+<l>desa boca y dese azar.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Toma este rico diamante</l>
+<l>para señal de mi fe.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Pues señal de prisión fue,</l>
+<l>sea él grillo y yo el amante.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>En cambio de un gran palacio</l>
+<l>hoy te da el alma Fenisa.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>¡Por Dios, que reparte aprisa</l>
+<l>lo que ha pescado de espacio!</l></sp><stage>Sale ALBANO y CAMILO.</stage><sp><speaker>ALBANO</speaker>
+<l>Después de que por mil años</l>
+<l>goces, hermosa Fenisa,</l>
+<l>al señor don Juan de Lara,</l>
+<l>honra y valor de Sevilla,</l>
+<l>sabe que llegando al mar</l>
+<l>para saber si venía</l>
+<l>cierto don Félix, por quien</l>
+<l>traigo en peligro la vida,</l>
+<l>vi una nave valenciana</l>
+<l>que con su caloma y grita</l>
+<l>izaba las blancas velas,</l>
+<l>que ya el manso viento hería,</l>
+<l>y que un hombre en una barca,</l>
+<l>abordándola, decía:</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>«Albano, Albano, esa carta</l>
+<l>daréis mañana a Fenisa».</l>
+<l>En esto, un hombre en la playa,</l>
+<l>que a mi lado la tenía,</l>
+<l>me la dio y, volviendo el rostro</l>
+<l>a la nave que se iba,</l>
+<l>dije: «Yo se la daré».</l>
+<l>Y entonces, con mucha risa,</l>
+<l>él y un amigo o criado</l>
+<l>suben por el borde arriba.</l>
+<l>La nave, izando el trinquete,</l>
+<l>se alejó de las orillas,</l>
+<l>porque el viento refrescaba,</l>
+<l>hasta perderse de vista.</l>
+<l>Yo no aguardé, cuidadoso</l>
+<l>de saber lo que sería,</l>
+<l>a mañana. Esta es la carta.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>La color tengo perdida.</l>
+<l>Abre, Osorio.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Dice ansí:</l>
+<l>Lee.</l>
+<l>«Si bien te acuerdas, arpía,</l>
+<l>con artificioso anzuelo,</l>
+<l>luto y lágrimas fingidas,</l>
+<l>dos mil ducados pescaste,...»</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Ah, Lucindo!</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Qué suspiras?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Válgame Dios! ¿Qué es aquesto?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Lee.</l>
+<l>«...mas la industria vengativa</l>
+<l>supo cobrar su dinero».</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¿Cómo?</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Lee.</l>
+<l>«Una caja tenía,</l>
+<l>para poder engañarte,</l>
+<l>seis varas de paño encima.</l>
+<l>Las pipas todas son agua,</l>
+<l>porque la primera pipa</l>
+<l>tiene diez libras de aceite,</l>
+<l>no harás poco si te libras.</l>
+<l>Tres mil ducados me diste;</l>
+<l>pues dos mil te di, enemiga,</l>
+<l>no es mucho que mil que quedan</l>
+<l>por este cambio me sirvan,</l>
+<l>que, si tú a treinta por ciento</l>
+<l>de tu ganancia querías,</l>
+<l>de mentiras cobrarás,</l>
+<l>pues has vendido mentiras».</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>No leas, que si supiera</l>
+<l>volar o hubiera en Sicilia</l>
+<l>encantadores...</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Detente.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Déjame.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>En vano porfías.</l>
+<l>Ya la nave en alta mar,</l>
+<l>todas las velas tendidas,</l>
+<l>camina con viento en popa.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Santo Dios!</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>¿Qué te santiguas?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Soy mujer, no os espantéis</l>
+<l>que esto piense y que esto diga.</l>
+<l>Perdona, amado don Juan,</l>
+<l>que para la hacienda mía</l>
+<l>no importan tres mil ducados.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Mi bien, como no te aflijas,</l>
+<l>yo no tengo mucha pena.</l></sp><stage>Entran DON FÉLIX, DONATO y dos soldados.</stage><sp><speaker>DON FÉLIX</speaker>
+<l>Siguiendo a los dos venía,</l>
+<l>y en esta casa se entraron.</l>
+<l>SOLDADO 1.º:</l>
+<l>Aquí hay gente.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Aquí te arrima.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>En la boda hay embozados.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Vuesas mercedes prosigan,</l>
+<l>que toda es gente de paz.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Antes parece enemiga.</l>
+<l>¡Desembócense o, por Dios,</l>
+<l>que los eche con más prisa</l>
+<l>que entraron!</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Desembózase.</l>
+<l>Un hombre soy</l>
+<l>que he venido hasta Sicilia</l>
+<l>en busca vuestra...</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>¿Es don Félix?</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>...y sin traición os querría</l>
+<l>hablar en el campo a solas.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Este es campo.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Ya me obligan...</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Ténganse, que estoy en medio.</l>
+<l>Díganme la causa y, dicha,</l>
+<l>yo los pondré en la campaña.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Don Félix tuvo en Sevilla</l>
+<l>una cuistión, de la cual</l>
+<l>sacó dos o tres heridas.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>¿No es más?</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Si es más, no lo sé:</l>
+<l>él, que lo sabe, él lo diga.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Aunque es verdad que en los pechos</l>
+<l>me pusistes aquel día</l>
+<l>la pala, que no es agravio</l>
+<l>tengo por cuarenta firmas.</l>
+<l>No vengo por esa parte,</l>
+<l>más pesa la ofensa mía:</l>
+<l>que con la espada en la mano</l>
+<l>no hay hombre que agravios pida.</l>
+<l>Yo le cobré con reñir;</l>
+<l>si me hirieron, fue desdicha,</l>
+<l>porque llegó vuestra espada</l>
+<l>como pudiera la mía.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Pues, ¿qué pedís?</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>A mi hermana;</l>
+<l>y sin ella, o sin la vida</l>
+<l>de quien me la trujo aquí,</l>
+<l>no he de volver a Sevilla.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Yo no tengo vuestra hermana.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Si la enemistad antigua</l>
+<l>cesa y las manos os dais,</l>
+<l>y por esposa la estima</l>
+<l>Albano como es razón,</l>
+<l>yo haré que venga ella misma</l>
+<l>a confirmar estas paces.</l>
+</sp>
+<sp><speaker>DON FÉLIX</speaker>
+<l>Esta es mi mano.</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Y la mía.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>Pues sabed que soy Dinarda.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Don Juan! ¡Mi esposo!</l>
+</sp>
+<sp><speaker>ALBANO</speaker>
+<l>Desvía,</l>
+<l>que mi mujer no es tu esposo.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>¡Don Juan!</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>¿Qué don Juan, Fenisa?</l>
+<l>Mujer soy.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Pues, capitán,</l>
+<l>será razón y justicia</l>
+<l>que me vuelvan lo que he dado.</l>
+<l>Dame mi cadena.</l>
+</sp>
+<sp><speaker>OSORIO</speaker>
+<l>Mira</l>
+<l>si hay algún bravo que venga</l>
+<l>y en el campo me la pida.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Bernardo, dame el diamante.</l>
+</sp>
+<sp><speaker>BERNARDO</speaker>
+<l>¿Qué diamante?</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Tú, enemiga,</l>
+<l>dame el que te di.</l>
+</sp>
+<sp><speaker>DINARDA</speaker>
+<l>que tú tengas cosa fina.</l>
+</sp>
+<sp><speaker>FENISA</speaker>
+<l>Fabio, vuélveme la joya.</l>
+</sp>
+<sp><speaker>FABIO</speaker>
+<l>Vate a la forca e te impica.</l>
+</sp>
+<sp><speaker>CAMILO</speaker>
+<l>Aquí se acaba, senado,</l></sp>
+<stage>FIN DE LA COMEDIA DEL ANZUELO DE FENISA</stage></div></body>
+
+     
+         
+      
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+Anzuelo regex steps
+
+Started from wikisource's print version which I saved to PDF and then copied. This deleted most of the web formatting.
+
+https://es.wikisource.org/wiki/El_anzuelo_de_Fenisa_(Versión_para_imprimir)
+
+1. To get rid of wikisource attribution at end of every page
+ Find El anzuelo de Fenisa \(.+\n.+\n
+ replace with nothing
+ 
+ 2. To get rid of what I think is the footer, which begins with Pag. and then has page number and the name of the play again
+Pág\.\s.+\nE.+Carpio\n
+
+3. Analysis of play parts. 
+    1. I have character names in all caps and a cast list of them at the top.
+    2. I have three acts, named with Roman numeral, Acto I, II, and III
+    3. I have one Aparte, which is a stage direction
+    4. I have several Sale/n, which is the stage direction for Enter
+    5. I have several Vanse, which is the stage direction for Exit. Also several Vase, stage direction for Exit in the singular.
+    6. Remain unsure about other stage directions until I read through the play.
+    7. No Escenas in this version, thankfully. Those are added by editors to Lope plays and occur every time a character ends or leaves, so I would remove them if they did exist.
+
+4. Wrap lines
+    Find ^.+$
+    Replace <l>\0</l>
+    
+5. Remove lines from cast list. Select cast list, regex for selection only
+    Find <l> and replace with nothing
+    Find </l> and replace with nothing
+
+6. Remove lines around Actos
+    Find <l>(Acto\s[I]+)</l>
+    Replace \1
+    
+7. Grabbed my speakers with [A-ZÁÉÍÚÑ][A-ZÁÉÍÚÑ]+\s*[A-ZÁÉÍÚÑ]+
+What do I do about the y (and) between some speaker names? They are in stage directions, so maybe I should get rid of the <l></l> around stage direction before I grab speakers.
+
+8. Remove <l> around stage directions
+
+    Find <l>(Sale.+\.)</l>
+    Replace /1
+    
+    Find <l>(Vase.+\.)</l>
+    Replace \1
+    
+    Find <l>(Vanse.+\.)</l>
+    Replace \1
+    
+    Find 
+    <l>(Entra.+\.)</l>
+    \1
+9. Remove <l> around speakers
+    Find <l>([A-ZÁÉÍÚ]+:)</l>
+    Replace /1
+    
+10. Tag speakers
+    ([A-ZÁÉÍÚ]+:)
+    <speaker>\1</speaker>
+    
+11. Deal with stage directions
+    
+    (Entra.+[A-Z]+.+\.)
+    <stage>\1</stage>
+    
+    Moved two that had Entran after Vanse by hand. Probably bad idea
+    
+    Find (Sale.+[A-Z]+.+\.)
+    <stage>\1</stage>
+    
+    Find (Vase.+[A-Z]+.+\.)
+    Replace <stage>\1</stage>
+    
+    Find (Vanse.+[A-Z]+.+\.)
+    Replace <stage>\1</stage>
+    
+    Dealt with the 1 Aparte by hand
+
+12. Assess double stage on some of the vanses. Ended up hand correcting, which might cause problems later.
+
+13. Need to use clopen strategy to grab speakers. Trying this and failing caused me to discover problems with Tribiño and Don Félix because of their special characters. Fixed.
+
+14. Still failing to clopen. My idea was to use speaker, but I am finding it hard to make the thing look over line numbers.
+
+15. Trying something simpler
+    Find <speaker>
+    Replace </sp><speaker>
+    
+    Find </sp><speaker>
+    Replace </sp><sp><speaker>
+    
+    Worry that I will have problems with stage directions
+    
+    I do!
+    
+16. Fix sp around stage directions
+    Find (</l>)(<stage>.+</stage>)</sp>
+    Replace \1</sp>\2
+    
+    Check and see if this worked. Seems like it. Phew! Moved my first </sp> to the end.
+    
+ 17. Make Acts into divs
+    Find Acto\s([I]+)
+    Replace </div><div type="act" number="\1">\0
+    
+    Move the first </div> to the bottom
+ 
+ 18. Get rid of colon after speakers' names
+    Find (<speaker>[A-ZÁÉÍÚ]+):
+    Replace \1
+ 
+ 19. Add white space around speeches
+    Find (</sp>)(<sp>)
+    Replace \1\n\2
