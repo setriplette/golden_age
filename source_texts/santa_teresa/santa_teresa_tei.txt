@@ -1,0 +1,5476 @@
+La bienaventurada Madre Santa Teresa de Jesús Félix Lope de Vega y Carpio
+Lo que ha de ser
+Félix Lope de Vega y Carpio
+Los que hablan en ella son los siguientes:
+<castList>DON DIEGO
+DON RAMIRO
+LEONIDO, criado de DON DIEGO
+FLORO, criado de DON RAMIRO
+TERESA DE JESÚS
+DON ALONSO DE CEPEDA, su padre [deTeresa]
+LEBRIJA, escudero
+EL AMOR DIVINO
+LA JUSTICIA
+DON JUAN DEL VALLE
+PETRONA
+UNA ABADESA
+UN SACRISTAN
+DON JUAN, hermano de SANTA TERESA
+DOÑA JUANA
+UN FRAILE
+LUZBEL, demonio
+ASTAROT, demonio</castList>
+<div type="act" number="I">
+
+
+<stage>Salen DON DIEGO, DON RAMIRO, LEONIDO y FLORO, criados.</stage>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Grandes fiestas se previenen.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Pienso que serán de ver;</l>
+<l>muchos forasteros vienen.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Fiestas de corte han de ser.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Tal nombre en Ávila tienen.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Mira, que nos esmeremos;</l>
+<l>costosas galas saquemos,</l>
+<l>emparejando este día,</l>
+<l>en el talle y bizarría,</l>
+<l>con el nombre que tenemos.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¡Buenos caballos tendréis!</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>En la plaza los veréis;</l>
+<l>el que por extremo alabo</l>
+<l>es un rucio.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¿Es bueno?</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Es cabo.</l>
+<l>Cuanto imaginar podéis</l>
+<l>de buen talle, paso y brío.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Del castaño obscuro fío,</l>
+<l>porque en su veloz carrera</l>
+<l>honra el Betis, y ribera</l>
+<l>de su gran soto sombrío.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Hoy, señor, echa y derrueca</l>
+<l>el jaez de rosa seca</l>
+<l>y el bayo de frente blanca</l>
+<l>que te dió en Salamanca</l>
+<l>don Alonso de Fonseca.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Es un bravo caballero!</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¿Es Fonseca? Sí será.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Con vuestra licencia, quiero</l>
+<l>ver el bayo.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Bueno está:</l>
+<l>id con Dios.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>En casa espero.</l>
+<stage>Vanse DON DIEGO y LEONIDO.</stage>
+
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Tenme a punto el alazán</l>
+<l>con la encarnada mochila,</l>
+<l>el rucio de don Tristán,</l>
+<l>y bayo de don Favila,</l>
+<l>y castaño de don Juan;</l>
+<l>al tordillo jaspeado</l>
+<l>pondrás el jaez dorado.</l>
+</sp>
+<sp><speaker>FLORO</speaker>
+<l>¿El amarillo?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>El primero;</l>
+<l>que hasta en el caballo, quiero</l>
+<l>mostrarme desesperado.</l>
+</sp>
+<sp><speaker>FLORO</speaker>
+<l>¿En el tordillo la entrada,</l>
+<l>y con jaez amarillo?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>El alma desesperada,</l>
+<l>quiero que diga el tordillo</l>
+<l>mi pretensión malograda.</l>
+<l>Y no es de maravillar</l>
+<l>que un tordillo sepa hablar,</l>
+<l>teniendo tan gran talento,</l>
+<l>por ser tal mi pensamiento</l>
+<l>que no le deja callar.</l>
+
+</sp>
+<stage>Salen TERESA y LEBRIJA, viejo.</stage>
+<sp><speaker>FLORO</speaker>
+<l>Doña Teresa de Ahumada</l>
+<l>es ésta.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¡Cómo!</l>
+</sp>
+<sp><speaker>FLORO</speaker>
+<l>¿Estás ciego?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Floro, el alma descuidada</l>
+<l>cegó, mirando su fuego,</l>
+<l>con la primer llamarada.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Es tarde?</l>
+<l>{{Pt|</sp>
+<sp><speaker>LEBRIJA</speaker>|</l>
+<l>Serán las tres.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Floro, buena ocasión es:</l>
+<l>toma este papel apriesa,</l>
+<l>dásele a doña Teresa;</l>
+<l>no esperes más.</l>
+</sp>
+<sp><speaker>FLORO</speaker>
+<l>Vete, pues.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Dirásle que se le envía</l>
+<l>mi hermana.</l>
+</sp>
+<sp><speaker>FLORO</speaker>
+<l>Déjame ahora.</l>
+<stage>Vase DON RAMIRO, salen DON DIEGO y LEÓNIDO</stage>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Buena invención, como mía!</l>
+</sp>
+<sp><speaker>FLORO</speaker>
+<l>El papel de mi señora...</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿De quién?</l>
+</sp>
+<sp><speaker>FLORO</speaker>
+<l>De doña María.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Cuando ya llegue a la plaza</l>
+<l>se le daré.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Buena traza!</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Muestra el papel.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Tómale.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>En la plaza le veré.</l>
+</sp>
+<stage>Vase LEONIDO y dale FLORO el papel.</stage>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Qué desdicha me amenaza!</l>
+<l>¡Mirad de quién me confío!</l>
+<l>Guardóle, no hay que esperar:</l>
+<l>¡ay, papel! ¡Ay, hado mío!</l>
+<l>A Leonido iré a buscar</l>
+<l>para que no le dé el mío.</l>
+<stage>Vase DON DIEGO</stage>
+
+</sp>
+<stage>salen LEONIDO y DON RAMIRO.</stage>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Si dió el papel... ¡Ay amor!</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>No tendré ocasión mejor:</l>
+<l>mi señora doña Juana,</l>
+<l>que es vuestra prima, y hermana</l>
+<l>de don Diego, mi señor,</l>
+<l>os envía este papel;</l>
+<l>y advertid...</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Qué he de advertir?</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Que respondáis hoy a él.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ansí le podéis decir...</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Qué, ¿le recibes, cruel?</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Leedle.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No hay tiempo, aquí.</l>
+</sp>
+<stage>Vase LEONIDO.</stage>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¿Guardóle en la manga? Sí.</l>
+<l>¿Quién vió jamás tal querella?</l>
+<l>¡Que tome el veneno ella</l>
+<l>y haga operación en mí!</l>
+
+</sp>
+<stage>Sale DON DIEGO.</stage>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Romperé en esta ocasión</l>
+<l>las aldabas del recato.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Donde hay celos, no hay razón.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Publicaré su mal trato.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Pregonaré mi pasión.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Ya se acabó la paciencia.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Ya me falta resistencia.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Ya he visto el rostro a la muerte.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>No he visto, cosa más fuerte.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ni yo más impertinencia.</l>
+<l>Don Ramiro, ¿qué intentáis?</l>
+<l>Don Diego, ¿qué me queréis?</l>
+<l>¡Cómo! ¿En qué locura dais?</l>
+<l>Qué, ¿el respeto, me perdéis</l>
+<l>y descompuestos me habláis?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¿Quién tal novedad pensara?</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¿Quién, señora, imaginara</l>
+<l>que ese pecho me ofendiera?</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Y, ¿quién de los dos creyera</l>
+<l>que el jüicio les faltara?</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¿Quejoso está don Ramiro?</l>
+<l>¡Yo estoy loco!</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¡Yo estoy ciego!</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Con justa causa me admiro!</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>De nuevo pierdo el sosiego:</l>
+<l>bien pronto, la vuelta disteis.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Decidme, a fe, ¿a qué vinisteis?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¡Qué linda pregunta es ésta!</l>
+<l>¿Venís a pedir respuesta</l>
+<l>del papel que me encubristeis?</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¿Yo? ¿Qué papel?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¡Bien, por Dios!</l>
+<l>Ya el vuestro está recibido,</l>
+<l>y sé que sois dueño vos</l>
+<l>del premio que he pretendido.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Qué esto que escucho a los dos?</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¿Qué me decís?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Que lo vi.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¿Qué visteis?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¡Pesar de mí!</l>
+<l>¿No me basta ya mi afrenta,</l>
+<l>sino querer que os dé cuenta</l>
+<l>dónde y cómo la sufrí?</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Sois mancha de mi opinión,</l>
+<l>y contra mí estáis ahitado.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Ya esto pasa de ocasión.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Pues espada tengo al lado.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo tengo espada y razón.</l>
+</sp>
+<stage>Sale DON ALONSO, padre de TERESA.</stage>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Pues don Ramiro, don Diego,</l>
+<l>no me perdáis el respeto.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¡Duro trance!</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Bravo aprieto!</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Por mí se aplaque este fuego:</l>
+<l>Lebrija, escuchad.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Señor.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Por qué fue la enemistad?</l>
+<l>¿De qué nació este furor?</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Temo contar la verdad.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>En peligro está mi honor.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Yo pienso que se encontraron,</l>
+<l>porque los dos enviaron</l>
+<l>cada uno su papel</l>
+<l>a mi señora.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¡Oh, cruel,</l>
+<l>que en ti mi sangre afrentaron!</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Vió don Ramiro el recado</l>
+<l>de don Diego, y vió don Diego</l>
+<l>de don Ramiro el criado,</l>
+<l>y encendió la envidia el fuego</l>
+<l>del humo que te ha inflamado.</l>
+<l>Y al fin...</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>No me digas más.</l>
+
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Saber el caso podrás,</l>
+<l>de dos papeles que esconde</l>
+<l>en su propia manga.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Adónde?</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Sin duda los hallarás.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Quiero averiguar el caso.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Desengañarme pretendo.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>En vivos celos me abraso.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Deja la manga.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ya entiendo.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Muestra el papel, y habla paso.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>En su mano está el papel.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Ya salió el testigo fiel</l>
+<l>que me absuelve y me condena.</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Ya en el potro de mi pena</l>
+<l>comienza el trato, cruel;</l>
+<l>la manga, a quien he pedido</l>
+<l>el mal que se me ordenaba,</l>
+<l>almendra preñada ha sido,</l>
+<l>pues sólo un papel buscaba,</l>
+<l>y tres en uno han salido.</l>
+<l>Ya mi daño, deseo ver.</l>
+<l>Papel, ya temo leer;</l>
+<l>mas quiérome abalanzar;</l>
+<l>que la purga y el pesar</l>
+<l>de una vez se han de beber.</l>
+<stage>Papel</stage>
+<l>«Con vuestro padre hablé,</l>
+<l>y por esposa os pedí;</l>
+<l>pienso que buen fin tendré</l>
+<l>si vos aceptáis de mí</l>
+<l>los principios de mi fe.-</l>
+<l>Don Ramiro.»</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Yo ando bueno,</l>
+<l>de, mí propio me enajeno;</l>
+<l>testigo el papel me diera,</l>
+<l>si el casamiento no fuera</l>
+<l>triaca de su veneno.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Todo, en fin, tengo de ver.</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Veré lo que dice el otro,</l>
+<l>que hasta acabar de leer</l>
+<l>está mi honor en el potro,</l>
+<l>y quédame qué temer.</l>
+<stage>Papel</stage>
+<l>«La toca, prima querida,</l>
+<l>como tuya, al fin, lucida,</l>
+<l>bordada a trechos de oro,</l>
+<l>en roja sangre de un toro</l>
+<l>te la volveré teñida.-</l>
+<l>Don Diego.»</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Qué habrá leído?</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¡Ah, pobre sangre de Abel,</l>
+<l>dos Caínes te han seguido!</l>
+<l>Temo de esotro papel</l>
+<l>que sea de otro marido.</l>
+<l>Pero letra es de mujer,</l>
+<l>y mi remedio ha de ser:</l>
+<l>Llegaos, don Ramiro, a mí.</l>
+<l>¿Conocéis la letra?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Sí,</l>
+<l>ya no hay duda que temer;</l>
+<l>mi letra y mi firma son.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Pues de una su prima es éste,</l>
+<l>monja de la Encarnación.</l>
+
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>La vida es bien que me cueste,</l>
+<l>pues me cegó la pasión.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Dejadme hablar a don Diego,</l>
+<l>y apáguese ahora el fuego</l>
+<l>que pudo abrasar mi honor.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Id, y perdonad, señor;</l>
+<l>que estuve de enojo ciego.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Sobrino, este papel ved.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Señor, esta firma es mía.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Este, agora, conoced.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¿Cúyo?</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>De doña María,</l>
+<l>de vuestra prima; leed.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Sosegado está mi pecho;</l>
+<l>salí de temido estrecho.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Quisiéraos satisfacer.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Para mí no es menester.</l>
+
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Pues yo ya estoy satisfecho.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Daos las manos.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Soy su amigo;</l>
+<l>digo que os tendré amistad.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Lo mismo que decís digo.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Y yo de vuestra bondad</l>
+<l>pongo al cielo por testigo,</l>
+<l>con experiencia de viejo;</l>
+<l>porque os miréis en mi espejo,</l>
+<l>vuestro enojo he reparado,</l>
+<l>y pues ya pasó el nublado,</l>
+<l>saldrá el sol de mi consejo.</l>
+<l>Procederé como sabio</l>
+<l>en esta fuerte ocasión.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Yo callo.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo muerdo el labio.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Aunque llegue al corazón</l>
+<l>la verdad de aqueste agravio,</l>
+<l>el que a mi hija escribió,</l>
+<l>y el que a mí me la pidió...</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Por mí dice.</l>
+
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo, soy ése.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Razón será que le pese</l>
+<l>del enojo que me dió.</l>
+<l>Yo sé que no le conviene</l>
+<l>preciarse de espadachín.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Dice bien.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Esto a mí viene.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Que tarde tendrá buen fin</l>
+<l>quien malos principios tiene.</l>
+<l>Por cierto, bien procediera</l>
+<l>quien matara y quien hiriera,</l>
+<l>pues cuando más me obligara,</l>
+<l>el honor me salpicara</l>
+<l>con la sangre que vertiera.</l>
+<l>No quiero correspondencias</l>
+<l>fundadas en trato doble,</l>
+<l>con fingidas apariencias;</l>
+<l>que por una mujer noble</l>
+<l>no se han de reñir pendencias.</l>
+<l>El que me hubiere entendido,</l>
+<l>perdone lo que ha sufrido;</l>
+<l>que en el enojo pasado,</l>
+<l>como suegro le he mirado,</l>
+<l>y como padre reñido.</l>
+<l>Venid vos.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Quién te enojó?</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Vuestro, pleito, se verá;</l>
+<l>que el proceso llevo yo.</l>
+</sp>
+<stage>Vanse DON ALONSO, TERESA y LEBRIJA.</stage>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Su yerno me llamó ya.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Como a yerno me trató.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Dejárame don Ramiro.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>De mi ventura me admiro.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>En extremo soy dichoso.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Ya puedo llamarme esposo</l>
+<l>de aquella por quien suspiro.</l>
+</sp>
+<stage>Sale LEONIDO.</stage>
+<sp><speaker>LEONIDO</speaker>
+<l>Ya, señor, queda el tordillo</l>
+<l>relinchando, en el zaguán</l>
+<l>con el jaez amarillo.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Pon luego en el alazán</l>
+<l>el verde de cañutillo.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>¿Pasóse ya la mohína?</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>El jaez verde, camina,</l>
+<l>las guarniciones bordadas,</l>
+<l>las estriberas doradas</l>
+<l>y el bozal de plata fina.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Galán salís.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Bien querría;</l>
+<l>ni ve mi bien ni su mal;</l>
+<l>que en este dichoso día</l>
+<l>las campanas del bozal</l>
+<l>repican a mi alegría.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Mejor fuera que tocaran</l>
+<l>las que en su muerte doblaran,</l>
+<l>y, sin duda, fuera cierto</l>
+<l>que no escapara de muerto</l>
+<l>si mi dicha le contaran.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¿Trujiste cañas?</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Y lanza.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Don Diego, no nos tardemos.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>No hay amantes sin extremos,</l>
+<l>ni veleta sin mudanza.</l>
+<stage>Vanse todos</stage>
+
+</sp>
+<stage>sale DON ALONSO y LEBRIJA.</stage>
+<sp><speaker>DON ALONSO:</speaker>
+<l>La cena esté prevenida</l>
+<l>como ya tengo tratado:</l>
+<l>en los servicios, cuidado,</l>
+<l>y presteza en la bebida.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>La nieve de mí confía,</l>
+<l>que este es el mayor regalo.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>No hay banquete que sea malo</l>
+<l>si está la bebida fría;</l>
+<l>con mucho cuidado estoy,</l>
+<l>que tiene don Juan, mi hijo,</l>
+<l>cuadrilla en su regocijo,</l>
+<l>y cena en su nombre doy;</l>
+<l>que siempre en esta ciudad</l>
+<l>usamos los cuadrilleros</l>
+<l>dar cena a los caballeros</l>
+<l>de nuestra parcialidad.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>¿Tengo de ir por mi señora?</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Con mi hermana se vendrá,</l>
+<l>que en sus ventanas está.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Dígolo porque ya es hora.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>La postrera había de ser</l>
+<l>de su vida y de la mía.</l>
+
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Ninguna culpa tenía;</l>
+<l>yo sé...</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>No hay qué saber.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Notable fue tu cordura</l>
+<l>con los dos competidores.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Siempre en las cosas de amores</l>
+<l>tomo la judicatura;</l>
+<l>pero mi cuerda experiencia</l>
+<l>de tal suerte me ha guiado,</l>
+<l>que la he visto, y ha llegado</l>
+<l>en mi favor la sentencia.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Con tu discreción, señor,</l>
+<l>un reino puedes honrar.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Quien tiene hijas que casar,</l>
+<l>de vidrio tiene el honor.</l>
+<l>El verdugo tiene al lado,</l>
+<l>sin alas se atreve al viento,</l>
+<l>y navega en mar violento,</l>
+<l>dentro en bajel barrenado;</l>
+<l>habita en minada torre,</l>
+<l>entre espinas se recrea,</l>
+<l>sobre pantanos pasea,</l>
+<l>y en potro sin freno corre;</l>
+<l>del aire vano se espanta,</l>
+<l>en balde su furia toca,</l>
+<l>el agua tiene a la boca</l>
+<l>y el cuchillo a la garganta:</l>
+<l>esto y más puede temer</l>
+<l>el hombre de más valor</l>
+<l>que tiene puesto el honor</l>
+<l>al aire de una mujer:</l>
+<l>yo, pues, que tengo dos hijas,</l>
+<l>dos hijas mozas sin madre,</l>
+<l>yo, que soy noble y soy padre,</l>
+<l>mira...</l>
+
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Señor, no te aflijas,</l>
+<l>que mi señora...</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Es razón,</l>
+<l>que es de amor la llamarada,</l>
+<l>y aunque sangre de Ahumada,</l>
+<l>quizá lo está mi opinión.</l>
+</sp>
+<stage>Sale DOÑA JUANA.</stage>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Ya se hace tarde.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Aquí viene.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Plática se mude ahora.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Señor, mira que ya es hora</l>
+<l>y que abreviar te conviene.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Doña Juana, hija, querida,</l>
+<l>¿qué dices?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Padre y señor,</l>
+<l>que me debes mucho amor.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Eres alma de mi vida.</l>
+<l>Que estarás quejosa arguyo,</l>
+<l>porque a las fiestas no fuiste.</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Tu gusto, señor, hiciste,</l>
+<l>y el mío es hacer el tuyo,</l>
+<l>que no tengo otro contento.</l>
+<l>Sino el que te doy a ti.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Bien lisonjas.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Es ansí.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Calla.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Verdades te cuento;</l>
+<l>bien puedes creerme.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Baste,</l>
+<l>que razón tuvieras, Juana,</l>
+<l>pues fue a los toros tu hermana,</l>
+<l>y tú en casa te quedaste,</l>
+<l>que aunque eres menor de edad,</l>
+<l>mayor caudal en ti hallé,</l>
+<l>pues hoy, Juana, te fié</l>
+<l>mi casa.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Dices verdad.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Haya en todo buena cuenta.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Cree, señor, que te he servido;</l>
+<l>todo está ya prevenido;</l>
+<l>yo te sacaré de afrenta;</l>
+<l>sarao tendrás esta noche.</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Y llegará a la mañana.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¿No, es hora de ir por mi hermana,</l>
+<l>Lebrija?</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Vendrá en un coche.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Estén hachas prevenidas</l>
+<l>por lo que acaso se ofrezca.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Luego, al punto que anochezca,</l>
+<l>señor, las tendré encendidas.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Hay truchas?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Sí, las que bastan.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>El mejor plato será.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Petrona!</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>En la sala está.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Petrona!</l>
+</sp>
+<stage>Sale PETRONA con plumas.</stage>
+<sp><speaker>PETRONA</speaker>
+<l>El nombre me gastan,</l>
+<l>¿qué mandas a esta cuitada?</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Qué es lo que tienes, Petrona?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Habíalo con la mona,</l>
+<l>que es una desvergonzada.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Pues dime, ¿qué ha sido el caso?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Estoy por desesperarme,</l>
+<l>señor; ha dado en cocarme</l>
+<l>todas las veces que paso.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Pues esto, ¿qué importa?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¡Bien!</l>
+<l>Yo la coco porque es loca,</l>
+<l>y pues ella a mí me coca,</l>
+<l>loca me llama también;</l>
+<l>ya basta lo que he sufrido;</l>
+<l>no más cocos con martica.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Mirad, pues, que quien se pica,</l>
+<l>dicen que ajos ha comido.</l>
+<l>Y aquí, para entre los dos,</l>
+<l>yo digo, amiga Petrona,</l>
+<l>que te ha cocado por mona.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¡Malos años para vos!</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Y aún es peor, que por vieja</l>
+<l>te ha cocado.</l>
+
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>El cimenterio</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Este es, Petrona, el misterio.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Por eso es mayor mi queja;</l>
+<l>cóqueme por perezosa,</l>
+<l>por floja, por descuidada,</l>
+<l>por fea, por afeitada,</l>
+<l>por liviana, por golosa;</l>
+<l>cóqueme por el dormir,</l>
+<l>por lo tinto, por lo aloque,</l>
+<l>y por vieja no me coque,</l>
+<l>porque no lo he de sufrir.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Y si lo eres.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¡Majadero!</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>¡Paco!</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¿Vieja me llamó?</l>
+<l>¿Parece él mejor que yo,</l>
+<l>cara de mocos de herrero?</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Quedaos con ella, Lebrija,</l>
+<l>cocadla más.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¡Rabio en parte!</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>La mesa quiero enseñarte,</l>
+<l>vamos, señor.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Vamos, hija,</l>
+</sp>
+<stage>Vanse DON ALONSO y DOÑA JUANA.</stage>
+<sp><speaker>LEBRIJA</speaker>
+<l>¿Son plumas?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Sí, plumas son</l>
+<l>de las aves que he pelado.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Buena invención has sacado.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¿Yo, Lebrija? ¿Qué invención?</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Mujer vieja y emplumada...</l>
+<l>Pregúntalo a la cartilla.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Miente el caduco, potrilla.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Poco a poco, deslenguada.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¿Pensáis que os he de sufrir?</l>
+<l>Antes yo de rabia muera:</l>
+<l>no me llames cobertera,</l>
+<l>que aún de olla puedo servir.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Ya es ése mucho desgarro...</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Vos tenéis muy gentil cholla.</l>
+
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Ya no pasaréis por olla.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Vos podéis pasar por jarro.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Calla, loca.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Soy honrada,</l>
+<l>y de algún bueno sobrina.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Sí, que allá por la cocina</l>
+<l>te puedes llamar ahumada.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Agradecelo a quien viene,</l>
+<l>que a fe que yo os respondiera.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Dios me libre de esta fiera</l>
+<l>por lo que de sierpe tiene.</l>
+</sp>
+<stage>Salen DON ALONSO, TERESA, DOÑA JUANA y pajes con hachas.</stage>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Las hachas aquí dejad,</l>
+<l>y al patio, pajes, volved;</l>
+<l>vos las mesas componed,</l>
+<l>y vos en su guarda estad.</l>
+<l>Luego lo que importa ordena.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Al corredor quiero ir;</l>
+<l>que he de estar a recibir</l>
+<l>los que vienen a la cena.</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>El trabajo se reparta.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Vamos de aquí, fregatriz,</l>
+<l>que eres por lo flaco miz,</l>
+<l>y por lo cocale, marta.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Vamos, señor Gandalin,</l>
+<l>que es hambriento por lo hidalgo,</l>
+<l>y ligero por lo galgo,</l>
+<l>y burdo por lo mastín.</l>
+</sp>
+<stage>Vanse LEBRIJA y PETRONA.</stage>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Contigo solo he quedado,</l>
+<l>de razón y furia lleno,</l>
+<l>porque pruebes el veneno</l>
+<l>que tu liviandad me ha dado.</l>
+<l>Y fue llevarte a la fiesta,</l>
+<l>porque quise, como sabio,</l>
+<l>disimular el agravio</l>
+<l>que tanta pena me cuesta.</l>
+<l>¡Dos papeles en un día!</l>
+<l>¡Por cierto, honrada mujer!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No te acabo de entender.</l>
+<l>¿Qué dices?</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Bien, a fe mía.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿No traes los papeles?</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>De mi prima son los dos.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Y éste, ¿qué es?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Válgame Dios!</l>
+<l>Algún engaño hay aquí.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¡Ah, falsa!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿No me dirás</l>
+<l>en qué?</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Mira estos papeles,</l>
+<l>que son testigos fieles</l>
+<l>de que engañándome estás;</l>
+<l>este firma don Ramiro,</l>
+<l>de su engaño y amor ciego,</l>
+<l>y éste, tu primo don Diego.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Mi primo! ¿Qué es lo que miro?</l>
+<l>Y ¿son éstos, di, señor,</l>
+<l>los que en mi poder hallaste?</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Y el corte que levantaste</l>
+<l>contra el filo de mi honor.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Jesús me valga! ¿Qué haré?</l>
+<l>Señor, engañada fui.</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Qué disculpa tienes, di,</l>
+<l>en tu manga los hallé?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Engaño ha sido.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Y bien grande;</l>
+<l>pues hoy, falsa, mi honor menguas,</l>
+<l>que la mujer que anda en lenguas,</l>
+<l>no es bien que en papeles ande.</l>
+<l>Que aunque haya de ser marido,</l>
+<l>después de haberse casado</l>
+<l>sentirá, si fuese honrado,</l>
+<l>que los hayas recibido.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No juzgues en mi deshonra.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Escrita mira, y firmada,</l>
+<l>la cruel sentencia dada</l>
+<l>contra el cuello de mi honra.</l>
+<l>Estas las probanzas son</l>
+<l>falsas, cruel Falerina;</l>
+<l>que nunca en rostro de harina</l>
+<l>sufre afeites la opinión.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Por de mis primas me dieron</l>
+<l>dos papeles.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¡Ay, tirana!</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Y otro por de doña Juana;</l>
+<l>con este engaño vinieron:</l>
+<l>no culpes mi buen decoro;</l>
+<l>que este acíbar escondido,</l>
+<l>píldora de engaño ha sido,</l>
+<l>cubierta con hojas de oro.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>De muerte dirás mejor;</l>
+<l>que son las de estos papeles</l>
+<l>hojas de aceros crueles,</l>
+<l>forjadas contra mi honor.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No me afrentes.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¡Pierdo el ser!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Sin razón, señor, te enojas.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Pues siembras en estas hojas,</l>
+<l>¿qué fruto quieres coger?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ya digo que por engaño</l>
+<l>los billetes recibí;</l>
+<l>no me trates, padre, ansí,</l>
+<l>que estoy salva.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¡Extraño caso!</l>
+<l>Reconoce este papel:</l>
+<l>la firma y lo escrito mira,</l>
+<l>verás clara tu mentira,</l>
+<l>y mi afrenta escrita en él.</l>
+<l>Teresa, ¿ves tu deshonra?</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Una toca di a mi primo,</l>
+<l>que como a deudo le estimo,</l>
+<l>que como a deuda me honra.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Hija, tengas culpa o no,</l>
+<l>la ocasión quiero quitarte;</l>
+<l>digo que quiero casarte,</l>
+<l>para no cansarme yo;</l>
+<l>ya la mano tengo dada;</l>
+<l>don Ramiro es tu marido.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Llámole yo mal venido;</l>
+<l>no tengo de ser casada.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Qué me dices?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Sólo digo</l>
+<l>que ser monja es mi deseo.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Monja, hija? No lo creo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Sólo el cielo es buen testigo;</l>
+<l>no hay duda que me poner;</l>
+<l>que nada, señor, me espanta.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Ya te imagino una santa;</l>
+<l>milagros podrás hacer.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Burlas?</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Por lo que te ensalzas.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>En religión quiero entrar.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Y luego querrás fundar</l>
+<l>convento de las Descalzas;</l>
+<l>darás ejemplar doctrina</l>
+<l>mostrando a tu religión</l>
+<l>suspiros en la oración</l>
+<l>y sangre en la disciplina;</l>
+<l>ya llego a considerarte</l>
+<l>una vara y más del suelo;</l>
+<l>ya pienso que se abre el cielo</l>
+<l>con gusto de enamorarte;</l>
+<l>andarás toda endiosada,</l>
+<l>y ayunarás todo el día,</l>
+<l>pasarás la noche fría</l>
+<l>en oración transportada.</l>
+<l>Ya me das indicios ciertos,</l>
+<l>aunque de mí no creídos,</l>
+<l>que has de sanar los tullidos</l>
+<l>y resucitar los muertos;</l>
+<l>la tierra no ha de comer</l>
+<l>tu difunto cuerpo helado,</l>
+<l>y al fin, después de enterrado,</l>
+<l>viva sangre ha de verter;</l>
+<l>tus reliquias verdaderas</l>
+<l>el lugar irá besando.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Lo que me dices burlando</l>
+<l>podrá Dios hacer de veras.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Mira que yo el ser te di.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No he de hacer el casamiento.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Por qué?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Por mi buen intento.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Mira que no estás en ti;</l>
+<l>de tu provecho te olvidas:</l>
+<l>que si llegamos a cuentas,</l>
+<l>pocas monjas hay contentas,</l>
+<l>y muchas arrepentidas.</l>
+</sp>
+<stage>Sale DOÑA JUANA.</stage>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Ya la sala tienen llena,</l>
+<l>mi señor, tus convidados;</l>
+<l>mira que vienen cansados,</l>
+<l>y que se tarda la cena.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Vamos, hija; y vos mirad</l>
+<l>que está el sí que tengo dado</l>
+<l>para mañana tratado.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Aún tengo yo voluntad.</l>
+<l>Y cuando casada sea,</l>
+<l>sólo ha de ser con don Diego.</l>
+
+</sp>
+<stage>Salen DON RAMIRO y PETRONA.</stage>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>A tu esfera se va el fuego,</l>
+<l>y el alma al fin que desea.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Contigo, señor, me alegro.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Toma.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>El provecho está llano;</l>
+<l>parece de ámbar la mano</l>
+<l>por lo anillo y por lo negro.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Y mano que ha florecido</l>
+<l>con otro, muy bien parece;</l>
+<l>buena ocasión se me ofrece.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¡Gran ventura se ha tenido!</l>
+</sp>
+<stage>Salen DON DIEGO y LEBRIJA.</stage>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Lebrija amigo, tomad,</l>
+<l>poné al cuello esta cadena.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Lo que durare la cena</l>
+<l>tenéis de tiempo, llegad.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Como esposo llegar quiero</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Llegar quiero como esposo.</l>
+
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Ya llega el punto dichoso,</l>
+<l>que gozar mi gloria espero.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Quién ha entrado en mi aposento?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Vuestro esposo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Dos esposos?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¡Abrid los ojos hermosos!</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Mirad que sois mi contento!</l>
+<l>¿Es don Ramiro?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Es don Diego.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Soy dueño de esta ocasión.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo estoy en la posesión.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Yo estoy en medio del fuego.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo vengo como marido.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Yo vengo como casado.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo sólo soy el llamado.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Pues yo sólo el escogido.</l>
+
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo digo en todo verdad.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Yo también la digo en todo.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Probémoslo de este modo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dése algún medio: escuchad.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Ya forzoso es remitirse</l>
+<l>a la espada; esto ha de ser;</l>
+<l>que es diamante la mujer,</l>
+<l>y pierde mucho en partirse.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Tened, si acaso los dos</l>
+<l>queréis honrarme.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo, sí.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Y vos?</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Responda por mí</l>
+<l>el alma que tengo en vos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Gran peligro mi amor tiene:</l>
+<l>volved a considerar;</l>
+<l>pero ya no hay que mirar,</l>
+<l>que mi padre es el que viene.</l>
+
+</sp>
+<stage>Sale DON ALONSO.</stage>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Qué es esto?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Llega, señor;</l>
+<l>desvíate, aleve, aparte,</l>
+<l>que ordinario, el que departe</l>
+<l>lleva la parte peor.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¡Caballeros en mi casa!</l>
+<l>¡En el cuarto de mis hijas!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Tu furia es bien que corrijas.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Qué ha sido esto? ¿Cómo pasa?</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo, señor, guardo mi esposa,</l>
+<l>y en rabiosos celos ardo.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Yo, señor, mi esposa guardo,</l>
+<l>lleno de furia celosa.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Buen fin mi casa en ti halla</l>
+<l>¿Qué dices de lo que digo?</l>
+<l>Pero no hay tan buen testigo</l>
+<l>como el reo cuando calla.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Cuando culpada me hallares,</l>
+<l>corta el hilo de mis días.</l>
+
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Un marido no querías,</l>
+<l>mas ya los tienes a pares:</l>
+<l>y dirás con arrogancia</l>
+<l>que es honrosa la ocasión,</l>
+<l>pues que los pares no son</l>
+<l>más que los doce de Francia.</l>
+<l>Ya mi honor a entender viene</l>
+<l>tu falsedad y lisonja;</l>
+<l>que mal será buena monja</l>
+<l>quien tantos maridos tiene.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Nuestra la culpa es, señor</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Los dos tenemos la culpa.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Uno y otro la disculpa,</l>
+<l>pero cúlpala mi honor.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Quiero abonar mi partido;</l>
+<l>señor, si ciego no estás,</l>
+<l>dos celosos hallarás,</l>
+<l>y ningún favorecido.</l>
+<l>..............................</l>
+<l>No te ofenden, padre, a ti,</l>
+<l>que me pretenden a mí</l>
+<l>si yo no les favorezco.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Temo que tu honor infamen,</l>
+<l>y más en este lugar.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Si ellos me quieren amar,</l>
+<l>¿puedo hacer que no me amen?</l>
+<l>No tengo yo poderío</l>
+<l>contra su amoroso abismo;</l>
+<l>que los hombres, aun Dios mismo</l>
+<l>les deja el libre albedrío.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Quién los trajo a tu aposento?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No lo he sabido, señor.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Como fantasmas de amor</l>
+<l>se vendrían por el viento.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Yo, que en esperanza estaba,</l>
+<l>ver mi esposa pretendía.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Yo, que esperanza tenía,</l>
+<l>la posesión procuraba.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Aunque enojado me habéis,</l>
+<l>hoy de nuevo me obligáis,</l>
+<l>pues de mi sangre os honráis</l>
+<l>y ser mis deudos queréis.</l>
+<l>Y si acaso esta hija cara</l>
+<l>dividir en dos pudiera,</l>
+<l>una a cada uno diera</l>
+<l>y de los dos me ilustrara.</l>
+<l>Mas supuesto que ella es una</l>
+<l>y que los yernos son dos,</l>
+<l>ella elija, y trace Dios</l>
+<l>lo que importe a su fortuna.</l>
+<l>Y lo que es de la cuestión</l>
+<l>no se trate, aquí se quede,</l>
+<l>porque si se sabe puede</l>
+<l>manchar mi buena opinión.</l>
+<l>Disimulad; que ya sale</l>
+<l>don Juan con los convidados,</l>
+
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Logre el amor mis cuidados.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Mi premio a mi pena iguale.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Diré que al sarao vinisteis;</l>
+<l>que importa disimular.</l>
+</sp>
+<stage>Salen DON JUAN, y JUAN DEL VALLE, y pajes con hachas.</stage>
+<sp><speaker>VALLE</speaker>
+<l>Dése principio al danzar.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Siempre cortesano fuisteis</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Hermosa está doña Juana.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Dése principio al sarao.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Tocad un pie de gibao,</l>
+<l>danzaréle con mi hermana.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Una batalla es mejor.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Si mi tío me dejara,</l>
+<l>yo la batalla lanzara</l>
+<l>contra mi competidor.</l>
+
+</sp>
+<stage>Danzan TERESA y DON JUAN.</stage>
+<sp><speaker>VALLE</speaker>
+<l>¡Buen aire!</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>En extremo danza;</l>
+<l>ella se lleva la palma.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Medida me toma al alma.</l>
+<l>el compás de esta mudanza.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Es lo que hay que desear.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Cansada quedo, a fe mía.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Mirad que ha llegado el día</l>
+<l>en que me habéis de juzgar.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Prima, en el punto dichoso,</l>
+<l>mirad que estéis bien templada.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Caso que yo sea casada.</l>
+<l>vos, primo, seréis mi esposo.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Si gustáis, dance conmigo</l>
+<l>mi señora doña Juana.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Bien puede danzar mi hermana;</l>
+<l>que Valle es muy gran mi amigo.</l>
+
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Salid antes que amanezca</l>
+<l>para que el alba se afrente</l>
+<l>viendo que en nuestro oriente</l>
+<l>hay otra que la oscurezca.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¿Qué es lo que mandáis que dance?</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Decid vos.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Un saltarén.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Yo sabré volalle bien,</l>
+<l>y plega a Dios que os alcance.</l>
+</sp>
+<stage>Danzan.</stage>
+<sp><speaker>TERESA</speaker>
+<l>Hermano, disimulando,</l>
+<l>conviene a nuestra opinión</l>
+<l>que, para cierta ocasión,</l>
+<l>me vengáis acompañando.</l>
+<l>Vamos, pues.</l>
+</sp>
+<stage>Vanse DON JUAN y TERESA.</stage>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Doña Teresa</l>
+<l>con don Juan, su hermano, fue;</l>
+<l>seguillos quisiera, a fe.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>De no seguillos me pesa.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Como de vos se esperó.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Por daros gusto salí.</l>
+
+</sp>
+<stage>Sale DON JUAN.</stage>
+<sp><speaker>DON JUAN:</speaker>
+<l>Señor, engañado fui.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¿Quién o cómo te engañó?</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Mi hermana.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Dime su intento.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Con extraña presunción</l>
+<l>me llevó a la Encarnación</l>
+<l>y se quedó en el convento.</l>
+<l>Dice que antes que se venga,</l>
+<l>por lo que tú ya has sabido,</l>
+<l>quiere elegir un marido</l>
+<l>que a nuestra opinión convenga.</l>
+<l>Dice que la veas luego.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Quédese el sarao ahora;</l>
+<l>que ya el pintor de la aurora</l>
+<l>derrama esmaltes de fuego.</l>
+<l>Perdonad.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Todos iremos.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Mi vida o muerte he de ver.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¿Qué intento puede tener?</l>
+<l>Con brevedad lo veremos.</l>
+<stage>Vanse</stage>
+
+</sp>
+<stage>salen TERESA y la ABADESA de la Encarnación; queda a la puerta un SACRISTÁN.</stage>
+<sp><speaker>TERESA</speaker>
+<l>Aquí en la iglesia estaré</l>
+<l>en lo que mi padre viene.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Sea ansí; buen celo tiene;</l>
+<l>guarda la puerta.</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Sí haré.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Mi luz, Cristo, habéis de ser,</l>
+<l>y en casa de vuestra Madre</l>
+<l>os pido, como a mi padre,</l>
+<l>consejo en lo que he de hacer,</l>
+<l>cómo os pueda más servir.</l>
+</sp>
+<stage>Va LEONIDO a entrar.</stage>
+<sp><speaker>LEONIDO</speaker>
+<l>Amigo, luego saldré.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dios, ¿con cuál marido iré?</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Con Cristo se puede ir.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Con Cristo una voz me dijo;</l>
+<l>el cielo debe de hablar.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>¿No entraré?</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>No hay que dudar.</l>
+
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Déjame, no, seas prolijo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Esta voz misterio esconde,</l>
+<l>pues cuando lo digo yo</l>
+<l>que es el cielo quien me habló,</l>
+<l>no hay que dudar, me responde.</l>
+<l>Aunque su dueño no he visto,</l>
+<l>por quien habla, voz es cierta.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>¿Por quién guardas esta puerta?</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Por esta casa y por Cristo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Por Cristo y por esta casa</l>
+<l>dice el que habla: ¡extraño caso!</l>
+<l>Sudores de muerte paso.</l>
+</sp>
+<stage>Dale LEONIDO un rempujón al SACRISTÁN.</stage>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Esto y más, por Dios se pasa.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Por Dios se pasa esto y más;</l>
+<l>mi luz esta voz ordena.</l>
+<l>¿Por quién se pasa esta pena?</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Por Dios.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>En blasfemo das.</l>
+<l>No jures.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Al pensamiento,</l>
+<l>¿quién dará el medio que aguarda?</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>¿Quién os puso aquí de guarda?</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>¿No os he dicho que el convento?</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Habla paso...</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Qué, ¿hallaré</l>
+<l>en el convento consuelos?}}</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Como Dios está en los cielos.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>No jures, sosiégate.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Que aquí el medio he de tener,</l>
+<l>como en el cielo está Dios?</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Aquí, para entre los dos,</l>
+<l>esto que digo ha de ser.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Al alma esta voz conforta;</l>
+<l>mas con todo, hay que dudar.</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>No tiene que se cansar;</l>
+<l>que ya he dicho lo que importa.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Lo que me importa? Es verdad;</l>
+<l>pero tan confusa estoy,</l>
+<l>que crédito no me doy.</l>
+
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Ya es mucha incredulidad.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ved, señor, que estoy dudando:</l>
+<l>ayudad porque no caya.</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>¿Yo no he dicho que se vaya</l>
+<l>con Cristo? ¿Qué está cansando?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Cansando dice que estoy,</l>
+<l>con suave tono y manso;</l>
+<l>mas yo digo que descanso</l>
+<l>con lo que cansando voy.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Hacia aquí nos desviemos</l>
+<l>y hablemos paso.</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>En buen hora;</l>
+<l>pero no hay lugar ahora.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Como que e . . . . . . . . .</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Don Alonso . . . . . . . . .</l>
+<l>Es que co . . . . . . . . . . .</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Disim . . . . . . . . . . . . . .</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Ya la . . . . . . . . . . . . . .</l>
+<l>Salen la ........</l>
+
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Vuestro padre viene aquí,</l>
+<l>y vuestros deudos también.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Plegue a Dios que pare en bien.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Cierto que lo pienso ansí.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Señora doña María...</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>¿Por vuestra prenda vendréis?</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Vuestra llamarla podréis.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Débolo a su cortesía.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Hija, ¿cómo aquesto ha sido</l>
+<l>sin mi orden, sin hablar?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Con Dios quise aconsejar,</l>
+<l>y a su casa me he venido.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Pues don Ramiro y don Diego,</l>
+<l>den Juan y yo, que aquí estamos,</l>
+<l>todos respuesta esperamos</l>
+<l>de tu gusto y mi sosiego;</l>
+<l>Dios te inspire, hija querida,</l>
+<l>con que esta elección se acierte.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Dame la vida o la muerte.</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Dame la muerte o la vida.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Su padre está de mi parte;</l>
+<l>sin duda seré el nombrado.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Pues la palabra me has dado,</l>
+<l>el alma quiero fiarte.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Al fin en esta ocasión</l>
+<l>mi nombramiento es forzoso.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Tuyo ha de ser el esposo,</l>
+<l>y a tu gusto la elección.</l>
+<l>Pues ya de mí se fió</l>
+<l>el nombramiento presente</l>
+<l>yo nombro a...</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Detente,</l>
+<l>que el nombrado he de ser yo...</l>
+<l>. . . . . qué importa a mi honor...</l>
+<l>. . . . . . . . . . . . . . mbién</l>
+<l>. . . . . . . . . . . . . . el bien</l>
+<l>. . . . . . . . . . . . . . . amor</l>
+<l>. . . . . . . . . . . . . . . . . ida</l>
+<l>. . . . . . . . . . . . . . . . . . .</l>
+<l>Pero importa claridad,</l>
+<l>y ansí, para mi sosiego,</l>
+<l>a don Ramiro, a don Diego.</l>
+<l>declaro mi voluntad;</l>
+<l>y por no dejar celoso</l>
+<l>a ninguno de los dos,</l>
+<l>nombro por esposo a Dios,</l>
+<l>que es el verdadero esposo.</l>
+
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>El alma teme y se abrasa.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Ella teme su interés.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Pues ya Dios mi esposo es,</l>
+<l>quiero quedarme en su casa.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Escucha.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No hay qué escuchar.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Advierte...</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No hay qué advertir,</l>
+<l>que a mi esposo he de seguir,</l>
+<l>y a mi padre he de dejar.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Pues mi justo amor me abona,</l>
+<l>lléveme consigo allá.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Y tú, ¿qué has de hacer acá?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Seré monja motilona.</l>
+</sp>
+<stage>Vanse TERESA, la ABADESA y PETRONA</stage>
+<sp><speaker>DON ALONSO:</speaker>
+<l>¡Extraña resolución!</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Por cierto motivo honrado.</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>De esposo se ha mejorado.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Y yo lo estoy de opinión.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¿Qué os parece?</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>No me espanto.</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>Alzósenos Dios con ella.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Tenía censo sobre ella;</l>
+<l>y quísola por el tanto:</l>
+<l>vamos a la portería.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Razón es que la veamos.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Vamos todos; venid, vamos.</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>Llorando voy de alegría</l>
+</sp>
+<sp><speaker>DON RAMIRO:</speaker>
+<l>¡Grande fe!</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>¿Tendrá constancia?</l>
+</sp>
+<sp><speaker>DON ALONSO:</speaker>
+<l>No la pude persuadir.</l>
+</sp>
+<sp><speaker>SACRISTÁN</speaker>
+<l>Ojos que la vieron ir,</l>
+<l>no la verán más en Francia.</l>
+</div><div type="act" number="II">
+
+<l>Sale un ÁNGEL con una lanza y TERESA DE JESÚS.</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Si el corazón de Dios habéis herido</l>
+<l>con vuestras oraciones amorosas,</l>
+<l>recibid estos golpes que os envía,</l>
+<l>rásguese vuestro pecho enternecido,</l>
+<l>y causen las heridas rigurosas</l>
+<l>pena, dolor, contento y alegría.</l>
+<l>Y si es ferviente fría,</l>
+<l>la punta de este dardo fuego tiene,</l>
+<l>fuego de amor, que enciende y nunca abrasa;</l>
+<l>no os quemará su brasa,</l>
+<l>porque templado con el hierro viene;</l>
+<l>sufrid agora, y luego</l>
+<l>podréis tocar con el amor a fuego,</l>
+<l>que es lo que más le agrada,</l>
+<l>veros arder y veros ahumada.</l>
+</sp>
+<stage>Vase.</stage>
+<sp><speaker>TERESA</speaker>
+<l>Herid, herid con goldes más continos;</l>
+<l>dejadme el pecho, si gustáis, rasgado,</l>
+<l>y una ventaja os llevaré en el suelo,</l>
+<l>pues a vos, dulce Esposo, os dió Longinos</l>
+<l>la lanzada con que os rompió el costado,</l>
+<l>y a mí me abrasa un serafín del cielo:</l>
+<l>heridme sin recelo,</l>
+<l>seré herida cierva, y vos la fuente,</l>
+<l>a mi sed suficiente,</l>
+<l>que otra agua no apetezca;</l>
+<l>la fuente salutífera merezca,</l>
+<l>en cuyas aguas vivas dé a mi fragua</l>
+<l>el dardo el fuego, y vuestra fuente el agua.</l>
+<stage>Vase</stage>
+
+</sp>
+<stage> sale MARIANO de ermitaño, y la ABADESA, y PETRONA de motilona.</stage>
+<sp><speaker>MARIANO</speaker>
+<l>Qué, ¿ya está doña Teresa</l>
+<l>en ese punto, señora?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Morirá dentro de un hora.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Por cierto, mucho me pesa;</l>
+<l>grande sierva de Dios era.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Grandes muestras había dado.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Al fin la han desahuciado?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Sólo su muerte se espera.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Qué mal tiene?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Un accidente</l>
+<l>que me ha puesto en confusión;</l>
+<l>él es mal de corazón,</l>
+<l>porque ni habla ni siente.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Qué habrá que este mal le dió?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Tres días debe de haber.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿De qué pudo suceder?</l>
+
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>No lo puedo saber yo.</l>
+<l>Sólo sé por cosa cierta</l>
+<l>que su mal no tiene cura</l>
+<l>sino el de la sepultura,</l>
+<l>que presto veréis abierta.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Sabe Dios lo que me pesa</l>
+<l>que falte en esta ocasión,</l>
+<l>porque de una Religión</l>
+<l>ha de ser madre Teresa.</l>
+<l>La cual crecerá de suerte</l>
+<l>por todo el mundo, que asombre,</l>
+<l>donde ha de tener por nombre</l>
+<l>mujer varonil y fuerte.</l>
+<l>Mil prodigios ha de obrar</l>
+<l>la que veis tan humillada,</l>
+<l>y siendo virgen hallada,</l>
+<l>con sus hijos se ha de honrar.</l>
+<l>Y por soberanos modos</l>
+<l>crecerán tanto, que entiendo</l>
+<l>que andarán los más pidiendo,</l>
+<l>y andarán descalzos todos.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Y ¿eso lo tenéis creído?</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Eso será cosa cierta.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Vos la vendréis a ver muerta</l>
+<l>antes que aqueso cumplido.</l>
+
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Remedios no se le han hecho</l>
+<l>en este mal que ha tenido?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Todos cuantos se han podido;</l>
+<l>pero no son de provecho.</l>
+<l>Tres doctores la visitan,</l>
+<l>y no hay remedio que cuadre.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Antes me parece, padre,</l>
+<l>que su muerte solicitan.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Contra Dios no hay resistir.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Ni contra la muerte hay artes.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Dios la eche a aquellas partes</l>
+<l>donde más se ha de servir.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>¿Queréisla ver?</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Sí quería.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Pues vedla subida en calma.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Dios se acuerde de su alma;</l>
+<l>que es lo que importa este día.</l>
+
+</sp>
+<stage>Corre una cortina, y está TERESA como que se está muriendo.</stage>
+<sp><speaker>ABADESA</speaker>
+<l>Teresa está de esta suerte.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Por cierto, gran confusión;</l>
+<l>cualquier mal de corazón</l>
+<l>es imagen de la muerte.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Buen nombre dado le habéis;</l>
+<l>padre, encomendalda a Dios.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Eso podéis hacer vos,</l>
+<l>pues tanto con Dios podéis.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Padre, vos por ella orad,</l>
+<l>que yo soy gran pecadora.</l>
+<l>Ocasión tenéis ahora;</l>
+<l>en ese oratorio entrad.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>A Dios la encomendaré,</l>
+<l>y si acaso en sí volviese,</l>
+<l>porque al punto se confiese,</l>
+<l>cerca, señora, estaré.</l>
+</sp>
+<stage>Vase el ermitaño.</stage>
+<sp><speaker>PETRONA</speaker>
+<l>Dígame, por vida mía,</l>
+<l>¿qué fraile es ése?</l>
+
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Es un santo,</l>
+<l>que rasga al cielo su manto</l>
+<l>el aire que Dios envía.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Y el Papa, ¿no le persigue?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>¿Qué es lo que dices?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Dirélo,</l>
+<l>que pues rasga el manto, al cielo,</l>
+<l>es bien que Dios le castigue.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>No entiendes bien lo que digo.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¿Quién mi verdad interrumpe?</l>
+<l>Si es que el manto al cielo rompe,</l>
+<l>¿no merece gran castigo?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>En medio de la oración,</l>
+<l>cuando elevado se ve,</l>
+<l>la maestra de su fe</l>
+<l>abre a Dios el corazón.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¿Hay tan gran bellaquería?</l>
+<l>¡Que a Dios el corazón abre!</l>
+<l>Y ¡que no le descalabre</l>
+<l>un tiro de artillería!</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>¿Tú no ves que es fray Mariano,</l>
+<l>y que es un santo, Petrona?</l>
+
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Y dígame, ¿es de corona?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Téngate Dios de su mano.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>El es un mal frailejón.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>¡Calla!</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¿Por qué ha de ser santo</l>
+<l>quien al cielo rasga el manto</l>
+<l>y abre a Dios el corazón?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>¿Quién vió mayor inocencia?</l>
+<l>digo que cuando está orando,</l>
+<l>que Dios le está regalando</l>
+<l>con los rayos de su ausencia.</l>
+<l>Que el decir que rasga el manto</l>
+<l>del cielo que le enamora,</l>
+<l>y el pecho le abre, si llora,</l>
+<l>es decirte que es un santo.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Pues conmigo, ¿qué servía</l>
+<l>decírmelo con rodeo,</l>
+<l>si no es que tiene deseo</l>
+<l>que diga alguna herejía?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Petrona, quédate aquí;</l>
+<l>ten cuidado con la enferma.</l>
+
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Ruegue a Dios que no me duerma,</l>
+<l>que bien puede fiar de mí.</l>
+</sp>
+<stage>Vase; échase PETRONA a los pies de la cama; sale FRAY MARIANO haciendo oración.</stage>
+<sp><speaker>MARIANO</speaker>
+<l>¡Sacro Pastor del cielo,</l>
+<l>con el cayado de la cruz hermosa,</l>
+<l>[-elo]</l>
+<l>guardad esta ovejuela temerosa,</l>
+<l>cuya piel erizada,</l>
+<l>con vuestra sangre viene señalada!</l>
+<l>Guardadla, Cristo amado,</l>
+<l>del fiero lobo que la mira hambriento;</l>
+<l>mirad que os ha costado</l>
+<l>más interés que vale el firmamento,</l>
+<l>cuyas alfombras bellas</l>
+<l>tienden a vuestras plantas las estrellas.</l>
+<l>Miradla, Pastor justo,</l>
+<l>con ojos de piedad y de concordia;</l>
+<l>y pues siempre os da gusto</l>
+<l>que os pida el pecador misericordia,</l>
+<l>yo, viendo el cuerpo en calma,</l>
+<l>en su nombre os la pido por su alma.</l>
+<stage>(Suena una trompa en lo alto; aparecen la JUSTICIA, SAN MIGUEL, con un peso, y en lo bajo, un
+>ÁNGEL y un DEMONIO.)</stage>
+
+</sp>
+<sp><speaker> SAN MIGUEL:</speaker> <l>Es el pleito, Señor, que se litiga</l>
+<l>entre el Ángel de Guarda y el Demonio,</l>
+<l>sobre un alma que sale ya del cuerpo</l>
+<l>de una doña Teresa de Ahumada,</l>
+<l>monja profesa en la ciudad de Ávila;</l>
+<l>sobre esto ha sido el pleito, y la discordia.</l>
+
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Justicia pido.</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Yo misericordia.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Señor, si con la vida ha de serviros,</l>
+<l>viva doña Teresa, mi Dios, viva.</l>
+</sp>
+<sp><speaker>JUSTICIA</speaker>
+<l>Mucho puede conmigo un hombre justo;</l>
+<l>pues que no ha muerto, désele otro término;</l>
+<l>vuelva a su cuerpo otra vez el alma,</l>
+<l>que está guarda para grandes cosas.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Justicia sacra, por sentencia tuya</l>
+<l>está mandado que esta mujer muera;</l>
+<l>manda que tu justicia se ejecute;</l>
+<l>no revoques el fallo de tu audiencia.</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Enfrena la soberbia, desbocado.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>En perdiendo la silla, perdí el freno.</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Bien se echa de ver; Justicia sacra,</l>
+<l>piedad, piedad en esta gran discordia.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Justicia pido.</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Yo misericordia.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Manda, señor, que muera; tenga efecto</l>
+<l>el auto justamente proveído.</l>
+
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Supuesto que si muere ha de salvarse,</l>
+<l>¿de qué te sirve, a ti que agora muera?</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Temo.</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>¿Qué temes?</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Que si ahora vive,</l>
+<l>ha de sacar de mis ardientes uñas</l>
+<l>más almas que la Libia tiene arenas</l>
+<l>y que el fúlgido sol menudos átomos.</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Siempre de judiciario te preciaste.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Tan astrólogo soy como solía;</l>
+<l>que no perdí la ciencia con la gracia.</l>
+</sp>
+<sp><speaker>JUSTICIA</speaker>
+<l>Viva doña Teresa.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>¡Rabia en ella</l>
+<l>y en mí que tal escucho! ¿No bastaba</l>
+<l>la burla de la silla que en el fuego,</l>
+<l>en los cóncavos senos del abismo,</l>
+<l>mandaste prevenir para esta monja,</l>
+<l>sino agora de nuevo amenazarme</l>
+<l>con su vida? ¡Reniego!</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>¡Vade retro!</l>
+</sp>
+<sp><speaker>JUSTICIA</speaker>
+<l>Ha de vivir y ser gran sierva mía.</l>
+
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Todo viene a parar en fiel concordia.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Justicia pido.</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Yo misericordia.</l>
+</sp>
+<stage>Descúbrese una silla de fuego.</stage>
+<sp><speaker>JUSTICIA</speaker>
+<l>¿Qué es esto?</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Ahora quiero que tú veas</l>
+<l>la ardiente silla que en el hondo infierno</l>
+<l>tuvo por sus pecados merecida,</l>
+<l>por livianos intentos y descuidos</l>
+<l>que en los mandatos de tu mano tuvo;</l>
+<l>mira, señor, a quien mercedes haces.</l>
+</sp>
+<stage>Tiembla TERESA en la cama.</stage>
+<sp><speaker>MARIANO</speaker>
+<l>Grandes secretos son, Señor, los tuyos.</l>
+</sp>
+<sp><speaker>JUSTICIA</speaker>
+<l>Volvióse a mí con amoroso pecho;</l>
+<l>y cualquier pecador, y a cualquier hora</l>
+<l>que a mí se vuelva el corazón contrito,</l>
+<l>sabe que tendré de él misericordia.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Reniego de la luz que un tiempo tuve.</l>
+</sp>
+<sp><speaker>JUSTICIA</speaker>
+<l>Asiéntese este auto que pronuncio,</l>
+<l>digo del conocido y nuevo término;</l>
+<l>désele fin al pleito de esta audiencia.</l>
+
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Qué, ¿tan poco aprovechan mis cautelas?</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Gracias a Dios que salgo victorioso.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Aquí de mi poder, aquí discordia.</l>
+</sp>
+<sp><speaker>ÁNGEL</speaker>
+<l>Aquí de Dios, aquí misericordia.</l>
+<l>(Corren la cortina. Éntrase el ÁNGEL por una puerta y el DEMONIO por otra; sale la ABADESA y</l>
+<l>vuelve en sí TERESA.)</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Lleguemos, que vuelve en sí.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Ay de mí!</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Qué es lo que he visto?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Sin duda vuelve.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Ay, mi Cristo!</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Lleguemos, padre.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Ay de mí!</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Señora.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Ay Dios!</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Qué sentisteis?</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Vi que el Ángel...</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Sosegaos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Vi que el Demonio...</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Aclaraos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Vi la silla, y vi...</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Qué visteis?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Que el alma en la boca tuve.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>De frenesí ha dado indicio.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Tengo turbado el jüicio.</l>
+<l>de ver lo que en él estuve.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Qué es lo que visteis, señora?</l>
+<l>Decídmelo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Ay, padre mío!</l>
+<l>Vi tanto, que desvarío</l>
+<l>en referíroslo, ahora.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Ya el accidente pasó.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Con todo, le estoy temiendo.</l>
+
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Para mí, que el caso entiendo,</l>
+<l>ya me ha dicho lo que vió.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Estuve para morir,</l>
+<l>y al fin, en aqueste mal,</l>
+<l>mi padre, vi tanto y tal,</l>
+<l>que no lo sé referir.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Sosegad un poco ahora,</l>
+<l>que más despacio os espero.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ved que importa.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Volveré.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Adiós, padre.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Adiós, señora.</l>
+</sp>
+<stage>Vase FRAY MARIANO y cubren a TERESA, y la ABADESA despierta a PETRONA.</stage>
+<sp><speaker>ABADESA</speaker>
+<l>Deo gracias. ¿Oye, hermana</l>
+<l>Petrona? Está como un leño.</l>
+<l>¿No me oye? ¡Extraño sueño!</l>
+<l>Dormirá de aquí a mañana.</l>
+<l>¡Petrona! ¡Jesús María,</l>
+<l>y qué sueño tan pesado!</l>
+<l>Petrona, ¡qué buen cuidado!</l>
+<l>Despierta.</l>
+
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Pues ¿quién dormía?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Estése otro poco, duerma;</l>
+<l>levántese, ¿no me ha oído?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Pasito, no hagan rüido;</l>
+<l>que lo sentirá la enferma.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Cuando la estaba llamando.</l>
+<l>¿era menos el estruendo?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Más guardaré yo durmiendo</l>
+<l>que treinta hermanas velando.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Pues sepa, hermana Petrona.</l>
+<l>que por haberse dormido</l>
+<l>grande pena ha merecido,</l>
+<l>la que no se le perdona.</l>
+</sp>
+<stage>Vanse; salen TERESA y FRAY MARIANO.</stage>
+<sp><speaker>TERESA</speaker>
+<l>Ya, padre, buena me siento.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Sospecho que os ha sanado</l>
+<l>la patente que os han dado</l>
+<l>para fundar el convento.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>El supremo Superior</l>
+<l>me hizo gran merced;</l>
+<l>tomad, mi padre, leed.</l>
+
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Por cierto extraño fervor,</l>
+<l>licencia para Teresa</l>
+<l>dé Jesús. ¡Gran novedad!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Voy fundada en humildad.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Preciosa joya es esa.</l>
+<l>No doña Teresa ya</l>
+<l>de Ahumada.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Desde hoy,</l>
+<l>Teresa de Jesús soy,</l>
+<l>y este nombre se me da.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Buen nombre habéis escogido</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Como escogido en efeto.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>El de Jesús es perfeto.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Padre, regala el oído,</l>
+<l>y en la oración más extrema,</l>
+<l>cuando el demonio me asombre,</l>
+<l>temerá mejor el nombre,</l>
+<l>ya que por mí no me tema.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Vuestro parecer alabo.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Es amoroso.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Y prudente.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Leed, padre, la patente.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Bien decís, vamos al cabo.</l>
+<stage>Lee</stage>
+<l>«Por la presente damos licencia a Teresa de Jesús, monja profesa en nuestro convento de la</l>
+<l>Encarnación de Ávila, para que pueda fundar conventos de las Descalzas de nuestra Orden de</l>
+<l>Carmelitas, en las ciudades, villas y lugares que por bien tuviere, guardando nuestra regla primera que</l>
+<l>en el monte Carmelo fundó el santo profeta Elías; y asimismo damos licencia que, para la solicitud de los</l>
+<l>dichos conventos, salga de su convento, con una compañera, todas las veces que fuere necesario. Y</l>
+<l>mandamos a nuestros ministros inferiores que no vayan al contrario de esta nuestra patente. -Dada en la</l>
+<l>ciudad de Ávila, a de mayo de .- Fr. Ángel de Salazar, ministro provincial de Castilla.»</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Qué decís?</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Que es obra hecha</l>
+<l>de la suma Omnipotencia,</l>
+<l>que dé tan amplia licencia</l>
+<l>en religión tan estrecha.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No quepo en mí de placer.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Mucho os queréis estrechar.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Esta regla he de guardar:</l>
+<l>no hay duda que me poner.</l>
+
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>La penitencia es doblada;</l>
+<l>del Carmen sois recoleta,</l>
+<l>que es la Orden más perfeta,</l>
+<l>y de quien Dios más se agrada;</l>
+<l>Orden donde Elías mostró</l>
+<l>su profundo y santo celo;</l>
+<l>la que fundó en el Carmelo,</l>
+<l>y del Carmen la llamó.</l>
+<l>Ojalá frailes hubiera</l>
+<l>que la quisieran tener.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dios lo puede todo hacer.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>A todo yo me pusiera.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Créolo en verdad.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Sí, haría.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Pues quizás seréis cimiento</l>
+<l>de algún divino convento</l>
+<l>que pienso hacer algún día.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Mujer, y ¿queréis fundar</l>
+<l>conventos de frailes vos?</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Mi padre, el poder de Dios</l>
+<l>no le queráis limitar;</l>
+<l>este edificio caído,</l>
+<l>de los tiempos derribado,</l>
+<l>pienso ver edificado</l>
+<l>y más que nunca esparcido.</l>
+<l>Palabra me dió segura</l>
+<l>el que no puede mentir,</l>
+<l>de que yo tengo de abrir</l>
+<l>la puerta de esta aventura.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Aclaraos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>En confesión,</l>
+<l>el caso, padre, sabréis,</l>
+<l>porque importa que guardéis</l>
+<l>secreto en esta ocasión.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Decid, pues.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Confieso y digo,</l>
+<l>padre, para entre los dos,</l>
+<l>que me guía el mismo Dios</l>
+<l>en el intento que sigo:</l>
+<l>tres veces su fe me ha dado,</l>
+<l>de Niño Jesús la una,</l>
+<l>la otra puesto en la coluna,</l>
+<l>y la otra crucificado.</l>
+
+</sp>
+<stage>Sale el DEMONIO.</stage>
+<sp><speaker>DEMONIO</speaker>
+<l>Mi traza importa. Es maraña;</l>
+<l>no la creas.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Dudo, a fe.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Padre, alguna ilusión fue</l>
+<l>que a esta monja la engaña.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>No fue Dios el que os habló,</l>
+<l>como pensáis.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Bien me ayuda.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>El demonio fue, sin duda,</l>
+<l>pues tantas formas tomó.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Discretamente la informas.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Esto que os he dicho creo:</l>
+<l>que no es Cristo el dios Proteo</l>
+<l>para tomar tantas formas.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Dile que huya esas visiones.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No hay duda que me poner.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Pues yo soy de parecer</l>
+<l>que huyas esas tentaciones.</l>
+
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Eso es lo más importante.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Y cuando más no podáis,</l>
+<l>higas y cruces hagáis</l>
+<l>cuando se os ponga delante:</l>
+<l>como confesor, os mando</l>
+<l>que lo que os he dicho hagáis.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Riguroso, padre, andáis.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Vuestro bien voy entablando;</l>
+<l>esto es, señora, mi oficio:</l>
+<l>no hay sino tener paciencia.</l>
+<l>que el acto de la obediencia</l>
+<l>es el mayor sacrificio.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Que ésta os parece ilusión?</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Es muy sutil el Demonio:</l>
+<l>preguntadlo a San Antonio,</l>
+<l>a San Mario, a San Antón.</l>
+<l>hable por mí el monje Mario,</l>
+<l>San Jerónimo el del yermo.</l>
+<l>en la oración San Guillermo,</l>
+<l>en la celda San Hilario.</l>
+<l>Que con ser doctos varones,</l>
+<l>el demonio, cada día</l>
+<l>engañarlos pretendía,</l>
+<l>como a vos, con ilusiones.</l>
+<l>Muchas almas ignorantes,</l>
+<l>Señora, se han condenado,</l>
+<l>porque llevar se han dejado</l>
+<l>de ilusiones semejantes.</l>
+
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Ya no tengo más que hacer.</l>
+</sp>
+<stage>Vase el DEMONIO.</stage>
+<sp><speaker>MARIANO</speaker>
+<l>Cuando venga esa ilusión,</l>
+<l>huid de su tentación;</l>
+<l>idos a todo correr.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Si me sigue?</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Si porfía</l>
+<l>higas y cruces le dad;</l>
+<l>y con esto, adiós quedad.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Cristo vaya en vuestra guía.</l></sp>
+<stage>Vase FRAY MARIANO, aparece el NIÑO JESÚS en un altar.</stage>
+<sp><speaker>TERESA</speaker>
+<l>Dulce voz, el pecho ablanda;</l>
+<l>pero el confesor me manda</l>
+<l>que no espere. ¿Qué he de hacer?</l>
+<l>Dios me aclare mi sentido.</l>
+<l>¿Llegaré? ¿Que estoy dudosa?</l>
+<l>Mas la obediencia es forzosa,</l>
+<l>y el pensamiento atrevido.</l>
+<l>Pero en estas dudas dos,</l>
+<l>huyo. ¿Qué me desvanezco?</l>
+<l>Que al confesar obedezco,</l>
+<l>y en el confesor a Dios.</l>
+
+</sp>
+<stage>Va a huir y detiénela SAN PABLO.</stage>
+<sp><speaker>SAN </sp>
+<sp><speaker>PABLO</speaker></speaker>
+<l>Por aquí no has de pasar.</l>
+<l>que el apóstol Pablo soy,</l>
+<l>que el paso guardando estoy</l>
+<l>porque Dios te quiere hablar.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Pues otra puerta sé yo</l>
+<l>por donde podré salir;</l>
+<l>que quiero en todo seguir</l>
+<l>lo que el confesor mandó.</l>
+</sp>
+<stage>Vase a ir por otra puerta, detiénela SAN PEDRO.</stage>
+<sp><speaker>SAN </sp>
+<sp><speaker>PEDRO</speaker></speaker>
+<l>¿A dónde huyes por aquí?</l>
+<l>vuelve a Dios, mujer; detente.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Quisiera ser obediente.</l>
+</sp>
+<sp><speaker>SAN </sp>
+<sp><speaker>PEDRO</speaker></speaker>
+<l>No dejas de serlo ansí.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Dios lo que importa me advierta!</l>
+<l>Y decidme, ¿quién sois vos?</l>
+</sp>
+<sp><speaker>SAN </sp>
+<sp><speaker>PEDRO</speaker></speaker>
+<l>San Pedro, apóstol de Dios,</l>
+<l>que por él guardo esta puerta.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Válgame Dios! ¿Qué haré?</l>
+<l>Los pasos tomado tengo;</l>
+<l>higas y cruces prevengo,</l>
+<l>que es lo más que hacer podré.</l>
+
+</sp>
+<sp><speaker>SAN </sp>
+<sp><speaker>PABLO</speaker></speaker>
+<l>¿Qué reparas?</l>
+</sp>
+<sp><speaker>SAN </sp>
+<sp><speaker>PEDRO</speaker></speaker>
+<l>¿No concluyes?</l>
+</sp>
+<sp><speaker>SAN </sp>
+<sp><speaker>PABLO</speaker></speaker>
+<l>¿No llegas?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Sí, llegar quiero.</l>
+</sp>
+<sp><speaker>SAN </sp>
+<sp><speaker>PEDRO</speaker></speaker>
+<l>¿Qué esperas?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Nada espero.</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Vuelve a mí, ¿por qué me huyes?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Por obedecer, Señor;</l>
+<l>perdonadme si os ofendo;</l>
+<l>y si peco obedeciendo,</l>
+<l>culpad a mi confesor.</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Esposa, de nuevo luces,</l>
+<l>y nuevo premio mereces,</l>
+<l>con lo bien que hoy obedeces.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Pues tomad higas y cruces.</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>¿Qué me das?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Cruces con higas,</l>
+<l>como el confesor ordena.</l>
+
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Obedece enhorabuena;</l>
+<l>que obedeciendo me obligas.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Higas y cruces mandó</l>
+<l>que mis manos hoy os den,</l>
+<l>y advirtió en extremo bien,</l>
+<l>aunque acaso lo advirtió.</l>
+<l>Con ánimo de obligaros,</l>
+<l>cruces manda que os dé a vos,</l>
+<l>y las cruces, Niño Dios,</l>
+<l>claro está que han de agradaros.</l>
+<l>Aunque salga de compás,</l>
+<l>dos mil cruces os daré,</l>
+<l>y por muchas que yo os dé,</l>
+<l>pienso que vos queréis más.</l>
+<l>Cruces son, Niño; miradlas,</l>
+<l>aunque a la cruz que ilustrasteis</l>
+<l>cuando más pecho, mostrasteis</l>
+<l>volvisteis, Dios, las espaldas.</l>
+<l>Que améis la cruz es razón,</l>
+<l>pues en ella os enclavasteis.</l>
+<l>y es la nave en que surcasteis</l>
+<l>el golfo de la Pasión.</l>
+<l>Mis cruces de gusto han sido;</l>
+<l>que el vencedor más honrado</l>
+<l>se alegra viendo a su lado</l>
+<l>las armas con que ha vencido.</l>
+<l>Gozoso podéis mirarlas;</l>
+<l>que vuestras armas son éstas.</l>
+
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Armas que yo traje a cuestas,</l>
+<l>claro está que he de estimarlas.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>De las higas, me temía</l>
+<l>cómo podéroslas dar;</l>
+<l>pero ya no hay que dudar,</l>
+<l>que os vienen bien este día.</l>
+<l>Tomad mil higas, mi Esposo;</l>
+<l>que en nadie mi dulce amor</l>
+<l>las puede emplear mejor</l>
+<l>que en un Niño tan hermoso.</l>
+<l>Remírome en vuestras luces,</l>
+<l>y tan gozosa me veo,</l>
+<l>que daros, Niño, deseo</l>
+<l>tantas higas como cruces.</l>
+<l>Mis ojos no os hagan mal;</l>
+<l>tomad, aunque es indecencia;</l>
+<l>que en ser higas de obediencia,</l>
+<l>valen más que de cristal.</l>
+<l>Bello Infante soberano,</l>
+<l>higas y cruces os doy,</l>
+<l>porque tengáis desde hoy</l>
+<l>estos dijes de mi mano.</l>
+<l>Guardadlos, mi Niño bello;</l>
+<l>ved que no pasa de raya</l>
+<l>que un Niño por dijes traiga</l>
+<l>cruces e higas al cuello.</l>
+
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>En mucho estimo el amor</l>
+<l>que tu pecho me ha mostrado,</l>
+<l>y como amante obligado</l>
+<l>te quiero dar un favor.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Indigna soy.</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Bien supiste...</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Mi Niño, súpeos amar.</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Una cruz te quiero dar</l>
+<l>por las muchas que me diste;</l>
+<l>toma.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>En mucho la tendré;</l>
+<l>colgaréla del rosario;</l>
+<l>será cruz de relicario</l>
+<l>en el templo de mi fe.</l>
+<l>¡Qué piedras tiene tan bellas!</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Todas son finos diamantes.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Son piedras tan relumbrantes</l>
+<l>que me parecen estrellas;</l>
+<l>y es cuerdo mi parecer,</l>
+<l>Señor, pues me las dais vos;</l>
+<l>que los diamantes de Dios</l>
+<l>estrellas deben de ser.</l>
+
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Segundo favor te haré.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿En la fundación, mi Esposo?</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Yo soy todopoderoso,</l>
+<l>y cuanto pudiere haré.</l>
+<stage>Tocan chirimías; desaparecen el NIÑO, SAN PEDRO y SAN PABLO, y cantan dentro lo siguiente:</stage>
+<l>prosigue en Dios confiada;</l>
+<l>que presto verás fundada</l>
+<l>la religión que deseas.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Absorta me quedo en calma</l>
+<l>con lo que de nuevo he visto,</l>
+<l>y al fin la gran piedra Cristo</l>
+<l>es piedra imán de mi alma.</l>
+<l>Como suele el buen halcón</l>
+<l>irse al cebo más llegando,</l>
+<l>voy, y Dios me está llamando</l>
+<l>con cebo del corazón.</l>
+<l>Vuelve el alma enamorada,</l>
+<l>pero tiénenla oprimida</l>
+<l>las pihuelas de la vida,</l>
+<l>al tronco del cuerpo atada.</l>
+<l>La pasada gloria cesa,</l>
+<l>y sin vos, Niño, he quedado</l>
+<l>como quien rey se ha soñado,</l>
+<l>y si despierta, le pesa.</l>
+
+</sp>
+<stage>Salen la ABADESA, DOÑA JUANA y PETRONA.</stage>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Hermana del alma mía,</l>
+<l>¿tan sola?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ya podéis ver.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>La causa debe de ser</l>
+<l>alguna melancolía.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No es cierto.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Pues bien podéis</l>
+<l>tenerla, y tendréis razón,</l>
+<l>porque en vuestra fundación</l>
+<l>un grande estorbo tenéis.</l>
+<l>La casa que concertamos</l>
+<l>para fundar el convento,</l>
+<l>lo que a vuestro y a mí contento,</l>
+<l>cual sabéis, aderezamos,</l>
+<l>tiene las paredes tales,</l>
+<l>que está ya para caerse.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Qué remedio ha de tenerse?</l>
+<l>[VOCES]:</l>
+<l>Aunque más contrarios veas,</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>No hay dinero ni oficiales.</l>
+<stage>Cantan dentro</stage>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Escuchasteis la canción?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¿Qué canción?</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Que pierde el seso.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Sin duda debe ser eso</l>
+<l>con aquesta fundación.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Sólo ha llegado a mi oído:</l>
+<l>nuestra casa reparemos.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>En el suelo la hallaremos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Yo sé que no se ha caído.</l>
+<l>Las paredes malparadas</l>
+<l>tratemos de reparar;</l>
+<l>que Dios nos ha de amparar</l>
+<l>aunque estén mal reparadas.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Ya no hay reparo que hacer,</l>
+<l>que pasa el daño de ahí;</l>
+<l>más mal hay...</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Pobre de mí!</l>
+<l>¿Qué mal mayor puede haber?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Mayor, y la causa soy.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Vos la causa?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Yo, sin duda.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Hermana, si Dios me ayuda,</l>
+<l>de buena ventura soy;</l>
+<l>pero, con todo, me admiro.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Toda la revelación</l>
+<l>ha sido en esta ocasión</l>
+<l>porque me ama don Ramiro,</l>
+<l>el mismo que despreciaste,</l>
+<l>y don Diego.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Por mi fe...</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Los amantes heredé</l>
+<l>cuando en religión entraste;</l>
+<l>los dos, que son regidores,</l>
+<l>levantan este rumor,</l>
+<l>envidiosos del favor</l>
+<l>que doy...</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿A quién das favores?</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>A Juan del Valle, que al fin</l>
+<l>éste ha de ser mi marido,</l>
+<l>que como tal le he escogido;</l>
+<l>éste es el principio y fin.</l>
+<l>El Consistorio, indignado,</l>
+<l>estorba la fundación,</l>
+<l>y con esta pretensión</l>
+<l>al Obispo se ha quejado.</l>
+<l>Dice que no es buen intento</l>
+<l>que mujeres mendicantes</l>
+<l>quieran vivir observantes</l>
+<l>dentro de un pobre convento.</l>
+<l>Que la limosna faltando,</l>
+<l>de su clausura saldrán,</l>
+<l>y que de fuera andarán</l>
+<l>por las calles mendigando.</l>
+<l>Dice que el peligro es mucho</l>
+<l>si mendiga una mujer,</l>
+<l>y más de buen parecer.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Mi Cristo, ¿qué es lo que escucho?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Aunque es bien fiar de Dios,</l>
+<l>la pobreza es ya sabida,</l>
+<l>la casa toda caída</l>
+<l>y la ciudad contra vos.</l>
+</sp>
+<stage>Cantan otra vez.</stage>
+<sp><speaker>TERESA</speaker>
+<l>¿Habéis, por ventura, oído</l>
+<l>las dulces voces que yo?</l>
+
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Que no hay voces.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Cómo no?</l>
+<l>Preguntadlo a mi sentido.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Yo pienso que os le ha quitado</l>
+<l>la fundación que intentáis:</l>
+<l>sosegaos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Bien lo miráis.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Muestra de ello me habéis dado.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Tratad lo que más convenga</l>
+<l>y múdese de intención.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Saldré con mi fundación</l>
+<l>aunque más contrarios tenga.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>A mi hermana seguiré.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Yo también sus pasos sigo,</l>
+<l>¡Madre mía!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ven conmigo.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>De mil amores iré.</l>
+</sp>
+<sp><speaker>ABADESA</speaker>
+<l>Guárdete Dios el jüicio.</l>
+
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Temo, si es que huya,</l>
+<l>una disciplina suya</l>
+<l>más que un año de silicio.</l>
+</sp>
+<stage>Vanse; salen dos demonios con palancas y azadones.</stage>
+<sp><speaker>DEMONIO</speaker>
+<l>Astarot, caiga en el suelo</l>
+<l>la casa de esta mujer;</l>
+<l>date priesa, que recelo</l>
+<l>que a mi pesar ha de ser</l>
+<l>recámara de su cielo.</l>
+</sp>
+<sp><speaker>ASTAROT</speaker>
+<l>Buen fin tendrá nuestro intento.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Si quedase en pie el convento,</l>
+<l>aquí se han de registrar</l>
+<l>las piedras que han de ilustrar</l>
+<l>los tronos del firmamento.</l>
+<l>Mil recoletas doncellas</l>
+<l>temo que aquí Dios tendrá,</l>
+<l>y Serán luces tan bellas,</l>
+<l>que al cielo se las dará</l>
+<l>por mejorarle de estrellas.</l>
+</sp>
+<sp><speaker>ASTAROT</speaker>
+<l>Pica, no te escandalices,</l>
+<l>derriba y no profetices.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Mucho, tenemos que hacer.</l>
+</sp>
+<sp><speaker>ASTAROT</speaker>
+<l>Ya comienzo yo a temer</l>
+<l>por ser ansí lo que dices.</l>
+
+</sp>
+<stage>Salen TERESA, DOÑA JUANA, PETRONA, y ÁNGELES en figuras de oficiales.</stage>
+<sp><speaker>TERESA</speaker>
+<l>Al nuevo templo lleguemos;</l>
+<l>cuidado, mis oficiales.</l>
+</sp>
+<sp><speaker>JOSEPH</speaker>
+<l>Confía que le tendremos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dentro están buenos puntales;</l>
+<l>venid, todos trabajemos.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Esfuerzo mi hermana cobra</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Astarot, vamos de aquí.</l>
+</sp>
+<sp><speaker>ASTAROT</speaker>
+<l>¿Qué temes?</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>¡Pesar de mí!</l>
+<l>Que hay nueva gente en la obra.</l>
+</sp>
+<sp><speaker>ASTAROT</speaker>
+<l>¿Quién, Luzbel, te hace temer?</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Un obrero que hay de nuevo.</l>
+</sp>
+<sp><speaker>ASTAROT</speaker>
+<l>¿Quién tiene tanto poder?</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Pues yo con él no me atrevo,</l>
+<l>mira qué tal puede ser.</l>
+<l>Recogidos cortesanos</l>
+<l>del cielo a trabajar vienen;</l>
+<l>mis intentos salen vanos,</l>
+<l>pues a hacer la iglesia vienen</l>
+<l>los obreros soberanos.</l>
+<l>Del cielo deben de ser;</l>
+<l>hoy con mis trazas concluyo;</l>
+<l>mucho tengo que temer.</l>
+
+</sp>
+<sp><speaker>ASTAROT</speaker>
+<l>Ya no podemos hacer</l>
+<l>nada; Luzbel, huye.</l>
+</sp>
+<sp><speaker>DEMONIO</speaker>
+<l>Huyo.</l>
+</sp>
+<stage>Vanse; sale DON DIEGO.</stage>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Guárdeos el cielo, señora,</l>
+<l>de cuyas rojas colores</l>
+<l>se afrenta la clara aurora</l>
+<l>cuando, matiza de flores</l>
+<l>las esmeraldas de Flora.</l>
+<l>Yo, prima, te he de servir</l>
+<l>hoy, en no contradecir</l>
+<l>la fundación que deseas;</l>
+<l>mi intento quiero que veas,</l>
+<l>que mi amor puede decir.</l>
+<l>Soy, cual sabes, regidor,</l>
+<l>y mándame la ciudad</l>
+<l>que proceda con rigor.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Aquí está mi hermana, entrad;</l>
+<l>vuestro oficio haced, señor;</l>
+<l>haced la contradicción</l>
+<l>y estorbad la fundación,</l>
+<l>pues no la tenéis por buena.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>No quiero yo darte pena,</l>
+<l>que estás en mi corazón;</l>
+<l>pues ver tus ojos merezco,</l>
+<l>por hoy no contradiré;</l>
+<l>prima, a servirte me ofrezco,</l>
+<l>porque sepas de mi fe</l>
+<l>que en tu servicio padezco.</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>La merced, señor, estimo.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Siempre en servirte me animo.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Ya sé que sois muy cortés.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Esta, vuestra hermana es.</l>
+<l>Adiós, señora.</l>
+</sp>
+<sp><speaker>JUANA</speaker>
+<l>Adiós, primo.</l>
+</sp>
+<stage>Vase DON DIEGO; sale TERESA con una espuerta de tierra.</stage>
+<sp><speaker>TERESA</speaker>
+<l>Dejemos la iglesia llana.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Qué, ¿también trabajáis vos?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Es de Dios la casa, hermana,</l>
+<l>y como es casa de Dios,</l>
+<l>trabajo de buena gana.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Por hoy no os estorbarán,</l>
+<l>que ya dicho me lo han.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Quién, hermana?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¿Quién? Don Diego.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Aquí?</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Sí; tened sosiego,</l>
+<l>que ya no os contradirán.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Mil gracias al cielo doy.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Hermana, confusa estoy.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿De qué?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>De que han de faltar</l>
+<l>dineros para pagar</l>
+<l>los jornaleros de hoy.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>En eso bien me acomodo.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Pues decidme, ¿de qué modo</l>
+<l>pensáis de pagallos vos?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>La casa, hermana, es de Dios,</l>
+<l>que es el proveedor de todo.</l>
+</sp>
+<stage>Sale PETRONA con una espuerta de cal.</stage>
+<sp><speaker>PETRONA</speaker>
+<l>Socorro, madre y señora,</l>
+<l>que con la carga caí.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Pobre de mí, pecadora!</l>
+<l>Y ¿siente algún daño?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Sí,</l>
+<l>de nuevo me siento agora.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>A nuestro oficio volvamos.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Madre, la iglesia limpiemos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Hija, ven, alegres vamos;</l>
+<l>que es bien que nos alegremos,</l>
+<l>pues hoy por Dios trabajamos.</l>
+</sp>
+<stage>Vanse todos; queda DOÑA JUANA y sale VALLE.</stage>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Por cierto, grande fervor</l>
+<l>lleváis con divino amor</l>
+<l>que en Dios, hermana, tenéis.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¡Ojos, sin duda el sol veis,</l>
+<l>pues os ciega el resplandor!</l>
+<l>¡Mi señora doña Juana!</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Oh, mi señor Juan del Valle!</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>El alma os contempla ufana,</l>
+<l>que es el aire de ese talle</l>
+<l>céfiro de esta mañana:</l>
+<l>llegó el alma calurosa,</l>
+<l>pensativa y congojosa;</l>
+<l>pero el aire que he sentido</l>
+<l>refresca el alma, encendido,</l>
+<l>como el de la aurora hermosa.</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Qué bien lo sabéis decir!</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Mi palabra, vida, os doy,</l>
+<l>que lo sé mejor sentir.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¿No sabéis que vuestra soy?</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Sé que os tengo de servir.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Si gustáis de mi contento,</l>
+<l>no me habléis de cumplimiento.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Señora, si he de hablar claro,</l>
+<l>las palabras que disparo</l>
+<l>son balas del pensamiento.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Y balas con que abrasáis</l>
+<l>mis sentidos abrasados.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Bien, mi señora, os vengáis,</l>
+<l>pues con los ojos rasgados,</l>
+<l>todo el pecho me rasgáis:</l>
+<l>vengaos, doña Juana, de él;</l>
+<l>sed con mi pecho cruel;</l>
+<l>pero, sin duda el rigor</l>
+<l>se convertirá en amor</l>
+<l>cuando os halléis dentro de él.</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Siendo, señor, eso ansí,</l>
+<l>fuerza es mirar por los dos,</l>
+<l>que según he visto aquí,</l>
+<l>piadosa he de ser con vos,</l>
+<l>por no serme cruel a mí.</l>
+<l>¿Queréis con mi hermana hablar?</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Y claro lo he de tratar;</l>
+<l>y pues el sí me habéis dado,</l>
+<l>lo tengo más negociado.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Con todo, hay que negociar,</l>
+<l>porque de mi voluntad</l>
+<l>mi hermana ha de disponer;</l>
+<l>ya sale; habladla, y mirad</l>
+<l>que os habrá menester</l>
+<l>en cierta necesidad.</l>
+</sp>
+<stage>Sale TERESA con una espuerta de tierra.</stage>
+<sp><speaker>VALLE</speaker>
+<l>Suyo, como vuestro, soy.</l>
+<l>¿Queréis ayuda?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ya hoy</l>
+<l>poco menester será,</l>
+<l>que se acaba la obra ya,</l>
+<l>de que al cielo gracias doy.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Decid, pesar de mis males,</l>
+<l>¿de dónde se han de pagar,</l>
+<l>si acaban, los oficiales?</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dineros no han de faltar.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Yo traigo quinientos reales.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>A buen tiempo habéis venido.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Bueno, pues os he servido.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Habláis como hermano, al fin.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Siempre he llevado ese fin.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ya os tengo bien conocido.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¿Sabéis de qué hemos tratado?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ya sé, de mi hermana . . . . . . . .,</l>
+<l>y le tengo confirmado . . . . . . . .</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Sin duda hay intento . . . . . . . . .</l>
+<l>pues vos le habéis aprobado.</l>
+</sp>
+<stage>Sale PETRONA.</stage>
+<sp><speaker>PETRONA</speaker>
+<l>Ya la casa está acabada,</l>
+<l>tan firme y tan bien obrada,</l>
+<l>que pone contento el vella.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dios pienso que anduvo en ella,</l>
+<l>pues queda tan bien labrada.</l>
+
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Dineros ofrecí yo;</l>
+<l>tomad, pagadlos enteros.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ved si Dios le descargó,</l>
+<l>pues me envía los dineros</l>
+<l>cuando la obra se acabó.</l>
+<l>Dios vale al que en Él espera;</l>
+<l>debo manos y madera.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Aquí están quinientos reales.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿No salen los oficiales?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Ya van saliendo acá fuera.</l>
+</sp>
+<stage>Salen los ÁNGELES con azadones y espuertas.</stage>
+<sp><speaker>ÁNGELES</speaker>
+<l>En el templo de este suelo,</l>
+<l>donde ha de ser Dios servido,</l>
+<l>razón es hayan venido</l>
+<l>los oficiales del cielo.</l>
+</sp>
+<stage>Vanse los ÁNGELES.</stage>
+<sp><speaker>TERESA</speaker>
+<l>Vuestro, dinero ha sobrado</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Ya, madre, lo habemos visto.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Veis, hermano, cómo Cristo</l>
+<l>los obreros me ha pagado?</l>
+
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Supuesto que está de Dios</l>
+<l>este negocio, querría,</l>
+<l>madre, que hoy en este día</l>
+<l>dichoso fin nos deis vos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Yo digo que se haga hoy,</l>
+<l>pues gusta de ello mi hermana.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¡Vuestro soy, mi doña Juana!</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Yo, mi señor, vuestra soy!</l>
+</sp>
+<stage>Sale DON DIEGO.</stage>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¿Qué es lo que mis ojos ven?</l>
+<l>¿Qué lo que amor hoy me muestra?</l>
+<l>¿Yo soy vuestro? ¿Yo soy vuestra?</l>
+<l>¿Y que las manos se den?</l>
+<l>¿Es menester un padrino</l>
+<l>para el nuevo casamiento?</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>¡Primo!</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Extraño pensamiento!</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Algún peligro imagino.</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Fuera bien que yo supiera</l>
+<l>que en aquesto se tratara,</l>
+<l>y que presente me hallara</l>
+<l>cuando el concierto se hiciera.</l>
+<l>En buena razón me fundo,</l>
+<l>que, bien mirado, al presente</l>
+<l>no soy tan poco pariente,</l>
+<l>que no soy primo segundo.</l>
+<l>Pero, mujeres al fin,</l>
+<l>aunque a sus deudos enojan,</l>
+<l>siempre al principio se arrojan,</l>
+<l>escogiendo lo más ruin.</l>
+<l>Según veo, tenéis talle</l>
+<l>de haber el negocio errado,</l>
+<l>que por mujeres tratado,</l>
+<l>fuera milagro acertalle.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Ya es mucha desenvoltura;</l>
+<l>no os arrojéis tanto.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Ah, cielos!</l>
+<l>Corre temporal de celos,</l>
+<l>y anégase mi cordura,</l>
+<l>y de vos me quejo ansí,</l>
+<l>pues fuera mucha razón</l>
+<l>que de vuestra pretensión</l>
+<l>me diérades parte a mí;</l>
+<l>pero anduvisteis con arte</l>
+<l>en negociar de ese modo,</l>
+<l>que quizá os negara el todo</l>
+<l>si de ello me dierais parte.</l>
+
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>De la gloria que me espera,</l>
+<l>y que solo he de gozar,</l>
+<l>si parte no quise dar,</l>
+<l>es porque la quiero entera.</l>
+<l>Del caso estoy enterado,</l>
+<l>y tengo bien conocido,</l>
+<l>que trato doblado ha sido</l>
+<l>el que vendéis por honrado.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Vos sois un mal caballero!</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¡Vos mentís!</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Cerrad el labio;</l>
+<l>que es bien que a quien toca agravio,</l>
+<l>hable con lenguas de acero.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Abajad la diferencia,</l>
+<l>mi Dios; atajad su fuego;</l>
+<l>de parte de Dios os ruego</l>
+<l>que cese aquí la pendencia.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¿Qué es esto?</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Yo, madre amada,</l>
+<l>ya envaino.</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Mi furia crece.</l>
+<l>pero el brazo se entorpece;</l>
+<l>no puedo mandar la espada.</l>
+<l>¿Fuése mi enemigo? ¡Rabio!</l>
+<l>Quiero, y no puedo matalle;</l>
+<l>pero bien podré alcanzalle</l>
+<l>con las alas de mi agravio.</l>
+<l>¿Fuése al fin? ¿Qué es esto, cielos?</l>
+<l>Mas podré en esta ocasión</l>
+<l>abrasarle el corazón</l>
+<l>con los rayos de mis celos.</l>
+<l>En vano el alma se esfuerza.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Señor don Diego, escuchad:</l>
+<l>negocios de voluntad,</l>
+<l>no los queráis de por fuerza.</l>
+<l>La naranja y la mujer,</l>
+<l>lo que ellas quisieren dar,</l>
+<l>porque en llegando a apretar,</l>
+<l>amargo el fruto ha de ser.</l>
+</div><div type="act" number="III">
+
+<l>Salen VALLE, TERESA DE JESÚS y PETRONA.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Esta es la fértil vega deleitosa</l>
+<l>do se cifra la ciencia y mi sosiego:</l>
+<l>la insigne Salamanca suntüosa.</l>
+<l>Esta es la fundación del fuerte Griego,</l>
+<l>que vertió el Paladión preñado de ira:</l>
+<l>convirtió el edificio en vivo fuego.</l>
+<l>Este es el muro que al Trajano admira,</l>
+<l>poniendo al cuarto cielo las escalas,</l>
+<l>que temeroso, al parecer, las mira.</l>
+<l>Parece que las torres tienen alas,</l>
+<l>y que Febo se humilla, disparando</l>
+<l>piedras zafiros en lugar de balas.</l>
+<l>La más bella ciudad estás mirando,</l>
+<l>que el gallardo Pintor del cielo hermoso</l>
+<l>repasa, todo el orbe iluminando.</l>
+<l>Ya con su luz el Tormes caudaloso</l>
+<l>las flores mira que guarnece atento</l>
+<l>con blando curso de cristal ondoso.</l>
+<l>Este es de Salamanca el firme asiento,</l>
+<l>pozo de ciencia, fuente milagrosa,</l>
+<l>que trae del cielo empíreo el firmamento.</l>
+
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Es madre general tan generosa,</l>
+<l>que mil extraños hijos autoriza,</l>
+<l>dotándolos de ciencia y renta honrosa.</l>
+<l>Es ameno jardín, que solemniza</l>
+<l>la provincia del mundo más extraña,</l>
+<l>cuya planta Minerva fertiliza.</l>
+<l>La gran ciudad del mundo en nuestra España,</l>
+<l>que parece se miran las almenas</l>
+<l>en el ameno Tormes que las baña.</l>
+<l>Mirando con desprecio a las de Atenas,</l>
+<l>con más valor y ciencia enriquecidas</l>
+<l>que el ancho mar de plata vierte arenas.</l>
+<l>Aquí vuestras Descalzas recogidas</l>
+<l>estrellas, son que Dios mismo atesora</l>
+<l>para honrar sus esferas guarnecidas.</l>
+<l>Aquí, pues, ¡oh, mi madre fundadora!</l>
+<l>vinisteis, para ser divino aumento</l>
+<l>del soberano Elías, clara aurora.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>En Ávila fundé el primer convento,</l>
+<l>que es la primera piedra en que me fundo,</l>
+<l>porque fue mi primero fundamento.</l>
+<l>En Medina del Campo fue el segundo,</l>
+<l>en Malagón fundé luego el tercero,</l>
+<l>y el cuarto en la mejor villa del mundo,</l>
+<l>que es en Valladolid, del cual espero</l>
+<l>que al cielo han de ofrecer mis luces bellas,</l>
+<l>causando envidia a su mayor lucero.</l>
+<l>La quinta fundación, y mejor de ellas,</l>
+<l>hice en Toledo, cuyas torres altas</l>
+<l>quieren ganar al cielo las estrellas.</l>
+<l>La sexta fue en Pastrana, adonde esmaltas,</l>
+<l>¡gran Dios!, de caridad las mis hijuelas,</l>
+<l>ricas de amor y de riquezas faltas.</l>
+<l>Aquí, donde florecen las escuelas,</l>
+<l>la séptima fundé, en que me recreo,</l>
+<l>a pesar del demonio y sus cautelas.</l>
+<l>La octava en Alba, junto al Tormes veo,</l>
+<l>y en la ilustre Segovia la novena,</l>
+<l>y fue para mi Dios un grande empleo.</l>
+<l>En la villa de Zea la decena,</l>
+<l>y la oncena fue allá en Sevilla,</l>
+<l>que está de santidad y gloria llena.</l>
+<l>La duodécima fue en la ilustre villa</l>
+<l>de Caravaca, y Orden de Santiago,</l>
+<l>que pone cruz en Pecho a maravilla.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>La trecena, primera que a Dios pago,</l>
+<l>en Villanueva de la Jara ha sido,</l>
+<l>donde pasé de penas más de un trago.</l>
+<l>La cuatorcena fue, si no me olvido,</l>
+<l>dentro en Palencia; la quincena en Soria,</l>
+<l>de mi virgen ganado sacro ejido.</l>
+<l>De la décimasexta haya memoria,</l>
+<l>que en Granada fundé, dando a mi Cristo</l>
+<l>mil nuevas gracias de su nueva gloria.</l>
+<l>La postrer fundación que hasta hoy he visto,</l>
+<l>en Burgos fue, donde las hijas mías,</l>
+<l>rasgando el pecho están con amor listo.</l>
+<l>Diez y siete de monjas, en mis días,</l>
+<l>y diez de frailes, hemos ya jurado</l>
+<l>la santa Regla del profeta Elías.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>El cielo, madre, premie tu cuidado,</l>
+<l>pues que con tus conventos de Descalzas</l>
+<l>se mira ya hermoso y estrellado.</l>
+<l>El sacro nombre de tu Dios ensalzas,</l>
+<l>y como al cielo tu fervor le sigue,</l>
+<l>por entrar con silencio te descalzas.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Quiere Dios que el trabajo se mitigue</l>
+<l>pasado en su servicio caminando,</l>
+<l>a quien de nuevo es bien el alma obligue.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>En Alba doña Juana está esperando</l>
+<l>vuestra presencia, a quien hoy os recibe,</l>
+<l>como el agua de mayo deseando.</l>
+<l>Con don Gonzalo entretenida vive,</l>
+<l>sobrino vuestro, su hijo y mi regalo,</l>
+<l>de cuyas gracias suma plana escribe.</l>
+<l>También me dice que le tiene malo.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dios sabe, hermano, en todo lo que ordena.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Rogadle por mi niño don Gonzalo;</l>
+<l>si el cielo de su vida me enajena,</l>
+<l>peligro corre, Madre, mi juicio.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dios le dará salud, no tengáis pena.</l>
+<l>En Alba, ya de hoy más, será mi oficio</l>
+<l>hacer de mis pecados penitencia.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>No faltarán azotes y galeras.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Paciencia, hermana.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Madre mía, paciencia;</l>
+<l>con siete misas y una disciplina</l>
+<l>suele desayunarse la conciencia.</l>
+<l>¡Mirad qué dos pechugas de gallina!</l>
+<l>¡De qué pernil! ¡Qué lampreadas lonjas</l>
+<l>para cuitar al sueño la mohína!</l>
+<l>No somos las de acá como otras monjas,</l>
+<l>que sólo con azotes nos pasamos.</l>
+<l>¡Ved qué cidras en miel! ¡Oh, qué toronjas!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Decid, hermano, ¿cuándo en Alba entramos?</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>En Alba alcanzaremos hoy el día,</l>
+<l>aunque a las dos y aún a las tres; salgamos.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Tan corta es la jornada?</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Hermana mía,</l>
+<l>son tres leguas pequeñas.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Qué se espera?</l>
+<l>Oigamos misa, que partir querría.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Reniego de la alforja y la collera.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Qué tienes?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Que me ahogo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Pues, ¿qué ha sido?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Corte.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Qué he de cortar?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¿Quiere que muera?</l>
+<l>El cordel de la alforja está escondido.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Sosiégate.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>No hay sosiego agora.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ya se cortó el cordel, calla.</l>
+<l>La bienaventurada Madre Santa Teresa de Jesús:107</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Burláis de mí?</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Sacárame la vida.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Soy muy perversa pecadora y mala.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Ya por quien sois estáis bien conocida.</l>
+</sp>
+<stage>Salen DON DIEGO y LEONIDO vestidos de villanos, con pistoletes.</stage>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Este es quien me afrentó.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Pon bien la cala,</l>
+<l>por que no yerres bien el diestro tiro;</l>
+<l>sobre seis perdigones, una bala.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Bien hecha está la carga.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Ya me admiro:</l>
+<l>pásale el pecho, y sea de manera,</l>
+<l>que sólo un ¡ay! pronuncie y dé un suspiro.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Viva mi honor, y mi enemigo muera!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Mi buen Jesús, valedle!</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¡Ay, Dios!</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¡Ay, triste,</l>
+<l>que han muerto a Juan del Valle!</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Hermana, espera.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¿Qué he de esperar, si he visto lo que viste?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Mírale el pecho bien.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Dios me ha guardado.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>¡Bien le apunté!</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>¡Gallardo tiro hiciste!</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Sólo de la ropilla me ha pasado,</l>
+<l>porque a la sangre de este medio paño,</l>
+<l>perdigones y bala han respetado.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Obra es de Dios.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Lloré por cierto el daño.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Una es la bala, y seis los perdigones.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>¿Qué dices de esto?</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Que es milagro extraño.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Libróle Dios de tus persecuciones.</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Por que el pecho se os quiete,</l>
+<l>nueva amistad os prometo,</l>
+<l>que no es bien que os inquiete,</l>
+<l>pues hoy os tuyo respeto</l>
+<l>la bala de un pistolete.</l>
+<l>De vos estaba ofendido,</l>
+<l>y con disfraz de vestido,</l>
+<l>ciego en la ofensa de Dios,</l>
+<l>los pelos buscaba en vos</l>
+<l>del perro que me ha mordido.</l>
+<l>Pero este intento deshace</l>
+<l>el nuevo que agora sigo;</l>
+<l>hoy nuestra amistad se trace;</l>
+<l>que yo no quiero enemigo</l>
+<l>por quien Dios milagros hace.</l>
+<l>Ya la venganza destierro,</l>
+<l>y la plana al odio encierro,</l>
+<l>y ejemplo en la bala tomo,</l>
+<l>pues cuando os conoce el plomo,</l>
+<l>vengo a conocer el yerro.</l>
+<l>Perdonadme.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Bien se entiende</l>
+<l>que Dios, en quien yo confío,</l>
+<l>calificarnos pretende,</l>
+<l>pues hoy con un plomo frío,</l>
+<l>de nuevo el alma se enciende.</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Pues tan encendido estoy,</l>
+<l>que propongo desde hoy</l>
+<l>ser fraile.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Glorioso intento:</l>
+<l>¿sabéis que fundo convento?</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Sé que vuestro fraile soy,</l>
+<l>y vuestro amigo, señor.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Nuevo milagro éste ha sido,</l>
+<l>pues el odio y el rigor</l>
+<l>tan presto se han convertido</l>
+<l>en amistad y en amor.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Las gracias a Dios las dad</l>
+<l>de vuestra nueva amistad.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Y a vuestra...</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No me afrentéis.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Iba a decir santidad,</l>
+<l>pero atajado me habéis.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No me tratéis de esa suerte.</l>
+
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Hoy me ha librado de muerte</l>
+<l>este peto que formasteis;</l>
+<l>con la sangre le templasteis,</l>
+<l>porque saliese más fuerte.</l>
+<l>Pero ha sido bien fiel,</l>
+<l>hermana, este medio lienzo,</l>
+<l>pues la bala paró en él.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dejemos eso.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Hoy comienzo,</l>
+<l>sin duda, a vivir por él.</l>
+<l>La bala, a hacer su hecho,</l>
+<l>parece en este antepecho;</l>
+<l>aunque sedienta llegó,</l>
+<l>como vuestra sangre halló,</l>
+<l>no quiso la de mi pecho.</l>
+<l>Y fue discreta la bala</l>
+<l>en excusarme, de pena;</l>
+<l>que si en sangre se regala,</l>
+<l>la de vuestro dedo es buena,</l>
+<l>y la de mi pecho es mala.</l>
+<l>No quiso el plomo este día</l>
+<l>la caliente sangre mía:</l>
+<l>la vuestra le dió contento,</l>
+<l>que como llegó sediento,</l>
+<l>buscó la bebida fría.</l>
+<l>El milagro, dibujado</l>
+<l>en este lienzo se halla,</l>
+<l>que es, aunque lienzo pintado,</l>
+<l>lienzo también de muralla,</l>
+<l>pues de un tiro me ha librado:</l>
+<l>volverle quiero a mi pecho.</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Jaco será de provecho.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Con vos, lienzo, iré seguro;</l>
+<l>que ya, cual lienzo de muro,</l>
+<l>me serviréis de antepecho.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Decidme dónde he de ser</l>
+<l>fraile, que por vuestra mano</l>
+<l>quiero la casa escoger.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Con el retor fray Mariano,</l>
+<l>don Diego, os habéis de ver.</l>
+<l>En Maqueda, primo, está,</l>
+<l>que es el convento primero</l>
+<l>de mis Descalzos.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Y espero</l>
+<l>que para mi bien será.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dado me habéis gran contento,</l>
+<l>porque sois la piedra vos</l>
+<l>de mi primero convento,</l>
+<l>y piedra que labra Dios</l>
+<l>para piedra del cimiento.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Disponga el Eterno Padre</l>
+<l>lo que a mi corazón cuadre.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ansí lo habéis de pedir.</l>
+
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Luego me quiero partir.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Adiós, hijo.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Adiós, mi madre.</l>
+<l>De vos espero el perdón.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Yo le concedo y le pido</l>
+<l>de la pasada cuestión.</l>
+</sp>
+<sp><speaker>DON DIEGO:</speaker>
+<l>Yo solo el culpado he sido.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Yo solo di la ocasión.</l>
+</sp>
+<sp><speaker>LEONIDO</speaker>
+<l>Seguirle hasta el fin conviene.</l>
+</sp>
+<stage>Vanse DON DIEGO y LEONIDO.</stage>
+<sp><speaker>VALLE</speaker>
+<l>El nuevo ejemplo que tiene</l>
+<l>me ha dejado puesto en calma.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Si Dios le ha tocado el alma,</l>
+<l>cual a piedra imán se viene.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Un cilicio me ha mandado</l>
+<l>el hermano fray Tardón;</l>
+<l>¿quiere envialle un recado?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dios reciba la intención,</l>
+<l>y baste el que yo le he dado.</l>
+
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¡Madre!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Tenga más jüicio.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Que traiga dos me conceda:</l>
+<l>no cercene mi ejercicio;</l>
+<l>que no es seda sobre seda,</l>
+<l>cilicio sobre cilicio.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>De pláticas excusemos;</l>
+<l>entrar en Alba hoy querría:</l>
+<l>venid luego, en misa entremos.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Con más de una hora de día,</l>
+<l>en Alba, madre, entraremos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Veré las mis hermanitas,</l>
+<l>las mis monjas descalcitas,</l>
+<l>honra del monte Carmelo,</l>
+<l>que puede ilustrar el cielo</l>
+<l>con sus luces carmelitas.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Velas el cielo tan bellas,</l>
+<l>que a las suyas las trocara;</l>
+<l>pero el convento sin ellas,</l>
+<l>luego a engaño se llamara,</l>
+<l>y pidiera sus estrellas.</l>
+<l>La misa quiere salir.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Largos serán los oficios.</l>
+
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Luego podemos partir.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Que me quiten los cilicios,</l>
+<l>no es vida para sufrir.</l>
+</sp>
+<stage>Vanse; salen DOÑA JUANA, con un niño en brazos, y DON JUAN, su hermano.</stage>
+<sp><speaker>DON JUAN:</speaker>
+<l>De verte llorar me aflijo.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>No hay llanto que no me cuadre,</l>
+<l>pues aguardo un vivo padre</l>
+<l>con nuevas de un muerto hijo.</l>
+<l>Ya se acabó mi regalo</l>
+<l>y mi ventura también;</l>
+<l>ya no espero tener bien,</l>
+<l>pues me faltáis vos, Gonzalo.</l>
+<l>La muerte, niño, os llevó:</l>
+<l>¡ay, mi Dios! Sin vos, ¿qué haré?</l>
+<l>¿Qué cuenta de vos daré</l>
+<l>al padre que os me encargó?</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Hermana, ten más sentido.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Siempre hay llanto donde hay muerte.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Que llegan ya cerca, advierte,</l>
+<l>nuestra hermana y tu marido.</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Mirad, niño, el caso atroz;</l>
+<l>recibid mi nuevo aliento,</l>
+<l>porque en este sentimiento</l>
+<l>me consuele vuestra voz.</l>
+<l>Ángel que estáis en el cielo,</l>
+<l>de guarda podéis ya ser;</l>
+<l>ea, venidme a valer,</l>
+<l>que es mucho mi desconsuelo.</l>
+<l>Aunque haga su justo oficio</l>
+<l>el Ángel bueno de Dios,</l>
+<l>pienso que he menester dos</l>
+<l>que me guarden el jüicio.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Ya tu llanto es infinito,</l>
+<l>aunque la causa le abona.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Lloraré como leona</l>
+<l>por ver si le resucito.</l>
+<l>Niño, consuelo, regalo,</l>
+<l>vida, ángel o león,</l>
+<l>doleos de mi pasión;</l>
+<l>respondedme, don Gonzalo.</l>
+<l>Mis lágrimas remediad;</l>
+<l>que los ángeles cual vos,</l>
+<l>por sólo imitar a Dios,</l>
+<l>suelen tener caridad.</l>
+<l>Tenedla conmigo aquí.</l>
+<l>pues afligida me halláis,</l>
+<l>y pues ya con Dios priváis,</l>
+<l>pedidle algo para mí.</l>
+<l>Don Gonzalo, consoladme;</l>
+<l>mas ¡ay de mí! que recelo</l>
+<l>que por no dejar el cielo</l>
+<l>dejaréis de consolarme.</l>
+
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>El niño me he de llevar</l>
+<l>antes que pase adelante.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Sangre lloró mi diamante;</l>
+<l>bien os podéis ablandar.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Mi traza este medio ordena.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Traidor!</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Perdonad, señora;</l>
+<l>que la causa quito ahora</l>
+<l>por ver si quito la pena.</l>
+</sp>
+<stage>Lleva DON JUAN el niño.</stage>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Déjame el hijo, traidor;</l>
+<l>déjame con mis cuidados;</l>
+<l>que te comeré a bocados</l>
+<l>cual la tigre al cazador.</l>
+<l>Oye, aguarda, mira, espera;</l>
+<l>vuelve. dame el niño, acaba,</l>
+<l>que muerto me consolaba;</l>
+<l>mira vivo lo que hiciera.</l>
+
+</sp>
+<stage>Salen VALLE, TERESA y PETRONA.</stage>
+<sp><speaker>VALLE</speaker>
+<l>Ya, señora, en Alba estáis,</l>
+<l>y en mi casa hoy hospedada.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Por cierto, mucho me agrada</l>
+<l>esta villa.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Vos la honráis.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Con mi cordero se aleja;</l>
+<l>vuelve a mis manos el robo;</l>
+<l>mas ¡ay! que no siente el lobo</l>
+<l>los balidos de la oveja.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Hermana!</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¡Bien de mi vida!</l>
+<l>¿Qué voces, decid, son éstas?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Las mesas tengo ya puestas,</l>
+<l>y la cena prevenida.</l>
+<l>Quería disimular,</l>
+<l>pero no puedo ni acierto.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Sin duda Gonzalo es muerto,</l>
+<l>mas Dios lo ha de remediar.</l>
+
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¿Qué llanto es éste, señora?</l>
+<l>No sé, a fe, qué me decir,</l>
+<l>sino que en vernos venir</l>
+<l>lloráis de contento ahora.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Río, viéndoos, de placer,</l>
+<l>pero vuélvome a mirar</l>
+<l>y luego vuelvo a llorar;</l>
+<l>ved cuál me debo de ver.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Guardad esas perlas bellas,</l>
+<l>no las vertáis en el suelo;</l>
+<l>mirad que, sentido el cielo,</l>
+<l>os pondrá pleito por ellas.</l>
+<l>Cuando, según buena cuenta,</l>
+<l>salgo de un golpe de enojos,</l>
+<l>en la luz de vuestros ojos</l>
+<l>hallo mayor la tormenta.</l>
+<l>Mas ¿cómo ha puesto en olvido</l>
+<l>el norte de mi regalo?</l>
+<l>¿Dónde está mi don Gonzalo?</l>
+<l>¿Cómo no me ha recibido?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Vuestro hijo!...</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¿Qué ha pasado?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>No preguntéis más, señor.</l>
+
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Ya me dice mi dolor</l>
+<l>que el cielo me le ha quitado.</l>
+<l>Ya sé que el niño murió;</l>
+<l>que en esta respuesta incierta</l>
+<l>vive la sospecha cierta</l>
+<l>que el alma me adivinó.</l>
+</sp>
+<stage>Sale LEBRIJA.</stage>
+<sp><speaker>LEBRIJA</speaker>
+<l>Tres horas debe de haber</l>
+<l>que expiró el ángel hermoso.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Trago me dais muy penoso,</l>
+<l>pero al fin se ha de beber.</l>
+<l>¿Dónde el niño me tenéis?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Señor, pedídselo a Dios.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Madre, pedídselo vos,</l>
+<l>pues tanto con Él podéis.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Algún desmayo será;</l>
+<l>trae el niño con cuidado.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Yo traeré su cuerpo helado;</l>
+<l>que el alma en el cielo está.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Hoy su muerte el cielo ordena,</l>
+<l>aunque el seso pierda aquí;</l>
+<l>estoy quejosa de mí</l>
+<l>porque no he muerto de pena.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Digo que el niño no es muerto.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>En mis brazos expiró.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Creed lo que os digo yo.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Lo que vi tengo por cierto.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Pues aunque visto le habéis,</l>
+<l>lo que yo os digo creed;</l>
+<l>buena esperanza tened;</l>
+<l>fiad en Dios, no lloréis.</l>
+</sp>
+<stage>Sacan el niño LEBRIJA y DON JUAN.</stage>
+<sp><speaker>DON JUAN:</speaker>
+<l>Este es el ángel del cielo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Don Juan!</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Hermana, tomad.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Por su vida a Dios rogad.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Muerto está como mi abuelo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Viva este niño, mi Dios;</l>
+<l>mi fe vuestro pecho abra;</l>
+<l>ved que he dado mi palabra</l>
+<l>para que la cumpláis vos.</l>
+<l>Cumplid, aunque es fuerte cosa,</l>
+<l>esta palabra que he dado;</l>
+<l>que el esposo está obligado</l>
+<l>a cumplir la de la esposa.</l>
+<l>¿No me habláis, niño querido?</l>
+
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>¡Madre, tía! Sí hablaré.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Veis como desmayo fue?</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Bien se ha visto lo que ha sido.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Mi niño, mi bien, mi estrella!</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>¡Regalo del alma mía!</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Dejadme hablar a mi tía;</l>
+<l>que tengo una queja de ella:</l>
+<l>muy quejoso estoy de vos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Por qué?</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Porque vuestro celo</l>
+<l>me quitó el subir al cielo,</l>
+<l>donde gozara de Dios.</l>
+<l>¿Tengo razón?</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Sí tenéis;</l>
+<l>mas fundéme en caridad.</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>El bien que perdí notad,</l>
+<l>pues en Dios visto le habéis.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Los ángeles de gran celo,</l>
+<l>almas suelen dar a Dios,</l>
+<l>y obligáisle, madre, vos</l>
+<l>con sacárselos del cielo.</l>
+<l>Nuevo modo de obligar.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Las gracias a Dios se den.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Pues hoy por vos me hace bien,</l>
+<l>también os las quiero dar.</l>
+<l>Vuestra pena es bien se ataje,</l>
+<l>pues hoy nuestra madre amada,</l>
+<l>antes de ser hospedada,</l>
+<l>tan bien paga el hospedaje.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Mi hermana, mucho os cansamos</l>
+<l>y es razón que os regalemos;</l>
+<l>venid, en mi cuarto entremos,</l>
+<l>descansaréis.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Madre, vamos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Eso no he de consentir.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Aquí os tengo de hospedar.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No me lo habéis de mandar;</l>
+<l>que en mi casa he de dormir.</l>
+<l>Vengo mala, y no querría</l>
+<l>curarme fuera de casa.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>El corazón me traspasa.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Quedaos por hoy, madre mía.</l>
+<l>Mirad...</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Dadme este contento.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Por dárosle, mucho haré.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Este, señor, se me dé;</l>
+<l>que me importa ir al convento.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Yo, madre, quiero ir con vos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Adiós, hermana.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Adiós, madre.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Adiós, Gonzalo.</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Adiós, padre.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Adiós, mi bien.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Vida, adiós.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Para algún viaje largo</l>
+<l>parece que os despedís.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Si lo que os quiero advertís,</l>
+<l>no me echaréis este cargo.</l>
+<l>Luego vuelvo.</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Aquí os espero;</l>
+<l>no se ahogue mi regocijo.</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>¿No me habla, madre?</l>
+</sp>
+<stage>Vanse TERESA y VALLE.</stage>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Hijo!,</l>
+<l>daros cien mil besos quiero.</l>
+<l>Cual hijo y cual ángel,</l>
+<l>ya sois todo de mi consuelo.</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Ya me hallaba yo en el cielo</l>
+<l>mucho mejor que no acá.</l>
+<l>¡Qué bien me pudiera holgar!</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Y ¿sin mí?</l>
+</sp>
+<sp><speaker>NIÑO</speaker>
+<l>Madre, sin vos;</l>
+<l>que en llegando a ver a Dios,</l>
+<l>ya no hay más que desear.</l>
+</sp>
+<stage>Sale PETRONA, de camino.</stage>
+<sp><speaker>PETRONA</speaker>
+<l>¿Dónde nuestra madre está?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>En su casa.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¡Oh, mi señora!</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Seas venida en buen hora.</l>
+
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Para servirte será.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¿Vienes cansada?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¿De qué?</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¿Cuatro, leguas no has andado?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Como ésas he caminado.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¿A pie, hermana?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Hermana, a pie.</l>
+<l>Nadie a mi paso llegó.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Digo que eres gran mujer.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Una mula de alquiler</l>
+<l>no camina como yo.</l>
+<l>Si lo que ando se regula,</l>
+<l>en más de cuatro ciudades,</l>
+<l>con una o dos falsedades,</l>
+<l>pasara plaza de mula.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Buen modo de entretener.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>En todo he dicho verdad.</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Mulas hay sin falsedad.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Pues de ésas debo de ser.</l>
+<l>Cuando un camino importaba.</l>
+<l>negociábalo volando,</l>
+<l>y nuestra madre, burlando,</l>
+<l>tragaleguas me llamaba.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Sería, en mil ocasiones,</l>
+<l>de importancia tu persona.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Yo fui posta y postillona</l>
+<l>de todas las fundaciones.</l>
+<l>Mil tierras hemos andado,</l>
+<l>con aguas, nieve y vientos,</l>
+<l>y diez y siete conventos,</l>
+<l>hasta hoy, hemos fundado.</l>
+<l>Sabe Dios, que es nuestro Padre,</l>
+<l>cuántos pasos me costaron</l>
+<l>las casas que se fundaron</l>
+<l>por orden de nuestra madre.</l>
+<l>Siete leguas sobre seis</l>
+<l>de sol a sol caminaba,</l>
+<l>y si a veces me picaba,</l>
+<l>pasaba de diez y seis.</l>
+<l>Pasa de cosa ordinaria</l>
+<l>lo que anduve, no te asombre,</l>
+<l>que en Sevilla, por mal nombre,</l>
+<l>soy la hermana Dromedaria.</l>
+<l>Este nombre me llamaban,</l>
+<l>cuando en la calle me vían</l>
+<l>los niños, que me seguían</l>
+<l>y la cinta me besaban.</l>
+
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Mucho me alegras.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Señora,</l>
+<l>tienen grande devoción</l>
+<l>con la nueva religión</l>
+<l>y con su gran fundadora.</l>
+<l>Por verla, vi algunos días</l>
+<l>media ciudad convocada,</l>
+<l>y después que entró en Granada,</l>
+<l>la llaman hija de Elías.</l>
+<l>El nombre le viene a pelo,</l>
+<l>pues que tiene edificado</l>
+<l>el edificio asolado,</l>
+<l>que es cimiento en el Carmelo.</l>
+</sp>
+<stage>Salen VALLE, DON JUAN y LEBRIJA.</stage>
+<sp><speaker>VALLE</speaker>
+<l>Ya vuestra hermana, señora,</l>
+<l>queda en su casa.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>¡Oh, mi bien!</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Señora, quiero también</l>
+<l>irme a mi convento.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Ahora</l>
+<l>conmigo te has de quedar;</l>
+<l>mira que estará cerrado.</l>
+
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>El discreto convidado</l>
+<l>no se ha de hacer de rogar.</l>
+<l>Digo que yo soy quedada.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Del nuevo gusto gocemos,</l>
+<l>aunque aguado le tenemos,</l>
+<l>pues falta mi madre amada.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Venid, señor.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Vida, Vamos.</l>
+</sp>
+<stage>Vanse; quedan LEBRIJA y PETRONA.</stage>
+<sp><speaker>LEBRIJA</speaker>
+<l>¡Petronilla!</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Poco a poco:</l>
+<l>¿Petronilla? Viejo loco,</l>
+<l>por cierto, de gracia estamos.</l>
+<l>Ya el hábito, con la edad,</l>
+<l>pide que habléis con decencia:</l>
+<l>escuche Su Reverencia,</l>
+<l>oiga Su Maternidad.</l>
+<l>Paternidad por el padre,</l>
+<l>al fraile el cielo llamó,</l>
+<l>y a las monjas como yo.</l>
+<l>Maternidad por la madre.</l>
+<l>Sabed que soy...</l>
+
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Ya es notorio:</l>
+<l>figura de la piscina,</l>
+<l>vicaria de la cocina,</l>
+<l>y escoba del refitorio.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Aquí, para entre los dos,</l>
+<l>afrénteme el don mastín,</l>
+<l>y cuanto hablé el viejo ruin,</l>
+<l>sea por amor de Dios.</l>
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Ya vences al pasatiempo,</l>
+<l>Urganda de la Escritura.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Vamos, mi señor, figura</l>
+<l>de las que descarta el tiempo.</l>
+</sp>
+<stage>Vanse; sale TERESA con una cruz a cuestas.</stage>
+<sp><speaker>TERESA</speaker>
+<l>La clara y blanca luna se oscurece,</l>
+<l>el sol se eclipsa y pierde su luz pura,</l>
+<l>la dura piedra se abre, que, aunque dura,</l>
+<l>viendo morir a Cristo se enternece,</l>
+<l>el proceloso mar se altera y crece,</l>
+<l>los vientos braman por la niebla oscura,</l>
+<l>y el mismo cielo muestra ser criatura,</l>
+<l>sintiendo el mal que su Criador padece.</l>
+
+</sp>
+<sp><speaker>LEBRIJA</speaker>
+<l>Luna, sol, tierra, mar, vientos y cielo,</l>
+<l>viendo cercado a Dios de inmensas penas,</l>
+<l>lloran y sienten lo que yo he pecado:</l>
+<l>yo me alegro llorando, y me consuelo</l>
+<l>viendo que es mar la sangre de sus venas,</l>
+<l>y mar donde se anega mi pecado.</l>
+<l>¿Cómo, Dios, no he de seguiros</l>
+<l>y en algún paso imitaros?</l>
+<l>¿Cómo no han de conquistaros</l>
+<l>los rayos de mis suspiros?</l>
+<l>Por imitaros en algo,</l>
+<l>aunque sin fuerzas me siento,</l>
+<l>por el claustro del convento</l>
+<l>con la cruz a cuestas salgo.</l>
+<l>No hay peligro que me aflija</l>
+<l>con este arrimo, este mármol,</l>
+<l>que quien se arrima a buen árbol,</l>
+<l>buena sombra le cobija.</l>
+<stage>Arrodíllase.</stage>
+<l>Jesús, cargada me veo;</l>
+<l>pero con la cruz, mi Dios,</l>
+<l>no sé qué fuera de vos,</l>
+<l>si tardara el Cirineo.</l>
+<l>Yo le había menester,</l>
+<l>que enferma y cansada estoy.</l>
+
+</sp>
+<stage>Sale el AMOR DIVINO con una corona de espinas en las manos.</stage>
+<sp><speaker>AMOR</speaker>
+<l>Yo tu Cirineo soy;</l>
+<l>ánimo, buena mujer.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Buena yo?</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Buena te llamo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¿Sabéislo vos?</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Sí lo sé,</l>
+<l>pues desde el cielo bajé</l>
+<l>a la voz de tu reclamo.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ya os conozco, sacro halcón,</l>
+<l>Divino Amor disfrazado,.</l>
+<l>que del cielo os he bajado</l>
+<l>con cebo del corazón.</l>
+<l>Ya he visto en mil ocasiones.</l>
+<l>mi divino Esposo justo,</l>
+<l>que sois halcón en el gusto,</l>
+<l>pues gustáis de corazones.</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Buena ayuda tienes ya.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Qué, ¿os veo?</l>
+
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Sí que me ves:</l>
+<l>¿qué más pudo ver Moisés</l>
+<l>en la cumbre de Siná?</l>
+<l>Déjame la cruz a mí,</l>
+<l>pues de quien soy te doy luz.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Tendré celos de la cruz</l>
+<l>si la queréis más que a mí.</l>
+<l>Ya justamente recelo</l>
+<l>que la cruz, y no mi amor,</l>
+<l>de vuestro nuevo fervor</l>
+<l>os bajó del cielo el suelo:</l>
+<l>toda no me la quitéis;</l>
+<l>que si mi amor estimáis,</l>
+<l>de aquello que más amáis,</l>
+<l>es bien que parte me deis.</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Esta es mi prenda querida.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No me dejéis tan quejosa,</l>
+<l>que entre el esposo y la esposa</l>
+<l>no ha de haber cosa partida.</l>
+<l>Mas ya dejo esta querella;</l>
+<l>hoy mi fe quiero mostraros,</l>
+<l>y toda la cruz dejaros,</l>
+<l>aunque me dejéis por ella.</l>
+<l>Llegad, divino Jüez,</l>
+<l>pues su amor tanto os obliga;</l>
+<l>llegad presto, no se diga</l>
+<l>que la teméis otra vez.</l>
+<l>Gran Señor, cuasi me espanto</l>
+<l>que la cruz améis hermosa</l>
+<l>porque no os fue tan gustosa</l>
+<l>para que la queráis tanto.</l>
+<l>No sé qué decir, Señor,</l>
+<l>de afición tan sin compás,</l>
+<l>sino que se quieren más</l>
+<l>los hijos de más dolor.</l>
+<l>Si es esto, razón tenéis,</l>
+<l>que la cruz mucho os costó;</l>
+<l>mas con todo, siento yo</l>
+<l>que por ella me dejéis.</l>
+
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Pídeme celos, mi esposa,</l>
+<l>dárete cien mil consuelos;</l>
+<l>que son todos estos celos</l>
+<l>rayos de tu fe amorosa.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Señor, diéronme osadía</l>
+<l>las alas de mi afición.</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Los primeros celos son,</l>
+<l>que huelen a cortesía.</l>
+<l>La cruz llevemos los dos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No pide más el deseo,</l>
+<l>pues me ayuda un Cirineo</l>
+<l>mucho mejor que el de Dios.</l>
+<l>Mas ¿dónde voy? Reparad</l>
+<l>lo que advertí en este instante;</l>
+<l>pasad, mi Amor, adelante;</l>
+<l>vuestro lugar ocupad.</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Bien vamos.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>No he de sufrir,</l>
+<l>aunque vuestra fe me abona,</l>
+<l>que vos lleváis la corona</l>
+<l>y delante habéis de ir.</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Pues ya mi lugar te he dado,</l>
+<l>mi corona te he de dar.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>¡Qué merced tan sin igual!</l>
+<l>¡Qué premio tan señalado!</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Espinas tiene.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Hoy, en mí,</l>
+<l>no son sino clavellinas.</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Las que en mí fueron espinas,</l>
+<l>se vuelven rosas en ti.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Segunda vez vuelvo a vellas,</l>
+<l>y como, son tan hermosas,</l>
+<l>pienso, mi Amor, que las rosas</l>
+<l>se me han de volver estrellas.</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Estrellas se han de volver,</l>
+<l>Esposa, dentro en dos días,</l>
+<l>que en mis altas jerarquías,</l>
+<l>te las volveré a poner.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Vuestra voluntad se haga;</l>
+<l>que yo humilde sierva soy.</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Estas flores que te doy</l>
+<l>serán principio de paga.</l>
+
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Aunque el demonio es sutil,</l>
+<l>temerá en esta ocasión,</l>
+<l>viendo que mis flores son</l>
+<l>pimpollos de vuestro abril.</l>
+<l>Con todo, mi Amor, guardaldas.</l>
+</sp>
+<sp><speaker>AMOR</speaker>
+<l>Esposa, no tengas miedo,</l>
+<l>camina, que atrás me quedo</l>
+<l>por guardarte las espaldas.</l>
+</sp>
+<stage>Vanse con la cruz a cuestas; salen FRAY MARIANO y FRAY DIEGO, carmelitas.</stage>
+<sp><speaker>MARIANO</speaker>
+<l>Ya, fray Diego, en Alba estamos,</l>
+<l>donde hoy descansar podremos</l>
+<l>y a nuestra madre veremos,</l>
+<l>que es lo que más deseamos.</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>Tráigola en el corazón.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Por cierto, razón tenéis.</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>Pues, mi Padre, aún no sabéis</l>
+<l>la causa de esta afición.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Que es, bien fundada os concedo.</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>Sacóme de un ciego abismo</l>
+<l>y libróme de mí mismo,</l>
+<l>que es lo que más decir puedo.</l>
+
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Mala me escribió que estaba;</l>
+<l>que luego a verla viniese,</l>
+<l>y que conmigo os trajese</l>
+<l>porque veros deseaba.</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>¿Es de cuidado su mal?</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Pienso que es de muerte.</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>¡Ay, padre!</l>
+<l>¿Tan mala está nuestra madre?</l>
+<l>No permita el cielo tal.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Si llegó ya su ocasión,</l>
+<l>nacida es y ha de morir.</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>Sólo en oírlo decir</l>
+<l>se me turba el corazón.</l>
+</sp>
+<stage>Sale PETRONA llorando.</stage>
+<sp><speaker>MARIANO</speaker>
+<l>Hermana Petrona, ¿es esta</l>
+<l>hermana?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Déjenme ahora;</l>
+<l>que está nuestra fundadora</l>
+<l>en las manos de Dios puesta.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Tan mala está?</l>
+
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>¡Padre mío,</l>
+<l>dicen que se está muriendo!</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>Yo, para mí, así lo entiendo;</l>
+<l>pero, mi Cristo, en vos fío.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Dónde vas?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Voyme a cansar,</l>
+<l>pero mensajera soy;</l>
+<l>médicos a llamar voy</l>
+<l>que la acaben de matar.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Espera, venos guiando</l>
+<l>a su celda.</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>Bien será.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Levantando, el pecho está,</l>
+<l>con la muerte peleando.</l>
+</sp>
+<stage>Salen VALLE, DON JUAN y DOÑA JUANA.</stage>
+<sp><speaker>VALLE</speaker>
+<l>Llegad, señora, y veremos</l>
+<l>a nuestra madre.</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>Llegad;</l>
+<l>abra Su Paternidad,</l>
+<l>las puertas romperemos.</l>
+
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>Que no es entrar en convento</l>
+<l>a seglares permitido.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Mucho desorden ha sido.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Sí fue, pero buen intento.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Esto es justo que miréis.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Así lo entiendo, y pues puedo,</l>
+<l>hoy os permito y concedo</l>
+<l>que a ver nuestra madre, entréis.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Llegad, si la queréis ver.</l>
+</sp>
+<stage>Corren la cortina; está TERESA en una cama con un Cristo, y algunas monjas alrededor.</stage>
+<sp><speaker>DIEGO</speaker>
+<l>¡Prima!</l>
+</sp>
+<sp><speaker>DON JUAN:</speaker>
+<l>¡Hermana!</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¡Fundadora!</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Ya, padre, llegó mi hora;</l>
+<l>fin que forzoso ha de ser;</l>
+<l>a todos pido perdón;</l>
+<l>¿dáismele?</l>
+
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Madre, sí damos,</l>
+<l>y todos juntos rogamos</l>
+<l>que nos deis la bendición.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>La de Dios con todos sea,</l>
+<l>y en este punto conmigo,</l>
+<l>mi Cristo, mirad que os sigo;</l>
+<l>hoy vuestra piedad se vea.</l>
+</sp>
+<stage>Cantan dentro MÚSICA.</stage>
+<sp><speaker>MÚSICA</speaker>
+<l>Pues se humilla el corazón,</l>
+<l>suba a los cielos y exáltele Dios.</l>
+</sp>
+<sp><speaker>TERESA</speaker>
+<l>Sírvame de escudo santo</l>
+<l>vuestro pecho diamantino,</l>
+<l>pues, sois, Señor, uno y trino</l>
+<l>con el Espíritu Santo.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Confesó la eternidad,</l>
+<l>y el alma a su Dios ha dado.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Arrimada se ha quedado</l>
+<l>al árbol de la verdad.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Murió nuestra madre amada,</l>
+<l>la virgen santa expiró;</l>
+<l>una paloma salió</l>
+<l>con la primer boqueada.</l>
+<l>El alma se va sellando</l>
+<l>con el gran dueño que ha visto,</l>
+<l>y con el esposo Cristo</l>
+<l>a su esfera va volando.</l>
+
+</sp>
+<sp><speaker>MÚSICA</speaker>
+<l>Romped el aire gozosa,</l>
+<l>mi blanca paloma hermosa.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Veis algo?</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Yo sí.</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>Yo no.</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Sólo Dios ha permitido</l>
+<l>que el milagro sucedido</l>
+<l>lo viésemos vos y yo.</l>
+</sp>
+<sp><speaker>DIEGO</speaker>
+<l>¡Jesús, qué olor tan suave!</l>
+<l>¿Sentísle?</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Y ¡cómo que siento!</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Parece que va en aumento.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>Este olor al cielo sabe.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>El sentido del oler</l>
+<l>me falta.</l>
+</sp>
+<sp><speaker>VALLE</speaker>
+<l>Del cuerpo sale.</l>
+</sp>
+<sp><speaker>DOÑA JUANA:</speaker>
+<l>No hay ámbar que se le iguale.</l>
+
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>Ya es ángel, si fue mujer.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Que todos gocen de vos</l>
+<l>este olor que les consuela,</l>
+<l>y que yo, madre, no huela,</l>
+<l>lo que siento sabe Dios.</l>
+<l>¡Milagro, milagro, padre!</l>
+</sp>
+<sp><speaker>MARIANO</speaker>
+<l>¿Qué hay, hermana?</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Que ya huelo</l>
+<l>este olor que sabe a cielo.</l>
+</sp>
+<sp><speaker>MARIANO</speaker
+<l>Gracias a Dios y a la madre.</l>
+</sp>
+<sp><speaker>PETRONA</speaker>
+<l>Ella me abrió este sentido,</l>
+<l>que hasta aquí tuve cerrado.</l>
+</sp>
+<stage>Dan golpes dentro.</stage>
+<sp><speaker>VALLE</speaker>
+<l>Del pueblo, ya convocado,</l>
+<l>suena confuso ruido.</l>
+<stage>Otra vez golpes y grita.</stage>
+<l>¿Quién nos viene a inquietar?</l>
+<stage>Dentro.</stage>
+<l>La santa madre buscamos.</l>
+<l>Si al pueblo no la enseñamos,</l>
+<l>las puertas han de quebrar.</l>
+<l>El cuerpo luego, a la hora,</l>
+<l>al de la iglesia saquemos,</l>
+<l>y fin a la historia demos</l>
+<l>de nuestra gran fundadora.</l></sp></div>

@@ -50,7 +50,7 @@ What do I do about the y (and) between some speaker names? They are in stage dir
     <l>(Entra.+\.)</l>
     \1
 9. Remove <l> around speakers
-    Find <l>([A-ZÁÉÍÚ]+:)</l>
+    Find <l>([A-ZÁÉÍÓÚÑ]+:)</l>
     Replace /1
     
 10. Tag speakers
@@ -100,12 +100,12 @@ What do I do about the y (and) between some speaker names? They are in stage dir
     
  17. Make Acts into divs
     Find Acto\s([I]+)
-    Replace </div><div type="act" number="\1">\0
+    Replace </div><div type="act" n="\1">\0
     
     Move the first </div> to the bottom
  
  18. Get rid of colon after speakers' names
-    Find (<speaker>[A-ZÁÉÍÚ]+):
+    Find (<speaker>[A-ZÁÉÍÓÚÑ]+):
     Replace \1
  
  19. Add white space around speeches
