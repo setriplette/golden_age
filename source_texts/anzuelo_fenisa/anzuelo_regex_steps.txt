@@ -100,7 +100,7 @@ What do I do about the y (and) between some speaker names? They are in stage dir
     
  17. Make Acts into divs
     Find Acto\s([I]+)
-    Replace </div><div type="act" n="\1">\0
+    Replace </div><div type="act" n="\1">
     
     Move the first </div> to the bottom
  

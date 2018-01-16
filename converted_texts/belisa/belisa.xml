@@ -1,0 +1,4454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las bizarrías de Belisa</title>
+            <author>Félix Lope de Vega y Carpio</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>From es.wikisource.org</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <front><castList><castItem><role xml:id="lucinda_belisa" ana="f">LUCINDA</role> <roleDesc>dama</roleDesc></castItem>
+        <castItem><role xml:id="belisa_belisa" ana="f">BELISA</role> <roleDesc>dama</roleDesc></castItem>
+        <castItem><role xml:id="finea_belisa" ana="f">FINEA</role> <roleDesc>su criada</roleDesc></castItem>
+        <castItem><role xml:id="celia_belisa" ana="f">CELIA</role> <roleDesc>dama</roleDesc></castItem>
+       <castItem> <role xml:id="fabia_belisa" ana="f">FABIA</role> <roleDesc>criada</roleDesc></castItem>
+        <castItem><role xml:id="juan_belisa" ana="m">DON JUAN</role><roleDesc>Don Juan de Cardona</roleDesc></castItem>
+        <castItem><role xml:id="tello_belisa" ana="m">TELLO</role> <roleDesc>su criado</roleDesc></castItem>
+       <castItem> <role xml:id="octavio_belisa" ana="m">OCTAVIO</role> <roleDesc>galán</roleDesc></castItem>
+        <castItem><role xml:id="julio_belisa" ana="m">JULIO</role></castItem>
+        <castItem><role xml:id="conde_belisa" ana="m">CONDE</role> <roleDesc>Conde Enrique</roleDesc></castItem>
+        <castItem><role xml:id="fernando_belisa" ana="m">FERNANDO</role> <roleDesc>criado del Conde</roleDesc></castItem>
+        <castItem><role xml:id="criados_belisa" ana="m">CRIADOS</role></castItem>
+       <castItem> <role xml:id="músicos_belisa" ana="m">MÚSICOS</role></castItem>
+        <castItem><role xml:id="hombres_belisa" ana="m">DOS HOMBRES</role></castItem></castList></front>
+      <body>
+         
+
+<div type="act" n="I"> 
+
+<stage>Sala en casa de BELISA.</stage>
+<stage>Sale BELISA con vestido entero de luto galán, flores negras en el cabello, guantes de seda negra, y valona y FINEA.</stage>
+<sp><speaker>FINEA</speaker>
+<l>¿Así rasgas el papel?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Cánsame el Conde, Finea.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Qué ingratitud!</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Que lo sea</l>
+<l>me manda amor.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Fuego en él,</l>
+<l>que pienso que no es tan vario</l>
+<l>en sus mudanzas el viento.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Navega mi pensamiento</l>
+<l>por otro rumbo contrario:</l>
+<l>castigó mi voluntad</l>
+<l>el cielo.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>No sé si diga,</l>
+<l>que justamente castiga,</l>
+<l>señora, tu libertad.</l>
+<l>Tanto despreciar amantes,</l>
+<l>tanto desechar maridos,</l>
+<l>tanto hacer de los oídos</l>
+<l>arracadas de diamantes,</l>
+<l>claro está, que habían de dar</l>
+<l>esa ocasión al amor,</l>
+<l>para vengar tu rigor.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Bien se ha sabido vengar.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Oh qué bien los has vengado</l>
+<l>con querer agora bien</l>
+<l>a quien, ni aun sabes a quién,</l>
+<l>ni él tampoco tu cuidado!</l>
+<l>Tus desdenes con razón</l>
+<l>agora diciendo están:</l>
+<l>«¿qué se hizo el Rey Don Juan?</l>
+<l>los Infantes de Aragón</l>
+<l>¿qué se hicieron?»</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No presumas</l>
+<l>que desta mudanza estoy</l>
+<l>arrepentida, aunque doy</l>
+<l>agua al mar, al viento plumas;</l>
+<l>porque tengo la memoria</l>
+<l>deste necio amor tan llena,</l>
+<l>que juzgo poca la pena</l>
+<l>para tan inmensa gloria.</l>
+<l>¿Llaman?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Pues quiero hablarte</l>
+<l>con más espacio después;</l>
+<l>mira quién es.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Celia es,</l>
+<l>que ha venido a visitarte.</l>
+<stage>Vase.</stage>
+
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Prospere tu vida el cielo.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No sé, Celia, si querrá</l>
+<l>tener ese gusto ya.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Ya la novedad recelo:</l>
+<l>dijéronme que te habían</l>
+<l>visto con luto en la calle</l>
+<l>Mayor, aunque gala y talle</l>
+<l>la causa contradecían:</l>
+<l>y hallo que todo es verdad;</l>
+<l>pero tanta bizarría</l>
+<l>no es tristeza.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Celia mía,</l>
+<l>murió.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Quién?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Mi libertad.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Es imposible que en ti</l>
+<l>haya faltado el desdén.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿No es faltarme querer bien?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Tú quieres bien?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Yo.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Tú?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Sí,</l>
+<l>ya cesaron mis rigores.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Veré primero sembrado</l>
+<l>de estrellas del cielo el prado,</l>
+<l>y el cielo de hierba y flores,</l>
+<l>y trocando el natural</l>
+<l>efeto veré también</l>
+<l>a la envidia decir bien,</l>
+<l>y a la virtud hablar mal;</l>
+<l>veré la ciencia premiada</l>
+<l>y a la ignorancia abatida,</l>
+<l>que es la verdad bien oída,</l>
+<l>y que la lisonja enfada,</l>
+<l>y el imposible mayor</l>
+<l>dar honra al que está sin ella,</l>
+<l>que crea, Belisa bella,</l>
+<l>que puedes tener amor.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Una tarde (cuando el sol</l>
+<l>dicen que en el mar se esconde,</l>
+<l>y se le ponen delante</l>
+<l>las cabezas de los montes,</l>
+<l>cuando por aquella raya,</l>
+<l>que con varios tornasoles</l>
+<l>divide el cielo y la tierra,</l>
+<l>y los días y las noches,</l>
+<l>nubes de púrpura y oro</l>
+<l>van usurpando colores</l>
+<l>a las plumas de los aires,</l>
+<l>y a las ramas de los bosques)</l>
+<l>iba sola con Finea,</l>
+<l>amiga Celia, en mi coche,</l>
+<l>tan sol de mi libertad,</l>
+<l>cuanto luego fui Faetonte,</l>
+<l>que nunca verás tan altas</l>
+<l>las soberbias presunciones,</l>
+<l>que no las fulminen rayos</l>
+<l>como a las soberbias torres.</l>
+<l>Era en la parte del Prado,</l>
+<l>que igualmente corresponde</l>
+<l>a esa Fuente, Castellana</l>
+<l>por la claridad del nombre,</l>
+<l>que también hay fuentes cultas,</l>
+<l>que, aunque obscuras, al fin corren</l>
+<l>como versos y abanillos,</l>
+<l>quiera el cielo que se logren.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Iba Finea cantando</l>
+<l>en gracia de mis blasones</l>
+<l>finezas del Conde Enrique</l>
+<l>(que ya conoces al Conde,</l>
+<l>y a sus papeles escritos,</l>
+<l>para que, cuando me toque,</l>
+<l>como papel de alfileres,</l>
+<l>tenga papeles de amores)</l>
+<l>y a mis locas bizarrías,</l>
+<l>desprecios y disfavores,</l>
+<l>como si hubiera nacido</l>
+<l>de las entrañas de un roble,</l>
+<l>cuando veo un caballero</l>
+<l>con el semblante conforme</l>
+<l>al suceso que esperaba.</l>
+<l>Volvió la cara, y paróse</l>
+<l>a escuchar quién le seguía</l>
+<l>pero con pocas razones</l>
+<l>desnudando las espadas</l>
+<l>los ferreruelos descogen.</l>
+<l>El que digo, el pie delante,</l>
+<l>con el contrario afirmóse,</l>
+<l>gala y valor, que en mi vida</l>
+<l>vi hombre tan gentilhombre.</l>
+<l>No era el otro menos diestro.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No te parezca desorden,</l>
+<l>que siendo mujer te cuente</l>
+<l>lo que es bien que ellas ignoren</l>
+<l>que aunque aguja y almohadilla</l>
+<l>son nuestras mallas y estoques,</l>
+<l>mujeres celebra el mundo,</l>
+<l>que han gobernado escuadrones:</l>
+<l>Semíramis y Cleopatra,</l>
+<l>poetas e historiadores</l>
+<l>celebran, y fue Tomiris</l>
+<l>famosa por todo el orbe.</l>
+<l>¿No has visto cuando dos juegan,</l>
+<l>que sin conocerse escoge</l>
+<l>uno de los dos quien mira,</l>
+<l>sin que el provecho le importe,</l>
+<l>y quiere que el otro pierda,</l>
+<l>sin saber que esto se obre</l>
+<l>por conformidad de estrellas,</l>
+<l>que infunden inclinaciones?</l>
+<l>Pues desa suerte mi alma</l>
+<l>súbitamente se pone</l>
+<l>al lado del que juzgaba</l>
+<l>por más galán y más noble.</l>
+<l>Alzó el contrario de tajo,</l>
+<l>a quien mi ahijado embebióle</l>
+<l>una punta, con que dio</l>
+<l>en tierra, mas levantóse</l>
+<l>presto, porque después supe</l>
+<l>que traía un peto doble</l>
+<l>de Milán, labrado a prueba</l>
+<l>del plomo, que muros rompe.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Acudieron a este punto,</l>
+<l>tirándole varios golpes,</l>
+<l>tres hombres a mi galán,</l>
+<l>cosa indigna de españoles.</l>
+<l>Pero dicen entre amigos,</l>
+<l>que el enemigo perdone,</l>
+<l>que sólo es vil el que huye,</l>
+<l>y valiente el que socorre.</l>
+<l>Con razón, o sin razón,</l>
+<l>salto de mi coche entonces,</l>
+<l>quito la espada al cochero,</l>
+<l>que arrimado a los frisones</l>
+<l>miraba a pie la pendencia,</l>
+<l>todo tabaco y bigotes,</l>
+<l>como si estuviera el necio</l>
+<l>de la plaza en los balcones</l>
+<l>y el Conde de Cantillana</l>
+<l>acuchillando leones:</l>
+<l>y partiendo al caballero,</l>
+<l>me pongo de Rodamonte</l>
+<l>a su lado. ¡Cosa extraña!</l>
+<l>En fin, hombres de la Corte,</l>
+<l>pues se volvieron humildes,</l>
+<l>los que llegaron feroces.</l>
+<l>Agradecido el galán</l>
+<l>de dos tan nuevas acciones,</l>
+<l>comenzó a hablarme, y no pudo,</l>
+<l>porque de lejos dan voces</l>
+<l>que la justicia venía,</l>
+<l>que no hay Santelmo en el tope</l>
+<l>después de la tempestad,</l>
+<l>que como una vara asome.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Díjele: «En mi coche entrad,</l>
+<l>que si los caballos corren</l>
+<l>(porque éstos no son de aquellos</l>
+<l>que repiten para cofres),</l>
+<l>presto estaremos en salvo.»</l>
+<l>Entró el galán y sentóse</l>
+<l>en la proa, y yo en la popa,</l>
+<l>como campos fronte a fronte.</l>
+<l>Viendo que nadie venía</l>
+<l>templó el cochero el galope,</l>
+<l>y en la Fuente Castellana</l>
+<l>para descansar, paróse.</l>
+<l>Yo siempre que voy al Prado</l>
+<l>llevo un búcaro, tomóle</l>
+<l>el cochero, y dionos agua,</l>
+<l>dile yo una alcorza, y diome</l>
+<l>las gracias en un requiebro</l>
+<l>que la mano agradecióle.</l>
+<l>Con esto le persuadí</l>
+<l>a que dejando favores,</l>
+<l>me contase la ocasión</l>
+<l>de la pendencia, que sobre</l>
+<l>cosas de amor sospechaba,</l>
+<l>que hay profetas corazones,</l>
+<l>pues antes que la dijese,</l>
+<l>celos me daban temores,</l>
+<l>que el que ha de matarla, sabe</l>
+<l>la garza entre mil halcones.</l>
+<l>En fin, dijo de esta suerte...</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>(Agora a escucharme ponte,</l>
+<l>para que como él a mí,</l>
+<l>de mi desdicha te informe):</l>
+<l>«Yo soy don Juan de Cardona,</l>
+<l>hijo del señor don Jorge</l>
+<l>de Cardona, aragonés,</l>
+<l>y doña Juana de Aponte;</l>
+<l>nací segundo en mi casa,</l>
+<l>y así mi padre envióme</l>
+<l>a Flandes, donde he servido</l>
+<l>desde los años catorce</l>
+<l>hasta la edad en que estoy;</l>
+<l>volvieron informaciones</l>
+<l>de mis servicios, y cartas</l>
+<l>de aquel ángel, que coronen</l>
+<l>los cielos, Infanta de Austria,</l>
+<l>de divinos resplandores,</l>
+<l>tía del Rey, que Dios guarde.</l>
+<l>Pretendí luego en la Corte</l>
+<l>a guisa de otros soldados;</l>
+<l>pero entre otras pretensiones</l>
+<l>de un hábito, vi una tarde</l>
+<l>con otro de chamelote,</l>
+<l>un serafín de marfil</l>
+<l>con toda el alma de bronce:</l>
+<l>quedé sin ella, seguíla,</l>
+<l>servíla, y agradecióme</l>
+<l>la voluntad, retirando</l>
+<l>todo lo que no es amores.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Gasté, empobrecí; mi padre,</l>
+<l>enojado, descuidóse</l>
+<l>de mi socorro, y Lucinda</l>
+<l>(que éste es de esta dama el nombre),</l>
+<l>desdeñosa, a puros celos</l>
+<l>me mata viéndome pobre:</l>
+<l>que no hay finezas que obliguen,</l>
+<l>ni lágrimas que enamoren.»</l>
+<l>Cuando esto dijo, quisiera</l>
+<l>sacar los ojos traidores,</l>
+<l>que por otra habían llorado.</l>
+<l>¡Mirad qué envidia tan torpe!</l>
+<l>Prosiguió que la pendencia</l>
+<l>fue por ser competidores</l>
+<l>él y el galán, porque teme</l>
+<l>que si la obliga, la goce.</l>
+<l>Finalmente paró el caso</l>
+<l>en tantas lamentaciones,</l>
+<l>que sin saber por qué causa,</l>
+<l>quise arrojarle del coche.</l>
+<l>Él llorando y yo sin alma</l>
+<l>llegamos casi a las once</l>
+<l>a mi posada. Roguéle</l>
+<l>que me viese, y respondióme,</l>
+<l>que sería esclavo mío,</l>
+<l>con mil tiernas sumisiones,</l>
+<l>y despedido e ingrato</l>
+<l>a ver su dama partióse.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Quedé tan necia que apenas</l>
+<l>sé por qué, cómo ni dónde</l>
+<l>amo, envidio, y con los celos</l>
+<l>temo que loca me torne,</l>
+<l>porque pienso que es castigo</l>
+<l>de aquellos tiranos dioses</l>
+<l>Venus y Amor, de quien hice</l>
+<l>burla, y los llamé embaidores.</l>
+<l>Troqué las galas en luto,</l>
+<l>la libertad en prisiones,</l>
+<l>la bizarría en descuidos,</l>
+<l>y en humildad los rigores.</l>
+<l>Ni voy al Prado ni al río,</l>
+<l>no hay cosa que no me enoje;</l>
+<l>a la música soy áspid,</l>
+<l>veneno a fuentes y flores,</l>
+<l>soy, no soy, vivo, no vivo,</l>
+<l>y entre tantas confusiones,</l>
+<l>ni sé dónde he puesto el alma,</l>
+<l>ni ella misma me conoce.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Es suceso tan extraño,</l>
+<l>que, a no ser tuyo, no fuera</l>
+<l>posible que le creyera;</l>
+<l>pagas justamente el daño</l>
+<l>que has hecho a tantos, ingrata.</l>
+<l>Locura debe de ser</l>
+<l>querer quien otra mujer</l>
+<l>deja, aborrece y maltrata:</l>
+<l>pero de tu entendimiento</l>
+<l>la mayor locura ha sido,</l>
+<l>Belisa, no haber querido</l>
+<l>divertir el pensamiento.</l>
+<l>¿Ya no vas, como solías,</l>
+<l>al Prado, ni al Soto?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No,</l>
+<l>que más me entretengo yo,</l>
+<l>Celia, en las tristezas mías,</l>
+<l>que en el lugar más remoto</l>
+<l>con mayor descanso estamos.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Así vivas, que salgamos</l>
+<l>estas mañanas al Soto.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Si va a decir la verdad</l>
+<l>(que encubrirla no es razón,</l>
+<l>ni a mi justa obligación,</l>
+<l>ni a tu segura amistad),</l>
+<l>con la ocasión deste mes,</l>
+<l>de tantas damas paseo,</l>
+<l>salgo al campo a ver si veo</l>
+<l>quien me ha de matar después</l>
+<l>mas ni en Sotos, ni en Retiros</l>
+<l>le he visto, ni él vuelve a verme.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Como en otros brazos duerme,</l>
+<l>no despierta a tus suspiros;</l>
+<l>pero salgamos mañana,</l>
+<l>que en mi buena dicha espero</l>
+<l>hallar ese caballero;</l>
+<l>que tengo por cosa llana,</l>
+<l>que, si le vuelves a ver</l>
+<l>y más despacio mirar,</l>
+<l>no sólo no le has de amar,</l>
+<l>pero le has de aborrecer,</l>
+<l>que muchas cosas agradan</l>
+<l>miradas súbitamente,</l>
+<l>mas pasa aquel accidente,</l>
+<l>y vistas despacio enfadan.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Ay, Celia, yo quiero darte</l>
+<l>crédito y seguir tu voto:</l>
+<l>disfrazada voy al Soto.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Y yo quiero acompañarte.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No ha de salir el Aurora</l>
+<l>cuando estés aquí.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Sí haré.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Dar a tus consejos fe</l>
+<l>mis esperanzas mejora,</l>
+<l>porque de la luna el velo</l>
+<l>mirado con atención</l>
+<l>descubre manchas, que son</l>
+<l>indignas de tanto cielo.</l></sp>
+<stage>Vanse.</stage>
+
+<stage>Calle con vista exterior de casa de LUCINDA. Salen DON JUAN DE CARDONA, y TELLO, criado.</stage>
+<sp><speaker>DON JUAN</speaker>
+<l>Tello, el amor no gusta de consejos,</l>
+<l>y más del inferior.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Qué mayor prueba</l>
+<l>de que el amor es loco</l>
+<l>sin los consejos, de la vida espejos.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Y para el ciego amor, ¿es cosa nueva</l>
+<l>tener la vida, y aun el alma en poco?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Quien tiene vista al que le falta guía,</l>
+<l>que si entrambos son ciegos, van perdidos.</l>
+<l>Cuando tu amor Lucinda agradecía,</l>
+<l>estaban disculpados tus sentidos;</l>
+<l>pero agora que quiere bien a Octavio</l>
+<l>es infamia de amor sufrir su agravio,</l>
+<l>sino buscar remedio.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Qué remedio?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Poner otros amores de por medio,</l>
+<l>que así se curan cuantos han querido,</l>
+<l>porque otro amor es el más breve olvido.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Con qué dinero, necio?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>No todos los amores tienen precio.</l>
+<l>Méritos tienes, ama.</l>
+<l>¿Ha de faltar una mostrenca dama,</l>
+<l>que te quiera por gusto?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Majadero!</l>
+<l>¿Amores en la corte sin dinero,</l>
+<l>y más agora que tan caro es todo?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Pues yo no sé otro modo,</l>
+<l>ni hay médico en el mundo que, tomando</l>
+<l>el pulso a un amador aborrecido,</l>
+<l>no le recete otra mujer.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Si cuando</l>
+<l>voy a buscar de tanto amor olvido,</l>
+<l>se me pone delante la hermosura</l>
+<l>de Lucinda, ¿podré yo por ventura</l>
+<l>decir amores a otra cara?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Bueno,</l>
+<l>una purga es veneno,</l>
+<l>y por tener salud la toma un hombre.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Tello, ya no hay mujer que no me asombre.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Alejandro lloraba, porque había</l>
+<l>un mundo solo, que con uno solo</l>
+<l>dijo que no podía</l>
+<l>con tanta tierra y mar de polo a polo</l>
+<l>satisfacer su pecho.</l>
+<l>Tú lo contrario has hecho,</l>
+<l>que sola una mujer en Madrid quieres,</l>
+<l>habiendo treinta mundos de mujeres:</l>
+<l>morenas, pelirrubias, gordas, flacas,</l>
+<l>unas mudas de lengua, otras urracas,</l>
+<l>discretas, mentecatas, bachilleras,</l>
+<l>airosas en las burlas y en las veras;</l>
+<l>hay enanas, hay largas como trampa,</l>
+<l>unas con pie de apóstol, consoladas</l>
+<l>del ponleví que imprime poca estampa,</l>
+<l>y otras, que en vez pudieran de arracadas</l>
+<l>traer las zapatillas;</l>
+<l>hay lázaras mujeres de amarillas,</l>
+<l>que salen del sepulcro de las camas,</l>
+<l>y otras, que de clavel parecen ramas;</l>
+<l>hay romas, hay pioquintas,</l>
+<l>unas que se contentan con dos cintas,</l>
+<l>y otras como tarascas de dineros,</l>
+<l>que engullen mayorazgos por sombreros;</l>
+<l>unas piadosas, y otras socarronas,</l>
+<l>tales severas, tales juguetonas;</l>
+<l>unas mudables por andar más frescas,</l>
+<l>y otras firmes de amor, como tudescas:</l>
+<l>pero en siendo mujeres, sean morenas,</l>
+<l>sean blancas o no, todas son buenas.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Qué pintura tan necia!</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Pues yo, señor, ¿qué he dicho de Lucrecia</l>
+<l>la casta y en camisa,</l>
+<l>de Porcia y Artemisa,</l>
+<l>una, avestruz de hierros encendidos,</l>
+<l>y otra, sepultura de maridos?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Ay puerta! ¡Ay dulces rejas!</l>
+<l>A Lucinda llevad mis tristes quejas.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Pues ya que llegas, llama.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Aun llegar a llamar teme quien ama.</l>
+<stage>Llama.
+En la reja FABIA, criada.</stage>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Quién llama?, ¿quién está ahí?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Dile, Fabia, a tu señora,</l>
+<l>que estoy aquí.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>No es agora</l>
+<l>tiempo de llamar ansí.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Por qué razón?</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Porque está</l>
+<l>desnudándose.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Tan presto?</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>No fuera término honesto</l>
+<l>abriros la puerta ya.</l>
+<l>Id con Dios, don Juan, que habemos</l>
+<l>de madrugar, para ir</l>
+<l>al Soto.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Que vengo a oír</l>
+<l>tal crueldad!</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>No hagas extremos.</l>
+<l>Mira que en la calle estás.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Fabia, Fabia, espera.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Espero,</l>
+<l>¿qué queréis?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Di que la quiero</l>
+<l>una palabra no más.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Bueno, en comenzando a hablar,</l>
+<l>tanto vendrás a empeñarte</l>
+<l>que venga el sol a rogarte</l>
+<l>que la dejes acostar.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Abre, Fabia.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Qué locura!</l></sp>
+
+<stage>Sale a la reja LUCINDA. Dichos.</stage>
+<sp><speaker>LUCINDA</speaker>
+<l>¿Con quién hablas?</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Con don Juan</l>
+<l>de Cardona.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¿Y qué dirán</l>
+<l>de tanta descompostura</l>
+<l>en la peor vecindad</l>
+<l>que tiene calle en Madrid?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Lucinda hermosa, advertid,</l>
+<l>que es linaje de crueldad</l>
+<l>indigno de un caballero</l>
+<l>como yo, tratarme ansí.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Lo que Fabia os dijo aquí</l>
+<l>daros por disculpa quiero,</l>
+<l>porque habiendo de salir</l>
+<l>del alba al primer albor,</l>
+<l>no será razón, señor,</l>
+<l>que no me dejéis dormir:</l>
+<l>el afeite natural</l>
+<l>en el buen sueño reposa,</l>
+<l>que no se levanta hermosa,</l>
+<l>mujer que ha dormido mal:</l>
+<l>Id con Dios, y presumid,</l>
+<l>que os amo y tengo respeto.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Que yo me fuera, os prometo,</l>
+<l>señora, pero advertid</l>
+<l>que ver a Fabia turbada</l>
+<l>tan necios celos me ha dado,</l>
+<l>que pienso que lo ha causado</l>
+<l>el estar vos ocupada.</l>
+<l>Abrid, que con sólo entrar</l>
+<l>luego me vuelvo a salir.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Ésta no es hora de abrir,</l>
+<l>ni de dar que murmurar,</l>
+<l>que hay vecina tan liviana,</l>
+<l>que para escuchar despierta,</l>
+<l>apenas oye la puerta</l>
+<l>cuando ocupa la ventana.</l>
+<l>Hacedme esta cortesía</l>
+<l>de que os vais.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Es imposible</l>
+<l>sin entrar.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¡Ya estáis terrible!</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Amor, Lucinda, porfía</l>
+<l>que le lleve a vuestra sala</l>
+<l>sólo a dejar estos celos.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Ponerme en tantos desvelos,</l>
+<l>ni es cortesía, ni es gala,</l>
+<l>id con Dios, que puede ser</l>
+<l>que os resulte algún pesar.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues vive Dios que he de entrar,</l>
+<l>y que lo tengo de ver.</l></sp>
+<stage>Intenta forzar la puerta.</stage>
+<sp><speaker>LUCINDA</speaker>
+<l>¿Golpes a mi puerta?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Y coces</l>
+<l>hasta ponerla en el suelo.</l></sp>
+
+<stage>Salen OCTAVIO y JULIO con broqueles y espadas. Dichos. Abriendo la puerta de casa de LUCINDA.</stage>
+<sp><speaker>OCTAVIO</speaker>
+<l>A tanta descortesía,</l>
+<l>y a tan loco atrevimiento,</l>
+<l>saldrá el honor de esta casa</l>
+<l>a castigar vuestros celos.</l>
+<l>La puerta está abierta, entrad.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>No era sin causa el tenerlos.</l>
+<l>Vuesas mercedes me digan</l>
+<l>si son hermanos u deudos</l>
+<l>desta dama, u son galanes.</l>
+</sp>
+<sp><speaker>OCTAVIO</speaker>
+<l>Pues que no quiere entrar dentro,</l>
+<l>donde supiera quién somos,</l>
+<l>afuera se lo diremos.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Salgan, y sabrán también</l>
+<l>con los celos, o sin ellos,</l>
+<l>que soy don Juan de Cardona.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Y yo Tello su escudero.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Ay, Fabia, ¿qué haré?</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Acostarte,</l>
+<l>y dense.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Sin alma quedo.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Aquí, Tello</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Vengan otros,</l>
+<l>que éstos ya huelen a muertos.</l>
+<l>(Vanse.)</l></sp>
+
+<stage>El Soto de Manzanares. Salen el CONDE ENRIQUE y FERNANDO, criado.</stage>
+<sp><speaker>CONDE</speaker>
+<l>Bravo Mayo.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>No permite</l>
+<l>distancia sin flor al suelo.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Con las estrellas del cielo</l>
+<l>en el número compite.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Crecido va Manzanares.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Imita al que ruin nació,</l>
+<l>que cuando crecer se vio,</l>
+<l>despreció los patrios lares,</l>
+<l>que al humilde nacimiento</l>
+<l>sucede como a este río,</l>
+<l>que descubre en el estío</l>
+<l>su arenoso fundamento.</l>
+<l>¡Oh bien haya aquel discreto,</l>
+<l>que cuando se mejoró</l>
+<l>de fortuna, se quedó</l>
+<l>con aquel mismo sujeto.</l>
+<l>No disminuye el valor,</l>
+<l>antes muestra en parte alguna</l>
+<l>quien desprecia la fortuna,</l>
+<l>que la merece mayor.</l>
+<l>Muchos conozco yo aquí</l>
+<l>tan discretos en su estado,</l>
+<l>que todo lo que han mudado,</l>
+<l>es lo que hay fuera de sí.</l>
+<l>Pero esto aparte dejando,</l>
+<l>y viniendo al desatino,</l>
+<l>con que aquel desdén divino</l>
+<l>me quiere matar, Fernando,</l>
+<l>¿cómo no ha venido a ser</l>
+<l>de aquestos campos aurora,</l>
+<l>que ya dice el sol que es hora</l>
+<l>de salir, y amanecer?</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Estaráse componiendo</l>
+<l>de galas y bizarrías,</l>
+<l>con que estos festivos días</l>
+<l>sale de aurora riyendo,</l>
+<l>y en este verde teatro</l>
+<l>hace la madre de amor.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Yo, que adoro su rigor,</l>
+<l>y su desdén idolatro,</l>
+<l>conjuraré su donaire</l>
+<l>para que venga.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Ya espero</l>
+<l>que te obedezca ligero</l>
+<l>su espíritu por el aire.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Ponte el sombrero, Belisa,</l>
+<l>pluma blanca y randas negras,</l>
+<l>aunque no ha menester plumas</l>
+<l>quien en tales pies las lleva.</l>
+<l>Ponte al espejo, y retrata</l>
+<l>en su cristal tu belleza,</l>
+<l>para que tengas envidia</l>
+<l>de que nadie te parezca.</l>
+<l>Que tú sola de ti misma</l>
+<l>puedes trasladar las señas,</l>
+<l>formando tú y el cristal</l>
+<l>otra mentira tan bella.</l>
+<l>Mira que te aguarda el Soto,</l>
+<l>y que en su verde alameda</l>
+<l>aún no han cantado las aves,</l>
+<l>por esperar que amanezcas.</l>
+<l>Péinate el pelo a lo llano,</l>
+<l>y no lo rices en trenzas,</l>
+<l>que si te ven la jaulilla,</l>
+<l>harás que las aves teman.</l>
+<l>Mira que rosas y lirios</l>
+<l>para salir a la selva,</l>
+<l>no rompen la verde cárcel</l>
+<l>hasta que les des licencia.</l>
+<l>Sarta de cuentas de vidrio</l>
+<l>banda de tu cuello sea,</l>
+<l>por que cuando te la quites</l>
+<l>quede convertida en perlas.</l>
+<l>Con las flordelises de oro</l>
+<l>ponte la verde pollera,</l>
+<l>pues que son pueblos en Francia</l>
+<l>mi esperanza y tus defensas.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Para que la cuesta bajes</l>
+<l>a tus chinelas acuerda,</l>
+<l>que hay muchos ojos que suben</l>
+<l>cuando se bajan las cuestas.</l>
+<l>Ponte en la cabeza rosas,</l>
+<l>y en los zapatos rosetas,</l>
+<l>de manera que en los pies</l>
+<l>y en la cabeza se vean.</l>
+<l>Aunque yo tengo más celos</l>
+<l>del pie que de la cabeza,</l>
+<l>que aunque toda vas florida,</l>
+<l>no a lo menos toda honesta.</l>
+<l>Ven a matar de mañana,</l>
+<l>aunque el amor forme quejas</l>
+<l>que esté durmiendo el aurora,</l>
+<l>y tú, Belisa, despierta.</l>
+<l>Si alguno te dice amores</l>
+<l>destos que de hablar se precian,</l>
+<l>di que no vas a mirar,</l>
+<l>sino sólo a que te vean.</l>
+<l>Así, discreta Belisa,</l>
+<l>segura del Soto vuelvas,</l>
+<l>que no te engañen los ojos</l>
+<l>esto que llaman guedejas.</l>
+<l>Ponte el manto sevillano,</l>
+<l>no saques más de una estrella,</l>
+<l>que no has menester más armas,</l>
+<l>ni el amor gastar sus flechas.</l>
+<l>Más airosa vas tapada,</l>
+<l>y al fin con menos sospecha</l>
+<l>que matando cuanto miras,</l>
+<l>te conozcan y te prendan.</l>
+<l>Bien puedes salir, que ya</l>
+<l>los ruiseñores comienzan</l>
+<l>a ser campanas del alba,</l>
+<l>para que la tuya venga.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Quedo, no conjures más.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¿Por qué?</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Porque ya se acerca.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¡Oh conjuros amorosos,</l>
+<l>divina tenéis la fuerza!</l></sp>
+
+<stage>Sale BELISA con la mayor gala de color que pueda, manto y sombrero de plumas, y FINEA de la misma suerte.Dichos. Sin ver al CONDE.</stage>
+<sp><speaker>BELISA</speaker>
+<l>¿Adónde Celia quedó?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Con unas amigas queda</l>
+<l>sentada orilla del río.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Como no tiene mis penas,</l>
+<l>cansóse de verme andar</l>
+<l>buscando la causa dellas.</l>
+<l>Mucho es que aquestas mañanas</l>
+<l>don Juan al Soto no venga.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Tendrále preso Lucinda</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Cómo, si don Juan se queja</l>
+<l>de sus desdenes y engaños!</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Qué bien tus celos consuelas!</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<stage>Aparte a FINEA.</stage>
+<l>¡Ay, Finea! ¡El Conde!</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Amor</l>
+<l>hoy quiere que coger puedas</l>
+<l>en el Soto de Madrid</l>
+<l>los azahares de Valencia.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Ya es tarde, Belisa ingrata,</l>
+<l>para encubriros de mí,</l>
+<l>que dentro del alma os vi,</l>
+<l>en cuyo espejo os retrata.</l>
+<l>Ya que los campos de plata</l>
+<l>la dorada aurora pisa,</l>
+<l>no envidien su dulce risa</l>
+<l>las aves, fuentes y flores,</l>
+<l>cuando con más resplandores</l>
+<l>sale a los nuestros Belisa</l>
+<l>Y aunque con sola una estrella</l>
+<l>podéis dar luz, no es razón,</l>
+<l>que esconda el manto a traición,</l>
+<l>la que ha venido con ella.</l>
+<l>Descubrid, Belisa bella,</l>
+<l>la que venís ocultando;</l>
+<l>mátenme entrambas, que cuando</l>
+<l>es tan cierta la vitoria,</l>
+<l>bien es que partan la gloria</l>
+<l>de haberme muerto mirando.</l>
+<l>La mayor honestidad,</l>
+<l>que fue de la villa espejo,</l>
+<l>le debe al campo el despejo</l>
+<l>de su verde soledad.</l>
+<l>Descubrid, mirad, matad,</l>
+<l>que es cruel razón de estado</l>
+<l>mostrar con el desenfado</l>
+<l>de que amor se maravilla,</l>
+<l>bizarrías en la villa,</l>
+<l>y desdenes en el Prado.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No por veros me encubrí,</l>
+<l>cuando me alegré de veros.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Gracias al amor, y al campo</l>
+<l>en que más humana os veo.</l>
+<l>¿Queréis escucharme?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Sí,</l>
+<l>que tan cortés caballero</l>
+<l>no dirá cosa en mi agravio.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Oíd.</l>
+<stage>Hablan bajo BELISA y el CONDE.</stage></sp>
+
+<stage>Salen DON JUAN y TELLO sin ver a BELISA.Dichos.</stage>
+<sp><speaker>DON JUAN</speaker>
+<l>No descubro, Tello,</l>
+<l>en todo el Soto a Lucinda,</l>
+<l>y en su casa nos dijeron</l>
+<l>que había salido al campo.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Que nos engañaron temo,</l>
+<l>que esto de enviar al Soto</l>
+<l>siempre ha sido mal agüero.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>No estará, Tello, Lucinda</l>
+<l>con Octavio por lo menos.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Bravo revés le pegaste.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Como le sentí en el pecho</l>
+<l>defensa, tiré por alto.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Si no llega gente, creo</l>
+<l>que en Enero vuelvo a Julio</l>
+<l>tiréle un tajo, y abriendo</l>
+<l>el broquel, subió tan alto</l>
+<l>por esos aires el medio,</l>
+<l>que, apartadas las estrellas,</l>
+<l>pienso que no estuvo un dedo</l>
+<l>de descalabrar la luna.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Vengué con sangre mis celos,</l>
+<l>mas mira, por Dios, si ves</l>
+<l>a Lucinda</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Preguntemos</l>
+<l>por ella.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿A quién?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>A este Soto</l>
+<l>ejército de conejos.</l>
+<l>Diga, señor Manzanares,</l>
+<l>saca-manchas de secretos,</l>
+<l>a quien debe su limpieza</l>
+<l>la información de los cuerpos,</l>
+<l>el que lava en el verano</l>
+<l>lo que se pecó en invierno,</l>
+<l>cuya espuma es de jabón,</l>
+<l>cuyas orillas de lienzo,</l>
+<l>¿ha visto vuesa merced</l>
+<l>una mujer de buen gesto,</l>
+<l>muy enemiga de amores,</l>
+<l>muy amiga de dineros,</l>
+<l>que desde pobres acá</l>
+<l>la perdió don Juan por serlo,</l>
+<l>y con ella una criada,</l>
+<l>centella de aqueste fuego,</l>
+<l>que le hurta los borradores,</l>
+<l>como los poetas versos?</l>
+<l>Habla el río: «Esa mujer</l>
+<l>que habéis perdido, escudero,</l>
+<l>está en casa con Octavio</l>
+<l>almorzando unos torreznos,</l>
+<l>con sus duelos y quebrantos.</l>
+<l>(¡Tal me vinieran los duelos!)»</l>
+<l>«¿De qué lo sabéis, buen río?»</l>
+<l>«De que estoy en su aposento</l>
+<l>en un cántaro, que al rostro</l>
+<l>le doy el primer bosquejo.»</l>
+<l>¿Oyes lo que dice el río?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Oigo que vienes muy necio.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Señora, señora, escucha.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Qué quieres?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Don Juan y Tello</l>
+<l>están junto a aquellos olmos.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Señor Conde, yo me atrevo,</l>
+<l>en fe de vuestro valor</l>
+<l>que me aguardéis un momento</l>
+<l>junto a aquel coche, entretanto</l>
+<l>que con aquel caballero</l>
+<l>hablo dos palabras solas.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Si siendo celoso puedo</l>
+<l>ser cortés, iré forzando</l>
+<l>mi paciencia a obedeceros;</l>
+<l>pero sufrir que un galán,</l>
+<l>Belisa, os diga requiebros,</l>
+<l>más viene a ser bajo estilo</l>
+<l>que amoroso sufrimiento.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No es galán, aunque lo es,</l>
+<l>y así no hay de qué ofenderos,</l>
+<l>pues el nombre de marido</l>
+<l>siempre mereció respeto;</l>
+<l>de Aragón viene a casarse</l>
+<l>conmigo; que os vais os ruego,</l>
+<l>que no es de cobarde amante</l>
+<l>en público, ni en secreto,</l>
+<l>para no perder la dama,</l>
+<l>dejar el campo a su dueño.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¿Que estáis casada?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No sé,</l>
+<l>esto han tratado mis deudos.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¡Por cierto que él es galán!</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿No os parece que me empleo</l>
+<l>justamente en él?</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Después</l>
+<l>os responderán mis celos.</l>
+<l>(Vanse el CONDE y FERNANDO.)</l></sp>
+
+<stage>BELISA, FINEA; DON JUAN, TELLO.</stage>
+<sp><speaker>BELISA</speaker>
+<l>Señor don Juan, los soldados</l>
+<l>y caballeros, ¿tan presto</l>
+<l>olvidan obligaciones?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Señora mía, no pienso</l>
+<l>que os ha ofendido mi olvido,</l>
+<l>falta sí de atrevimiento.</l>
+<l>Dos mil veces he querido,</l>
+<l>obligado a lo que os debo,</l>
+<l>ir a besaros la mano,</l>
+<l>y a resolverme no acierto.</l>
+<l>¡Qué buena ventura mía,</l>
+<l>pues la he tenido de veros,</l>
+<l>que esta mañana me trujo</l>
+<l>donde tan hermosa os veo!</l>
+<l>¡Qué bizarra! ¡Qué gallarda!</l>
+<l>¡Qué talle! ¡Qué lindo aseo!</l>
+<l>¿Qué jardín se debe a Mayo?</l>
+<l>¿Cuándo Abril se fue lloviendo</l>
+<l>tantas rosas, tantas flores?</l>
+<l>¡Qué airosamente el sombrero</l>
+<l>(coronel de vuestros ojos,</l>
+<l>timbre de vuestros cabellos)</l>
+<l>os hace Marte del Soto,</l>
+<l>belicosamente Venus,</l>
+<l>para matar y dar vida</l>
+<l>a los mismos que habéis muerto!</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Lisonjas después de olvidos?</l>
+<l>¿Después de agravios, requiebros?</l>
+<l>Guardadlos para Lucinda</l>
+<l>¿Después de ingrato, discreto?</l>
+<l>¡No, señor don Juan! ¿Vos sois</l>
+<l>Cardona? ¿Vos caballero</l>
+<l>de Aragón? ¿No hay más disculpa</l>
+<l>que decir «quiero y no tengo»</l>
+<l>de perdido por Lucinda?</l>
+<l>¿Cómo os va con ella? ¿Hay celos?</l>
+<l>¿Hay desdenes? ¿Hay galanes?</l>
+<l>Ya se deben de haber hecho</l>
+<l>las amistades, hablad.</l>
+<l>¿De qué os suspendéis?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>No puedo</l>
+<l>deciros de mis desdichas</l>
+<l>más de que loco amanezco</l>
+<l>en su calle, donde el sol</l>
+<l>me deja, cuando por cercos</l>
+<l>de oro en el mar de Occidente</l>
+<l>argenta el rubio cabello,</l>
+<l>hasta que peina el del alba</l>
+<l>con los rayos de su eterno</l>
+<l>curso, ilustrando los aires,</l>
+<l>dorando el verde elemento,</l>
+<l>cual suele por verde selva</l>
+<l>celoso novillo huyendo</l>
+<l>de su contrario, en los troncos</l>
+<l>romper la furia soberbio,</l>
+<l>temblar las ramas, sonando</l>
+<l>por varias partes los ecos,</l>
+<l>cubrir de polvo las nubes</l>
+<l>arañando el seco suelo;</l>
+<l>así yo la calle asombro,</l>
+<l>para mi selva de fuego,</l>
+<l>rompiendo a las duras rejas</l>
+<l>con mis suspiros los hierros.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Qué linda comparación!</l>
+<l>¡Qué bien aplicado ejemplo!</l>
+<l>¡Qué bien pintado novillo!</l>
+<l>¡Qué amanecer! ¡Qué concepto!</l>
+<l>¿Sois poeta?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Quién, señora,</l>
+<l>no ha hecho malos o buenos</l>
+<l>versos amando, que Amor</l>
+<l>fue el inventor de los versos?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>En lo tierno se os conoce.</l>
+<l>¿Queréis hacerme un soneto</l>
+<l>a una mujer, que castiga</l>
+<l>la fortuna, amor y el tiempo?</l>
+<l>La fortuna por soberbia,</l>
+<l>por venganza el amor ciego,</l>
+<l>y el tiempo con derribar</l>
+<l>sus bizarros pensamientos;</l>
+<l>tan necia que quiere a un hombre,</l>
+<l>después de tantos desprecios,</l>
+<l>que está abrasado por otra.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>De componerle os prometo,</l>
+<l>pero advertid que no soy</l>
+<l>culto, que mi corto ingenio</l>
+<l>en darse a entender estudia.</l>
+<l>(Hablan bajo BELISA y DON JUAN.)</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Ninfa del sombrero al sesgo,</l>
+<l>¿quiere veinte y dos palabras?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Quite veinte y diga presto.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>No sois vos de mala casta.</l>
+<l>Yo soy un mozo moreno,</l>
+<l>natural de Calahorra.</l>
+<l>Ya he dicho las dos, si tengo</l>
+<l>de hablar más, prorrogue el pacto.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Por no estorbar nuestros dueños,</l>
+<l>llegue cerca, y diga.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Digo.</l></sp>
+<stage>Hablan bajo TELLO y FINEA.</stage>
+
+<stage>Salen LUCINDA, con sombrero de plumas, y FABIA. Dichos.</stage>
+<sp><speaker>LUCINDA</speaker>
+<stage>Aparte a FABIA.</stage>
+<l>Ya te he dicho lo que siento.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Pues cómo, si quieres bien</l>
+<l>a don Juan, le estás haciendo</l>
+<l>tiros con Octavio, a un hombre</l>
+<l>que te adora?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Porque espero</l>
+<l>a puros celos rendirle,</l>
+<l>de manera que troquemos</l>
+<l>la esperanza en posesión,</l>
+<l>y el amor en casamiento.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Por mal le quieres llevar?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Reducido a tal extremo,</l>
+<l>él se casará conmigo.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Por bien no es mejor consejo?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¡Ay, Fabia, aquí está don Juan!</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Y no está ocioso a lo menos.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¡Gentil mujer! ¡Bravo talle!</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Hasta el socarrón de Tello</l>
+<l>tiene su poco de dama.</l></sp>
+<stage>A BELISA.</stage>
+<sp><speaker>DON JUAN</speaker>
+<l>Si habéis tenido deseo</l>
+<l>de conocer a Lucinda,</l>
+<l>agora veréis si tengo</l>
+<l>buen gusto.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Es ésta?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿No veis</l>
+<l>en la mudanza que han hecho</l>
+<l>mis ojos, que quiere el alma</l>
+<l>salir a verla por ellos?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Vos estáis bien empleado;</l>
+<l>con tanto, con ella os dejo.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Antes no, que quiero yo</l>
+<l>probar también a dar celos.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Deso tengo de servir?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Ya que por mi amparo os tengo,</l>
+<l>suplícoos, pues no os importa,</l>
+<l>que entre los dos la matemos.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<stage>Aparte.</stage>
+<l>Ahora bien, va de matar.</l>
+<l>¿Qué es esto que intento? ¡Ay cielos!</l>
+<l>¿Estoy loca? ¿Soy quien fui?</l>
+<l>¿Quién en tanto mal me ha puesto?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Suplico a vuesa merced,</l>
+<l>mi reina, la del sombrero</l>
+<l>blanco, que por otra tal</l>
+<l>me preste ese caballero,</l>
+<l>que si le ha menester mucho,</l>
+<l>y ha sido galán al vuelo,</l>
+<l>para hablalle dos palabras,</l>
+<l>que le volveré tan luego</l>
+<l>que apenas sienta su falta.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Ninfa del sombrero negro,</l>
+<l>y los guantes de achiote,</l>
+<l>no entra bien con el pie izquierdo,</l>
+<l>si viene a tomar la espada,</l>
+<l>porque es terminillo nuevo</l>
+<l>pedir el galán prestado;</l>
+<l>pero que sepa, le advierto,</l>
+<l>que soy como amigo ruin,</l>
+<l>que ni convido, ni presto.</l>
+<stage>Aparte a DON JUAN.</stage>
+<l>¿Voy bien?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Extremadamente.</l>
+<stage>Aparte a BELISA.</stage>
+<l>Decidle más.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡El despejo</l>
+<l>con que me pide el galán,</l>
+<l>que es alma de aqueste pecho!</l>
+<l>¿Queréis más?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<stage>Aparte a DON JUAN.</stage>
+<l>Matadla, muera.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<stage>Aparte a FABIA.</stage>
+<l>¡Ay, Fabia, que estoy muriendo!</l></sp>
+<stage>A Lucinda</stage>
+<sp><speaker>BELISA</speaker>
+<l>¿Pero sobre qué le pide?</l>
+<l>Quizá nos concertaremos</l>
+<l>a manera de mohatra,</l>
+<l>con prendas, ribete, y tiempo,</l>
+<l>porque no hay diamantes chinos,</l>
+<l>oro en Tibar, ni en el Cerro</l>
+<l>de Potosí plata, ni ámbar</l>
+<l>en la Florida, por...</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Quedo,</l>
+<l>no pase de por.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Por qué?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Porque si es amor mohatrero,</l>
+<l>no tengo más prendas yo</l>
+<l>que palabras, juramentos,</l>
+<l>papeles, firmas, engaños.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No hacemos nada con eso.</l>
+<l>Vuesa merced se ha engañado,</l>
+<l>que este galán me le llevo</l>
+<l>como mi marido acaso.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¿Marido?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Lo que le cuento.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¡Jesús!</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Si ha de desmayarse</l>
+<l>del susto deste suceso,</l>
+<l>acérquese más al río,</l>
+<l>dama, porque caiga dentro.</l>
+<stage>Aparte a DON JUAN.</stage>
+<l>Dadme la mano, mis ojos.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Y el alma es poco.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>No quiero</l>
+<l>verlos ir, vámonos, Fabia.</l>
+<l>¿Esto llaman amor? ¡Fuego!</l>
+<l>(Vanse LUCINDA y FABIA.)</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Oh, qué bien me habéis vengado!</l></sp>
+
+<stage>BELISA, DON JUAN, FINEA, TELLO.</stage>
+<sp><speaker>BELISA</speaker>
+<stage>Aparte.</stage>
+<l>¡Ay, cielos! De mí me vengo.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Muriendo voy por Lucinda</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<stage>Aparte.</stage>
+<l>Y yo abrasada de celos.</l>
+<l>(Vanse BELISA y DON JUAN.)</l></sp>
+
+<stage>TELLO, FINEA.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Dame tú también la mano.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Tiénesla lavada?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Pienso</l>
+<l>que ayer hizo tres semanas.</l>
+<l>¿Tu nombre?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Finea.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Bueno,</l>
+<l>Fineza te he de llamar.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Y el tuyo?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Tello</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Si es Tello</l>
+<l>de Meneses, comerás</l>
+<l>muchas tortillas de huevos.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Mejor estas manecitas,</l>
+<l>como yo fritas en ellos.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Ay qué Tello!</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Ay qué Finea!</l>
+<l>¡Ay qué niña de los cielos!</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Ay qué socarrón!</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿De quién?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿De quién dices? Del infierno.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Dame un favor.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Tuya soy.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Qué barbita!</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Qué moreno!</l></sp>
+</div><div type="act" n="II">
+<stage>Sale BELISA con diferente vestido del que llevó al campo.</stage>
+<sp><speaker>BELISA</speaker>
+<l>Temerario pensamiento,</l>
+<l>que teniendo el mundo en poco,</l>
+<l>junto a la luna a ser loco</l>
+<l>sobre las alas del viento</l>
+<l>colocastes vuestro asiento,</l>
+<l>¿qué desdicha, qué cuidado</l>
+<l>hoy os ha puesto en estado,</l>
+<l>que habéis tan hermosas plumas</l>
+<l>entre las blancas espumas</l>
+<l>del mar de amor sepultado?</l>
+<l>Sale vestida la nave</l>
+<l>de jarcias y de banderas</l>
+<l>con las velas tan ligeras,</l>
+<l>que el viento piensa que es ave</l>
+<l>mas el de popa suave</l>
+<l>vuelve con fácil mudanza</l>
+<l>en huracán la bonanza,</l>
+<l>por que no pueda ninguna</l>
+<l>del rigor de la fortuna</l>
+<l>asegurar la esperanza.</l>
+<l>Florece un árbol temprano,</l>
+<l>cuando el ruiseñor suspira,</l>
+<l>la primavera le mira</l>
+<l>llena de flores la mano;</l>
+<l>mas llega el hielo tirano,</l>
+<l>y con intensos rigores</l>
+<l>los pimpollos y colores</l>
+<l>cubre de tristeza y luto,</l>
+<l>porque hasta tener el fruto,</l>
+<l>no están seguras las flores.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Por más que en el nido esconda</l>
+<l>el ave sus pajarillos,</l>
+<l>como los fuertes castillos</l>
+<l>con su cava, muro y ronda,</l>
+<l>dispara el pastor la honda,</l>
+<l>y con violencia importuna,</l>
+<l>sin dejar pluma ninguna,</l>
+<l>le arroja piedra villana,</l>
+<l>que no hay resistencia humana</l>
+<l>al golpe de la fortuna.</l>
+<l>Nave en el mar parecía</l>
+<l>mi libertad en amor;</l>
+<l>árbol vestido de flor</l>
+<l>mi locura y bizarría</l>
+<l>nido que el ave tejía</l>
+<l>era mi seguro olvido</l>
+<l>mas vino amor atrevido,</l>
+<l>y con el galán Cardona</l>
+<l>puso al pie de su corona</l>
+<l>la nave, el árbol y el nido.</l>
+<l>Vencedor destos despojos</l>
+<l>me mata sin ser culpado,</l>
+<l>que no sabe mi cuidado,</l>
+<l>aunque le dicen mis ojos</l>
+<l>con amorosos enojosos;</l>
+<l>soy mariposa en llegarme</l>
+<l>a la llama, y retirarme,</l>
+<l>y tanto amor me desvela,</l>
+<l>que doy tornos a la vela,</l>
+<l>y no acabo de quemarme.</l>
+
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Sin quitarme el manto vengo</l>
+<l>por darte presto el recado.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>De prisa, será desdicha,</l>
+<l>que nunca viene despacio.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Hallé la casa (que fue</l>
+<l>en Madrid nuevo milagro,</l>
+<l>que no sabe del segundo</l>
+<l>quien vive el primero cuarto),</l>
+<l>dile el papel, abrazóme,</l>
+<l>diome este doblón de a cuatro.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Oro tiene?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Por qué no?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Que no se le dio me espanto</l>
+<l>a la señora Lucinda</l>
+<l>Muestra.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Toma.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Yo le guardo</l>
+<l>por ser la primera prenda</l>
+<l>que tengo suya.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Es cuidado</l>
+<l>que te perdonara yo;</l>
+<l>y prenda que él no te ha dado,</l>
+<l>no merece estimación.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Por él, Finea, te mando</l>
+<l>un hábito de picote.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>No, sino el tuyo de raso.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Soy contenta. Dime agora</l>
+<l>qué respondió.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>En tono bajo</l>
+<l>leyó y dijo: ¡Linda letra!</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿No dijo nada a la mano?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>No, a fe.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No era de Lucinda</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Llamó a Tello, y el picaño</l>
+<l>a tres ¡holas! respondió,</l>
+<l>que estaba hablando en el patio;</l>
+<l>pidió la capa y la espada,</l>
+<l>y díjome: «Luego parto</l>
+<l>a ver qué manda aquel ángel.»</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Ángel dijo? Ése es engaño.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Es verdad que lo añadí</l>
+<l>por aquello de la mano:</l>
+<l>que la lisonja es la fruta</l>
+<l>que más se sirve en palacio,</l>
+<l>y en ti un ángel más o menos</l>
+<l>no es lisonja, habiendo tantos.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿En cuerpo estaba en efeto?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Un gabancillo leonado</l>
+<l>tenía untado con oro.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Con gabán? Es cierto caso</l>
+<l>que tendría bigotera.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>No la nombres, que me espanto</l>
+<l>de ver los hombres con ella,</l>
+<l>y hay muchos tan confiados,</l>
+<l>que a la ventana se ponen,</l>
+<l>que es como asomarse un macho.</l>
+<l>Mientras tiene bigotera</l>
+<l>un hombre ha de estar cerrado</l>
+<l>en un sótano.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Si es de ámbar</l>
+<l>con cairel de oro, no es malo,</l>
+<l>y quitada importa poco.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Siempre pienso que, asomando</l>
+<l>la boca por entre el cuero,</l>
+<l>me coca algún mono zambo.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Hubo montera?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>El cabello</l>
+<l>sirve a los mozos este año</l>
+<l>de montera y papahigo.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Bien parecen aseados.</l>
+<l>Ahora bien, va de aposento:</l>
+<l>¿hay gran pobreza?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Un soldado,</l>
+<l>¿qué ha de tener? Las paredes</l>
+<l>vestían cuatro retratos:</l>
+<l>uno del Rey, que Dios guarde,</l>
+<l>y otro de Lucinda al lado.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Y no tuvo celos?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Cómo?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿No ves, necia, que hace caso</l>
+<l>la imaginación, y celos</l>
+<l>son hombres imaginados?</l>
+<l>¿Y de quién eran los otros?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>El uno de don Gonzalo</l>
+<l>de Córdoba, su pariente,</l>
+<l>que en los países y estados</l>
+<l>de Flandes, me dijo Tello</l>
+<l>que anduvo con él.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Aguardo</l>
+<l>el vestido de la noche.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿La cama dices? De raso</l>
+<l>de la China un pabellón</l>
+<l>(lo limpio no sé pintarlo,</l>
+<l>que un tafetán lo cubría),</l>
+<l>lo demás, baúles, trastos</l>
+<l>de casa, ajuar de mozos:</l>
+<l>libros, guitarra, ante, casco,</l>
+<l>y un broquel en un rincón,</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Sin duda viene, habla paso.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿En qué lo ves?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>En el alma,</l>
+<l>que me lo ha dicho temblando.</l>
+
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<stage>Aparte a TELLO.</stage>
+<l>¿Puedo yo penetrar su entendimiento?</l>
+<l>¿No ves que fuera necia diligencia?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Si, pero en su presencia</l>
+<l>estar como novicio de convento,</l>
+<l>que no ve tierra más de la que pisa!</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Tello, yo bien presumo que Belisa</l>
+<l>me tiene voluntad, pero en efeto</l>
+<l>en esto sólo quiero ser discreto,</l>
+<l>no siendo confiado,</l>
+<l>demás que no es amor haberme honrado</l>
+<l>con hacerme merced, y si lo fuera,</l>
+<l>no llegara Belisa a ser tercera</l>
+<l>de los amores de Lucinda</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Mira</l>
+<l>que se suele cubrir una mentira</l>
+<l>con capa de verdad, y el que se llama</l>
+<l>galán, no ha de aguardar a que la dama</l>
+<l>le requiebre primero.</l>
+<l>Iba un fraile devoto caballero,</l>
+<l>y cuando tanta espuela le metía</l>
+<l>a la mula, decía:</l>
+<l>«Arre, por caridad, hermana mula.»</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Belisa nos escucha, disimula.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Señor don Juan, ¿sin verme tantos días?</l>
+<l>¿Qué es esto? Ingratamente lo habéis hecho.</l>
+<l>Trocamos vos y yo las bizarrías.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Estoy de vuestra gracia satisfecho,</l>
+<l>pero por no cansaros</l>
+<l>me habrá de suceder desobligaros.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Señor don Juan, a cierta dama un día</l>
+<l>presentó un papagayo un caballero,</l>
+<l>diciéndole que todo lo sabía,</l>
+<l>si no era hablar. Lo mismo os considero:</l>
+<l>vos sois galán, discreto y entendido,</l>
+<l>apacible, valiente y bien nacido,</l>
+<l>modesto, airoso, atento y de buen trato,</l>
+<l>y sólo os falta hablar, por ser ingrato.</l>
+<l>Y tú, Tello, también.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Cual es el dueño,</l>
+<l>tal el criado.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>A fe de calahorreño</l>
+<l>que estoy sin culpa yo, que sólo he sido</l>
+<l>lechón de aqueste pródigo perdido,</l>
+<l>eco de aquesta voz: parte el Cardona,</l>
+<l>verás que soy la maza.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Y yo?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>La mona.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Bueno por vos me pone.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Bien merece</l>
+<l>vuesa merced que Tello así le trate.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Vuesa merced?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Yo soy un disparate.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No hay tan bravo león, que no se rinda</l>
+<l>a los divinos ojos de Lucinda</l>
+<l>¡Qué tierno habrá llorado el buen Cardona,</l>
+<l>y qué habrá dicho allí de mi persona!</l>
+<l>¿Pintóme muy feísima? Que, cierto,</l>
+<l>se haría un ermitaño en un desierto,</l>
+<l>y tentación a mí por lo del río</l>
+<l>y los celos del Soto.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Es desvarío.</l>
+<l>Contaros todo lo que pasa quiero;</l>
+<l>diré verdad a fe de caballero</l>
+<l>aragonés, y Córdoba y Cardona,</l>
+<l>y si mintiere, y esto no me abona,</l>
+<l>no vuelva yo a los ojos de mi padre.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Decid también: «De mi señora madre.»</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Después, Belisa hermosa, que le distes</l>
+<l>con tal gracia a Lucinda tales celos</l>
+<l>en aquel Soto, donde sol salistes,</l>
+<l>más claro que el que adoran Delfo y Delos,</l>
+<l>escribióme un papel con ansias tristes</l>
+<l>hasta en la letra, ¡oh vengadores cielos!,</l>
+<l>que, en lágrimas envueltas y borrones,</l>
+<l>apenas se entendían las razones.</l>
+<l>Fui a verla, como allí me lo rogaba,</l>
+<l>y halléla con la mano en la mejilla,</l>
+<l>que el cuerpo en el estrado reclinaba;</l>
+<l>saludéla, llegué, tomé una silla.</l>
+<l>Lucinda, que la puerta me negaba,</l>
+<l>(¡oh castigo de amor, oh maravilla!),</l>
+<l>me dio su estrado; que en llegando a estado</l>
+<l>tan bajo amor, poco hay de estado a estrado.</l>
+<l>Tomándome las manos, y bañando</l>
+<l>las de los dos con lágrimas, decía</l>
+<l>que me adoraba tiernamente, cuando</l>
+<l>por obligarle amor, desdén fingía.</l>
+<l>Apenas, oh Belisa, vi llorando</l>
+<l>la que ser piedra para mí solía,</l>
+<l>cuando quedé como en la luz infusa</l>
+<l>Atlante del espejo de Medusa.</l>
+<l>Declaróme secretos pensamientos</l>
+<l>de una razón de estado bachillera,</l>
+<l>materias de obligar a casamientos,</l>
+<l>que yo escuché como si piedra fuera.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Salí después de tantos sentimientos</l>
+<l>tan desenamorado, que pudiera</l>
+<l>vender olvido a la mayor constancia.</l>
+<l>¡Gran cosa levantarse con ganancia!</l>
+<l>Cual suele labrador en noche obscura</l>
+<l>dormir en la campaña a cielo abierto,</l>
+<l>y ver la luz del alba hermosa y pura,</l>
+<l>o todo el sol de súbito despierto,</l>
+<l>así salí de confusión tan dura</l>
+<l>súbitamente y desde el golfo al puerto,</l>
+<l>que, despicado, en viéndome querido,</l>
+<l>su llanto risa fue, su amor olvido.</l>
+<l>Ni la vi más, ni la veré en mi vida.</l>
+<l>Como, duermo, paseo, y tiempo tengo</l>
+<l>para mi pretensión, que, de perdida,</l>
+<l>con verme libre, a restaurarla vengo.</l>
+<l>No lágrimas, no más traición fingida;</l>
+<l>a nuevo amor el corazón prevengo,</l>
+<l>aunque quien resucita, nadie crea</l>
+<l>que en volverse a morir discreto sea.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Notable historia!</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Yo os digo</l>
+<l>la verdad.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Cierto?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Tan cierto,</l>
+<l>que en mí fue sueño despierto</l>
+<l>lo que en Lucinda castigo.</l>
+<l>No más Lucinda, ya es hecho.</l>
+<l>A vuestros ojos lo juro:</l>
+<l>algún divino conjuro</l>
+<l>me la ha sacado del pecho.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Tello, ¿es esto así?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>No sé</l>
+<l>que pueda no ser así,</l>
+<l>porque esto pasa ante mí,</l>
+<l>señora, de que doy fe.</l>
+<l>Ya cesó la devoción</l>
+<l>de aquel su pasado arrobo,</l>
+<l>porque come como un lobo</l>
+<l>y duerme como un lirón:</l>
+<l>quitósele la celera</l>
+<l>y el amor.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Gracias a Dios.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Pero enamoradle vos,</l>
+<l>a lo divino tercera;</l>
+<l>dad sujeto a este galán</l>
+<l>de vuestra mano.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Sí hiciera,</l>
+<l>si alguna dama supiera</l>
+<l>como la quiere don Juan</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Una así como vos...</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Yo,</l>
+<l>Tello?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Así toda florida,</l>
+<l>despejada, bien prendida.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Necia y lindísima ¿no?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Más quiero engaños, rigores,</l>
+<l>iras y celosas tretas</l>
+<l>de las divinas discretas</l>
+<l>que de las necias favores.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Deja, Tello, a su elección</l>
+<l>la dama que quiere darme.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Quiero para asegurarme,</l>
+<l>que estéis en aprobación,</l>
+<l>que hay amante, que, enojado,</l>
+<l>sirve otro sujeto un mes,</l>
+<l>y vuelve a echarse a sus pies</l>
+<l>más tierno y enamorado.</l>
+<l>Y aun busca satisfacción</l>
+<l>a su misma pesadumbre</l>
+<l>porque la mala costumbre</l>
+<l>puede más que la razón.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Si yo volviere a querer</l>
+<l>a Lucinda, plega a Dios...</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No juréis.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues dadme vos</l>
+<l>por vuestro gusto mujer</l>
+<l>que pueda amar y estimar,</l>
+<l>y veréis lo que me obliga.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Yo conozco cierta amiga</l>
+<l>que de vos me suele hablar.</l>
+<l>Pero no, que me parece</l>
+<l>que os volveréis luego allá.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Apostaré que te da,</l>
+<l>según la dama encarece,</l>
+<l>alguna doña Terrible.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Pues eso si la burláis,</l>
+<l>que a Zaragoza volváis,</l>
+<l>lo tengo por imposible.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Estando vos de por medio,</l>
+<l>aunque sin mi gusto fuera,</l>
+<l>con mil almas la quisiera.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Yo intento vuestro remedio,</l>
+<l>y quiero que la veáis;</l>
+<l>mas primero que se rinda,</l>
+<l>cuantas prendas de Lucinda</l>
+<l>tenéis, guardáis y adoráis,</l>
+<l>mayormente su retrato,</l>
+<l>me habéis de dar.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Yo haré</l>
+<l>que las traiga Tello, en fe</l>
+<l>de que ya le soy ingrato.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Y será cierto?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Pues no?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Cumpliréislo todo ansí?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Digo mil veces que sí:</l>
+<l>Mas, ¿quién es la dama?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+   <l>Yo.</l></sp>
+<stage>Vase.</stage>
+
+<stage>A Finea.</stage>
+
+<sp><speaker>TELLO</speaker>
+<l>¿Y tú no me quieres dar</l>
+<l>una ninfa a quien querer?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Qué tiene que me volver</l>
+<l>de Fabia, después de estar</l>
+<l>un año en aprobación?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Toda alhaja fregonil</l>
+<l>rendiré a tu pie gentil.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Hay retrato?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Un San Antón</l>
+<l>para tener le pedí</l>
+<l>en mi aposento.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Y que no</l>
+<l>verás más a Fabia?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Yo?</l>
+<l>¿Mas quién es la ninfa?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Mí.</l>
+<l>(Vase.)</l>
+
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Qué sientes desto?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Estoy loco.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Ama, quiere aquí, porfía.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>A tal gracia y bizarría</l>
+<l>darle mil almas es poco.</l>
+<l>¡Con qué gusto dijo: ¡Yo!</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Y la picarilla: ¡Mí!</l>
+<l>¿Vas enamorado?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿No ha de haber Lucinda?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>No.</l></sp>
+
+<stage>Sala en casa del CONDE.</stage>
+<stage>El CONDE, FERNANDO, MÚSICOS.</stage>
+<sp><speaker>CONDE</speaker>
+<l>Ninguna cosa, Fernando,</l>
+<l>me entretiene, estoy perdido.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¿Cómo has de hallar el olvido,</l>
+<l>si estás siempre imaginando?</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Como la imaginación</l>
+<l>es madre de los concetos,</l>
+<l>olvidan mal los discretos,</l>
+<l>que celos conceptos son:</l>
+<l>de aquí nace que poetas</l>
+<l>son los más enamorados,</l>
+<l>imaginando, engañados,</l>
+<l>a sus damas tan perfetas.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¿En tantas definiciones</l>
+<l>de amor nunca van hallando</l>
+<l>la verdad?</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>No hay más, Fernando,</l>
+<l>que ser imaginaciones.</l>
+<l>¿Belisa, en fin, se ha casado?</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>El Cardona aragonés</l>
+<l>es gentilhombre.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Sí es,</l>
+<l>con que más celos me ha dado.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Él entra en su casa ya</l>
+<l>con libertad de marido.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Bastante defensa ha sido,</l>
+<l>segura Belisa está,</l>
+<l>que a no ser marido, es cierto</l>
+<l>que no sufriera galán,</l>
+<l>y menos al tal don Juan</l>
+   <l>Cantad algo, que estoy muerto.</l></sp>
+   <stage>Siéntese en una silla, y canten los MÚSICOS.</stage>
+
+<sp><speaker>MÚSICOS</speaker>
+<l>Antes que amanezca</l>
+<l>sale Belisa,</l>
+<l>cuando llegue al Soto</l>
+<l>será de día.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Cuando ese estribo escribí,</l>
+<l>qué bizarra la miré.</l>
+<l>Cantad la copla, y haré</l>
+<l>una endecha para mí.</l>
+<l>(Cantan.)</l>
+</sp>
+<sp><speaker>MÚSICOS</speaker>
+<l>Mañanicas de Mayo</l>
+<l>salen las damas,</l>
+<l>con achaques de acero</l>
+<l>las vidas matan,</l>
+<l>no ha salido el alba,</l>
+<l>y sale Belisa</l>
+<l>Cuando llegue al Soto</l>
+<l>será de día.</l>
+
+</sp>
+<sp><speaker>FABIA</speaker>
+<stage>Aparte a su ama.</stage>
+<l>Formaron tu pensamiento</l>
+<l>los celos, que no el agravio.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Por estar herido Octavio</l>
+<l>nuevos engaños intento.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Aquí está el Conde</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Y qué triste</l>
+<l>está escuchando cantar.</l>
+<stage>A FERNANDO.</stage>
+<l>¿Puede una mujer entrar?</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Nadie la entrada resiste</l>
+<l>a tal gracia y hermosura.</l>
+<l>¿Señor, duermes?</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¿Qué me quieres?</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Que te buscan dos mujeres.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¿Es Belisa por ventura?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>No soy sino la mayor</l>
+<l>enemiga desa dama:</l>
+<l>Lucinda soy.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Por la fama</l>
+<l>conozco vuestro valor.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>En fe del vuestro he venido</l>
+<l>a suplicaros.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Primero</l>
+<l>tomad una silla.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Hoy quiero</l>
+<l>satisfacer al oído</l>
+<l>de la verdad, que, en ausencia,</l>
+<l>tanto ha escuchado de vos.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Satisfaremos los dos</l>
+<l>la fama con la presencia.</l>
+<l>(Siéntanse.)</l></sp>
+<stage>Retíranse los MÚSICOS.</stage>
+<sp><speaker>LUCINDA</speaker>
+<l>Esta natural pasión,</l>
+<l>generoso Conde Enrique,</l>
+<l>que, contraria de la ira,</l>
+<l>en nuestros pechos reside,</l>
+<l>siempre la he juzgado igual,</l>
+<l>y si decirse permite,</l>
+<l>ira y amor son lo mismo,</l>
+<l>porque como es imposible</l>
+<l>que haya amor sin celos, y ellos</l>
+<l>venganza de agravios piden,</l>
+<l>es fuerza que entre la ira</l>
+<l>adonde el amor la admite,</l>
+<l>como se ve por ejemplos</l>
+<l>de esposos y amantes firmes,</l>
+<l>que mataron lo que amaban</l>
+<l>por celos, de que se sigue</l>
+<l>que la ira y el amor</l>
+<l>no son diferentes fines,</l>
+<l>aunque, en principios, contrarios.</l>
+<l>Todo este prólogo sirve</l>
+<l>de que el amor y la ira</l>
+<l>me traen a que os suplique</l>
+<l>que a mi remedio el valor</l>
+<l>de vuestra sangre os incline;</l>
+<l>por la ofensa que también</l>
+<l>de mis agravios recibe.</l>
+<l>Vino don Juan de Cardona</l>
+<l>(yo sé que una vez le vistes),</l>
+<l>de Zaragoza a la Corte,</l>
+<l>caballero de la insigne</l>
+<l>casa que en sus armas pone</l>
+<l>plumas de pavón por timbre.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Un día, que nuestro Rey</l>
+<l>corrió lanzas, nuevo Aquiles,</l>
+<l>descuidada, y no de galas,</l>
+<l>a ver y ser vista vine;</l>
+<l>mirando pues con el brío</l>
+<l>que la espuela en sangre tiñe</l>
+<l>del bridón, que con las alas</l>
+<l>del viento las plantas mide,</l>
+<l>cuando a la sortija atento</l>
+<l>el que a dos mundos asiste</l>
+<l>con sólo un cetro, la lanza</l>
+<l>pasa de la cuja al ristre,</l>
+<l>y airosamente la lleva,</l>
+<l>veo que el don Juan que os dije</l>
+<l>atento a las de mis ojos</l>
+<l>era de sus niñas lince.</l>
+<l>La fiesta hizo fin, y amor</l>
+<l>principio, que por oírle</l>
+<l>halló lugar y esperanza</l>
+<l>de quererme y de seguirme.</l>
+<l>Desde aquel día hasta agora</l>
+<l>en pretenderme prosigue</l>
+<l>don Juan; mas yo, deseando</l>
+<l>a mejor fin reducirle,</l>
+<l>dile celos y desdenes</l>
+<l>-falso arbitrio-, con que hice</l>
+<l>que, mudando pensamiento,</l>
+<l>otra dama solicite.</l>
+<l>Ésta, a quien tan bien lo sabe,</l>
+<l>no es razón que yo la pinte,</l>
+<l>si bien en sus bizarrías</l>
+<l>cuanto celebran consiste.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Dejáronla mucha hacienda</l>
+<l>sus padres; luce y repite</l>
+<l>con bostezos de señora</l>
+<l>a escuderos y tellices.</l>
+<l>Ésta, pues, que de don Juan</l>
+<l>fue la encantadora Circe,</l>
+<l>como aquella que entretuvo</l>
+<l>sin entendimiento a Ulises,</l>
+<l>no sólo ha podido hacer</l>
+<l>que me aborrezca y olvide,</l>
+<l>sino que en el verde Soto,</l>
+<l>que de puro cristal ciñe</l>
+<l>Manzanares, y este mes</l>
+<l>de verdes álamos viste,</l>
+<l>le llamó marido ¡ay, cielos!,</l>
+<l>¿cómo pude resistirme?</l>
+<l>Desde aquel día me matan</l>
+<l>celos y congojas tristes.</l>
+<l>Llaméle y díjele amores,</l>
+<l>pero apenas quiso oírme,</l>
+<l>que ensoberbece a los hombres</l>
+<l>ver las mujeres humildes.</l>
+<l>A los dos, Enrique ilustre,</l>
+<l>una misma ofensa aflige,</l>
+<l>y así es justo que a los dos</l>
+<l>la misma venganza obligue.</l>
+<l>Yo haré de mi parte cuanto</l>
+<l>fuere a una mujer posible,</l>
+<l>que las más tiernas amando</l>
+<l>con celos se vuelven tigres;</l>
+<l>vos de la vuestra, y los dos</l>
+<l>para los dos, que si rinden</l>
+<l>celos, les daremos celos.</l>
+<l>¡Al arma, mueran, suspiren,</l>
+<l>no se han de casar, que a vos</l>
+<l>os toca! O quedemos libres,</l>
+<l>o vengados, que aunque es fuerte,</l>
+<l>no es el amor invencible.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Ya de vuestra relación</l>
+<l>alguna parte sabía,</l>
+<l>porque la enemiga mía</l>
+<l>me dio a saber la ocasión.</l>
+<l>La soberbia y presunción</l>
+<l>de Belisa se ha rendido</l>
+<l>al título de marido,</l>
+<l>y con ser ansí mi amor,</l>
+<l>se agravia de su rigor,</l>
+<l>pues no me permite olvido.</l>
+<l>Por vos y por mí hacer quiero,</l>
+<l>en lo que posible fuere,</l>
+<l>lo que no contradijere</l>
+<l>a la ley de caballero;</l>
+<l>que nos venguemos espero,</l>
+<l>vos con celos de tan necio</l>
+<l>galán, y yo, que me precio</l>
+<l>de que estimen mis cuidados,</l>
+<l>que es venganza de olvidados</l>
+<l>hacer del rigor desprecio.</l>
+<l>Fuera de que puede ser</l>
+<l>(perdone vuestro valor)</l>
+<l>que, de fingir este amor,</l>
+<l>viniésemos a querer;</l>
+<l>porque suele suceder</l>
+<l>que cosas de amor tratando</l>
+<l>dos libres, y no pensando,</l>
+<l>que pueden ser verdaderas,</l>
+<l>venir a acabar en veras</l>
+<l>lo que se empieza burlando.</l>
+<l>Yo me rindo al talle y brío</l>
+<l>del galán aragonés,</l>
+<l>pero no tanto, después</l>
+<l>que Belisa ofende el mío;</l>
+<l>entremos a desafío,</l>
+<l>dos a dos, adonde espere</l>
+<l>vitoria el que más pudiere</l>
+<l>en el campo de los dos;</l>
+<l>y ayude amor, pues es dios,</l>
+<l>al que más razón tuviere.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Cierta será la vitoria,</l>
+<l>Enrique, si me ayudáis.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Mirad cómo la trazáis</l>
+<l>que resulte en vuestra gloria.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>En toda amorosa historia</l>
+<l>no es bien que el fin se presuma.</l>
+<l>Mujer soy, y será en suma,</l>
+<l>con que disculpada quedo,</l>
+<l>mío de amor el enredo</l>
+<l>y vuestra será la pluma.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Amor la imprima.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<stage>Aparte a su ama.</stage>
+<l>¿Qué has hecho?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Vengarme de quien me agravia.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Loca estás.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Y es cierto, Fabia,</l>
+<l>con tanto amor en el pecho.</l>
+<l>(Vanse las dos.)</l>
+
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Gran parte del mal desecho</l>
+<l>con la venganza trazada.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¿Qué habéis tratado?</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>No es nada.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Esta dama es de don Juan</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Toma, Fernando, el gabán,</l>
+<l>Y dame capa y espada.</l>
+<l>(Vanse.)</l>
+
+<stage>Sala en casa de BELISA.</stage></sp>
+<stage>BELISA, TELLO.</stage>
+<sp><speaker>BELISA</speaker>
+<l>¿Joyas a mí?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Por qué no,</l>
+<l>si eres la Reina de Troya.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Cuando está pobre don Juan,</l>
+<l>finezas tan amorosas?</l>
+<l>¿A mí fénix de diamantes?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Con el verso y con la prosa</l>
+<l>que le enviaste, está loco.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Pena me ha dado la joya.</l>
+<l>¿Qué? ¿Se empeñó? ¿Cómo es esto?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>No ha sido empeño, señora,</l>
+<l>sino el paternal dinero</l>
+<l>que vino de Zaragoza,</l>
+<l>que así como vio el soneto</l>
+<l>dijo con voz amatoria</l>
+<l>rompiendo medio bufete</l>
+<l>de una puñada, Cardona:</l>
+<l>«¿Hay tan alta bizarría?</l>
+<l>¡Que una señora componga</l>
+<l>tales versos! ¡Malos años</l>
+<l>para cuantos a Helicona</l>
+<l>van por agua y alcacer!»</l>
+<l>Y luego del baúl toma</l>
+<l>la bolsa zaragocí</l>
+<l>y dijo: «Tendrás agora</l>
+<l>el mejor dueño del mundo.»</l>
+<l>Pero respondió la bolsa</l>
+<l>en tiple de los escudos:</l>
+<l>«Mejor soy para la olla.»</l>
+<l>Fuimos a la insigne puerta</l>
+<l>que guarda la cara nombran,</l>
+<l>sepulcro de oro y de seda,</l>
+<l>de tantos cofres langosta</l>
+<l>y para el fénix Belisa,</l>
+<l>fénix de diamantes compra,</l>
+<l>por que el día de San Marcos,</l>
+<l>que del trapo llaman zorras,</l>
+<l>salgas a matar guedejas,</l>
+<l>y dar envidia a valonas;</l>
+<l>pero dime, si es posible</l>
+<l>reducir a la memoria,</l>
+<l>el soneto que escribiste.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Como yo de amores loca</l>
+<l>no me osaba declarar,</l>
+<l>dije ansí:</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Las Musas oigan.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Canta con dulce voz en verde rama</l>
+<l>Filomena dulcísima al aurora,</l>
+<l>y en viendo el ruiseñor que le enamora,</l>
+<l>con recíproco amor el nido enrama.</l>
+<l>Su tierno amante por la selva llama</l>
+<l>cándida tortolilla arrulladora,</l>
+<l>que si el galán el ser amado ignora,</l>
+<l>no tiene acción contra su amor la dama.</l>
+<l>No de otra suerte al dueño de mis penas</l>
+<l>llamé con dulce voz en las floridas</l>
+<l>selvas de amor, que oyendo el canto apenas,</l>
+<l>se vino a mí, las alas extendidas,</l>
+<l>porque también hay voces filomenas</l>
+<l>que rinden almas y enamoran vidas.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Por Dios, que es soneto digno</l>
+<l>de que en sus obras le ponga</l>
+<l>la Marquesa de Pescara</l>
+<l>que Italia celebra y honra.</l>
+<l>O, pues también lo merecen,</l>
+<l>en las Canciones sonoras</l>
+<l>de la Isabela Andreína,</l>
+<l>representanta famosa,</l>
+<l>pues hoy estiman sus versos</l>
+<l>París, Nápoles y Roma.</l>
+<l>¡Qué sonoridad, qué luces!</l>
+<l>¿Y aquello de arrulladora?</l>
+<l>¡Mal año para los cultos!</l>
+<l>¡Qué claridad estudiosa!</l>
+<l>¡Qué cultura! Dará envidias,</l>
+<l>aunque laurel les corona,</l>
+<l>al Príncipe de Esquilache</l>
+<l>y al Retor de Villahermosa.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Eres poeta por dicha?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Y por desdicha notoria.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Porque ese lenguaje, Tello,</l>
+<l>a presumir me ocasiona</l>
+<l>que haces versos.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Oh, qué lindo!</l>
+<l>Oye una silva a una mona,</l>
+<l>a quien requebró un galán</l>
+<l>en peso la noche toda:</l>
+<l>Quedóse en un balcón, donde solía,</l>
+<l>desde las doce de la noche al día</l>
+<l>hablar cierto galán a una casada,</l>
+<l>por cerrar la ventana su criada,</l>
+<l>el animal que más imita al hombre,</l>
+<l>aunque él sabe también tomar su nombre:</l>
+<l>la mona con el frío, en la cabeza,</l>
+<l>púsose un paño que tendido estaba,</l>
+<l>con que la dicha moza se tocaba.</l>
+<l>Vino el galán, y atento a su belleza,</l>
+<l>tirábale al balcón de cuando en cuando</l>
+<l>chinas, con que la mona, despertando,</l>
+<l>salió ligera, y, en lo alto puesta,</l>
+<l>le daba algunos cocos por respuesta.</l>
+<l>Pensó que hablaba así por su marido,</l>
+<l>y la reja trepó, del hierro asido;</l>
+<l>mas queriendo besarla, de tal modo</l>
+<l>le asió de las narices que, temiendo</l>
+<l>que pudiera sacárselas del todo,</l>
+<l>se estuvo lamentando y padeciendo,</l>
+<l>hasta que el alba hermosa,</l>
+<l>vestida de jazmín con pies de rosa,</l>
+<l>de ver los dos amaneció riyendo;</l>
+<l>ella, del monicidio temerosa,</l>
+<l>al pobre amante, en vez de los amores,</l>
+<l>de arriba abajo le sembró de flores.</l>
+
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Doña Lucinda de Armenta</l>
+<l>y doña Fabia su moza</l>
+<l>te quieren hablar.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Di que entren.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Eso dices?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Pues, ¿qué importa?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Voime por estotra puerta.</l>
+<l>(Vase.)</l>
+
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Qué aguardan? Entren, señoras.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Si vuesa merced se acuerda</l>
+<l>de que en la florida alfombra</l>
+<l>de Manzanares, un día,</l>
+<l>compitiendo con la aurora</l>
+<l>amaneció perla en nácar,</l>
+<l>o rosa, que baña aljófar,</l>
+<l>siendo el pimpollo el sombrero,</l>
+<l>y vuesa merced la rosa,</l>
+<l>yo soy aquella mujer,</l>
+<l>que engañada de mi sombra,</l>
+<l>le pedí el galán prestado</l>
+<l>sobre prendas de lisonjas;</l>
+<l>como le asió de la mano,</l>
+<l>y subiendo en su carroza...</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No es carroza, sino coche,</l>
+<l>o vuesa merced me honra,</l>
+<l>como llamar licenciado</l>
+<l>por la presbítera toga</l>
+<l>al que es de prima tonsura.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Pienso que se finge boba.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Soy cándida.</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Así parece.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Finalmente, ¿en qué se apoya</l>
+<l>esta celosa visita?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>En que su merced recoja</l>
+<l>de noche al señor marido,</l>
+<l>porque no es justo que corra</l>
+<l>con ella Sotos y Prados</l>
+<l>en carroza, coche o posta,</l>
+<l>y que, en llegando la noche,</l>
+<l>mi puerta y ventanas rompa,</l>
+<l>ya con el pomo las unas,</l>
+<l>ya con las piedras las otras;</l>
+<l>entró una dellas por fuerza,</l>
+<l>y esta cadena me arroja</l>
+<l>diciendo que le escuchase.</l>
+<l>Escuchéle temerosa,</l>
+<l>lloró, en fin...</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Y con bigotes?</l>
+<l>¡Válgate Dios por Cardona!</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Diole después en mi estrado</l>
+<l>tal desmayo, tal congoja,</l>
+<l>que fue menester volverle</l>
+<l>con agua de azahar y alcorzas.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Qué ventura tener agua!</l>
+<l>Si no la tenéis, señora,</l>
+<l>él se queda a buenas noches.</l>
+<l>¡Válgate Dios por Cardona!</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Díjome de vos mil males:</l>
+<l>que día y noche le rondan</l>
+<l>la puerta criadas vuestras,</l>
+<l>que os vio aquella tarde sola</l>
+<l>y que le andáis persiguiendo.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Soy una perseguidora.</l>
+<l>¿Que yo le persigo dice?</l>
+<l>¡Válgate Dios por Cardona!</l>
+<l>Ahora bien, por el aviso</l>
+<l>la sirvo con esta joya</l>
+<l>que hoy me ha enviado con Tello,</l>
+<l>su famoso guardarropa,</l>
+<l>por que el día de San Marcos</l>
+<l>en la cadena la ponga,</l>
+<l>y vea vuesa merced</l>
+<l>si ha menester otra cosa</l>
+<l>desta casa, que aquí queda</l>
+<l>para su servicio toda.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Porque sé las bizarrías</l>
+<l>desa mano poderosa,</l>
+<l>tomo la joya, y os beso</l>
+<l>la mano ilustre.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<stage>Aparte a BELISA.</stage>
+<l>Perdona,</l>
+<l>que no vi cosa más necia</l>
+<l>que la que has hecho.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Qué importa?</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Y vos, señora Finea,</l>
+<l>decid a Tello que escoja</l>
+<l>otra dama, que después</l>
+<l>que a Lucinda mi señora</l>
+<l>sirve el conde don Enrique,</l>
+<l>también de mí se apasiona</l>
+<l>Fernando, su secretario,</l>
+<l>y yo le quiero.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Mejora</l>
+<l>vuesa merced de galán.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Él y don Juan se dispongan</l>
+<l>a no alborotar mi casa,</l>
+<l>que, si otra vez la alborotan,</l>
+<l>castigará su locura</l>
+<l>el Conde, porque me adora.</l>
+<l>Y a vuestra puerta en la calle</l>
+<l>aguarda con su carroza,</l>
+<l>para que vamos al Prado.</l>
+<l>(Vanse las dos.)</l></sp>
+
+<stage>BELISA, FINEA, después el CONDE y LUCINDA.</stage>
+<sp><speaker>FINEA</speaker>
+<l>¡Extraña historia!</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Es historia</l>
+<l>que me ha de costar la vida.</l>
+<l>A la ventana te asoma,</l>
+<l>mira si es el conde Enrique.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Mejor es que tú lo oigas,</l>
+<l>que desde el estribo llama.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Qué libertad! Estoy loca.</l>
+<l>(Dentro el CONDE.)</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¡Al Prado, cochero, al Prado</l>
+<l>da la vuelta!</l>
+<l>(Dentro.)</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>A la Victoria,</l>
+<l>Magallanes de los coches.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Qué propria voz de celosa!</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>A tanta desdicha mía,</l>
+<l>¡ay de mí!, ¿qué puedo hacer?</l>
+<l>¡Oh, mal haya la mujer</l>
+<l>que del mejor hombre fía!</l>
+<l>Que don Juan de amor de un día</l>
+<l>se volviese a lo que amaba</l>
+<l>primero, en razón estaba;</l>
+<l>¡pero no, querer yo bien,</l>
+<l>y declarárselo a quien</l>
+<l>por otra mujer lloraba!</l>
+<l>Halla un pájaro rompida</l>
+<l>la jaula, y volando al viento,</l>
+<l>cuando goza en su elemento</l>
+<l>de la libertad perdida,</l>
+<l>se acuerda de la comida,</l>
+<l>y vuelve a ver si está abierta,</l>
+<l>con ser su cárcel tan cierta.</l>
+<l>Así los amantes son,</l>
+<l>que con saber que es prisión,</l>
+<l>vuelven a la misma puerta.</l>
+<l>Volvióse la voluntad,</l>
+<l>aragonés caballero,</l>
+<l>sin querer gozar del fuero</l>
+<l>de su misma libertad.</l>
+<l>Fié de su falsedad</l>
+<l>mi enamorada afición.</l>
+<l>¡Oh, qué necia condición</l>
+<l>de una voluntad sencilla,</l>
+<l>fiar almas de Castilla</l>
+<l>a los fueros de Aragón!</l>
+<l>No me pesa, porque fui</l>
+<l>necia, en que don Juan me rinda;</l>
+<l>pésame de que Lucinda</l>
+<l>se haya vengado de mí;</l>
+<l>lo que no tuve, perdí.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Menos a enojo me incita,</l>
+<l>que una mujer más se irrita,</l>
+<l>y más con tanto ademán,</l>
+<l>que no el quitarle el galán,</l>
+<l>la burla de quien le quita.</l>
+<l>Lucinda, desdenes tales</l>
+<l>han hecho que os quiera bien,</l>
+<l>que hay muchos hombres, que a quien</l>
+<l>los trata mal, son leales.</l>
+<l>¡Oh, amor, cómo son iguales</l>
+<l>en esto buenos y malos!</l>
+<l>No vienen con los regalos</l>
+<l>y en los celos se resuelven,</l>
+<l>que hay hombres perros que vuelven</l>
+<l>a donde les dan de palos.</l>
+<l>¡Qué mal se supo entender</l>
+<l>mi ignorante bizarría,</l>
+<l>cuando dije que quería</l>
+<l>a un hombre de otra mujer!</l>
+<l>La disculpa habrá de ser</l>
+<l>no de Porcias y Lucrecias,</l>
+<l>que, a no haber amor, si precias</l>
+<l>que de ti se libren pocos,</l>
+<l>ni se hallaran hombres locos,</l>
+<l>ni hubiera mujeres necias.</l>
+
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<stage>Aparte a TELLO.</stage>
+<l>Más de treinta mil ducados</l>
+<l>de dote, sin esta casa,</l>
+<l>tiene Belisa</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Y las joyas,</l>
+<l>ricos vestidos y alhajas,</l>
+<l>¿son barro? Dichoso eres,</l>
+<l>y advierte, que, si te casas,</l>
+<l>me des también a Finea.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Yo te la doy.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Aquí estaban?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Señora mía y mi bien,</l>
+<l>ya el alma se me quejaba</l>
+<l>de vivir en vuestra ausencia,</l>
+<l>si ausente vivo con alma.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<stage>Aparte.</stage>
+<l>¡Confusa estoy! Lo mejor</l>
+<l>es volverle las espaldas.</l>
+<l>(Vase.)</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Fuese?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿No lo ves?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Finea,</l>
+<l>escucha.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Tampoco habla.</l>
+<l>(Vase FINEA.)</l></sp>
+
+<stage>DON JUAN, TELLO.</stage>
+<sp><speaker>DON JUAN</speaker>
+<l>Tras ella iré.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Para qué?</l>
+<l>La puerta cierra a la sala.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues, ¿qué novedad es ésta,</l>
+<l>sin que sepamos la causa?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Habelle dado la joya.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Tello, en esas puertas llama.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>No he visto amante más pobre.</l>
+<l>Siempre parece que andas</l>
+<l>de puerta en puerta.</l></sp>
+
+<stage>FINEA en una ventana.-Dichos.</stage>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Es Finea</l>
+<l>la que en la ventana aguarda?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>La misma.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Finea, ¿qué es esto?</l>
+<l>¿Este término esperaban</l>
+<l>de la señora Belisa</l>
+<l>mi deseo y mi esperanza?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Dice mi señora...</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Qué?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Que se vayan noramala.</l>
+<l>(Cierra la ventana.)</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Acabóse.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Aquí entra bien:</l>
+<l>«para vos traigo una carta».</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Qué habemos de hacer?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>No sé.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Ven, que yo lo sé.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Éstas llaman</l>
+<l>bizarrías de Belisa,</l>
+<l>cerrar puertas y ventanas</l>
+<l>en agarrando la joya?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Sígueme, que voy sin alma.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>El fénix se ha vuelto cisne,</l>
+   <l>que, cuando se muere, canta</l></sp>
+</div><div type="act" n="III">
+<stage>Calle con vista exterior de la casa de LUCINDA.</stage>
+<l>El CONDE y FERNANDO en hábito de noche.</l>
+
+<sp><speaker>FERNANDO</speaker>
+<l>No hay desdén que no se rinda</l>
+<l>con servir y porfiar.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Cansado estoy de ayudar</l>
+<l>desaliños de Lucinda</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Si Belisa ha conocido</l>
+<l>con el ingenio mayor</l>
+<l>del mundo, que ha sido amor</l>
+<l>el de Lucinda fingido,</l>
+<l>no es prudencia darle celos</l>
+<l>con ella; mejor sería</l>
+<l>conquistar su valentía</l>
+<l>con proseguir tus desvelos.</l>
+<l>Lucinda toma venganza</l>
+<l>de don Juan con sus mentiras;</l>
+<l>si la ayudas, ¿qué te admiras</l>
+<l>de vivir sin esperanza?</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Tienes razón, ya no quiero</l>
+<l>celos, servirla es mejor</l>
+<l>con amor y más amor,</l>
+<l>con dinero y más dinero.</l>
+<l>Dar celos suele importar,</l>
+<l>esto después de quererme,</l>
+<l>para despertar quien duerme,</l>
+<l>pero no para obligar.</l>
+<l>No hay armas para vencer</l>
+<l>una mujer desdeñosa</l>
+<l>como otra mujer, ni hay cosa</l>
+<l>que tenga tanto poder</l>
+<l>como aquella información</l>
+<l>de una amiga con su amiga;</l>
+<l>esto las rinde y obliga.</l>
+<l>Como de un género son,</l>
+<l>saben, para herir, tentar</l>
+<l>la flaqueza de la espada.</l>
+<l>¿No has visto a Eva pintada,</l>
+<l>y que la viene a engañar</l>
+<l>con el rostro de mujer,</l>
+<l>que la culebra tomó?</l>
+<l>Pues este ejemplar les dio</l>
+<l>para engañar y vencer</l>
+<l>a mujeres con mujeres.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Celia con Belisa vive;</l>
+<l>estos días apercibe,</l>
+<l>si obligar a Celia quieres,</l>
+<l>aquel gran conquistador</l>
+<l>de voluntades, que llaman</l>
+<l>oro, y verás si te aman.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Ya sabe Celia mi amor,</l>
+<l>y me ha prometido hacer</l>
+<l>cuanto pudiera por mí.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Dos hombres vienen aquí.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Galanes deben de ser</l>
+<l>de Lucinda, que le rondan</l>
+<l>la puerta, tarde han llegado,</l>
+<l>pues dos veces he llamado,</l>
+<l>y no hay orden que respondan.</l></sp>
+
+<stage>Salen BELISA y FINEA de hombre con sombreros de plumas, y ferreruelos con oro y dos pistolas. Dichos.</stage>
+<sp><speaker>FINEA</speaker>
+<l>Pienso que has perdido el seso,</l>
+<l>y no debo de engañarme.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Todo lo que no es matarme</l>
+<l>no lo tengas por exceso;</l>
+<l>y ansí con tanta violencia</l>
+<l>amor mi cuerpo desalma,</l>
+<l>que no hay potencia en el alma,</l>
+<l>que viva su misma esencia.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Tú a la puerta de Lucinda</l>
+<l>con estos necios disfraces?</l>
+<l>Considera lo que haces,</l>
+<l>por más que el amor te rinda,</l>
+<l>que si nos hallan ansí,</l>
+<l>nos habemos de perder.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>En viendo que soy mujer,</l>
+<l>¿qué podrán pensar de mí?</l>
+<l>Porque si agora me dan</l>
+<l>mil muertes o mil enojos,</l>
+<l>tengo de ver con los ojos</l>
+<l>lo que me niega don Juan;</l>
+<l>y es justo que ver intenten</l>
+<l>lo que temen y desean,</l>
+<l>porque como ellos lo vean,</l>
+<l>no dirá el alma que mienten.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Cuantas has hecho hasta aquí,</l>
+<l>bien pueden ser bizarrías;</l>
+<l>éstas no, porque porfías</l>
+<l>contra tu honor.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Ay de mí!</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<stage>Aparte a su amo.</stage>
+<l>Paréceme que has tomado,</l>
+<l>señor, el medio mejor.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Celia, dinero y amor</l>
+<l>remediarán mi cuidado.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Da lugar a estos galanes,</l>
+<l>que no llegan a la puerta</l>
+<l>por nosotros.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Verla abierta</l>
+<l>merecen los ademanes</l>
+<l>con que miran de Lucinda</l>
+<l>las rejas.</l>
+</sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Vidas perdonan,</l>
+<l>valientes son, que pregonan</l>
+<l>lo que se precia de linda.</l>
+<l>(Vanse los dos.)</l>
+
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Si con ella está don Juan,</l>
+<l>y te escribió aquel papel</l>
+<l>de que se casa con él,</l>
+<l>o por ventura lo están,</l>
+<l>¿habemos de estar aquí</l>
+<l>hasta que nos halle el alba?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Ese papel fue la salva</l>
+<l>del veneno que bebí,</l>
+<l>que no hay veneno más fuerte,</l>
+<l>que las letras de un papel,</l>
+<l>pues tantas veces en él</l>
+<l>bebe la vida la muerte.</l>
+<l>Díceme que se desposa</l>
+<l>mañana, y que no hay lugar</l>
+<l>para poderla acabar</l>
+<l>una gala, por costosa,</l>
+<l>de soberbia guarnición,</l>
+<l>que yo le preste un vestido:</l>
+<l>bachillería que ha sido</l>
+<l>mi locura y perdición.</l>
+<l>¿Hay tal modo de pudrir?</l>
+<l>¡Que con mis galas se quiera</l>
+<l>casar!</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Gente viene, espera.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Qué, sino sólo morir?</l></sp>
+<stage>Salen DON JUAN y TELLO. Sin ver a BELISA y FINEA.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Yerras, por Dios, en intentar hablalla.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues, Tello, ¿qué he de hacer, cuando imagino</l>
+<l>que ha hecho algún celoso desatino,</l>
+<l>aunque Belisa calla,</l>
+<l>por donde la he perdido, y me ha tratado</l>
+<l>con rigor tan cruel, que me ha cerrado</l>
+<l>las puertas y ventanas de tal suerte,</l>
+<l>que piensa retirada, y hecha fuerte,</l>
+<l>que puede entrar mi amor a ver su olvido,</l>
+<l>en átomo del aire convertido?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Como la sirve el Conde, ser podría</l>
+<l>que se enojase, y nunca el que es prudente</l>
+<l>hizo pesar al hombre poderoso</l>
+<l>por no dar en sus manos algún día;</l>
+<l>que el desigual lo que es posible intente</l>
+<l>tengo por aforismo provechoso.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Oh qué necio Catón!, ¡oh qué grosero</l>
+<l>Séneca! Yo no quiero</l>
+<l>quitar su gusto al Conde,</l>
+<l>sino hablar a Lucinda</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Si responde</l>
+<l>como mujer celosa y agraviada,</l>
+<l>vendrá a parar en «fuese y no hubo nada».</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<stage>Aparte a FINEA.</stage>
+<l>Finea, ¿no conoces</l>
+<l>estos galanes?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Quedo, no des voces.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+   <l>¡No me engañaba yo! ¡Pierdo el sentido!</l></sp>
+<stage>DON JUAN llama en casa de LUCINDA.</stage>
+
+<sp><speaker>FINEA</speaker>
+<l>Parece que no llama de marido,</l>
+<l>que si marido fuera,</l>
+<l>la puerta con la aldaba deshiciera.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No habrá tomado posesión, agora</l>
+<l>llamará de galán.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Mira, señora,</l>
+<l>que no es bien que te vea.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+   <l>Yo callaré, mas no podré, Finea.</l></sp>
+
+<stage>Salen DON JUAN y TELLO. Sin ver a BELISA y FINEA.</stage>
+
+<sp><speaker>TELLO</speaker>
+<l>Yerras, por Dios, en intentar hablalla.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues, Tello, ¿qué he de hacer, cuando imagino</l>
+<l>que ha hecho algún celoso desatino,</l>
+<l>aunque Belisa calla,</l>
+<l>por donde la he perdido, y me ha tratado</l>
+<l>con rigor tan cruel, que me ha cerrado</l>
+<l>las puertas y ventanas de tal suerte,</l>
+<l>que piensa retirada, y hecha fuerte,</l>
+<l>que puede entrar mi amor a ver su olvido,</l>
+<l>en átomo del aire convertido?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Como la sirve el Conde, ser podría</l>
+<l>que se enojase, y nunca el que es prudente</l>
+<l>hizo pesar al hombre poderoso</l>
+<l>por no dar en sus manos algún día;</l>
+<l>que el desigual lo que es posible intente</l>
+<l>tengo por aforismo provechoso.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Oh qué necio Catón!, ¡oh qué grosero</l>
+<l>Séneca! Yo no quiero</l>
+<l>quitar su gusto al Conde,</l>
+<l>sino hablar a Lucinda</l></sp>
+
+<stage>Salen OCTAVIO y JULIO con otros dos hombres.</stage>
+<sp><speaker>OCTAVIO</speaker>
+<stage>Bajo a JULIO.</stage>
+<l>Julio, hasta agora me duró la herida;</l>
+<l>curéla en fin, mas no curé el agravio.</l>
+</sp>
+<sp><speaker>JULIO</speaker>
+<l>Esperando ocasión se venga el sabio.</l>
+</sp>
+<sp><speaker>OCTAVIO</speaker>
+<l>Éste es don Juan, llamando está a la puerta</l>
+<l>de Lucinda ¡Pues no ha de verla abierta!</l>
+<l>Yo no vengo a reñir, a matar vengo.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<stage>Aparte a DON JUAN.</stage>
+<l>El Conde es éste. Gran sospecha tengo</l>
+<l>que te viene a matar con sus criados.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Tello, no hay más: morir como soldados.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Cuatro son, dos me caben. No hayas miedo</l>
+<l>que me divida de tu lado un dedo.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues, Tello, aquí veré si eres valiente.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>A matar a don Juan viene esta gente.</l>
+   <l>A su lado me pongo.</l></sp>
+
+<stage>Salen OCTAVIO y JULIO con otros dos hombres.</stage>
+
+<sp><speaker>OCTAVIO</speaker>
+<stage>Bajo a JULIO.</stage>
+<l>Julio, hasta agora me duró la herida;</l>
+<l>curéla en fin, mas no curé el agravio.</l>
+</sp>
+<sp><speaker>JULIO</speaker>
+<l>Esperando ocasión se venga el sabio.</l>
+</sp>
+<sp><speaker>OCTAVIO</speaker>
+<l>Éste es don Juan, llamando está a la puerta</l>
+<l>de Lucinda ¡Pues no ha de verla abierta!</l>
+<l>Yo no vengo a reñir, a matar vengo.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<stage>Aparte a DON JUAN.</stage>
+<l>El Conde es éste. Gran sospecha tengo</l>
+<l>que te viene a matar con sus criados.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Tello, no hay más: morir como soldados.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Cuatro son, dos me caben. No hayas miedo</l>
+<l>que me divida de tu lado un dedo.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues, Tello, aquí veré si eres valiente.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>A matar a don Juan viene esta gente.</l>
+<l>A su lado me pongo.</l>
+
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Y yo te sigo.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Finea, defender al enemigo</l>
+<l>fue siempre gran fineza y bizarría.</l>
+</sp>
+<sp><speaker>OCTAVIO</speaker>
+<l>¡Ah, caballeros! Esa puerta es mía.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues pase, si pudiere.</l></sp>
+<stage>Desenvainan las espadas DON JUAN y TELLO; BELISA y FINEA apuntan sus armas de fuego a OCTAVIO y compañeros.</stage>
+<sp><speaker>JULIO</speaker>
+<l>¡Octavio, tente!</l>
+<l>Cuatro, y los dos con escopetas.</l>
+</sp>
+<sp><speaker>OCTAVIO</speaker>
+<l>Creo,</l>
+<l>que burlan mis desdichas mi deseo.</l>
+</sp>
+<sp><speaker>JULIO</speaker>
+<l>Vuélvete y no acometas.</l>
+</sp>
+<sp><speaker>OCTAVIO</speaker>
+<l>¿En Madrid escopetas?</l>
+<l>¡Caso, por Dios, terrible!</l>
+</sp>
+<sp><speaker>JULIO</speaker>
+<l>A quien quiere matar todo es posible.</l>
+<l>(Vanse JULIO y OCTAVIO.)</l></sp>
+
+<stage>BELISA, FINEA, DON JUAN, TELLO.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Todos se han ido con temor del plomo.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>La vida debo a aquestos caballeros.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Huyeron los villanos escuderos;</l>
+<l>de que el Conde no fue, sospechas tomo.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Señores, si es posible conoceros,</l>
+<l>sepa a quién debo defender mi vida</l>
+<l>de tantos enemigos perseguida.</l>
+<l>(Vanse las dos.)</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Volvieron las espaldas sin hablarte,</l>
+<l>ni quitar los embozos.</l></sp>
+
+<stage>DON JUAN, TELLO.</stage>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Por qué parte</l>
+<l>llegaron estos hombres? ¿Si han bajado</l>
+<l>del cielo en mi favor?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Mas del tejado,</l>
+<l>porque si ángeles fueran,</l>
+<l>sin escopetas pienso que vinieran,</l>
+<l>que no las hay allá.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Necia porfía,</l>
+<l>truenos y rayos son artillería.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Verdad, por Dios, y que mostrarse quiso</l>
+<l>el ángel, que guardaba el Paraíso</l>
+<l>con espada de fuego.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Qué necio estuve y ciego!</l>
+<l>¡Tal me tiene Belisa!</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Fueron con tanta prisa,</l>
+<l>que con razón te han dado</l>
+<l>ocasión al milagro imaginado,</l>
+<l>que si en forma de espíritus bajaran,</l>
+<l>las alas de penachos coronaran,</l>
+<l>pero no los sombreros.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Ángeles son tan nobles caballeros.</l>
+<l>Esta puerta me avisa</l>
+<l>del peligro que tengo;</l>
+<l>mejor es ir a ver las de Belisa,</l>
+<l>así la noche paso y entretengo.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Bien fuera, si te abriera.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Ella me las abriera, si me oyera.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Una tapia muy baja el jardín tiene,</l>
+<l>que no es para subir dificultosa.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Podré yo entrar por ella?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Ser podría.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues vamos antes que lo estorbe el día,</l>
+<l>que se traslada de zafir en rosa.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Mejor fuera salir de tanto empeño</l>
+<l>con trasladarle de la cena al sueño.</l>
+<l>(Vanse.)</l></sp>
+
+<stage>Sala en casa de BELISA. Salen BELISA, CELIA, FINEA.</stage>
+<sp><speaker>BELISA</speaker>
+<l>¿Guardaste las escopetas?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Ya, Belisa, están guardadas.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Sin alma vengo!</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>No es mucho,</l>
+<l>pues también fuiste sin alma,</l>
+<l>y me has tenido sin ella;</l>
+<l>porque de locura tanta</l>
+<l>¿qué pudiera prometerme</l>
+<l>que no fuera tu desgracia?</l>
+<l>¿Estaba don Juan, por dicha,</l>
+<l>a la puerta desa dama?</l>
+<l>Aunque dentro es lo más cierto,</l>
+<l>pues que mañana se casan.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Apenas, Celia, a la puerta</l>
+<l>de la dicha dama estaba</l>
+<l>(que dicha le viene bien,</l>
+<l>pues que ninguna le falta)</l>
+<l>cuando a su casa venía</l>
+<l>cercado de gente y armas</l>
+<l>cierto agraviado enemigo:</l>
+<l>si yo no llego, le matan;</l>
+<l>temieron las escopetas,</l>
+<l>y volviendo las espaldas,</l>
+<l>desistieron de la empresa.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Heroica y dichosa hazaña,</l>
+<l>que fue, mirándolo bien,</l>
+<l>una locura bizarra.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Reñísteme con lisonja</l>
+<l>de lo que fui temeraria.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Acuéstate, que se ríe</l>
+<l>de tus cosas la mañana,</l>
+<l>cuyos celajes azules</l>
+<l>embisten rayos de plata.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>No es tan tarde como piensa</l>
+<l>tu sueño.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Estoy desvelada.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Harto más lo vengo yo</l>
+<l>de tanta celosa rabia;</l>
+<l>responder quiero a Lucinda</l>
+<l>la que mañana se casa,</l>
+<l>la discreta, la dichosa,</l>
+<l>la linda, la bien tocada,</l>
+<l>que me ha pedido un vestido</l>
+<l>mientras sus galas le acaban,</l>
+<l>para que de sus vitorias</l>
+<l>sean despojos mis galas;</l>
+<l>que tal linaje de burla</l>
+<l>sólo pienso que se usara</l>
+<l>conmigo, de quien amor,</l>
+<l>con razón, toma venganza.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¿Pues no hay mañana lugar?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿No has visto que cuando tratan</l>
+<l>dos hacer un desafío,</l>
+<l>el agraviado no aguarda</l>
+<l>que salga primero el otro?</l>
+<l>Déjame tomar la espada,</l>
+<l>y matar esta mujer...</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Finea, avisa que tañan.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Conmigo doña Lucrecia,</l>
+<l>por necia, que no por casta!</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Escribir quieres agora?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Pon, Finea, en esa cuadra</l>
+<l>una bujía y papel,</l>
+<l>tinta y pluma.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Pienso que anda</l>
+<l>por esos aires tu seso.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Corre esta cortina! ¡Acaba!</l></sp>
+
+<stage>Corriendo una cortina se descubre un aposento bien entapizado, un bufetillo de plata, y otro con escritorios, una bujía y el CONDE a un lado. Dichos.</stage>
+<sp><speaker>BELISA</speaker>
+<l>¡Jesús! ¿Qué hay aquí?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Ay, señora,</l>
+<l>un hombre!</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Quedo, no hagas,</l>
+<l>Belisa, extremos. Yo soy.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Vueseñoría en mi casa</l>
+<l>a tales horas? ¡Ay, Celia!</l>
+<l>¡Buen cuidado, gentil guarda!</l>
+<l>¿Tú pones en mi aposento</l>
+<l>al Conde, y junto a mi cama?</l>
+<l>¿Dónde se vio tal traición?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Si yo salgo a ver quién llama,</l>
+<l>y en abriendo se entra dentro,</l>
+<l>y poderoso amenaza</l>
+<l>mi vida, ¿qué puedo hacer?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Decírmelo cuando entrara,</l>
+<l>y volviérame a salir</l>
+<l>donde esta noche pasara</l>
+<l>en casa de alguna amiga.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>No estéis, señora, turbada,</l>
+<l>que si amor me puso aquí,</l>
+<l>en viendo vuestra desgracia,</l>
+<l>él me mostrará también</l>
+<l>la puerta por donde salga.</l>
+<l>De noche entré, sin pensar</l>
+<l>que tanto el sol se tardara</l>
+<l>de amanecer a mis ojos;</l>
+<l>detuviéronme mis ansias</l>
+<l>hablando con Celia en vos,</l>
+<l>y como las horas pasan</l>
+<l>tan apriesa por el gusto,</l>
+<l>sin que las sienta quien ama,</l>
+<l>cuando ya me quise ir,</l>
+<l>llamastes vos, y esperaba</l>
+<l>a salir sin que me viesen.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>A tan corteses palabras</l>
+<l>rindo todos mis enojos.</l></sp>
+
+<stage>Salen DON JUAN y TELLO asomándose por una puerta.Dichos.</stage>
+<sp><speaker>DON JUAN</speaker>
+<l>Entra quedito, que hablan</l>
+<l>en la cuadra de Belisa</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Por Dios, que no era muy baja</l>
+<l>la tapia del dicho huerto.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Difícil era la tapia,</l>
+<l>si amor no me diera el pie,</l>
+<l>o me subiera en sus alas.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Como no me ayudó a mí,</l>
+<l>por Dios que traigo quebrada</l>
+<l>la ausencia de la barriga.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Hombre habla, ¡cosa extraña!</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Hombre aquí, y a tales horas?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Tello, ¿quién lo imaginara?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Ah, señor! Cuántas de aquéstas,</l>
+<l>que se nos hacen gazapas</l>
+<l>con los ojitos de miz,</l>
+<l>tienen el zape en el alma;</l>
+<l>las más ricas del honor</l>
+<l>quiebran tal vez, y se pasan</l>
+<l>como mal papel, que deja</l>
+<l>en cada letra una mancha.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Loco estoy: escucha atento,</l>
+<l>pues este cancel nos tapa.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Nadie se fíe en cancel,</l>
+<l>si hablare mal en la sala.</l></sp>
+<stage>Al CONDE.</stage>
+<sp><speaker>BELISA</speaker>
+<l>Yo creo a Vueseñoría,</l>
+<l>mas pues Lucinda le agrada,</l>
+<l>¿para qué me busca a mí?</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Para escucharos, ingrata.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Después de tantos paseos,</l>
+<l>Prado y Fuente Castellana,</l>
+<l>viene a darme este disgusto?</l>
+<l>Mas debe de ser la causa,</l>
+<l>que le ha dejado por otro</l>
+<l>su condición, o se engaña.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<stage>Aparte a su amo.</stage>
+<l>¡Por la tribuna de Dios,</l>
+<l>que es el Conde, y que se abrasa</l>
+<l>Belisa de celos!</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Cielos!</l>
+<l>No me dejaba sin causa</l>
+<l>Belisa El Conde la goza.</l>
+<l>Hoy hizo fin mi esperanza.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Vámonos de aquí, señor,</l>
+<l>que si esto adelante pasa,</l>
+<l>te han de sentir, y vendréis</l>
+<l>los dos a sacar la espada.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Hay más que matarle?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Cómo?</l>
+<l>¿Matar? ¡Eso que no es nada!</l>
+<l>Y después a caballito</l>
+<l>huyendo por las Italias,</l>
+<l>o por dicha, tú en teatro</l>
+<l>lutífero, yo en la hamaca,</l>
+<l>que llaman finibus terrae,</l>
+<l>cantando con media cara</l>
+<l>al sol, el remifasol</l>
+<l>con dos pasos de garganta.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Belisa, yo no he querido</l>
+<l>a Lucinda, porque fue</l>
+<l>su enredo contra mi fe,</l>
+<l>sus celos contra mi olvido;</l>
+<l>y porque veáis que he sido</l>
+<l>tan galán como señor,</l>
+<l>desde aquí dejo el amor,</l>
+<l>sin admitirle jamás,</l>
+<l>que no es bien que pueda más</l>
+<l>mi gusto, que mi valor.</l>
+<l>Y, aunque sea a mi despecho,</l>
+<l>si vos pretendéis casaros,</l>
+<l>como decís, estorbaros,</l>
+<l>siendo quien soy, no es bien hecho.</l>
+<l>Hoy haré salir del pecho</l>
+<l>mi esperanza, sin que espere</l>
+<l>mas que el bien que vuestro fuere;</l>
+<l>porque no quiere, ni es justo,</l>
+<l>el que quiere más su gusto,</l>
+<l>que el honor de lo que quiere.</l>
+<l>Hoy viene al suelo la torre</l>
+<l>de mi necio y loco amor,</l>
+<l>que contra vuestro rigor</l>
+<l>el ser quien soy me socorre;</l>
+<l>que también amor se corre</l>
+<l>de ser mal agradecido,</l>
+<l>viendo, señora, que he sido,</l>
+<l>sobre necio y porfiado,</l>
+<l>para galán, desdichado,</l>
+<l>y grande para marido.</l>
+<l>Palabra os doy de ayudaros</l>
+<l>con el que lo fuere vuestro,</l>
+<l>con que presumo que os muestro</l>
+<l>tanto amor como en dejaros;</l>
+<l>con esto pienso obligaros,</l>
+<l>sin volveros a cansar,</l>
+<l>que un hombre, que con amar</l>
+<l>nunca pudo merecer,</l>
+<l>cuanto cansa con querer,</l>
+<l>obliga con olvidar.</l>
+<l>(Vase.)</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Alumbra a su Señoría,</l>
+<l>Finea.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>¡Valor notable!</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¿Quién está aquí? Alumbra.</l></sp>
+<stage>A FINEA.</stage>
+<sp><speaker>BELISA</speaker>
+<l>¿Cómo?</l>
+<l>¿Gente en mi casa?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>No saque</l>
+<l>la espada Vueseñoría.</l>
+<l>(Empuña la espada y tercia la capa.)</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¿Cómo no, viendo esperarme</l>
+<l>detrás de un cancel dos hombres?</l>
+<l>Belisa, ¿traiciones tales</l>
+<l>con un hombre como yo?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Hay desdicha semejante?</l>
+<l>Celia, ¿qué es esto?</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Que al Conde</l>
+<l>puse yo donde le hallaste,</l>
+<l>es verdad, no los demás.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Señor Conde, no os espante</l>
+<l>esta locura de amor.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Amor no puede espantarme,</l>
+<l>que juzga mal de la culpa</l>
+<l>quien en ella tiene parte.</l>
+<l>Admírome de Belisa,</l>
+<l>que con tantos ademanes</l>
+<l>y melindres, en su casa</l>
+<l>tenga hombres a horas tales,</l>
+<l>escondidos en canceles.</l>
+<l>Y así para no empeñarme</l>
+<l>en más de lo que es razón,</l>
+<l>porque no es justo que os mate</l>
+<l>por delito de marido,</l>
+<l>y guardaos de que os halle</l>
+<l>por casar, que ¡vive Dios,</l>
+<l>que todo el mundo no baste</l>
+<l>a defenderos la vida!</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Pues, señor, sin escucharme...</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Es presto para paciencias,</l>
+<l>y para disculpas tarde.</l>
+<l>(Vase, y CELIA con él.)</l></sp>
+
+<stage>BELISA, DON JUAN, TELLO, FINEA.</stage>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Es ésta, ingrata Belisa,</l>
+<l>la causa para matarme?</l>
+<l>Justamente enmudecías,</l>
+<l>cuando yo llegaba a hablarte;</l>
+<l>justamente me cerrabas</l>
+<l>las puertas; pero sin llaves</l>
+<l>supo entrar amor a ver</l>
+<l>los agravios que me haces.</l>
+<l>Paredes abren los celos,</l>
+<l>cuando ven que no les abren;</l>
+<l>que, como los llaman linces,</l>
+<l>no hay cosa que no traspasen.</l>
+<l>Jurisdicción son de amor</l>
+<l>todos los verdes lugares;</l>
+<l>al jardín debo el que tuve;</l>
+<l>tanto un desengaño vale.</l>
+<l>A las cuatro de la noche,</l>
+<l>si es bien que noche se llame,</l>
+<l>cuando ya llama el aurora</l>
+<l>a las puertas orientales,</l>
+<l>¿un señor, en quien concurren</l>
+<l>tan notables calidades,</l>
+<l>en tu aposento? ¿A estas horas,</l>
+<l>de tu casa el Conde sale?</l>
+<l>Si en tu calle no hay vecino</l>
+<l>que ahora esté por levantarse,</l>
+<l>y echas en la calle un hombre,</l>
+<l>¿cómo quieres tú que calle?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>En la calle no hay secreto,</l>
+<l>que en llegando a despejarse</l>
+<l>tanto el honor, no presumas</l>
+<l>que guarden secreto a nadie.</l>
+<l>Si amabas a don Enrique,</l>
+<l>di, ¿para qué me engañaste?</l>
+<l>Que nunca fue valentía</l>
+<l>ser las mujeres mudables.</l>
+<l>Dejárasme con Lucinda;</l>
+<l>mal por mal, nunca tan tarde</l>
+<l>hombres en su casa hallé</l>
+<l>de quien pudiese quejarme.</l>
+<l>Desde tu casa me voy</l>
+<l>a Aragón, para olvidarte.</l>
+<l>¡Dios me libre de Castilla!</l>
+<l>Para conocerla baste,</l>
+<l>que el ejemplo de tu amor</l>
+<l>me castigue y desengañe.</l>
+<l>Si volviere a verla, ¡cielos!,</l>
+<l>traidora espada me mate,</l>
+<l>o el más amigo me venda,</l>
+<l>y el más obligado pague</l>
+<l>con malas mis buenas obras,</l>
+<l>y a mi enemigo se pase.</l>
+<l>Perdone el hábito el Rey,</l>
+<l>que ya, con tantos pesares,</l>
+<l>me han dado Santiago celos,</l>
+<l>y es mejor morir en Flandes.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Acaba vuesa merced</l>
+<l>su plática lamentable?</l>
+<l>¿Tiene esa larga oración</l>
+<l>epílogo que la ensarte?</l>
+<l>¿Ha de haber: «no has visto», y esto</l>
+<l>con que acaban los Romances</l>
+<l>para vulgar chacota</l>
+<l>que llaman versos finales:</l>
+<l>«cuanto apacible severo</l>
+<l>cuanto tierno inexorable</l>
+<l>cuanto rendido tirano</l>
+<l>y cuanto humilde arrogante?»</l>
+<l>Prosiga vuesa merced.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Burlas en veras tan grandes?</l>
+<l>¿Cuando agravios, niñerías</l>
+<l>y cuando rabias, donaires?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Gentilhombre aragonés,</l>
+<l>el de la ley del encaje,</l>
+<l>Juan por la gracia de Dios,</l>
+<l>Cardona por lo picante:</l>
+<l>si habemos de hablar de veras,</l>
+<l>si se han de tratar verdades,</l>
+<l>si descubrirse los pechos,</l>
+<l>si las almas declararse,</l>
+<l>diga, rey, si vino aquí</l>
+<l>su ninfa, que Dios le guarde,</l>
+<l>aquella a quien sólo faltan</l>
+<l>las alas para ser ángel;</l>
+<l>aquella que escribe en culto</l>
+<l>por aquel griego lenguaje,</l>
+<l>que no le supo Castilla</l>
+<l>ni se le enseñó su madre;</l>
+<l>aquella, en fin, cuyos ojos</l>
+<l>llaman a tantos galanes,</l>
+<l>que es el búho de la corte</l>
+<l>(quiera Dios que se los saquen),</l>
+<l>y me dijo que le rompe</l>
+<l>las puertas con ansias tales,</l>
+<l>y con ruegos tan humildes,</l>
+<l>que de lástima le abre;</l>
+<l>que se desmaya en su estrado</l>
+<l>(no es mucho que se desmaye,</l>
+<l>pues llora con bigotera,</l>
+<l>y hace pucheros infantes).</l>
+<l>¿Cómo quiere el buen Cardona,</l>
+<l>y con la boda que añade</l>
+<l>en este papel su ninfa,</l>
+<l>que sufra yo que se case,</l>
+<l>porque mañana ha de ser,</l>
+<l>y me pide la ignorante</l>
+<l>vestidos para la boda,</l>
+<l>mientras los suyos se acaben?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Váyase vuesa merced,</l>
+<l>que ya es de día, a acostarse,</l>
+<l>porque para desposado</l>
+<l>sin ojeras se levante,</l>
+<l>y para hacerse la barba,</l>
+<l>que es capítulo inviolable</l>
+<l>para ser más mozo el novio,</l>
+<l>y la señora enrizarse.</l>
+<l>Y sepa que he sido ejemplo</l>
+<l>entre mujeres leales,</l>
+<l>porque la que sale firme,</l>
+<l>es roca al mar, palma al aire.</l>
+<l>No truje al Conde a mi casa,</l>
+<l>que, ausente yo, pudo entrarse</l>
+<l>en ella; si culpa tuvo</l>
+<l>Celia, entre los dos la saben.</l>
+<l>La prueba de estar ausente</l>
+<l>es haber ido a buscarle,</l>
+<l>y deberme ya dos vidas,</l>
+<l>que porque no le matasen,</l>
+<l>la mía puse a peligro,</l>
+<l>con cuatro espadas delante,</l>
+<l>con las armas que temieron</l>
+<l>los que quisieron matarle.</l>
+<l>¿Es esto, como presume,</l>
+<l>echar en la calle amantes?</l>
+<l>¿Es esto mudar de fe?</l>
+<l>¿Es esto ser inconstante?</l>
+<l>¿Es esto tener yo culpa</l>
+<l>de ausentarse y de casarse?</l>
+<l>¿Por mí se vuelve a Aragón,</l>
+<l>y desde Aragón a Flandes?</l>
+<l>La joya le di a Lucinda</l>
+<l>de aquel fénix de diamantes,</l>
+<l>que para mí mueren fénix,</l>
+<l>y para Lucinda nacen.</l>
+<l>¿No responde?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¡Apenas puedo!</l></sp>
+<stage>A FINEA.</stage>
+<sp><speaker>TELLO</speaker>
+<l>¿Y tú, no tienes que darme</l>
+<l>alguna disculpa?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Tello,</l>
+<l>pellejo de zorra traes.</l>
+<l>Con la barbada mesura,</l>
+<l>con el cansado desaire,</l>
+<l>que habiendo sido de Fabia</l>
+<l>pretensor fregonizante,</l>
+<l>¿me pides que dé disculpa?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿De Fabia yo?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¿Pues negarme</l>
+<l>quieres la verdad?</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Yo?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Sí.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Plega a Dios que me desgarre</l>
+<l>un oso las pantorrillas,</l>
+<l>o que mi dinero en parte</l>
+<l>le ponga que esté dudoso,</l>
+<l>pues hay cofres que le guarden;</l>
+<l>o que, sacando un vestido,</l>
+<l>me pida después el sastre</l>
+<l>más seda y más guarnición;</l>
+<l>o que, por Diciembre, pase</l>
+<l>en un rocín sin espuelas</l>
+<l>por la calle de Getafe,</l>
+<l>y que de lerdo y mohíno</l>
+<l>en cada mesón me pare;</l>
+<l>o que tenga un pleito, en quien</l>
+<l>paciencia y dineros gaste;</l>
+<l>que es maldición, en que todas</l>
+<l>cuantas tiene el mundo caben.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Oh, Belisa, ¿qué habrá que no se intente</l>
+<l>con celos? Yo estoy ya desengañado,</l>
+<l>si tú lo estás. Su necia envidia aumente</l>
+<l>amor, que tantas penas te ha costado.</l>
+<l>La vida, que te debo justamente,</l>
+<l>mientras viviere me tendrá obligado.</l>
+<l>Tú mira cómo quieres, y en qué parte</l>
+<l>pueda, satisfaciéndote, vengarte.</l>
+<l>Que como agora sale el claro día</l>
+<l>por la boca del sol, y va rompiendo</l>
+<l>la obscura sombra de la noche fría,</l>
+<l>abriendo flores y cristal luciendo,</l>
+<l>a tus ojos saldrá la verdad mía,</l>
+<l>la noche de Lucinda descubriendo;</l>
+<l>y entonces los regalos, los amores,</l>
+<l>unos serán cristales, y otros flores.</l>
+<l>¿Puedo hacer más, que pueda tu deseo</l>
+<l>hacer de mí?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Yo quedo satisfecha,</l>
+<l>y que es enredo de Lucinda creo.</l>
+<l>Mas todo sin vengarme, ¿qué aprovecha?</l>
+<l>Que en el estado que mis cosas veo,</l>
+<l>y para deshacer toda sospecha,</l>
+<l>tú has de ser dueño, en fe de mi esperanza,</l>
+<l>de la satisfacción y la venganza.</l>
+<l>Yo te diré el engaño que he pensado</l>
+<l>para salir de todo con vitoria.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>A obedecerte estoy determinado,</l>
+<l>en celos, en amor, en pena, en gloria.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Pues vete, y vuelve, y ten de mí cuidado.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>¿Cómo podrá faltar de mi memoria?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Adiós, don Juan!</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Muriendo me desvío.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Adiós, zampoña!</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Adiós, tabaco mío!</l>
+<l>(Vanse.)</l></sp>
+
+<stage>Sala en casa de LUCINDA. Salen el CONDE, LUCINDA y FABIA.</stage>
+<sp><speaker>LUCINDA</speaker>
+<l>¡Notable resolución!</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Si me sucedieran bien.</l>
+<l>Mas fue mayor su desdén</l>
+<l>que su atrevida afición.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>El oro en toda ocasión</l>
+<l>es el primer movimiento.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Celia, en su mismo aposento</l>
+<l>me dio bastante lugar,</l>
+<l>pero no supe igualar</l>
+<l>mi dicha a mi atrevimiento.</l>
+<l>Pero ¿quién pudiera creer</l>
+<l>que fuera de casa estaba</l>
+<l>Belisa, cuando llegaba</l>
+<l>la noche a dejar de ser?</l>
+<l>No tuvo qué defender</l>
+<l>de mis locos desatinos,</l>
+<l>que nací, cuando mis sinos</l>
+<l>fueron encontrados bandos,</l>
+<l>donde enloquecen Orlandos,</l>
+<l>donde no fuerzan Tarquinos.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Cual suele un desafiado,</l>
+<l>que a su contrario esperó,</l>
+<l>que hasta que venir le vio</l>
+<l>blasonaba confiado,</l>
+<l>y en viéndole, de turbado</l>
+<l>mudarse descolorido;</l>
+<l>pues así mi amor ha sido</l>
+<l>hasta que a Belisa vi,</l>
+<l>que en viéndola me rendí,</l>
+<l>antes de haberme rendido.</l>
+<l>Salí muy necio, en efeto,</l>
+<l>y es porque entré confiado,</l>
+<l>aunque un hombre despreciado,</l>
+<l>¿cómo puede ser discreto?</l>
+<l>Hallé, escuchando en secreto</l>
+<l>al salir, vuestro don Juan,</l>
+<l>disculpa los dos me dan,</l>
+<l>si deste nombre se llama,</l>
+<l>tener en casa la dama</l>
+<l>a media noche el galán.</l>
+<l>Enojéme con razón,</l>
+<l>mas llegando a conocer</l>
+<l>que se pudiera ofender</l>
+<l>su crédito y opinión,</l>
+<l>no puse en ejecución</l>
+<l>con entrambos mi pesar,</l>
+<l>que ni a él le dejé hablar,</l>
+<l>ni a ella después mentir,</l>
+<l>porque no queda qué oír</l>
+<l>en no habiendo qué esperar.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Yo me canso injustamente.</l>
+<l>Él la adora, ¿qué porfío?</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¡Ay del pensamiento mío,</l>
+<l>que mayor agravio siente!</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Si no parece que miente</l>
+<l>sombra de imagen incierta,</l>
+<l>tu don Juan está a la puerta.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¿Qué don Juan?</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>El de Cardona.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¿El mismo?</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>El mismo en persona.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Esté mil veces abierta.</l></sp>
+
+<stage>DON JUAN, TELLO.-Dichos.</stage>
+<sp><speaker>DON JUAN</speaker>
+<l>Huélgome de hallar aquí,</l>
+<l>señor, a Vueseñoría,</l>
+<l>no para disculpa mía,</l>
+<l>si es que anoche le ofendí,</l>
+<l>sino porque de Belisa</l>
+<l>traigo a los dos un recado.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Buen mensajero ha buscado.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>¿Qué me manda?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¿Qué me avisa?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Díjome que en un papel</l>
+<l>que Lucinda le escribió,</l>
+<l>que por eso me llamó</l>
+<l>para darme parte dél,</l>
+<l>la escribe, que hoy se desposa,</l>
+<l>que a tanta ventura tengo,</l>
+<l>que yo propio a daros vengo</l>
+<l>las gracias, Lucinda hermosa,</l>
+<l>y que en razón del vestido,</l>
+<l>que le honréis tiene a favor</l>
+<l>sus galas, con el mejor,</l>
+<l>y que nunca le ha servido.</l>
+<l>Y os envía a suplicar,</l>
+<l>que, de su mano tocada,</l>
+<l>salgáis a ser envidiada,</l>
+<l>y a no tener qué envidiar;</l>
+<l>y que si también queréis</l>
+<l>(tanto desea obligaros)</l>
+<l>en su casa desposaros,</l>
+<l>de ser madrina la honréis.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Para deciros verdad,</l>
+<l>picarla fue mi deseo,</l>
+<l>pero ya después que veo</l>
+<l>la vuestra y su voluntad,</l>
+<l>hallo que lo que ha de ser,</l>
+<l>por de burlas que se intente,</l>
+<l>viene a ser por accidente.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Y yo acabo de entender,</l>
+<l>que Belisa no tenía</l>
+<l>a don Juan amor perfeto,</l>
+<l>porque todo ha sido efeto</l>
+<l>de su misma bizarría;</l>
+<l>que su extraña condición</l>
+<l>la obligaba a darle celos</l>
+<l>a Lucinda</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>De los cielos</l>
+<l>era justa obligación</l>
+<l>favorecer mi verdad.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Por obligaros ha sido</l>
+<l>fingir mi amor tanto olvido</l>
+<l>y desdén tanta lealtad.</l>
+<l>¡Oh, cuánto en amor alcanza</l>
+<l>la porfía y la razón,</l>
+<l>pues convierte en posesión</l>
+<l>la más perdida esperanza!</l>
+<l>Iré en casa de Belisa,</l>
+<l>pues, de hacerme tal favor</l>
+<l>con tan buen embajador,</l>
+<l>por más crédito, me avisa.</l>
+<l>Y suplico al señor Conde,</l>
+<l>que se halle a honrarme también.</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Con daros el parabién</l>
+<l>mi obligación corresponde.</l>
+<l>Juntos nos podemos ir.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Dadme la mano, don Juan</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Novio y padrino se van.</l>
+<l>¿Tienes algo que decir?</l>
+</sp>
+<sp><speaker>FABIA</speaker>
+<l>Que envidio los desposados,</l>
+<l>Tello, por quererte bien.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Dame la mano también.</l>
+<l>Dios nos haga bien casados.</l></sp>
+
+<stage>Sala en casa de BELISA. Sale BELISA, muy bizarra, y CELIA.</stage>
+<sp><speaker>CELIA</speaker>
+<l>No te espante que pregunte</l>
+<l>para qué es tan nueva gala,</l>
+<l>y vestirse a tales horas.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Celia, mis locuras andan</l>
+<l>por acabar de una vez</l>
+<l>con esta necia esperanza.</l>
+<l>Nací con inclinación</l>
+<l>a todo amor tan contraria,</l>
+<l>que no pensé que en mi vida</l>
+<l>a querer la sujetara</l>
+<l>discreción y gentileza;</l>
+<l>pero no hay soberbia humana</l>
+<l>sin contradición divina.</l>
+<l>Fundé mi loca arrogancia</l>
+<l>en que no hubiese mujer</l>
+<l>que no rindiese las armas</l>
+<l>a mi libre entendimiento;</l>
+<l>y estoy tan desengañada,</l>
+<l>que no sólo amor castiga</l>
+<l>con tantas celosas ansias</l>
+<l>mi libertad, pero ha hecho</l>
+<l>que se burle la ignorancia</l>
+<l>de mi altiva presunción,</l>
+<l>de suerte que no me agravia</l>
+<l>tanto en quitarme a don Juan,</l>
+<l>como en que piense muy vana</l>
+<l>que rinde mi entendimiento;</l>
+<l>y si agora no me falta,</l>
+<l>de los dos agravios pienso</l>
+<l>hacer a un tiempo venganza.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>No sé si aciertas.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Yo sí.</l>
+</sp>
+<sp><speaker>CELIA</speaker>
+<l>Ya te dije la mañana</l>
+<l>que fuimos las dos al Soto,</l>
+<l>que el amor te castigaba</l>
+<l>tanto desdén y desprecio.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Coche a nuestra puerta para.</l>
+<l>Si la desposada viene,</l>
+<l>ninguna ventura iguala</l>
+<l>a sacar burla de burla</l>
+<l>y venganza de venganza.</l></sp>
+
+<stage>FINEA.-Dichas.</stage>
+<sp><speaker>FINEA</speaker>
+<l>Una galera de tierra,</l>
+<l>con clavos de oro por jarcias,</l>
+<l>cortinas por altas velas</l>
+<l>de tela riza de nácar,</l>
+<l>y por remos que le mueven</l>
+<l>cuatro cisnes de Alemania,</l>
+<l>con la señora Lucinda</l>
+<l>en tu portal desembarca.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¿Viene muy hermosa?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Viene</l>
+<l>contenta.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Bien dices, basta:</l>
+<l>no hay mujer alegre fea,</l>
+<l>ni triste hermosa.</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>Ya amainan.</l>
+<l>Las bizarrías de Belisa: 149</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>¡Extraña</l>
+<l>novedad! ¿Quién os lo dijo?</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¿Cómo quién? Agora acaba</l>
+<l>de decírnoslo don Juan</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Don Juan, o el sentido os falta,</l>
+<l>o no me entendistes bien,</l>
+<l>que yo a decir enviaba</l>
+<l>que viniese a ser madrina</l>
+<l>quien viene a ser desposada.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>¿Madrina? ¿De quién?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>De mí.</l>
+<l>Y que al Conde suplicaba</l>
+<l>me honrase y favoreciese</l>
+<l>como me dio la palabra.</l>
+<l>¿Díjeos esto?</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Así es verdad,</l>
+<l>mas mi turbación fue tanta,</l>
+<l>que erré el recado, mas tengo</l>
+<l>disculpa, si me la pasan</l>
+<l>por la necedad primera.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Ha sido necia venganza,</l>
+<l>pero yo la tomaré</l>
+<l>de los dos; sólo me espanta</l>
+<l>que esto sufra el Conde</l>
+</sp>
+<sp><speaker>CONDE</speaker>
+<l>Yo</l>
+<l>tengo, Lucinda, empeñada</l>
+<l>la palabra. Deteneos,</l>
+<l>y pues que también me agravian,</l>
+<l>consolaos conmigo, y dalde</l>
+<l>por mí, pues ya los aguarda</l>
+<l>el parabién con los brazos.</l>
+</sp>
+<sp><speaker>LUCINDA</speaker>
+<l>Más vale volver burlada</l>
+<l>que corrida. Yo los doy.</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Yo a vos también con el alma.</l>
+<l>Quedemos las dos amigas;</l>
+<l>y el señor don Juan, que calla,</l>
+<l>me dará la mano a mí,</l>
+<l>pues que con tan buena gracia</l>
+<l>erró el recado.</l>
+</sp>
+<sp><speaker>DON JUAN</speaker>
+<l>Yo hice</l>
+<l>lo que mi dueño me manda.</l>
+</sp>
+<sp><speaker>TELLO</speaker>
+<l>Y yo me agarro a Finea.</l>
+<l>Perdone, señora Fabia,</l>
+<l>que he menester esta alcorza.</l>
+<stage>A FINEA.</stage>
+<l>Con esta mano te llama</l>
+<l>mi amor, ¿qué aguardas?</l>
+</sp>
+<sp><speaker>FINEA</speaker>
+<l>¡Ay, Tello!,</l>
+<l>¿ésa es mano o es patata?</l>
+</sp>
+<sp><speaker>BELISA</speaker>
+<l>Senado ilustre, el poeta,</l>
+<l>que ya las Musas dejaba,</l>
+<l>con deseo de serviros</l>
+<l>volvió esta vez a llamarlas,</l>
+<l>para que no le olvidéis.</l>
+<l>Y aquí la comedia acaba.</l></sp></div>
+
+      </body>
+  </text>
+</TEI>
