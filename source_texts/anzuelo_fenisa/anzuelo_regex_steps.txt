@@ -83,9 +83,6 @@ What do I do about the y (and) between some speaker names? They are in stage dir
 
 15. Trying something simpler
     Find <speaker>
-    Replace </sp><speaker>
-    
-    Find </sp><speaker>
     Replace </sp><sp><speaker>
     
     Worry that I will have problems with stage directions

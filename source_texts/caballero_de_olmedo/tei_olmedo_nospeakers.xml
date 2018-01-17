@@ -1,0 +1,3834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El caballero de Olmedo</title>
+            <author>Félix Lope de Vega y Carpio</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>From Cervantes Virtual Library, based on the edition of Francisco Rico
+               http://www.cervantesvirtual.com/obra-visor/el-caballero-de-olmedo--0/html/fedd6896-82b1-11df-acc7-002185ce6064_2.htmlALONSO Don Alonso</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <front><castList>
+        <castItem><role xml:id="alonso_olmedo" ana="m">ALONSO</role><roleDesc>Don Alonso</roleDesc></castItem>
+        <castItem><role xml:id="rodrigo_olmedo" ana="m">RODRIGO</role> <roleDesc>Don Rodrigo</roleDesc></castItem>
+        <castItem><role xml:id="fernando_olmedo" ana="m">FERNANDO</role> <roleDesc>Don Fernando</roleDesc></castItem>
+        <castItem><role xml:id="pedro_olmedo" ana="m">PEDRO</role> <roleDesc>Don Pedro</roleDesc></castItem>
+        <castItem><role xml:id="inés_olmedo" ana="f">INÉS</role> <roleDesc>Doña Inés</roleDesc></castItem>
+        <castItem><role xml:id="leonor_olmedo" ana="f">LEONOR</role> <roleDesc>Doña Leonor</roleDesc></castItem>
+        <castItem><role xml:id="tello_olmedo">TELLO</role></castItem>
+        <castItem><role xml:id="ana_olmedo" ana="f">ANA</role></castItem>
+        <castItem><role xml:id="fabia_olmedo" ana="f">FABIA</role></castItem>
+        <castItem><role xml:id="mendo_olmedo" ana="m">MENDO</role> <roleDesc>criado</roleDesc></castItem>
+        <castItem><role xml:id="sombra_olmedo" ana="n">SOMBRA</role></castItem>
+       <castItem><role xml:id="labrador_olmedo" ana="m">LABRADOR</role></castItem>
+       <castItem><role xml:id="rey_olmedo" ana="m">REY</role><roleDesc>El Rey Don Juan</roleDesc></castItem>
+        <castItem><role xml:id="condestable_olmedo" ana="m">CONDESTABLE</role></castItem>
+        <castItem><role xml:id="hombre1_olmedo" ana="m">HOMBRE 1</role></castItem>
+        <castItem><role xml:id="hombre2_olmedo" ana="m">HOMBRE 2</role></castItem></castList></front>
+      <body>
+         
+<div type="act" n="I">
+<stage>Sale DON ALONSO.</stage>
+<sp><speaker>ALONSO</speaker>
+<l>Amor, no te llame amor</l>
+<l>el que no te corresponde,</l>
+<l>pues que no hay materia adonde</l>
+<l>imprima forma el favor.</l>
+<l>Naturaleza, en rigor,</l>
+<l>conservó tantas edades</l>
+<l>correspondiendo amistades;</l>
+<l>que no hay animal perfeto</l>
+<l>si no asiste a su conceto</l>
+<l>la unión de dos voluntades.</l>
+<l>De los espíritus vivos</l>
+<l>de unos ojos procedió</l>
+<l>este amor, que me encendió</l>
+<l>con fuegos tan excesivos.</l>
+<l>No me miraron altivos,</l>
+<l>antes, con dulce mudanza,</l>
+<l>me dieron tal confianza;</l>
+<l>que, con poca diferencia,</l>
+<l>pensando correspondencia,</l>
+<l>engendra amor esperanza.</l>
+<l>Ojos, si ha quedado en vos</l>
+<l>de la vista el mismo efeto,</l>
+<l>amor vivirá perfeto,</l>
+<l>pues fue engendrado de dos;</l>
+<l>pero si tú, ciego dios,</l>
+<l>diversas flechas tomaste,</l>
+<l>no te alabes que alcanzaste</l>
+<l>la vitoria, que perdiste,</l>
+<l>si de mí solo naciste,</l>
+<l>pues imperfeto quedaste.</l></sp>
+<stage>Salen TELLO, criado, y FABIA.</stage>
+<sp><speaker>FABIA</speaker>
+<l>¿A mí, forastero?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>A ti.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Debe de pensar que yo</l>
+<l>soy perro de muestra.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>No.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Tiene algún achaque?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Sí.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Qué enfermedad tiene?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Amor.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Amor ¿de quién?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Allí está:</l>
+<l>él, Fabia, te informará</l>
+<l>de lo que quiere mejor.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Dios guarde tal gentileza.</l>
+<l>Tello, ¿es la madre?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>La propria.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Oh Fabia! ¡Oh retrato, oh copia</l>
+<l>de cuanto naturaleza</l>
+<l>puso en ingenio mortal!</l>
+<l>¡Oh peregrino dotor</l>
+<l>y para enfermos de amor</l>
+<l>Hipócrates celestial!</l>
+<l>Dame a besar esa mano,</l>
+<l>honor de las tocas, gloria</l>
+<l>del monjil.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>La nueva historia</l>
+<l>de tu amor cubriera en vano</l>
+<l>vergüenza o respeto mío,</l>
+<l>que ya en tus caricias veo</l>
+<l>tu enfermedad.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Un deseo</l>
+<l>es dueño de mi albedrío.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>El pulso de los amantes</l>
+<l>es el rostro. Aojado estás.</l>
+<l>¿Qué has visto?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Un ángel.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Qué más?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Dos imposibles, bastantes,</l>
+<l>Fabia, a quitarme el sentido:</l>
+<l>que es dejarla de querer</l>
+<l>y que ella me quiera.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Ayer</l>
+<l>te vi en la feria perdido</l>
+<l>tras una cierta doncella,</l>
+<l>que en forma de labradora</l>
+<l>encubría el ser señora,</l>
+<l>no el ser tan hermosa y bella;</l>
+<l>que pienso que doña Inés</l>
+<l>es de Medina la flor.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Acertaste con mi amor:</l>
+<l>esa labradora es</l>
+<l>fuego que me abrasa y arde.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Alto has picado.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Es deseo</l>
+<l>de su honor.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Así lo creo.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Escucha, así Dios te guarde.</l>
+<l>Por la tarde salió Inés</l>
+<l>a la feria de Medina,</l>
+<l>tan hermosa, que la gente</l>
+<l>pensaba que amanecía.</l>
+<l>Rizado el cabello en lazos;</l>
+<l>que quiso encubrir la liga,</l>
+<l>porque mal caerán las almas</l>
+<l>si ven las redes tendidas.</l>
+<l>Los ojos, a lo valiente,</l>
+<l>iban perdonando vidas,</l>
+<l>aunque dicen los que deja</l>
+<l>que es dichoso a quien la quita.</l>
+<l>Las manos haciendo tretas,</l>
+<l>que, como juego de esgrima,</l>
+<l>tiene tanta gracia en ellas,</l>
+<l>que señala las heridas.</l>
+<l>Las valonas esquinadas</l>
+<l>en manos de nieve viva,</l>
+<l>que muñecas de papel</l>
+<l>se han de poner en esquinas.</l>
+<l>Con la caja de la boca</l>
+<l>allegaba infantería,</l>
+<l>porque, sin ser capitán,</l>
+<l>hizo gente por la villa.</l>
+<l>Los corales y las perlas</l>
+<l>dejó Inés, porque sabía</l>
+<l>que las llevaban mejores</l>
+<l>los dientes y las mejillas.</l>
+<l>Sobre un manteo francés</l>
+<l>una verdemar basquiña,</l>
+<l>porque tenga en otra lengua</l>
+<l>de su secreto la cifra.</l>
+<l>No pensaron las chinelas</l>
+<l>llevar de cuantos la miran</l>
+<l>los ojos en los listones,</l>
+<l>las almas en las virillas.</l>
+<l>No se vio florido almendro</l>
+<l>como toda parecía,</l>
+<l>que del olor natural</l>
+<l>son las mejores pastillas.</l>
+<l>Invisible fue con ella</l>
+<l>el Amor, muerto de risa</l>
+<l>de ver, como pescador,</l>
+<l>los simples peces que pican.</l>
+<l>Unos le prometen sartas</l>
+<l>y otros arracadas ricas;</l>
+<l>pero en oídos de áspid</l>
+<l>no hay arracadas que sirvan.</l>
+<l>Cuál a su garganta hermosa</l>
+<l>el collar de perlas finas;</l>
+<l>pero, como toda es perla,</l>
+<l>poco las perlas estima.</l>
+<l>Yo, haciendo lengua los ojos,</l>
+<l>solamente le ofrecía</l>
+<l>a cada cabello un alma,</l>
+<l>a cada paso una vida.</l>
+<l>Mirándome sin hablarme,</l>
+<l>parece que me decía:</l>
+<l>«No os vais, don Alonso, a Olmedo,</l>
+<l>quedaos agora en Medina».</l>
+<l>Creí mi esperanza, Fabia...</l>
+<l>Salió esta mañana a misa,</l>
+<l>ya con galas de señora,</l>
+<l>no labradora fingida.</l>
+<l>Si has oído que el marfil</l>
+<l>del unicornio santigua</l>
+<l>las aguas, así el cristal</l>
+<l>de un dedo puso en la pila.</l>
+<l>Llegó mi amor basilisco,</l>
+<l>y salió del agua misma</l>
+<l>templado el veneno ardiente</l>
+<l>que procedió de su vista.</l>
+<l>Miró a su hermana, y entrambas</l>
+<l>se encontraron en la risa,</l>
+<l>acompañando mi amor</l>
+<l>su hermosura y mi porfía.</l>
+<l>En una capilla entraron;</l>
+<l>yo, que siguiéndolas iba,</l>
+<l>entré imaginando bodas:</l>
+<l>¡tanto quien ama imagina!</l>
+<l>Vime sentenciado a muerte,</l>
+<l>porque el amor me decía:</l>
+<l>«Mañana mueres, pues hoy</l>
+<l>te meten en la capilla».</l>
+<l>En ella estuve turbado:</l>
+<l>ya el guante se me caía,</l>
+<l>ya el rosario, que los ojos</l>
+<l>a Inés iban y venían.</l>
+<l>No me pagó mal; sospecho,</l>
+<l>que bien conoció que había</l>
+<l>amor y nobleza en mí;</l>
+<l>que quien no piensa no mira,</l>
+<l>y mirar sin pensar, Fabia,</l>
+<l>es de inorantes, y implica</l>
+<l>contradición que en un ángel</l>
+<l>faltase ciencia divina.</l>
+<l>Con este engaño, en efeto,</l>
+<l>le dije a mi amor que escriba</l>
+<l>este papel; que si quieres</l>
+<l>ser dichosa y atrevida</l>
+<l>hasta ponerle en sus manos,</l>
+<l>para que mi fe consiga</l>
+<l>esperanzas de casarme</l>
+<l>(tan honesto amor me inclina),</l>
+<l>el premio será un esclavo,</l>
+<l>con una cadena rica,</l>
+<l>encomienda de esas tocas,</l>
+<l>de malcasadas envidia.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Yo te he escuchado.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Y ¿qué sientes?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Que a gran peligro te pones.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Escusa, Fabia, razones,</l>
+<l>si no es que por dicha intentes,</l>
+<l>como diestro cirujano,</l>
+<l>hacer la herida mortal.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Tello, con industria igual</l>
+<l>pondré el papel en su mano,</l>
+<l>aunque me cueste la vida,</l>
+<l>sin interés, porque entiendas</l>
+<l>que, donde hay tan altas prendas,</l>
+<l>sola yo fuera atrevida.</l>
+<l>Muestra el papel, que primero</l>
+<l>le tengo de aderezar.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Con qué te podré pagar</l>
+<l>la vida, el alma que espero,</l>
+<l>Fabia, de esas santas manos?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Santas?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Pues no, si han de hacer</l>
+<l>milagros?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>De Lucifer.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Todos los medios humanos</l>
+<l>tengo de intentar por ti,</l>
+<l>porque el darme esa cadena</l>
+<l>no es cosa que me da pena:</l>
+<l>más confiada nací.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Qué te dice el memorial?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Ven, Fabia, ven, madre honrada,</l>
+<l>porque sepas mi posada.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Tello...</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Fabia...</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>No hables mal,</l>
+<l>que tengo cierta morena</l>
+<l>de estremado talle y cara...</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Contigo me contentara,</l>
+<l>si me dieras la cadena.</l></sp>
+<stage>Vanse, y salen DOÑA INÉS y DOÑA LEONOR.</stage>
+<sp><speaker>INÉS</speaker>
+<l>Y todos dicen, Leonor,</l>
+<l>que nace de las estrellas.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>De manera que, sin ellas,</l>
+<l>¿no hubiera en el mundo amor?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Dime tú: si don Rodrigo</l>
+<l>ha que me sirve dos años,</l>
+<l>y su talle y sus engaños</l>
+<l>son nieve helada conmigo,</l>
+<l>y en el instante que vi</l>
+<l>este galán forastero,</l>
+<l>me dijo el alma: «Éste quiero»,</l>
+<l>y yo le dije: «Sea ansí»,</l>
+<l>¿quién concierta y desconcierta</l>
+<l>este amor y desamor?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Tira como ciego Amor:</l>
+<l>yerra mucho y poco acierta.</l>
+<l>Demás que negar no puedo</l>
+<l>(aunque es de Fernando amigo</l>
+<l>tu aborrecido Rodrigo,</l>
+<l>por quien obligada quedo</l>
+<l>a intercederte por él)</l>
+<l>que el forastero es galán.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Sus ojos causa me dan</l>
+<l>para ponerlos en él,</l>
+<l>pues pienso que en ellos vi</l>
+<l>el cuidado que me dio,</l>
+<l>para que mirase yo</l>
+<l>con el que también le di.</l>
+<l>Pero ya se habrá partido.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>No le miro yo de suerte</l>
+<l>que pueda vivir sin verte.</l></sp>
+<stage>ANA, criada.</stage>
+<sp><speaker>ANA</speaker>
+<l>Aquí, señora, ha venido</l>
+<l>la Fabia... o la Fabiana.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Pues ¿quién es esa mujer?</l></sp>
+<sp><speaker>ANA</speaker>
+<l>Una que suele vender</l>
+<l>para las mejillas grana</l>
+<l>y para la cara nieve.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Quieres tú que entre, Leonor?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>En casas de tanto honor</l>
+<l>no sé yo cómo se atreve,</l>
+<l>que no tiene buena fama;</l>
+<l>mas ¿quién no desea ver?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Ana, llama esa mujer.</l></sp>
+<sp><speaker>ANA</speaker>
+<l>Fabia, mi señora os llama.</l></sp>
+<stage>FABIA, con una canastilla.</stage>
+<sp><speaker>FABIA</speaker>
+<l>Y ¡cómo si yo sabía</l>
+<l>que me habías de llamar!</l>
+<l>¡Ay! Dios os deje gozar</l>
+<l>tanta gracia y bizarría,</l>
+<l>tanta hermosura y donaire;</l>
+<l>que cada día que os veo</l>
+<l>con tanta gala y aseo</l>
+<l>y pisar de tan buen aire,</l>
+<l>os echo mil bendiciones;</l>
+<l>y me acuerdo como agora</l>
+<l>de aquella ilustre señora,</l>
+<l>que con tantas perfecciones</l>
+<l>fue la fenis de Medina,</l>
+<l>fue el ejemplo de lealtad.</l>
+<l>¡Qué generosa piedad</l>
+<l>de eterna memoria digna!</l>
+<l>¡Qué de pobres la lloramos!</l>
+<l>¿A quién no hizo mil bienes?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Dinos, madre, a lo que vienes.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Qué de huérfanas quedamos</l>
+<l>por su muerte malograda,</l>
+<l>la flor de las Catalinas!</l>
+<l>Hoy la lloran mis vecinas,</l>
+<l>no la tienen olvidada.</l>
+<l>Y a mí, ¿qué bien no me hacía?</l>
+<l>¡Qué en agraz se la llevó</l>
+<l>la muerte! No se logró.</l>
+<l>Aún cincuenta no tenía.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No llores, madre, no llores.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>No me puedo consolar,</l>
+<l>cuando le veo llevar</l>
+<l>a la muerte las mejores,</l>
+<l>y que yo me quedo acá.</l>
+<l>Vuestro padre, Dios le guarde,</l>
+<l>¿está en casa?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Fue esta tarde</l>
+<l>al campo.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Tarde vendrá.</l>
+<l>Si va a deciros verdades,</l>
+<l>-mozas sois, vieja soy yo...-,</l>
+<l>más de una vez me fió</l>
+<l>don Pedro sus mocedades;</l>
+<l>pero teniendo respeto</l>
+<l>a la que pudre, yo hacía,</l>
+<l>como quien se lo debía,</l>
+<l>mi obligación. En efeto,</l>
+<l>de diez mozas, no le daba</l>
+<l>cinco.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Qué virtud!</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>No es poco,</l>
+<l>que era vuestro padre un loco:</l>
+<l>cuanto vía, tanto amaba.</l>
+<l>Si sois de su condición,</l>
+<l>me admiro de que no estéis</l>
+<l>enamoradas. ¿No hacéis,</l>
+<l>niñas, alguna oración</l>
+<l>para casaros?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No, Fabia.</l>
+<l>Eso siempre será presto.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Padre que se duerme en esto,</l>
+<l>mucho a sí mismo se agravia.</l>
+<l>La fruta fresca, hijas mías,</l>
+<l>es gran cosa, y no aguardar</l>
+<l>a que la venga a arrugar</l>
+<l>la brevedad de los días.</l>
+<l>Cuantas cosas imagino,</l>
+<l>dos solas, en mi opinión,</l>
+<l>son buenas, viejas.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>¿Y son?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Hija, el amigo y el vino.</l>
+<l>¿Veisme aquí? Pues yo os prometo</l>
+<l>que fue tiempo en que tenía</l>
+<l>mi hermosura y bizarría</l>
+<l>más de algún galán sujeto.</l>
+<l>¿Quién no alababa mi brío?</l>
+<l>¡Dichoso a quien yo miraba!</l>
+<l>Pues ¿qué seda no arrastraba?</l>
+<l>¡Qué gasto, qué plato el mío!</l>
+<l>Andaba en palmas, en andas.</l>
+<l>Pues, ¡ay Dios!, si yo quería,</l>
+<l>¿qué regalos no tenía</l>
+<l>desta gente de hopalandas?</l>
+<l>Pasó aquella primavera,</l>
+<l>no entra un hombre por mi casa;</l>
+<l>que, como el tiempo se pasa,</l>
+<l>pasa la hermosura.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Espera,</l>
+<l>¿qué es lo que traes aquí?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Niñerías que vender</l>
+<l>para comer, por no hacer</l>
+<l>cosas malas.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Hazlo ansí,</l>
+<l>madre, y Dios te ayudará.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Hija, mi rosario y misa:</l>
+<l>esto, cuando estoy de prisa;</l>
+<l>que si no...</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Vuélvete aca.</l>
+<l>¿Qué es esto?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Papeles son</l>
+<l>de alcanfor y solimán.</l>
+<l>Aquí secretos están</l>
+<l>de gran consideración</l>
+<l>para nuestra enfermedad</l>
+<l>ordinaria.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Y esto ¿qué es?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>No lo mires, aunque estés</l>
+<l>con tanta curiosidad.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>¿Qué es, por tu vida?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Una moza</l>
+<l>se quiere, niñas, casar;</l>
+<l>mas acertóla a engañar</l>
+<l>un hombre de Zaragoza.</l>
+<l>Hase encomendado a mí,</l>
+<l>soy piadosa... y, en fin, es</l>
+<l>limosna, porque después</l>
+<l>vivan en paz.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Qué hay aquí?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Polvos de dientes, jabones</l>
+<l>de manos, pastillas, cosas</l>
+<l>curiosas y provechosas.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Y esto?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Algunas oraciones.</l>
+<l>¡Qué no me deben a mí</l>
+<l>las ánimas!</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Un papel</l>
+<l>hay aquí.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Diste con él,</l>
+<l>cual si fuera para ti.</l>
+<l>Suéltale, no le has de ver,</l>
+<l>bellaquilla, curiosilla.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Deja, madre...</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Hay en la villa</l>
+<l>cierto galán bachiller</l>
+<l>que quiere bien una dama;</l>
+<l>prométeme una cadena</l>
+<l>porque le dé yo, con pena</l>
+<l>de su honor, recato y fama.</l>
+<l>Aunque es para casamiento,</l>
+<l>no me atrevo. Haz una cosa</l>
+<l>por mí, doña Inés hermosa,</l>
+<l>que es discreto pensamiento:</l>
+<l>respóndeme a este papel,</l>
+<l>y diré que me le ha dado</l>
+<l>su dama.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Bien lo has pensado,</l>
+<l>si pescas, Fabia, con él</l>
+<l>la cadena prometida.</l>
+<l>Yo quiero hacerte este bien.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Tantos los cielos te den,</l>
+<l>que un siglo alarguen tu vida.</l>
+<l>Lee el papel.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Allá dentro,</l>
+<l>y te traeré la respuesta.</l></sp>
+<stage>Vase.</stage>
+<sp><speaker>LEONOR</speaker>
+<l>¡Qué buena invención!</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Apresta,</l>
+<l>fiero habitador del centro,</l>
+<l>fuego accidental que abrase</l>
+<l>el pecho desta doncella!</l></sp>
+<stage>Salen DON RODRIGO y DON FERNANDO.</stage>
+<sp><speaker>RODRIGO</speaker>
+<l>Hasta casarme con ella,</l>
+<l>será forzoso que pase</l>
+<l>por estos inconvenientes.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Mucho ha de sufrir quien ama.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Aquí tenéis vuestra dama...</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Oh necios impertinentes!</l>
+<l>¿Quién os ha traído aquí?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Pero ¡en lugar de la mía,</l>
+<l>aquella sombra!</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Sería</l>
+<l>gran limosna para mí,</l>
+<l>que tengo necesidad.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Yo haré que os pague mi hermana.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Si habéis tomado, señora,</l>
+<l>o por ventura os agrada</l>
+<l>algo de lo que hay aquí</l>
+<l>(si bien serán cosas bajas</l>
+<l>las que aquí puede traer</l>
+<l>esta venerable anciana,</l>
+<l>pues no serán ricas joyas</l>
+<l>para ofreceros la paga),</l>
+<l>mandadme que os sirva yo.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>No habemos comprado nada;</l>
+<l>que es esta buena mujer</l>
+<l>quien suele lavar en casa</l>
+<l>la ropa.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¿Qué hace don Pedro?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Fue al campo, pero ya tarda.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¿Mi señora doña Inés...?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Aquí estaba... Pienso que anda</l>
+<l>despachando esta mujer.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Si me vio por la ventana,</l>
+<l>¿quién duda que huyó por mí?</l>
+<l>¿Tanto de ver se recata</l>
+<l>quien más servirla desea?</l></sp>
+<stage>Salga DOÑA INÉS.</stage>
+<sp><speaker>LEONOR</speaker>
+<l>Ya sale. Mira que aguarda</l>
+<l>por la cuenta de la ropa</l>
+<l>Fabia.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Aquí la traigo, hermana.</l>
+<l>Tomad y haced que ese mozo</l>
+<l>la lleve.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Dichosa el agua</l>
+<l>que ha de lavar, doña Inés,</l>
+<l>las reliquias de la holanda</l>
+<l>que tales cristales cubre!</l>
+<stage>Lea.</stage>
+<l>Seis camisas, diez toallas,</l>
+<l>cuatro tablas de manteles,</l>
+<l>dos cosidos de almohadas,</l>
+<l>seis camisas de señor,</l>
+<l>ocho sábanas... Mas basta,</l>
+<l>que todo vendrá más limpio</l>
+<l>que los ojos de la cara.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Amiga, ¿queréis feriarme</l>
+<l>ese papel, y la paga</l>
+<l>fiad de mí, por tener</l>
+<l>de aquellas manos ingratas</l>
+<l>letra siquiera en las mías?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡En verdad que negociara</l>
+<l>muy bien si os diera el papel!</l>
+<l>Adiós, hijas de mi alma.</l></sp>
+<stage>Vase.</stage>
+<sp><speaker>RODRIGO</speaker>
+<l>Esta memoria aquí había</l>
+<l>de quedar, que no llevarla.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Llévala y vuélvela, a efeto</l>
+<l>de saber si algo le falta.</l>
+<l>Mi padre ha venido ya.</l>
+<l>Vuesas mercedes se vayan</l>
+<l>o le visiten, que siente</l>
+<l>que nos hablen, aunque calla.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Para sufrir el desdén</l>
+<l>que me trata desta suerte,</l>
+<l>pido al amor y a la muerte</l>
+<l>que algún remedio me den.</l>
+<l>Al amor, porque también</l>
+<l>puede templar tu rigor</l>
+<l>con hacerme algún favor;</l>
+<l>y a la muerte, porque acabe</l>
+<l>mi vida; pero no sabe</l>
+<l>la muerte, ni quiere amor.</l>
+<l>Entre la vida y la muerte,</l>
+<l>no sé qué medio tener,</l>
+<l>pues amor no ha de querer</l>
+<l>que con tu favor acierte;</l>
+<l>y siendo fuerza quererte,</l>
+<l>quiere el amor que te pida</l>
+<l>que seas tú mi homicida.</l>
+<l>Mata, ingrata, a quien te adora:</l>
+<l>serás mi muerte, señora,</l>
+<l>pues no quieres ser mi vida.</l>
+<l>Cuanto vive, de amor nace</l>
+<l>y se sustenta de amor;</l>
+<l>cuanto muere es un rigor</l>
+<l>que nuestras vidas deshace.</l>
+<l>Si al amor no satisface</l>
+<l>mi pena, ni la hay tan fuerte</l>
+<l>con que la muerte me acierte,</l>
+<l>debo de ser inmortal,</l>
+<l>pues no me hacen bien ni mal</l>
+<l>ni la vida ni la muerte.</l></sp>
+<stage>Vanse los dos.</stage>
+<sp><speaker>INÉS</speaker>
+<l>¡Qué de necedades juntas!</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>No fue la tuya menor.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Cuándo fue discreto amor,</l>
+<l>si del papel me preguntas?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>¿Amor te obliga a escribir</l>
+<l>sin saber a quién?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Sospecho</l>
+<l>que es invención que se ha hecho,</l>
+<l>para probarme a rendir,</l>
+<l>de parte del forastero.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Yo también lo imaginé.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Si fue ansí, discreto fue.</l>
+<l>Leerte unos versos quiero.</l>
+<stage>Lea.</stage>
+<l>«Yo vi la más hermosa labradora,</l>
+<l>en la famosa feria de Medina,</l>
+<l>que ha visto el sol adonde más se inclina</l>
+<l>desde la risa de la blanca aurora.</l>
+<l>Una chinela de color que dora</l>
+<l>de una coluna hermosa y cristalina</l>
+<l>la breve basa, fue la ardiente mina</l>
+<l>que vuela el alma a la región que adora.</l>
+<l>Que una chinela fuese vitoriosa,</l>
+<l>siendo los ojos del Amor enojos,</l>
+<l>confesé por hazaña milagrosa.</l>
+<l>Pero díjele, dando los despojos:</l>
+<l>“Si matas con los pies, Inés hermosa,</l>
+<l>¿qué dejas para el fuego de tus ojos?”»</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Este galán, doña Inés,</l>
+<l>te quiere para danzar.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Quiere en los pies comenzar</l>
+<l>y pedir manos después.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>¿Qué respondiste?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Que fuese</l>
+<l>esta noche por la reja</l>
+<l>del güerto.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>¿Quién te aconseja,</l>
+<l>o qué desatino es ése?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No para hablarle.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Pues ¿qué?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Ven conmigo y lo sabrás.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Necia y atrevida estás.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Cuándo el amor no lo fue?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Huir de amor cuando empieza...</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Nadie del primero huye,</l>
+<l>porque dicen que le influye</l>
+<l>la misma naturaleza.</l></sp>
+<stage>Vanse.</stage>
+<stage>Salen DON ALONSO, TELLO y FABIA.</stage>
+<sp><speaker>FABIA</speaker>
+<l>Cuatro mil palos me han dado.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Lindamente negociaste!</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Si tú llevaras los medios...</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Ello ha sido disparate</l>
+<l>que yo me atreviese al cielo.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Y que Fabia fuese el ángel,</l>
+<l>que al infierno de los palos</l>
+<l>cayese por levantarte.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Ay, pobre Fabia!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Quién fueron</l>
+<l>los crueles sacristanes</l>
+<l>del facistol de tu espalda?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Dos lacayos y tres pajes.</l>
+<l>Allá he dejado las tocas</l>
+<l>y el monjil hecho seis partes.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Eso, madre, no importara,</l>
+<l>si a tu rostro venerable</l>
+<l>no se hubieran atrevido.</l>
+<l>¡Oh, qué necio fui en fiarme</l>
+<l>de aquellos ojos traidores,</l>
+<l>de aquellos falsos diamantes,</l>
+<l>niñas que me hicieron señas</l>
+<l>para engañarme y matarme!</l>
+<l>Yo tengo justo castigo.</l>
+<l>Toma este bolsillo, madre...</l>
+<l>y ensilla, Tello, que a Olmedo</l>
+<l>nos hemos de ir esta tarde.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Cómo, si anochece ya?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Pues ¿qué, quieres que me mate?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>No te aflijas, moscatel,</l>
+<l>ten ánimo, que aquí trae</l>
+<l>Fabia tu remedio. Toma.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Papel!</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Papel.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>No me engañes.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Digo que es suyo, en respuesta</l>
+<l>de tu amoroso romance.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Hinca, Tello, la rodilla.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Sin leer no me lo mandes,</l>
+<l>que aun temo que hay palos dentro,</l>
+<l>pues en mondadientes caben.</l></sp>
+<stage>Lea.</stage>
+<sp><speaker>ALONSO</speaker>
+<l>«Cuidadosa de saber si sois quien presumo, y deseando que lo seáis, ossuplico que vais esta noche a la reja del jardín desta casa, donde hallaréis atadoel listón verde de las chinelas, y ponéosle mañana en el sombrero para que osconozca».</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Qué te dice?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Que no puedo</l>
+<l>pagarte ni encarecerte</l>
+<l>tanto bien.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Ya desta suerte</l>
+<l>no hay que ensillar para Olmedo.</l>
+<l>¿Oyen, señores rocines?</l>
+<l>Sosiéguense, que en Medina</l>
+<l>nos quedamos.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>La vecina</l>
+<l>noche, en los últimos fines</l>
+<l>con que va espirando el día,</l>
+<l>pone los helados pies.</l>
+<l>Para la reja de Inés,</l>
+<l>aún importa bizarría,</l>
+<l>que podría ser que amor</l>
+<l>la llevase a ver tomar</l>
+<l>la cinta. Voyme a mudar.</l></sp>
+<stage>Vase.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Y yo a dar a mi señor,</l>
+<l>Fabia, con licencia tuya,</l>
+<l>aderezo de sereno.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Detente.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Eso fuera bueno,</l>
+<l>a ser la condición suya</l>
+<l>para vestirse sin mí.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Pues bien le puedes dejar,</l>
+<l>porque me has de acompañar.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿A ti, Fabia?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>A mí.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Yo?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Sí,</l>
+<l>que importa a la brevedad</l>
+<l>deste amor.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Qué es lo que quieres?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Con los hombres, las mujeres</l>
+<l>llevamos seguridad.</l>
+<l>Una muela he menester</l>
+<l>del salteador que ahorcaron</l>
+<l>ayer.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Pues ¿no le enterraron?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>No.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Pues ¿qué quieres hacer?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Ir por ella, y que conmigo</l>
+<l>vayas solo acompañarme.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Yo sabré muy bien guardarme</l>
+<l>de ir a esos pasos contigo.</l>
+<l>¿Tienes seso?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Pues, gallina,</l>
+<l>adonde yo voy, ¿no irás?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Tú, Fabia, enseñada estás</l>
+<l>a hablar al diablo.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Camina.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Mándame a diez hombres juntos</l>
+<l>temerario acuchillar,</l>
+<l>y no me mandes tratar</l>
+<l>en materia de difuntos.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Si no vas, tengo de hacer</l>
+<l>que el propio venga a buscarte.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Que tengo de acompañarte!</l>
+<l>¿Eres demonio o mujer?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Ven, llevarás la escalera,</l>
+<l>que no entiendes destos casos.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Quien sube por tales pasos,</l>
+<l>Fabia, el mismo fin espera.</l></sp>
+<stage>Salen DON FERNANDO y DON RODRIGO, en hábito de noche.</stage>
+<sp><speaker>FERNANDO</speaker>
+<l>¿De qué sirve inútilmente</l>
+<l>venir a ver esta casa?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Consuélase entre estas rejas,</l>
+<l>don Fernando, mi esperanza.</l>
+<l>Tal vez sus hierros guarnece</l>
+<l>cristal de sus manos blancas;</l>
+<l>donde las pone de día,</l>
+<l>pongo yo de noche el alma;</l>
+<l>que cuanto más doña Inés</l>
+<l>con sus desdenes me mata,</l>
+<l>tanto más me enciende el pecho,</l>
+<l>así su nieve me abrasa.</l>
+<l>¡Oh rejas, enternecidas</l>
+<l>de mi llanto, quién pensara</l>
+<l>que un ángel endureciera</l>
+<l>quien vuestros hierros ablanda!</l>
+<l>¡Oíd! ¿Qué es lo que está aquí?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>En ellos mismos atada</l>
+<l>está una cinta o listón.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Sin duda las almas atan</l>
+<l>a estos hierros, por castigo</l>
+<l>de los que su amor declaran.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Favor fue de mi Leonor,</l>
+<l>tal vez por aquí me habla.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Que no lo será de Inés</l>
+<l>dice mi desconfianza;</l>
+<l>pero, en duda de que es suyo,</l>
+<l>porque sus manos ingratas</l>
+<l>pudieron ponerle acaso,</l>
+<l>basta que la fe me valga.</l>
+<l>Dadme el listón.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>No es razón,</l>
+<l>si acaso Leonor pensaba</l>
+<l>saber mi cuidado ansí,</l>
+<l>y no me le ve mañana.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Un remedio se me ofrece.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¿Cómo?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Partirle.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¿A qué causa?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>A que las dos nos le vean,</l>
+<l>y sabrán con esta traza</l>
+<l>que habemos venido juntos.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Gente por la calle pasa.</l></sp>
+<stage>Salen DON ALONSO y TELLO, de noche.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Llega de presto a la reja;</l>
+<l>mira que Fabia me aguarda</l>
+<l>para un negocio que tiene</l>
+<l>de grandísima importancia.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Negocio Fabia esta noche</l>
+<l>contigo!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Es cosa muy alta.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Cómo?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Yo llevo escalera,</l>
+<l>y ella...</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Qué lleva?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Tenazas.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Pues ¿qué habéis de hacer?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Sacar</l>
+<l>una dama de su casa.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Mira lo que haces, Tello:</l>
+<l>no entres adonde no salgas.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>No es nada, por vida tuya.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Una doncella ¿no es nada?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Es la muela del ladrón</l>
+<l>que ahorcaron ayer.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Repara</l>
+<l>en que acompañan la reja</l>
+<l>dos hombres.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Si están de guarda?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Qué buen listón!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Ella quiso</l>
+<l>castigarte.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿No buscara,</l>
+<l>si fui atrevido, otro estilo?</l>
+<l>Pues advierta que se engaña.</l>
+<l>Mal conoce a don Alonso,</l>
+<l>que por excelencia llaman</l>
+<l>«el Caballero de Olmedo».</l>
+<l>¡Vive Dios, que he de mostrarla</l>
+<l>a castigar de otra suerte</l>
+<l>a quien la sirve!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>No hagas</l>
+<l>algún disparate.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Hidalgos,</l>
+<l>en las rejas de esa casa</l>
+<l>nadie se arrima.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¿Qué es esto?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Ni en el talle ni en el habla</l>
+<l>conozco este hombre.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¿Quién es</l>
+<l>el que con tanta arrogancia</l>
+<l>se atreve a hablar?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>El que tiene</l>
+<l>por lengua, hidalgos, la espada.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Pues hallará quien castigue</l>
+<l>su locura temeraria.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Cierra, señor, que no son</l>
+<l>muelas que a difuntos sacan.</l></sp>
+<stage>Retírenlos.</stage>
+<sp><speaker>ALONSO</speaker>
+<l>No los sigas, bueno está.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Aquí se quedó una capa.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Cógela y ven por aquí,</l>
+<l>que hay luces en las ventanas.</l></sp>
+<stage>Salen DOÑA LEONOR y DOÑA INÉS.</stage>
+<sp><speaker>INÉS</speaker>
+<l>Apenas la blanca Aurora,</l>
+<l>Leonor, el pie de marfil</l>
+<l>puso en las flores de abril,</l>
+<l>que pinta, esmalta y colora,</l>
+<l>cuando a mirar el listón</l>
+<l>salí, de amor desvelada,</l>
+<l>y con la mano turbada</l>
+<l>di sosiego al corazón.</l>
+<l>En fin, él no estaba allí.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Cuidado tuvo el galán.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No tendrá los que me dan</l>
+<l>sus pensamientos a mí.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Tú, que fuiste el mismo yelo,</l>
+<l>¿en tan breve tiempo estas</l>
+<l>de esa suerte?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No sé más</l>
+<l>de que me castiga el cielo.</l>
+<l>O es venganza o es vitoria</l>
+<l>de Amor en mi condición;</l>
+<l>parece que el corazón</l>
+<l>se me abrasa en su memoria:</l>
+<l>un punto sólo no puedo</l>
+<l>apartarla dél. ¿Qué haré?</l></sp>
+<stage>Sale DON RODRIGO, con el listón en el sombrero.</stage>
+<sp><speaker>RODRIGO</speaker>
+<l>(Nunca, amor, imaginé</l>
+<l>que te sujetara el miedo.</l>
+<l>Ánimo para vivir,</l>
+<l>que aquí está Inés.) Al señor</l>
+<l>don Pedro busco.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Es error</l>
+<l>tan de mañana acudir,</l>
+<l>que no estará levantado.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Es un negocio importante.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No he visto tan necio amante.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Siempre es discreto lo amado</l>
+<l>y necio lo aborrecido.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¡Que de ninguna manera</l>
+<l>puedo agradar una fiera</l>
+<l>ni dar memoria a su olvido...!</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Ay, Leonor! No sin razón</l>
+<l>viene don Rodrigo aquí,</l>
+<l>si yo misma le escribí</l>
+<l>que fuese por el listón.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Fabia este engaño te ha hecho.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Presto romperé el papel,</l>
+<l>que quiero vengarme en él</l>
+<l>de que ha dormido en mi pecho.</l></sp>
+<stage>Salen DON PEDRO, su padre, y DON FERNANDO.</stage>
+<sp><speaker>FERNANDO</speaker>
+<l>Hame puesto por tercero</l>
+<l>para tratarlo con vos.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Pues hablaremos los dos</l>
+<l>en el concierto, primero.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Aquí está, que siempre amor</l>
+<l>es reloj anticipado.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Habrále Inés concertado</l>
+<l>con la llave del favor.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>De lo contrario se agravia.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Señor don Rodrigo...</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Aquí</l>
+<l>vengo a que os sirváis de mí.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Todo fue enredo de Fabia.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>¿Cómo?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿No ves que también</l>
+<l>trae el listón don Fernando?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Si en los dos le estoy mirando,</l>
+<l>entrambos te quieren bien.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Sólo falta que me pidas</l>
+<l>celos, cuando estoy sin mí.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>¿Qué quieren tratar aquí?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Ya las palabras olvidas</l>
+<l>que dijo mi padre ayer</l>
+<l>en materia de casarme?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Luego bien puede olvidarme</l>
+<l>Fernando, si él viene a ser.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Antes presumo que son</l>
+<l>entrambos los que han querido</l>
+<l>casarse, pues han partido</l>
+<l>entre los dos el listón.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Esta es materia que quiere</l>
+<l>secreto y espacio; entremos</l>
+<l>donde mejor la tratemos.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Como yo ser vuestro espere,</l>
+<l>no tengo más que tratar.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Aunque os quiero enamorado</l>
+<l>de Inés, para el nuevo estado,</l>
+<l>quien soy os ha de obligar.</l></sp>
+<stage>Vanse los tres.</stage>
+<sp><speaker>INÉS</speaker>
+<l>¡Qué vana fue mi esperanza!</l>
+<l>¡Qué loco mi pensamiento!</l>
+<l>¡Yo papel a don Rodrigo!</l>
+<l>¡Y tú de Fernando celos!</l>
+<l>¡Oh forastero enemigo!</l>
+<stage>Sale FABIA.</stage>
+<l>¡Oh Fabia embustera!</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Quedo,</l>
+<l>que lo está escuchando Fabia.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Pues ¿cómo, enemiga, has hecho</l>
+<l>un enredo semejante?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Antes fue tuyo el enredo,</l>
+<l>si en aquel papel escribes</l>
+<l>que fuese aquel caballero</l>
+<l>por un listón de esperanza</l>
+<l>a las rejas de tu güerto,</l>
+<l>y en ellas pones dos hombres</l>
+<l>que le maten, aunque pienso</l>
+<l>que a no se haber retirado</l>
+<l>pagaran su loco intento.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Ay, Fabia! Ya que contigo</l>
+<l>llego a declarar mi pecho,</l>
+<l>ya que a mi padre, a mi estado</l>
+<l>y a mi honor pierdo el respeto,</l>
+<l>dime: ¿es verdad lo que dices?</l>
+<l>Que siendo ansí, los que fueron</l>
+<l>a la reja le tomaron</l>
+<l>y por favor se le han puesto.</l>
+<l>De suerte estoy, madre mía,</l>
+<l>que no puedo hallar sosiego,</l>
+<l>si no es pensando en quien sabes.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>(¡Oh, qué bravo efeto hicieron</l>
+<l>los hechizos y conjuros!</l>
+<l>La vitoria me prometo.)</l>
+<l>No te desconsueles, hija;</l>
+<l>vuelve en ti, que tendrás presto</l>
+<l>estado con el mejor</l>
+<l>y más noble caballero</l>
+<l>que agora tiene Castilla;</l>
+<l>porque será por lo menos</l>
+<l>el que por único llaman</l>
+<l>«el Caballero de Olmedo».</l>
+<l>Don Alonso en una feria</l>
+<l>te vio, labradora Venus,</l>
+<l>haciendo las cejas arco</l>
+<l>y flecha los ojos bellos.</l>
+<l>Disculpa tuvo en seguirte,</l>
+<l>porque dicen los discretos</l>
+<l>que consiste la hermosura</l>
+<l>en ojos y entendimiento.</l>
+<l>En fin, en las verdes cintas</l>
+<l>de tus pies llevastes presos</l>
+<l>los suyos, que ya el Amor</l>
+<l>no prende con los cabellos...</l>
+<l>Él te sirve, tú le estimas;</l>
+<l>él te adora, tú le has muerto;</l>
+<l>él te escribe, tú respondes:</l>
+<l>¿quién culpa amor tan honesto?</l>
+<l>Para él tienen sus padres,</l>
+<l>porque es único heredero,</l>
+<l>diez mil ducados de renta;</l>
+<l>y aunque es tan mozo, son viejos.</l>
+<l>Déjate amar y servir</l>
+<l>del más noble, del más cuerdo</l>
+<l>caballero de Castilla,</l>
+<l>lindo talle, lindo ingenio.</l>
+<l>El Rey en Valladolid</l>
+<l>grandes mercedes le ha hecho,</l>
+<l>porque él solo honró las fiestas</l>
+<l>de su real casamiento.</l>
+<l>Cuchilladas y lanzadas</l>
+<l>dio en los toros como un Héctor;</l>
+<l>treinta precios dio a las damas</l>
+<l>en sortijas y torneos.</l>
+<l>Armado, parece Aquiles</l>
+<l>mirando de Troya el cerco;</l>
+<l>con galas parece Adonis...</l>
+<l>(¡Mejor fin le den los cielos!)</l>
+<l>Vivirás bien empleada</l>
+<l>en un marido discreto.</l>
+<l>¡Desdichada de la dama</l>
+<l>que tiene marido necio!</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Ay, madre! Vuélvesme loca.</l>
+<l>Pero, ¡triste!, ¿cómo puedo</l>
+<l>ser suya, si a don Rodrigo</l>
+<l>me da mi padre don Pedro?</l>
+<l>Él y don Fernando están</l>
+<l>tratando mi casamiento.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Los dos harán nulidad</l>
+<l>la sentencia de ese pleito.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Está don Rodrigo allí.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Eso no te cause miedo,</l>
+<l>pues es parte y no jüez.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Leonor, ¿no me das consejo?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Y ¿estás tú para tomarle?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No sé; pero no tratemos</l>
+<l>en público destas cosas.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Déjame a mí tu suceso.</l>
+<l>Don Alonso ha de ser tuyo;</l>
+<l>que serás dichosa, espero,</l>
+<l>con hombre que es en Castilla</l>
+<l>la gala de Medina,</l>
+<l>la flor de Olmedo.</l></sp></div>
+<div type="act" n="II">
+<stage>Salen TELLO y DON ALONSO.</stage>
+<sp><speaker>ALONSO</speaker>
+<l>Tengo el morir por mejor,</l>
+<l>Tello, que vivir sin ver.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Temo que se ha de saber</l>
+<l>este tu secreto amor;</l>
+<l>que con tanto ir y venir</l>
+<l>de Olmedo a Medina, creo</l>
+<l>que a los dos da tu deseo</l>
+<l>que sentir y aun que decir.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Cómo puedo yo dejar</l>
+<l>de ver a Inés, si la adoro?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Guardándole más decoro</l>
+<l>en el venir y el hablar;</l>
+<l>que en ser a tercero día,</l>
+<l>pienso que te dan, señor,</l>
+<l>tercianas de amor.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Mi amor</l>
+<l>ni está ocioso, ni se enfría:</l>
+<l>siempre abrasa; y no permite</l>
+<l>que esfuerce naturaleza</l>
+<l>un instante su flaqueza,</l>
+<l>porque jamás se remite.</l>
+<l>Mas bien se ve que es león</l>
+<l>Amor; su fuerza, tirana;</l>
+<l>pues que con esta cuartana</l>
+<l>se amansa mi corazón.</l>
+<l>Es esta ausencia una calma</l>
+<l>de amor; porque si estuviera</l>
+<l>adonde siempre a Inés viera,</l>
+<l>fuera salamandra el alma.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿No te cansa y te amohína</l>
+<l>tanto entrar, tanto partir?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Pues yo ¿qué hago en venir,</l>
+<l>Tello, de Olmedo a Medina?</l>
+<l>Leandro pasaba un mar</l>
+<l>todas las noches, por ver</l>
+<l>si le podía beber</l>
+<l>para poderse templar;</l>
+<l>pues si entre Olmedo y Medina</l>
+<l>no hay, Tello, un mar, ¿qué me debe</l>
+<l>Inés?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>A otro mar se atreve</l>
+<l>quien al peligro camina</l>
+<l>en que Leandro se vio;</l>
+<l>pues a don Rodrigo veo</l>
+<l>tan cierto de tu deseo</l>
+<l>como puedo estarlo yo;</l>
+<l>que, como yo no sabía</l>
+<l>cúya aquella capa fue,</l>
+<l>un día que la saqué...</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Gran necedad!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Como mía.</l>
+<l>Me preguntó: «Diga, hidalgo,</l>
+<l>¿quién esta capa le dio?</l>
+<l>Porque la conozco yo...»</l>
+<l>Respondí: «Si os sirve en algo,</l>
+<l>daréla a un criado vuestro».</l>
+<l>Con esto, descolorido,</l>
+<l>dijo: «Habíala perdido</l>
+<l>de noche un lacayo nuestro,</l>
+<l>pero mejor empleada</l>
+<l>está en vos; guardadla bien».</l>
+<l>Y fuese a medio desdén,</l>
+<l>puesta la mano en la espada.</l>
+<l>Sabe que te sirvo y sabe</l>
+<l>que la perdió con los dos.</l>
+<l>Advierte, señor, por Dios,</l>
+<l>que toda esta gente es grave,</l>
+<l>y que están en su lugar,</l>
+<l>donde todo gallo canta.</l>
+<l>Sin esto, también me espanta</l>
+<l>ver este amor comenzar</l>
+<l>por tantas hechicerías,</l>
+<l>y que cercos y conjuros</l>
+<l>no son remedios seguros,</l>
+<l>si honestamente porfías.</l>
+<l>Fui con ella (que no fuera)</l>
+<l>a sacar de un ahorcado</l>
+<l>una muela; puse a un lado,</l>
+<l>como arlequín, la escalera.</l>
+<l>Subió Fabia, quedé al pie,</l>
+<l>y díjome el salteador:</l>
+<l>«Sube, Tello, sin temor,</l>
+<l>o, si no, yo bajaré».</l>
+<l>¡San Pablo, allí me caí!</l>
+<l>Tan sin alma vine al suelo,</l>
+<l>que fue milagro del cielo</l>
+<l>el poder volver en mí.</l>
+<l>Bajó, desperté turbado</l>
+<l>y de mirarme afligido,</l>
+<l>porque, sin haber llovido,</l>
+<l>estaba todo mojado.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Tello, un verdadero amor</l>
+<l>en ningún peligro advierte.</l>
+<l>Quiso mi contraria suerte</l>
+<l>que hubiese competidor,</l>
+<l>y que trate, enamorado,</l>
+<l>casarse con doña Inés;</l>
+<l>pues ¿qué he de hacer, si me ves</l>
+<l>celoso y desesperado?</l>
+<l>No creo en hechicerías,</l>
+<l>que todas son vanidades:</l>
+<l>quien concierta voluntades,</l>
+<l>son méritos y porfías.</l>
+<l>Inés me quiere, yo adoro</l>
+<l>a Inés, yo vivo en Inés;</l>
+<l>todo lo que Inés no es</l>
+<l>desprecio, aborrezco, ignoro.</l>
+<l>Inés es mi bien, yo soy</l>
+<l>esclavo de Inés; no puedo</l>
+<l>vivir sin Inés; de Olmedo</l>
+<l>a Medina vengo y voy,</l>
+<l>porque Inés mi dueño es</l>
+<l>para vivir o morir.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Sólo te falta decir:</l>
+<l>«Un poco te quiero, Inés».</l>
+<l>¡Plega a Dios que por bien sea!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Llama, que es hora.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Yo voy.</l></sp>
+<sp><speaker>ANA</speaker>
+<l>¿Quién es?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Tan presto! Yo soy.</l>
+<l>¿Está en casa Melibea?</l>
+<l>Que viene Calisto aquí.</l></sp>
+<sp><speaker>ANA</speaker>
+<l>Aguarda un poco, Sempronio.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Si haré falso testimonio?</l></sp>
+<stage>Sale DOÑA INÉS.</stage>
+<sp><speaker>INÉS</speaker>
+<l>¿El mismo?</l></sp>
+<sp><speaker>ANA</speaker>
+<l>Señora, sí.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Señor mío...!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Bella Inés,</l>
+<l>esto es venir a vivir.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Agora no hay que decir:</l>
+<l>«Yo te lo diré después».</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Tello amigo!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Reina mía!</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Nunca, Alonso de mis ojos,</l>
+<l>por haberme dado enojos</l>
+<l>esta ignorante porfía</l>
+<l>de don Rodrigo, esta tarde,</l>
+<l>he estimado que me vieses...</l>
+<l>...............................................</l>
+<l>...............................................</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Aunque fuerza de obediencia</l>
+<l>te hiciese tomar estado,</l>
+<l>no he de estar desengañado</l>
+<l>hasta escuchar la sentencia.</l>
+<l>Bien el alma me decía,</l>
+<l>y a Tello se lo contaba</l>
+<l>cuando el caballo sacaba</l>
+<l>-y el sol los que aguarda el día-,</l>
+<l>que de alguna novedad</l>
+<l>procedía mi tristeza,</l>
+<l>viniendo a ver tu belleza,</l>
+<l>pues me dices que es verdad.</l>
+<l>¡Ay de mí si ha sido ansí!</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No lo creas, porque yo</l>
+<l>diré a todo el mundo no,</l>
+<l>después que te dije sí.</l>
+<l>Tú sólo dueño has de ser</l>
+<l>de mi libertad y vida;</l>
+<l>no hay fuerza que el ser impida,</l>
+<l>don Alonso, tu mujer.</l>
+<l>Bajaba al jardín ayer,</l>
+<l>y como por don Fernando</l>
+<l>me voy de Leonor guardando,</l>
+<l>a las fuentes, a las flores</l>
+<l>estuve diciendo amores,</l>
+<l>y estuve también llorando.</l>
+<l>«Flores y aguas -les decía-,</l>
+<l>dichosa vida gozáis,</l>
+<l>pues, aunque noche pasáis,</l>
+<l>veis vuestro sol cada día».</l>
+<l>Pensé que me respondía</l>
+<l>la lengua de una azucena</l>
+<l>(¡qué engaños amor ordena!):</l>
+<l>«Si el sol que adorando estás</l>
+<l>viene de noche, que es más,</l>
+<l>Inés, ¿de qué tienes pena?»</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Así dijo a un ciego un griego</l>
+<l>que le contó mil disgustos:</l>
+<l>«Pues tiene la noche gustos,</l>
+<l>¿para qué te quejas, ciego?»</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Como mariposa llego</l>
+<l>a estas horas, deseosa</l>
+<l>de tu luz... No mariposa,</l>
+<l>fénix ya, pues de una suerte</l>
+<l>me da vida y me da muerte</l>
+<l>llama tan dulce y hermosa.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Bien haya el coral, amén,</l>
+<l>de cuyas hojas de rosas</l>
+<l>palabras tan amorosas</l>
+<l>salen a buscar mi bien!</l>
+<l>Y advierte que yo también,</l>
+<l>cuando con Tello no puedo,</l>
+<l>mis celos, mi amor, mi miedo</l>
+<l>digo en tu ausencia a las flores.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Yo le vi decir amores</l>
+<l>a los rábanos de Olmedo;</l>
+<l>que un amante suele hablar</l>
+<l>con las piedras, con el viento.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>No puede mi pensamiento</l>
+<l>ni estar solo, ni callar;</l>
+<l>contigo, Inés, ha de estar,</l>
+<l>contigo hablar y sentir.</l>
+<l>¡Oh, quién supiera decir</l>
+<l>lo que te digo en ausencia!</l>
+<l>Pero estando en tu presencia</l>
+<l>aun se me olvida el vivir.</l>
+<l>Por el camino le cuento</l>
+<l>tus gracias a Tello, Inés,</l>
+<l>y celebramos después</l>
+<l>tu divino entendimiento.</l>
+<l>Tal gloria en tu nombre siento,</l>
+<l>que una mujer recibí</l>
+<l>de tu nombre, porque ansí,</l>
+<l>llamándola todo el día,</l>
+<l>pienso, Inés, señora mía,</l>
+<l>que te estoy llamando a ti.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Pues advierte, Inés discreta,</l>
+<l>de los dos tan nuevo efeto,</l>
+<l>que a él le has hecho discreto,</l>
+<l>y a mí me has hecho poeta.</l>
+<l>Oye una glosa a un estribo</l>
+<l>que compuso don Alonso,</l>
+<l>a manera de responso,</l>
+<l>si los hay en muerto vivo.</l>
+<l>En el valle a Inés</l>
+<l>la dejé riendo:</l>
+<l>si la ves, Andrés,</l>
+<l>dile cuál me ves</l>
+<l>por ella muriendo.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Don Alonso la compuso?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Que es buena jurarte puedo</l>
+<l>para poeta de Olmedo.</l>
+<l>Escucha.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Amor lo dispuso.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Andrés, después que las bellas</l>
+<l>plantas de Inés goza el valle,</l>
+<l>tanto florece con ellas,</l>
+<l>que quiso el cielo trocalle</l>
+<l>por sus flores sus estrellas.</l>
+<l>Ya el valle es cielo, después</l>
+<l>que su primavera es,</l>
+<l>pues verá el cielo en el suelo</l>
+<l>quien vio -pues Inés es cielo-</l>
+<l>en el valle a Inés.</l>
+<l>Con miedo y respeto estampo</l>
+<l>el pie donde el suyo huella;</l>
+<l>que ya Medina del Campo</l>
+<l>no quiere aurora más bella</l>
+<l>para florecer su campo.</l>
+<l>Yo la vi de amor huyendo,</l>
+<l>cuanto miraba matando,</l>
+<l>su mismo desdén venciendo;</l>
+<l>y aunque me partí llorando,</l>
+<l>la dejé riendo.</l>
+<l>Dile, Andrés, que ya me veo</l>
+<l>muerto por volverla a ver...</l>
+<l>Aunque, cuando llegues, creo</l>
+<l>que no será menester,</l>
+<l>que me habrá muerto el deseo.</l>
+<l>No tendrás qué hacer después</l>
+<l>que a sus manos vengativas</l>
+<l>llegues, si una vez la ves,</l>
+<l>ni aun es posible que vivas,</l>
+<l>si la ves, Andrés.</l>
+<l>Pero si matarte olvida</l>
+<l>por no hacer caso de ti,</l>
+<l>dile a mi hermosa homicida</l>
+<l>que por qué se mata en mí,</l>
+<l>pues que sabe que es mi vida.</l>
+<l>Dile: «Cruel, no le des</l>
+<l>muerte, si vengada estás</l>
+<l>y te ha de pesar después».</l>
+<l>Y pues no me has de ver más,</l>
+<l>dile cuál me ves.</l>
+<l>Verdad es que se dilata</l>
+<l>el morir, pues con mirar</l>
+<l>vuelve a dar vida la ingrata,</l>
+<l>y así se cansa en matar,</l>
+<l>pues da vida a cuantos mata;</l>
+<l>pero muriendo o viviendo,</l>
+<l>no me pienso arrepentir</l>
+<l>de estarla amando y sirviendo;</l>
+<l>que no hay bien como vivir</l>
+<l>por ella muriendo.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Si es tuya, notablemente</l>
+<l>te has alargado en mentir</l>
+<l>por don Alonso.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Es decir,</l>
+<l>que mi amor en versos miente...</l>
+<l>Pues, señora, ¿qué poesía</l>
+<l>llegará a significar</l>
+<l>mi amor?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Mi padre!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Ha de entrar?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Escondeos.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Dónde?</l></sp>
+<stage>Ellos se entran, y sale DON PEDRO.</stage>
+<sp><speaker>PEDRO</speaker>
+<l>Inés mía,</l>
+<l>¿Agora por recoger?</l>
+<l>¿Cómo no te has acostado?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Rezando, señor, he estado,</l>
+<l>por lo que dijiste ayer,</l>
+<l>rogando a Dios que me incline</l>
+<l>a lo que fuere mejor.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Cuando para ti mi amor</l>
+<l>imposibles imagine,</l>
+<l>no pudiera hallar un hombre</l>
+<l>como don Rodrigo, Inés.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Ansí dicen todos que es</l>
+<l>de su buena fama el nombre;</l>
+<l>y habiéndome de casar,</l>
+<l>ninguno en Medina hubiera,</l>
+<l>ni en Castilla, que pudiera</l>
+<l>sus méritos igualar.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>¿Cómo habiendo de casarte?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Señor, hasta ser forzoso</l>
+<l>decir que ya tengo esposo,</l>
+<l>no he querido disgustarte.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>¡Esposo! ¿Qué novedad</l>
+<l>es ésta, Inés?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Para ti</l>
+<l>será novedad, que en mí</l>
+<l>siempre fue mi voluntad.</l>
+<l>Y, ya que estoy declarada,</l>
+<l>hazme mañana cortar</l>
+<l>un hábito, para dar</l>
+<l>fin a esta gala escusada;</l>
+<l>que así quiero andar, señor,</l>
+<l>mientras me enseñan latín.</l>
+<l>Leonor te queda, que al fin</l>
+<l>te dará nietos Leonor.</l>
+<l>Y por mi madre te ruego</l>
+<l>que en esto no me repliques,</l>
+<l>sino que medios apliques</l>
+<l>a mi elección y sosiego.</l>
+<l>Haz buscar una mujer</l>
+<l>de buena y santa opinión,</l>
+<l>que me dé alguna lición</l>
+<l>de lo que tengo de ser,</l>
+<l>y un maestro de cantar,</l>
+<l>que de latín sea también.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>¿Eres tú quien habla, o quién?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Esto es hacer, no es hablar.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Por una parte, mi pecho</l>
+<l>se enternece de escucharte,</l>
+<l>Inés, y por otra parte,</l>
+<l>de duro mármol le has hecho.</l>
+<l>En tu verde edad mi vida</l>
+<l>esperaba sucesión;</l>
+<l>pero si esto es vocación,</l>
+<l>no quiera Dios que lo impida.</l>
+<l>Haz tu gusto, aunque tu celo</l>
+<l>en esto no intenta el mío;</l>
+<l>que ya sé que el albedrío</l>
+<l>no presta obediencia al cielo.</l>
+<l>Pero porque suele ser</l>
+<l>nuestro pensamiento humano</l>
+<l>tal vez inconstante y vano,</l>
+<l>-y en condición de mujer,</l>
+<l>que es fácil de persuadir,</l>
+<l>tan poca firmeza alcanza,</l>
+<l>que hay de mujer a mudanza</l>
+<l>lo que de hacer a decir-,</l>
+<l>mudar las galas no es justo,</l>
+<l>pues no pueden estorbar</l>
+<l>a leer latín o cantar,</l>
+<l>ni a cuanto fuere tu gusto.</l>
+<l>Viste alegre y cortesana,</l>
+<l>que no quiero que Medina,</l>
+<l>si hoy te admirare divina,</l>
+<l>mañana te burle humana.</l>
+<l>Yo haré buscar la mujer</l>
+<l>y quien te enseñe latín,</l>
+<l>pues a mejor padre, en fin,</l>
+<l>es más justo obedecer.</l>
+<l>Y con esto, a Dios te queda;</l>
+<l>que, para no darte enojos,</l>
+<l>van a esconderse mis ojos</l>
+<l>adonde llorarte pueda.</l></sp>
+<stage>Vase, y salgan DON ALONSO y TELLO.</stage>
+<sp><speaker>INÉS</speaker>
+<l>Pésame de haberle dado</l>
+<l>disgusto.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>A mí no me pesa,</l>
+<l>por el que me ha dado el ver</l>
+<l>que nuestra muerte conciertas.</l>
+<l>¡Ay, Inés! ¿Adónde hallaste</l>
+<l>en tal desdicha, en tal pena,</l>
+<l>tan breve remedio?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Amor</l>
+<l>en los peligros enseña</l>
+<l>una luz por donde el alma</l>
+<l>posibles remedios vea.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Este ¿es remedio posible?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Como yo agora le tenga</l>
+<l>para que este don Rodrigo</l>
+<l>no llegue al fin que desea,</l>
+<l>bien sabes que breves males</l>
+<l>la dilación los remedia;</l>
+<l>que no dejan esperanza,</l>
+<l>si no hay segunda sentencia.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Dice bien, señor; que en tanto</l>
+<l>que doña Inés cante y lea,</l>
+<l>podéis dar orden los dos</l>
+<l>para que os valga la Iglesia.</l>
+<l>Sin esto, desconfiado</l>
+<l>don Rodrigo, no hará fuerza</l>
+<l>a don Pedro en la palabra,</l>
+<l>pues no tendrá por ofensa</l>
+<l>que le deje doña Inés</l>
+<l>por quien dice que le deja.</l>
+<l>También es linda ocasión</l>
+<l>para que yo vaya y venga</l>
+<l>con libertad a esta casa.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Libertad! ¿De qué manera?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Pues ha de leer latín,</l>
+<l>¿no será fácil que pueda</l>
+<l>ser yo quien venga a enseñarla?</l>
+<l>¡Y verás con qué destreza</l>
+<l>la enseño a leer tus cartas!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Qué bien mi remedio piensas!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Y aun pienso que podrá Fabia</l>
+<l>servirte en forma de dueña,</l>
+<l>siendo la santa mujer</l>
+<l>que con su falsa apariencia</l>
+<l>venga a enseñarla.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Bien dices,</l>
+<l>Fabia será mi maestra</l>
+<l>de virtudes y costumbres.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Y qué tales serán ellas!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Mi bien, yo temo que el día</l>
+<l>-que es amor dulce materia</l>
+<l>para no sentir las horas,</l>
+<l>que por los amantes vuelan-</l>
+<l>nos halle tan descuidados,</l>
+<l>que al salir de aquí me vean,</l>
+<l>o que sea fuerza quedarme.</l>
+<l>¡Ay, Dios! ¡Qué dichosa fuerza!</l>
+<l>Medina a la Cruz de Mayo</l>
+<l>hace sus mayores fiestas:</l>
+<l>yo tengo que prevenir,</l>
+<l>que, como sabes, se acercan;</l>
+<l>que, fuera de que en la plaza</l>
+<l>quiero que galán me veas,</l>
+<l>de Valladolid me escriben</l>
+<l>que el rey don Juan viene a verlas;</l>
+<l>que en los montes de Toledo</l>
+<l>le pide que se entretenga</l>
+<l>el Condestable estos días,</l>
+<l>porque en ellos convalezca,</l>
+<l>y de camino, señora,</l>
+<l>que honre esta villa le ruega;</l>
+<l>y, así, es razón que le sirva</l>
+<l>la nobleza desta tierra.</l>
+<l>Guárdete el cielo, mi bien.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Espera, que a abrir la puerta</l>
+<l>es forzoso que yo vaya.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Ay luz! ¡Ay aurora necia,</l>
+<l>de todo amante envidiosa!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Ya no aguardéis que amanezca.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Cómo?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Porque es de día.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Bien dices, si a Inés me muestras.</l>
+<l>Pero ¿cómo puede ser,</l>
+<l>Tello, cuando el sol se acuesta?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Tú vas de espacio, él aprisa;</l>
+<l>apostaré que te quedas.</l></sp>
+<stage>Salen DON RODRIGO y DON FERNANDO.</stage>
+<sp><speaker>RODRIGO</speaker>
+<l>Muchas veces había reparado,</l>
+<l>don Fernando, en aqueste caballero,</l>
+<l>del corazón solícito avisado.</l>
+<l>El talle, el grave rostro, lo severo,</l>
+<l>celoso me obligaban a miralle.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Efetos son de amante verdadero,</l>
+<l>que, en viendo otra persona de buen talle,</l>
+<l>tienen temor que si le ve su dama</l>
+<l>será posible o fuerza codicialle.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Bien es verdad que él tiene tanta fama,</l>
+<l>que, por más que en Medina se encubría,</l>
+<l>el mismo aplauso popular le aclama.</l>
+<l>Vi, como os dije, aquel mancebo, un día,</l>
+<l>que la capa perdida en la pendencia,</l>
+<l>contra el valor de mi opinión, traía.</l>
+<l>Hice secretamente diligencia,</l>
+<l>después de hablarle, y satisfecho quedo</l>
+<l>que tiene esta amistad correspondencia.</l>
+<l>Su dueño es don Alonso, aquel de Olmedo,</l>
+<l>alanceador galán y cortesano,</l>
+<l>de quien hombres y toros tienen miedo.</l>
+<l>Pues si éste sirve a Inés, ¿qué intento en vano?</l>
+<l>O ¿cómo quiero yo, si ya le adora,</l>
+<l>que Inés me mire con semblante humano?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¿Por fuerza ha de quererle?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Él la enamora,</l>
+<l>y merece, Fernando, que le quiera.</l>
+<l>¿Qué he de pensar, si me aborrece agora?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Son celos, don Rodrigo, una quimera</l>
+<l>que se forma de envidia, viento y sombra,</l>
+<l>con que lo incierto imaginado altera;</l>
+<l>una fantasma que de noche asombra,</l>
+<l>un pensamiento que a locura inclina,</l>
+<l>y una mentira que verdad se nombra.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Pues ¿cómo tantas veces a Medina</l>
+<l>viene y va don Alonso? Y ¿a qué efeto</l>
+<l>es cédula de noche en una esquina?</l>
+<l>Yo me quiero casar; vos sois discreto:</l>
+<l>¿qué consejo me dais, si no es matalle?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Yo hago diferente mi conceto;</l>
+<l>que ¿cómo puede doña Inés amalle,</l>
+<l>si nunca os quiso a vos?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Porque es respuesta</l>
+<l>que tiene mayor dicha o mejor talle.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Mas porque doña Inés es tan honesta,</l>
+<l>que aun la ofendéis con nombre de marido.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Yo he de matar a quien vivir me cuesta</l>
+<l>en su desgracia, porque tanto olvido</l>
+<l>no puede proceder de honesto intento.</l>
+<l>Perdí la capa y perderé el sentido.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Antes dejarla a don Alonso siento</l>
+<l>que ha sido como echársela en los ojos.</l>
+<l>Ejecutad, Rodrigo, el casamiento;</l>
+<l>llévese don Alonso los despojos,</l>
+<l>y la vitoria vos.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Mortal desmayo</l>
+<l>cubre mi amor de celos y de enojos.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Salid galán para la Cruz de Mayo,</l>
+<l>que yo saldré con vos; pues el Rey viene,</l>
+<l>las sillas piden el castaño y bayo.</l>
+<l>Menos aflige el mal que se entretiene.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Si viene don Alonso, ya Medina</l>
+<l>¿qué competencia con Olmedo tiene?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¡Qué loco estáis!</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Amor me desatina.</l></sp>
+<stage>Vanse.</stage>
+<stage>Salen DON PEDRO, DOÑA INÉS, DOÑA LEONOR.</stage>
+<sp><speaker>PEDRO</speaker>
+<l>No porfíes.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No podrás</l>
+<l>mi propósito vencer.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Hija, ¿qué quieres hacer,</l>
+<l>que tal veneno me das?</l>
+<l>Tiempo te queda...</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Señor,</l>
+<l>¿qué importa el hábito pardo,</l>
+<l>si para siempre le aguardo?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Necia estás.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Calla, Leonor.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Por lo menos estas fiestas</l>
+<l>has de ver con galas.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Mira</l>
+<l>que quien por otras suspira</l>
+<l>ya no tiene el gusto en estas.</l>
+<l>Galas celestiales son</l>
+<l>las que ya mi vida espera.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>¿No basta que yo lo quiera?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Obedecerte es razón.</l></sp>
+<stage>Sale FABIA, con un rosario y báculo y antojos.</stage>
+<sp><speaker>FABIA</speaker>
+<l>Paz sea en aquesta casa.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Y venga con vos.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Quién es</l>
+<l>la señora doña Inés,</l>
+<l>que con el Señor se casa?</l>
+<l>¿Quién es aquella que ya</l>
+<l>tiene su esposo elegida,</l>
+<l>y como a prenda querida</l>
+<l>estos impulsos le da?</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Madre honrada, esta que veis,</l>
+<l>y yo su padre.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Que sea</l>
+<l>muchos años, y ella vea</l>
+<l>el dueño que vos no veis.</l>
+<l>Aunque en el Señor espero</l>
+<l>que os ha de obligar piadoso</l>
+<l>a que acetéis tal esposo,</l>
+<l>que es muy noble caballero.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Y ¡cómo, madre, si lo es!</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Sabiendo que anda a buscar</l>
+<l>quien venga a morigerar</l>
+<l>los verdes años de Inés,</l>
+<l>quien la guíe, quien la muestre</l>
+<l>las sémitas del Señor,</l>
+<l>y al camino del amor</l>
+<l>como a principianta adiestre,</l>
+<l>hice oración, en verdad,</l>
+<l>y tal impulso me dio,</l>
+<l>que vengo a ofrecerme yo</l>
+<l>para esta necesidad,</l>
+<l>aunque soy gran pecadora.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Esta es la mujer, Inés,</l>
+<l>que has menester.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Esta es</l>
+<l>la que he menester agora.</l>
+<l>Madre, abrázame.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Quedito,</l>
+<l>que el silicio me hace mal.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>No he visto humildad igual.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>En el rostro trae escrito</l>
+<l>lo que tiene el corazón.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Oh, qué gracia! ¡Oh, qué belleza!</l>
+<l>Alcance tu gentileza</l>
+<l>mi deseo y bendición.</l>
+<l>¿Tienes oratorio?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Madre,</l>
+<l>comienzo a ser buena agora.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Como yo soy pecadora,</l>
+<l>estoy temiendo a tu padre.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>No le pienso yo estorbar</l>
+<l>tan divina vocación.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>En vano, infernal dragón,</l>
+<l>la pensabas devorar.</l>
+<l>No ha de casarse en Medina:</l>
+<l>monasterio tiene Olmedo;</l>
+<l>Domine, si tanto puedo,</l>
+<l>ad iuvandum me festina.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Un ángel es la mujer.</l></sp>
+<stage>Sale TELLO, de gorrón.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Si con sus hijas está,</l>
+<l>yo sé que agradecerá</l>
+<l>que yo me venga a ofrecer.</l>
+<l>El maestro que buscáis</l>
+<l>está aquí, señor don Pedro,</l>
+<l>para latín y otras cosas,</l>
+<l>que dirá después su efeto.</l>
+<l>Que buscáis un estudiante</l>
+<l>en la iglesia me dijeron,</l>
+<l>porque ya desta señora</l>
+<l>se sabe el honesto intento.</l>
+<l>Aquí he venido a serviros,</l>
+<l>puesto que soy forastero,</l>
+<l>si valgo para enseñarla.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Ya creo y tengo por cierto,</l>
+<l>viendo que todo se junta,</l>
+<l>que fue voluntad del cielo.</l>
+<l>En casa puede quedarse</l>
+<l>la madre, y este mancebo</l>
+<l>venir a darte lición.</l>
+<l>Concertadlo, mientras vuelvo.</l>
+<l>¿De dónde es, galán?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Señor, soy calahorreño.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>¿Su nombre?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Martín Peláez.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Del Cid debe de ser deudo.</l>
+<l>¿Dónde estudió?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>En La Coruña,</l>
+<l>y soy por ella maestro.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>¿Ordenóse?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Sí, señor,</l>
+<l>de vísperas.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Luego vengo.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Eres Fabia?</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¿No lo ves?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Y ¿tú Tello?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Amigo Tello!</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>¿Hay mayor bellaquería?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Qué hay de don Alonso?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Puedo</l>
+<l>fiar de Leonor?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Bien puedes.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Agraviara Inés mi pecho</l>
+<l>y mi amor, si me tuviera</l>
+<l>su pensamiento encubierto.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Señora, para servirte,</l>
+<l>está don Alonso bueno;</l>
+<l>para las fiestas de mayo,</l>
+<l>tan cerca ya, previniendo</l>
+<l>galas, caballos, jaeces,</l>
+<l>lanza y rejones; que pienso</l>
+<l>que ya le tiemblan los toros.</l>
+<l>Una adarga habemos hecho,</l>
+<l>si se conciertan las cañas,</l>
+<l>como de mi raro ingenio.</l>
+<l>Allá la verás, en fin.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿No me ha escrito?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Soy un necio.</l>
+<l>Esta, señora, es la carta.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Bésola de porte y leo.</l></sp>
+<stage>DON PEDRO vuelve.</stage>
+<sp><speaker>PEDRO</speaker>
+<l>Pues pon el coche, si está</l>
+<l>malo el alazán. ¿Qué es esto?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Tu padre. Haz que lees, y yo</l>
+<l>haré que latín te enseño.</l>
+<l>Dominus...</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Dominus...</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Diga.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Cómo más?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Dominus meus.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Dominus meus.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Ansí,</l>
+<l>poco a poco irá leyendo.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>¿Tan presto tomas lición?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Tengo notable deseo.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Basta; que a decir, Inés,</l>
+<l>me envía el Ayuntamiento</l>
+<l>que salga a las fiestas yo.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Muy discretamente han hecho,</l>
+<l>pues viene a la fiesta el Rey.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Pues sea, con un concierto:</l>
+<l>que has de verlas con Leonor.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Madre, dígame si puedo</l>
+<l>verlas sin pecar.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Pues ¿no?</l>
+<l>No escrupulices en eso,</l>
+<l>como algunos, tan mirlados,</l>
+<l>que piensan, de circunspectos,</l>
+<l>que en todo ofenden a Dios,</l>
+<l>y olvidados de que fueron</l>
+<l>hijos de otros, como todos,</l>
+<l>cualquiera entretenimiento</l>
+<l>que los trabajos olvide</l>
+<l>tienen por notable exceso.</l>
+<l>Y aunque es justo moderarlos,</l>
+<l>doy licencia, por lo menos</l>
+<l>para estas fiestas, por ser</l>
+<l>iugatoribus paternus.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Pues vamos, que quiero dar</l>
+<l>dineros a tu maestro,</l>
+<l>y a la madre para un manto.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>A todos cubra el del cielo.</l>
+<l>Y vos, Leonor, ¿no seréis</l>
+<l>como vuestra hermana presto?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Sí, madre, porque es muy justo</l>
+<l>que tome tan santo ejemplo.</l></sp>
+<stage>Sale el rey DON JUAN, con acompañamiento, y el CONDESTABLE</stage>
+<sp><speaker>REY</speaker>
+<l>No me traigáis al partir</l>
+<l>negocios que despachar.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Contienen sólo firmar;</l>
+<l>no has de ocuparte en oír.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Decid con mucha presteza.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>¿Han de entrar?</l></sp>
+<sp><speaker>REY</speaker>
+<l>Ahora no.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Su Santidad concedió</l>
+<l>lo que pidió Vuestra Alteza</l>
+<l>por Alcántara, señor.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Que mudase le pedí</l>
+<l>el hábito, porque ansí</l>
+<l>pienso que estará mejor.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Era aquel traje muy feo.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Cruz verde pueden traer.</l>
+<l>Mucho debo agradecer</l>
+<l>al Pontífice el deseo</l>
+<l>que de nuestro aumento muestra,</l>
+<l>con que irán siempre adelante</l>
+<l>estas cosas del Infante</l>
+<l>en cuanto es de parte nuestra.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Éstas son dos provisiones,</l>
+<l>y entrambas notables son.</l></sp>
+<sp><speaker>REY</speaker>
+<l>¿Qué contienen?</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>La razón</l>
+<l>de diferencia que pones</l>
+<l>entre los moros y hebreos</l>
+<l>que en Castilla han de vivir.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Quiero con esto cumplir,</l>
+<l>Condestable, los deseos</l>
+<l>de fray Vicente Ferrer,</l>
+<l>que lo ha deseado tanto.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Es un hombre docto y santo.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Resolví con él ayer</l>
+<l>que en cualquiera reino mío</l>
+<l>donde mezclados están,</l>
+<l>a manera de gabán</l>
+<l>traiga un tabardo el judío</l>
+<l>con una señal en él,</l>
+<l>y un verde capuz el moro.</l>
+<l>Tenga el cristiano el decoro</l>
+<l>que es justo: apártese dél;</l>
+<l>que con esto tendrán miedo</l>
+<l>los que su nobleza infaman.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>A don Alonso, que llaman</l>
+<l>«el Caballero de Olmedo»,</l>
+<l>hace Vuestra Alteza aquí</l>
+<l>merced de un hábito.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Es hombre</l>
+<l>de notable fama y nombre.</l>
+<l>En esta villa le vi</l>
+<l>cuando se casó mi hermana.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Pues pienso que determina,</l>
+<l>por servirte, ir a Medina</l>
+<l>a las fiestas de mañana.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Decidle que fama emprenda</l>
+<l>en el arte militar,</l>
+<l>porque yo le pienso honrar</l>
+<l>con la primera encomienda.</l></sp>
+<stage>Vanse.</stage>
+<stage>Sale DON ALONSO.</stage>
+<sp><speaker>ALONSO</speaker>
+<l>¡Ay, riguroso estado,</l>
+<l>ausencia mi enemiga,</l>
+<l>que dividiendo el alma</l>
+<l>puedes dejar la vida!</l>
+<l>¡Cuán bien por tus efetos</l>
+<l>te llaman muerte viva,</l>
+<l>pues das vida al deseo</l>
+<l>y matas a la vista!</l>
+<l>¡Oh, cuán piadosa fueras,</l>
+<l>si al partir de Medina</l>
+<l>la vida me quitaras</l>
+<l>como el alma me quitas!</l>
+<l>En ti, Medina, vive</l>
+<l>aquella Inés divina,</l>
+<l>que es honra de la corte</l>
+<l>y gloria de la villa.</l>
+<l>Sus alabanzas cantan</l>
+<l>las aguas fugitivas,</l>
+<l>las aves, que la escuchan,</l>
+<l>las flores, que la imitan.</l>
+<l>Es tan bella, que tiene</l>
+<l>envidia de sí misma,</l>
+<l>pudiendo estar segura</l>
+<l>que el mismo sol la envidia;</l>
+<l>pues no la ve más bella,</l>
+<l>por su dorada cinta,</l>
+<l>ni cuando viene a España,</l>
+<l>ni cuando va a las Indias.</l>
+<l>Yo merecí quererla.</l>
+<l>¡Dichosa mi osadía!,</l>
+<l>que es merecer sus penas</l>
+<l>calificar mis dichas.</l>
+<l>Cuando pudiera verla,</l>
+<l>adorarla y servirla,</l>
+<l>la fuerza del secreto</l>
+<l>de tanto bien me priva.</l>
+<l>Cuando mi amor no fuera</l>
+<l>de fe tan pura y limpia,</l>
+<l>las perlas de sus ojos</l>
+<l>mi muerte solicitan.</l>
+<l>Llorando por mi ausencia</l>
+<l>Inés quedó aquel día,</l>
+<l>que sus lágrimas fueron</l>
+<l>de sus palabras firma.</l>
+<l>Bien sabe aquella noche</l>
+<l>que pudiera ser mía.</l>
+<l>Cobarde amor, ¿qué aguardas,</l>
+<l>cuando respetos miras?</l>
+<l>¡Ay, Dios, qué gran desdicha,</l>
+<l>partir el alma y dividir la vida!</l></sp>
+<stage>Sale TELLO.</stage>
+<sp><speaker>TELLO</speaker>
+<l>¿Merezco ser bien llegado?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>No sé si diga que sí,</l>
+<l>que me has tenido sin mí</l>
+<l>con lo mucho que has tardado.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Si por tu remedio ha sido,</l>
+<l>¿en qué me puedes culpar?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Quién me puede remediar,</l>
+<l>si no es a quien yo le pido?</l>
+<l>¿No me escribe Inés?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Aquí</l>
+<l>te traigo cartas de Inés.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Pues hablarásme después</l>
+<l>en lo que has hecho por mí.</l>
+<stage>Lea.</stage>
+<l>«Señor mío, después que os partistes no he vivido; que sois tan cruel, que aun no me dejáis vida cuando os vais».</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿No lees más?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>No.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Por qué?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Porque manjar tan süave</l>
+<l>de una vez no se me acabe.</l>
+<l>Hablemos de Inés.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Llegué</l>
+<l>con media sotana y guantes,</l>
+<l>que parecía de aquellos</l>
+<l>que hacen en solos los cuellos</l>
+<l>ostentación de estudiantes.</l>
+<l>Encajé salutación,</l>
+<l>verbosa filatería,</l>
+<l>dando a la bachillería</l>
+<l>dos piensos de discreción;</l>
+<l>y volviendo el rostro, vi</l>
+<l>a Fabia...</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Espera, que leo</l>
+<l>otro poco; que el deseo</l>
+<l>me tiene fuera de mí.</l>
+<stage>Lea.</stage>
+<l>«Todo lo que dejastes ordenado se hizo; sólo no se hizo que viviese yo sin vos, porque no lo dejasteis ordenado».</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Es aquí contemplación?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Dime cómo hizo Fabia</l>
+<l>lo que dice Inés.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Tan sabia</l>
+<l>y con tanta discreción,</l>
+<l>melindre y hipocresía,</l>
+<l>que me dieron que temer</l>
+<l>algunos que suelo ver</l>
+<l>cabizbajos todo el día.</l>
+<l>De hoy más quedaré advertido</l>
+<l>de lo que se ha de creer</l>
+<l>de una hipócrita mujer</l>
+<l>y un ermitaño fingido.</l>
+<l>Pues si me vieras a mí</l>
+<l>con el semblante mirlado,</l>
+<l>dijeras que era traslado</l>
+<l>de un reverendo alfaquí.</l>
+<l>Creyóme el viejo, aunque en él</l>
+<l>se ve de un Catón retrato.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Espera, que ha mucho rato</l>
+<l>que no he mirado el papel.</l>
+<stage>Lea.</stage>
+<l>«Daos prisa a venir, para que sepáis cómo quedo cuando os partís y cómo estoy cuando volvéis».</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Hay otra estación aquí?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>En fin, tú hallaste lugar</l>
+<l>para entrar y para hablar.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Estudiaba Inés en ti,</l>
+<l>que eras el latín, señor,</l>
+<l>y la lición que aprendía.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Leonor ¿qué hacía?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Tenía</l>
+<l>envidia de tanto amor,</l>
+<l>porque se daba a entender</l>
+<l>que de ser amado eres</l>
+<l>digno: que muchas mujeres</l>
+<l>quieren porque ven querer;</l>
+<l>que en siendo un hombre querido</l>
+<l>de alguna con grande afecto,</l>
+<l>piensan que hay algún secreto</l>
+<l>en aquel hombre escondido;</l>
+<l>y engáñanse, porque son</l>
+<l>correspondencias de estrellas.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Perdonadme, manos bellas,</l>
+<l>que leo el postrer renglón.</l>
+<stage>Lea.</stage>
+<l>«Dicen que viene el Rey a Medina, y dicen verdad, pues habéis de venir vos, que sois rey mío».</l>
+<l>Acabóseme el papel.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Todo en el mundo se acaba.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Poco dura el bien.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>En fin,</l>
+<l>le has leído por jornadas.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Espera, que aquí a la margen</l>
+<l>vienen dos o tres palabras.</l>
+<stage>Lea.</stage>
+<l>«Poneos esa banda al cuello.</l>
+<l>¡Ay, si yo fuera la banda!»</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Bien dicho, por Dios, y entrar</l>
+<l>con doña Inés en la plaza!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Dónde está la banda, Tello?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>A mí no me han dado nada.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Cómo no?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Pues ¿qué me has dado?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Ya te entiendo: luego saca</l>
+<l>a tu elección un vestido.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Ésta es la banda.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Estremada.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Tales manos la bordaron.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Demos orden que me parta.</l>
+<l>Pero ¡ay, Tello!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Qué tenemos?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>De decirte me olvidaba</l>
+<l>unos sueños que he tenido.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Agora en sueños reparas?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>No los creo, claro está;</l>
+<l>pero dan pena.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Eso basta.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>No falta quien llama a algunos</l>
+<l>revelaciones del alma.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Qué te puede suceder</l>
+<l>en una cosa tan llana</l>
+<l>como quererte casar?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Hoy, Tello, al salir el alba,</l>
+<l>con la inquietud de la noche,</l>
+<l>me levanté de la cama,</l>
+<l>abrí la ventana aprisa,</l>
+<l>y mirando flores y aguas</l>
+<l>que adornan nuestro jardín,</l>
+<l>sobre una verde retama</l>
+<l>veo ponerse un jilguero,</l>
+<l>cuyas esmaltadas alas</l>
+<l>con lo amarillo añadían</l>
+<l>flores a las verdes ramas.</l>
+<l>Y estando al aire trinando</l>
+<l>de la pequeña garganta</l>
+<l>con naturales pasajes</l>
+<l>las quejas enamoradas,</l>
+<l>sale un azor de un almendro,</l>
+<l>adonde escondido estaba,</l>
+<l>y como eran en los dos</l>
+<l>tan desiguales las armas,</l>
+<l>tiñó de sangre las flores,</l>
+<l>plumas al aire derrama.</l>
+<l>Al triste chillido, Tello,</l>
+<l>débiles ecos del aura</l>
+<l>respondieron, y, no lejos,</l>
+<l>lamentando su desgracia,</l>
+<l>su esposa, que en un jazmín</l>
+<l>la tragedia viendo estaba.</l>
+<l>Yo, midiendo con los sueños</l>
+<l>estos avisos del alma,</l>
+<l>apenas puedo alentarme;</l>
+<l>que con saber que son falsas</l>
+<l>todas estas cosas, tengo</l>
+<l>tan perdida la esperanza,</l>
+<l>que no me aliento a vivir.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Mal a doña Inés le pagas</l>
+<l>aquella heroica firmeza</l>
+<l>con que atrevida contrasta</l>
+<l>los golpes de la fortuna.</l>
+<l>Ven a Medina y no hagas</l>
+<l>caso de sueños ni agüeros,</l>
+<l>cosas a la fe contrarias.</l>
+<l>Lleva el ánimo que sueles,</l>
+<l>caballos, lanzas y galas,</l>
+<l>mata de envidia los hombres,</l>
+<l>mata de amores las damas.</l>
+<l>Doña Inés ha de ser tuya,</l>
+<l>a pesar de cuantos tratan</l>
+<l>dividiros a los dos.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Bien dices, Inés me aguarda:</l>
+<l>vamos a Medina alegres.</l>
+<l>Las penas anticipadas</l>
+<l>dicen que matan dos veces,</l>
+<l>y a mí sola Inés me mata,</l>
+<l>no como pena, que es gloria.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Tú me verás en la plaza</l>
+<l>hincar de rodillas toros</l>
+<l>delante de sus ventanas.</l></sp></div>
+<div type="act" n="III">
+<stage>Suenen atabales y entren con lacayos y rejones DON RODRIGO y DON FERNANDO.</stage>
+<sp><speaker>RODRIGO</speaker>
+<l>Poca dicha.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Malas suertes.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¡Qué pesar!</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¡Qué se ha de hacer!</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Brazo, ya no puede ser</l>
+<l>que en servir a Inés aciertes.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Corrido estoy.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Yo, turbado.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Volvamos a porfiar.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Es imposible acertar</l>
+<l>un hombre tan desdichado.</l>
+<l>Para el de Olmedo, en efeto,</l>
+<l>guardó suertes la fortuna.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>No ha errado el hombre ninguna.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Que la ha de errar os prometo.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Un hombre favorecido,</l>
+<l>Rodrigo, todo lo acierta.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Abrióle el amor la puerta,</l>
+<l>y a mí, Fernando, el olvido.</l>
+<l>Fuera desto, un forastero</l>
+<l>luego se lleva los ojos.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Vos tenéis justos enojos.</l>
+<l>Él es galán caballero,</l>
+<l>mas no para escurecer</l>
+<l>los hombres que hay en Medina.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>La patria me desatina;</l>
+<l>mucho parece mujer</l>
+<l>en que lo propio desprecia</l>
+<l>y de lo ajeno se agrada.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>De siempre ingrata culpada:</l>
+<l>son ejemplos Roma y Grecia.</l></sp>
+<stage>Dentro, ruido de pretales y voces.</stage>
+<sp><speaker>HOMBRE 1</speaker>
+<l>¡Brava suerte!</l></sp>
+<sp><speaker>HOMBRE 2</speaker>
+<l>¡Con qué gala</l>
+<l>quebró el rejón!</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¿Qué aguardamos?</l>
+<l>Tomemos caballos.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Vamos.</l></sp>
+<sp><speaker>HOMBRE 1</speaker>
+<l>Nadie en el mundo le iguala.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¿Oyes esa voz?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>No puedo</l>
+<l>sufrirlo.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Aún no lo encareces.</l></sp>
+<sp><speaker>HOMBRE 2</speaker>
+<l>¡Vítor setecientas veces</l>
+<l>el Caballero de Olmedo!</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¿Qué suerte quieres que aguarde,</l>
+<l>Fernando, con estas voces?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Es vulgo, ¿no le conoces?</l></sp>
+<sp><speaker>HOMBRE 1</speaker>
+<l>Dios te guarde, Dios te guarde</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¿Qué más dijeran al Rey?</l>
+<l>Mas bien hacen: digan, rueguen</l>
+<l>que hasta el fin sus dichas lleguen.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Fue siempre bárbara ley</l>
+<l>seguir aplauso vulgar</l>
+<l>las novedades.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Él viene</l>
+<l>a mudar caballo.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Hoy tiene</l>
+<l>la fortuna en su lugar.</l></sp>
+<stage>Salen TELLO, con rejón y librea, y DON ALONSO.</stage>
+<sp><speaker>TELLO</speaker>
+<l>¡Valientes suertes, por Dios!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Dame, Tello, el alazán.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Todos el lauro nos dan.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿A los dos, Tello?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>A los dos;</l>
+<l>que tú a caballo, y yo a pie,</l>
+<l>nos habemos igualado.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Qué bravo, Tello, has andado!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Seis toros desjarreté,</l>
+<l>como si sus piernas fueran</l>
+<l>rábanos de mi lugar.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Volvamos, Rodrigo, a entrar,</l>
+<l>que por dicha nos esperan,</l>
+<l>aunque os parece que no.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>A vos, don Fernando, sí;</l>
+<l>a mí no, si no es que a mí</l>
+<l>me esperan para que yo</l>
+<l>haga suertes que me afrenten,</l>
+<l>o que algún toro me mate</l>
+<l>o me arrastre o me maltrate</l>
+<l>donde con risa lo cuenten.</l></sp>
+<stage>Vanse los dos.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Aquéllos te están mirando.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Ya los he visto envidiosos</l>
+<l>de mis dichas, y aun celosos</l>
+<l>de mirarme a Inés mirando.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Bravos favores te ha hecho</l>
+<l>con la risa!: que la risa</l>
+<l>es lengua muda que avisa</l>
+<l>de lo que pasa en el pecho.</l>
+<l>No pasabas vez ninguna,</l>
+<l>que arrojar no se quería</l>
+<l>del balcón.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Ay, Inés mía!</l>
+<l>¡Si quisiese la fortuna</l>
+<l>que a mis padres les llevase</l>
+<l>tal prenda de sucesión!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Sí harás, como la ocasión</l>
+<l>deste don Rodrigo pase;</l>
+<l>porque satisfecho estoy</l>
+<l>de que Inés por ti se abrasa.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Fabia se ha quedado en casa;</l>
+<l>mientras una vuelta doy</l>
+<l>a la plaza, ve corriendo</l>
+<l>y di que esté prevenida</l>
+<l>Inés, porque en mi partida</l>
+<l>la pueda hablar, advirtiendo</l>
+<l>que, si esta noche no fuese</l>
+<l>a Olmedo, me han de contar</l>
+<l>mis padres por muerto: y dar</l>
+<l>ocasión, si no los viese,</l>
+<l>a esta pena, no es razón;</l>
+<l>tengan buen sueño, que es justo.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Bien dices: duerman con gusto,</l>
+<l>pues es forzosa ocasión</l>
+<l>de temer y de esperar.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Yo entro.</l></sp>
+<stage>Vase DON ALONSO.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Guárdete el cielo.</l>
+<l>Pues puedo hablar sin recelo,</l>
+<l>a Fabia quiero llegar.</l>
+<l>Traigo cierto pensamiento</l>
+<l>para coger la cadena</l>
+<l>a esta vieja, aunque con pena</l>
+<l>de su astuto entendimiento.</l>
+<l>No supo Circe, Medea,</l>
+<l>ni Hécate, lo que ella sabe;</l>
+<l>tendrá en el alma una llave</l>
+<l>que de treinta vueltas sea.</l>
+<l>Mas no hay maestra mejor</l>
+<l>que decirle que la quiero,</l>
+<l>que es el remedio primero</l>
+<l>para una mujer mayor;</l>
+<l>que con dos razones tiernas</l>
+<l>de amores y voluntad,</l>
+<l>presumen de mocedad</l>
+<l>y piensa que son eternas.</l>
+<l>Acabóse. Llego, llamo.</l>
+<l>Fabia... Pero soy un necio;</l>
+<l>que sabrá que el oro precio</l>
+<l>y que los años desamo,</l>
+<l>porque se lo ha de decir</l>
+<l>el de las patas de gallo.</l></sp>
+<stage>Sale FABIA.</stage>
+<sp><speaker>FABIA</speaker>
+<l>¡Jesús, Tello! ¿Aquí te hallo?</l>
+<l>¡Qué buen modo de servir</l>
+<l>a don Alonso! ¿Qué es esto?</l>
+<l>¿Qué ha sucedido?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>No alteres</l>
+<l>lo venerable, pues eres</l>
+<l>causa de venir tan presto;</l>
+<l>que por verte anticipé</l>
+<l>de don Alonso un recado.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Cómo ha andado?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Bien ha andado,</l>
+<l>porque yo le acompañé.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Estremado fanfarrón!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Pregúntalo al Rey, verás</l>
+<l>cuál de los dos hizo más;</l>
+<l>que se echaba del balcón</l>
+<l>cada vez que yo pasaba.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Bravo favor!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Más quisiera</l>
+<l>los tuyos.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Oh, quién te viera!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Esa hermosura bastaba</l>
+<l>para que yo fuera Orlando.</l>
+<l>¿Toros de Medina a mí?</l>
+<l>¡Vive el cielo!, que les di</l>
+<l>reveses, desjarretando,</l>
+<l>de tal aire, de tal casta,</l>
+<l>en medio del regocijo,</l>
+<l>que hubo toro que me dijo:</l>
+<l>«Basta, señor Tello, basta».</l>
+<l>«No basta», le dije yo,</l>
+<l>y eché de un tajo volado</l>
+<l>una pierna en un tejado.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Y ¿cuántas tejas quebró?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Eso al dueño, que no a mí.</l>
+<l>Dile, Fabia, a tu señora,</l>
+<l>que ese mozo que la adora</l>
+<l>vendrá a despedirse aquí;</l>
+<l>que es fuerza volverse a casa,</l>
+<l>porque no piensen que es muerto</l>
+<l>sus padres. Esto te advierto.</l>
+<l>Y porque la fiesta pasa</l>
+<l>sin mí, y el Rey me ha de echar</l>
+<l>menos -que en efeto soy</l>
+<l>su toricida-, me voy</l>
+<l>a dar materia al lugar</l>
+<l>de vítores y de aplauso,</l>
+<l>si me das algún favor.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Yo favor?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Paga mi amor.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¿Que yo tus hazañas causo?</l>
+<l>Basta, que no lo sabía.</l>
+<l>¿Qué te agrada más?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Tus ojos.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Pues daréte sus antojos.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Por caballo, Fabia mía,</l>
+<l>quedo confirmado ya.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Propio favor de lacayo.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Más castaño soy que bayo.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Mira cómo andas allá,</l>
+<l>que esto de ne nos inducas</l>
+<l>suelen causar los refrescos:</l>
+<l>no te quite los greguescos</l>
+<l>algún mozo de San Lucas;</l>
+<l>que será notable risa,</l>
+<l>Tello, que, donde lo vea</l>
+<l>todo el mundo, un toro sea</l>
+<l>sumiller de tu camisa.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Lo atacado y el cuidado</l>
+<l>volverán por mi decoro.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Para un desgarro de un toro,</l>
+<l>¿qué importa estar atacado?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Que no tengo a toros miedo.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Los de Medina hacen riza,</l>
+<l>porque tienen ojeriza</l>
+<l>con los lacayos de Olmedo.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Como ésos ha derribado,</l>
+<l>Fabia, este brazo español.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>¡Más que te ha de dar el sol</l>
+<l>adonde nunca te ha dado!</l></sp>
+<stage>Ruido de plaza y grita, y digan dentro:</stage>
+<sp><speaker>HOMBRE 1</speaker>
+<l>Cayó don Rodrigo.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Afuera!</l></sp>
+<sp><speaker>HOMBRE 2</speaker>
+<l>¡Qué gallardo, qué animoso</l>
+<l>don Alonso le socorre!</l></sp>
+<sp><speaker>HOMBRE 1</speaker>
+<l>Ya se apea don Alonso.</l></sp>
+<sp><speaker>HOMBRE 2</speaker>
+<l>¡Qué valientes cuchilladas!</l></sp>
+<sp><speaker>HOMBRE 1</speaker>
+<l>Hizo pedazos el toro.</l></sp>
+<stage>Salgan los dos, y DON ALONSO teniéndole.</stage>
+<sp><speaker>ALONSO</speaker>
+<l>Aquí tengo yo caballo;</l>
+<l>que los vuestros van furiosos</l>
+<l>discurriendo por la plaza.</l>
+<l>Ánimo.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Con vos le cobro.</l>
+<l>La caída ha sido grande.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Pues no será bien que al coso</l>
+<l>volváis; aquí habrá criados</l>
+<l>que os sirvan, porque yo torno</l>
+<l>a la plaza. Perdonadme,</l>
+<l>porque cobrar es forzoso</l>
+<l>el caballo que dejé.</l></sp>
+<stage>Vase, y sale DON FERNANDO.</stage>
+<sp><speaker>FERNANDO</speaker>
+<l>¿Qué es esto? ¡Rodrigo, y solo!</l>
+<l>¿Cómo estáis?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Mala caída,</l>
+<l>mal suceso, malo todo;</l>
+<l>pero más deber la vida</l>
+<l>a quien me tiene celoso</l>
+<l>y a quien la muerte deseo.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¡Que sucediese a los ojos</l>
+<l>del Rey y que viese Inés</l>
+<l>que aquel su galán dichoso</l>
+<l>hiciese el toro pedazos</l>
+<l>por libraros!</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Estoy loco.</l>
+<l>No hay hombre tan desdichado,</l>
+<l>Fernando, de polo a polo.</l>
+<l>¡Qué de afrentas, qué de penas,</l>
+<l>qué de agravios, qué de enojos,</l>
+<l>qué de injurias, qué de celos,</l>
+<l>qué de agüeros, qué de asombros!</l>
+<l>Alcé los ojos a ver</l>
+<l>a Inés, por ver si piadoso</l>
+<l>mostraba el semblante entonces</l>
+<l>que como un gran necio adoro;</l>
+<l>y veo que no pudiera</l>
+<l>mirar Nerón riguroso</l>
+<l>desde la torre Tarpeya</l>
+<l>de Roma el incendio, como</l>
+<l>desde el balcón me miraba;</l>
+<l>y que luego, en vergonzoso</l>
+<l>clavel de púrpura fina</l>
+<l>bañado el jazmín del rostro,</l>
+<l>a don Alonso miraba,</l>
+<l>y que por los labios rojos</l>
+<l>pagaba en perlas el gusto</l>
+<l>de ver que a sus pies me postro,</l>
+<l>de la fortuna arrojado</l>
+<l>-y de la suya envidioso-.</l>
+<l>Mas ¡vive Dios que la risa,</l>
+<l>primero que la de Apolo</l>
+<l>alegre el Oriente y bañe</l>
+<l>el aire de átomos de oro,</l>
+<l>se le ha de trocar en llanto,</l>
+<l>si hallo al hidalguillo loco</l>
+<l>entre Medina y Olmedo!</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Él sabrá ponerse en cobro.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Mal conocéis a los celos.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¿Quién sabe que no son monstruos?</l>
+<l>Mas lo que ha de importar mucho</l>
+<l>no se ha de pensar tan poco.</l></sp>
+<stage>Salen el REY, el CONDESTABLE y criados.</stage>
+<sp><speaker>REY</speaker>
+<l>Tarde acabaron las fiestas;</l>
+<l>pero ellas han sido tales,</l>
+<l>que no las he visto iguales.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Dije a Medina que aprestas</l>
+<l>para mañana partir;</l>
+<l>mas tiene tanto deseo</l>
+<l>de que veas el torneo</l>
+<l>con que te quiere servir,</l>
+<l>que me ha pedido, Señor,</l>
+<l>que dos días se detenga</l>
+<l>Vuestra Alteza.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Cuando venga,</l>
+<l>pienso que será mejor.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Haga este gusto a Medina</l>
+<l>Vuestra Alteza.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Por vos sea,</l>
+<l>aunque el Infante desea</l>
+<l>-con tanta prisa camina-</l>
+<l>estas vistas de Toledo</l>
+<l>para el día concertado.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Galán y bizarro ha estado</l>
+<l>el caballero de Olmedo.</l></sp>
+<sp><speaker>REY</speaker>
+<l>¡Buenas suertes, Condestable!</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>No sé en él cuál es mayor,</l>
+<l>la ventura o el valor,</l>
+<l>aunque es el valor notable.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Cualquiera cosa hace bien.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Con razón le favorece</l>
+<l>Vuestra Alteza.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Él lo merece</l>
+<l>y que vos le honréis también.</l></sp>
+<stage>Vanse, y salen DON ALONSO y TELLO, de noche.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Mucho habemos esperado,</l>
+<l>ya no puedes caminar.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Deseo, Tello, escusar</l>
+<l>a mis padres el cuidado:</l>
+<l>a cualquier hora es forzoso</l>
+<l>partirme.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Si hablas a Inés,</l>
+<l>¿qué importa, señor, que estés</l>
+<l>de tus padres cuidadoso?</l>
+<l>Porque os ha de hallar el día</l>
+<l>en esas rejas.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>No hará,</l>
+<l>que el alma me avisará</l>
+<l>como si no fuera mía.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Parece que hablan en ellas,</l>
+<l>y que es, en la voz, Leonor.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Y lo dice el resplandor</l>
+<l>que da el sol a las estrellas.</l></sp>
+<stage>LEONOR, en la reja.</stage>
+<sp><speaker>LEONOR</speaker>
+<l>¿Es don Alonso?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Yo soy.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Luego mi hermana saldrá,</l>
+<l>porque con mi padre está</l>
+<l>hablando en las fiestas de hoy.</l>
+<l>Tello puede entrar, que quiere</l>
+<l>daros un regalo Inés.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Entra, Tello.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Si después</l>
+<l>cerraren y no saliere,</l>
+<l>bien puedes partir sin mí,</l>
+<l>que yo te sabré alcanzar.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Cuándo, Leonor, podré entrar</l>
+<l>con tal libertad aquí?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Pienso que ha de ser muy presto,</l>
+<l>porque mi padre de suerte</l>
+<l>te encarece, que a quererte</l>
+<l>tiene el corazón dispuesto.</l>
+<l>Y porque se case Inés,</l>
+<l>en sabiendo vuestro amor,</l>
+<l>sabrá escoger lo mejor,</l>
+<l>como estimarlo después.</l></sp>
+<stage>Sale DOÑA INÉS a la reja.</stage>
+<sp><speaker>INÉS</speaker>
+<l>¿Con quién hablas?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Con Rodrigo.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Mientes, que mi dueño es.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Que soy esclavo de Inés</l>
+<l>al cielo doy por testigo.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No sois sino mi señor.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Ahora bien quiéroos dejar,</l>
+<l>que es necedad estorbar,</l>
+<l>sin celos, quien tiene amor.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Cómo estáis?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Como sin vida.</l>
+<l>Por vivir os vengo a ver.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Bien había menester</l>
+<l>la pena desta partida,</l>
+<l>para templar el contento</l>
+<l>que hoy he tenido de veros</l>
+<l>ejemplo de caballeros</l>
+<l>y de las damas tormento.</l>
+<l>De todas estoy celosa:</l>
+<l>que os alabasen quería,</l>
+<l>y después me arrepentía,</l>
+<l>de perderos temerosa.</l>
+<l>¡Qué de varios pareceres!</l>
+<l>¡Qué de títulos y nombres</l>
+<l>os dio la envidia en los hombres,</l>
+<l>y el amor en las mujeres!</l>
+<l>Mi padre os ha codiciado</l>
+<l>por yerno, para Leonor,</l>
+<l>y agradecióle mi amor,</l>
+<l>aunque celosa, el cuidado;</l>
+<l>que habéis de ser para mí</l>
+<l>y así se lo dije yo,</l>
+<l>aunque con la lengua no,</l>
+<l>pero con el alma sí.</l>
+<l>Mas ¡ay! ¿Cómo estoy contenta</l>
+<l>si os partís?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Mis padres son</l>
+<l>la causa.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Tenéis razón;</l>
+<l>mas dejadme que lo sienta.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Yo lo siento, y voy a Olmedo,</l>
+<l>dejando el alma en Medina:</l>
+<l>no sé cómo parto y quedo;</l>
+<l>amor la ausencia imagina:</l>
+<l>los celos, señora, el miedo;</l>
+<l>así parto muerto y vivo,</l>
+<l>que vida y muerte recibo.</l>
+<l>Mas ¿qué te puedo decir,</l>
+<l>cuando estoy para partir,</l>
+<l>puesto ya el pie en el estribo?</l>
+<l>Ando, señora, estos días,</l>
+<l>entre tantas asperezas</l>
+<l>de imaginaciones mías,</l>
+<l>consolado en mis tristezas</l>
+<l>y triste en mis alegrías;</l>
+<l>tengo, pensando perderte,</l>
+<l>imaginación tan fuerte,</l>
+<l>y así en ella vengo y voy,</l>
+<l>que me parece que estoy</l>
+<l>con las ansias de la muerte.</l>
+<l>La envidia de mis contrarios</l>
+<l>temo tanto, que, aunque puedo</l>
+<l>poner medios necesarios,</l>
+<l>estoy entre amor y miedo</l>
+<l>haciendo discursos varios.</l>
+<l>Ya para siempre me privo</l>
+<l>de verte, y de suerte vivo,</l>
+<l>que, mi muerte presumiendo,</l>
+<l>parece que estoy diciendo:</l>
+<l>«Señora, aquesta te escribo».</l>
+<l>Tener de tu esposo el nombre</l>
+<l>amor y favor ha sido;</l>
+<l>pero es justo que me asombre,</l>
+<l>que amado y favorecido</l>
+<l>tenga tal tristeza un hombre.</l>
+<l>Parto a morir, y te escribo</l>
+<l>mi muerte, si ausente vivo,</l>
+<l>porque tengo, Inés, por cierto</l>
+<l>que si vuelvo será muerto,</l>
+<l>pues partir no puedo vivo.</l>
+<l>Bien sé que tristeza es;</l>
+<l>pero puede tanto en mí,</l>
+<l>que me dice, hermosa Inés:</l>
+<l>«Si partes muerto de aquí,</l>
+<l>¿cómo volverás después?»</l>
+<l>Yo parto, y parto a la muerte,</l>
+<l>aunque morir no es perderte;</l>
+<l>que si el alma no se parte,</l>
+<l>¿cómo es posible dejarte,</l>
+<l>cuanto más, volver a verte?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Pena me has dado y temor</l>
+<l>con tus miedos y recelos;</l>
+<l>si tus tristezas son celos,</l>
+<l>ingrato ha sido tu amor.</l>
+<l>Bien entiendo tus razones;</l>
+<l>pero tú no has entendido</l>
+<l>mi amor.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Ni tú que han sido</l>
+<l>estas imaginaciones</l>
+<l>sólo un ejercicio triste</l>
+<l>del alma, que me atormenta,</l>
+<l>no celos; que fuera afrenta</l>
+<l>del nombre, Inés, que me diste.</l>
+<l>De sueños y fantasías,</l>
+<l>si bien falsas ilusiones,</l>
+<l>han nacido estas razones,</l>
+<l>que no de sospechas mías.</l></sp>
+<stage>LEONOR sale a la reja.</stage>
+<sp><speaker>INÉS</speaker>
+<l>Leonor vuelve. ¿Hay algo?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Sí.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Es partirme?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Claro está.</l>
+<l>Mi padre se acuesta ya</l>
+<l>y me preguntó por ti.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Vete, Alonso, vete. Adiós.</l>
+<l>No te quejes, fuerza es.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Cuándo querrá Dios, Inés,</l>
+<l>que estemos juntos los dos?</l>
+<l>Aquí se acabó mi vida,</l>
+<l>que es lo mismo que partirme.</l>
+<l>Tello no sale, o no puede</l>
+<l>acabar de despedirse.</l>
+<l>Voyme, que él me alcanzará.</l></sp>
+<stage>Al entrar, una SOMBRA con una máscara negra y sombrero, y puesta la mano en el puño de la espada, se le ponga delante.</stage>
+<sp><speaker>ALONSO</speaker>
+<l>¿Qué es esto? ¿Quién va? De oírme</l>
+<l>no hace caso. ¿Quién es? Hable.</l>
+<l>¡Que un hombre me atemorice,</l>
+<l>no habiendo temido a tantos!</l>
+<l>¿Es don Rodrigo? ¿No dice</l>
+<l>quién es?</l></sp>
+<sp><speaker>SOMBRA</speaker>
+<l>Don Alonso.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Cómo?</l></sp>
+<sp><speaker>SOMBRA</speaker>
+<l>Don Alonso.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>No es posible.</l>
+<l>Mas otro será, que yo</l>
+<l>soy don Alonso Manrique...</l>
+<l>Si es invención, ¡meta mano!</l>
+<l>Volvió la espalda. Seguirle</l>
+<l>desatino me parece.</l>
+<l>¡Oh imaginación terrible!</l>
+<l>Mi sombra debió de ser...</l>
+<l>Mas no, que en forma visible</l>
+<l>dijo que era don Alonso.</l>
+<l>Todas son cosas que finge</l>
+<l>la fuerza de la tristeza,</l>
+<l>la imaginación de un triste.</l>
+<l>¿Qué me quieres, pensamiento,</l>
+<l>que con mi sombra me afliges?</l>
+<l>Mira que temer sin causa</l>
+<l>es de sujetos humildes.</l>
+<l>...O embustes de Fabia son,</l>
+<l>que pretende persuadirme</l>
+<l>porque no me vaya a Olmedo,</l>
+<l>sabiendo que es imposible.</l>
+<l>Siempre dice que me guarde,</l>
+<l>y siempre que no camine</l>
+<l>de noche, sin más razón</l>
+<l>de que la envidia me sigue.</l>
+<l>Pero ya no puede ser</l>
+<l>que don Rodrigo me envidie,</l>
+<l>pues hoy la vida me debe;</l>
+<l>que esta deuda no permite</l>
+<l>que un caballero tan noble</l>
+<l>en ningún tiempo la olvide.</l>
+<l>Antes pienso que ha de ser</l>
+<l>para que amistad confirme</l>
+<l>desde hoy conmigo en Medina;</l>
+<l>que la ingratitud no vive</l>
+<l>en buena sangre, que siempre</l>
+<l>entre villanos reside.</l>
+<l>En fin, es la quinta esencia</l>
+<l>de cuantas acciones viles</l>
+<l>tiene la bajeza humana</l>
+<l>pagar mal quien bien recibe.</l></sp>
+<stage>Vase.</stage>
+<stage>Salen DON RODRIGO, DON FERNANDO, MENDO y LAÍN.</stage>
+<sp><speaker>RODRIGO</speaker>
+<l>Hoy tendrán fin mis celos y su vida.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Finalmente, ¿venís determinado?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>No habrá consejo que su muerte impida,</l>
+<l>después que la palabra me han quebrado.</l>
+<l>Ya se entendió la devoción fingida,</l>
+<l>ya supe que era Tello, su criado,</l>
+<l>quien la enseñaba aquel latín que ha sido</l>
+<l>en cartas de romance traducido.</l>
+<l>¡Qué honrada dueña recibió en su casa</l>
+<l>don Pedro en Fabia! ¡Oh mísera doncella!</l>
+<l>Disculpo tu inocencia, si te abrasa</l>
+<l>fuego infernal de los hechizos della.</l>
+<l>No sabe, aunque es discreta, lo que pasa,</l>
+<l>y así el honor de entrambos atropella.</l>
+<l>¡Cuántas casas de nobles caballeros</l>
+<l>han infamado hechizos y terceros!</l>
+<l>Fabia, que puede trasponer un monte;</l>
+<l>Fabia, que puede detener un río</l>
+<l>y en los negros ministros de Aqueronte</l>
+<l>tiene, como en vasallos, señorío;</l>
+<l>Fabia, que deste mar, deste horizonte,</l>
+<l>al abrasado clima, al Norte frío</l>
+<l>puede llevar un hombre por el aire,</l>
+<l>le da liciones: ¿hay mayor donaire?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Por la misma razón yo no tratara</l>
+<l>de más venganza.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¡Vive Dios, Fernando,</l>
+<l>que fuera de los dos bajeza clara!</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>No la hay mayor que despreciar amando.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Si vos podéis, yo no.</l></sp>
+<sp><speaker>MENDO</speaker>
+<l>Señor, repara</l>
+<l>en que vienen los ecos avisando</l>
+<l>de que a caballo alguna gente viene.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Si viene acompañado, miedo tiene.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>No lo creas, que es mozo temerario.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Todo hombre con silencio esté escondido.</l>
+<l>Tú, Mendo, el arcabuz, si es necesario,</l>
+<l>tendrás detrás de un árbol prevenido.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¡Qué inconstante es el bien, qué loco y vario!</l>
+<l>Hoy a vista de un rey salió lucido,</l>
+<l>admirado de todos a la plaza,</l>
+<l>y ¡ya tan fiera muerte le amenaza!</l></sp>
+<stage>Escóndanse, y salga DON ALONSO.</stage>
+<sp><speaker>ALONSO</speaker>
+<l>Lo que jamás he temido,</l>
+<l>que es algún recelo o miedo,</l>
+<l>llevo caminando a Olmedo.</l>
+<l>Pero tristezas han sido.</l>
+<l>Del agua el manso rüido</l>
+<l>y el ligero movimiento</l>
+<l>destas ramas, con el viento,</l>
+<l>mi tristeza aumentan más.</l>
+<l>Yo camino, y vuelve atrás</l>
+<l>mi confuso pensamiento.</l>
+<l>De mis padres el amor</l>
+<l>y la obediencia me lleva,</l>
+<l>aunque ésta es pequeña prueba</l>
+<l>del alma de mi valor.</l>
+<l>Conozco que fue rigor</l>
+<l>el dejar tan presto a Inés...</l>
+<l>¡Qué escuridad! Todo es</l>
+<l>horror, hasta que el Aurora</l>
+<l>en las alfombras de Flora</l>
+<l>ponga los dorados pies.</l>
+<l> (Toca.)</l>
+<l>Allí cantan. ¿Quién será?</l>
+<l>Mas será algún labrador</l>
+<l>que camina a su labor.</l>
+<l>Lejos parece que está;</l>
+<l>pero acercándose va.</l>
+<l>Pues ¡cómo!: lleva instrumento,</l>
+<l>y no es rústico el acento,</l>
+<l>sino sonoro y süave.</l>
+<l>¡Qué mal la música sabe,</l>
+<l>si está triste el pensamiento!</l></sp>
+<stage>Canten desde lejos en el vestuario, y véngase acercando la voz, como que camina.</stage>
+<sp><speaker>VOZ</speaker>
+<l>Que de noche le mataron</l>
+<l>al caballero,</l>
+<l>la gala de Medina,</l>
+<l>la flor de Olmedo.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Cielos! ¿Qué estoy escuchando?</l>
+<l>Si es que avisos vuestros son,</l>
+<l>ya que estoy en la ocasión,</l>
+<l>¿de qué me estáis informando?</l>
+<l>Volver atrás, ¿cómo puedo?</l>
+<l>Invención de Fabia es,</l>
+<l>que quiere, a ruego de Inés,</l>
+<l>hacer que no vaya a Olmedo.</l></sp>
+<sp><speaker>LA VOZ</speaker>
+<l>Sombras le avisaron</l>
+<l>que no saliese,</l>
+<l>y le aconsejaron</l>
+<l>que no se fuese</l>
+<l>el caballero,</l>
+<l>la gala de Medina,</l>
+<l>la flor de Olmedo.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Hola, buen hombre, el que canta!</l></sp>
+<sp><speaker>LABRADOR</speaker>
+<l>¿Quién me llama?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Un hombre soy</l>
+<l>que va perdido.</l></sp>
+<sp><speaker>LABRADOR</speaker>
+<l>Ya voy.</l>
+<stage>Sale un LABRADOR.</stage>
+<l>Veisme aquí.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>(Todo me espanta.)</l>
+<l>¿Dónde vas?</l></sp>
+<sp><speaker>LABRADOR</speaker>
+<l>A mi labor.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Quién esa canción te ha dado,</l>
+<l>que tristemente has cantado?</l></sp>
+<sp><speaker>LABRADOR</speaker>
+<l>Allá en Medina, señor.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>A mí me suelen llamar</l>
+<l>el Caballero de Olmedo,</l>
+<l>y yo estoy vivo...</l></sp>
+<sp><speaker>LABRADOR</speaker>
+<l>No puedo</l>
+<l>deciros deste cantar</l>
+<l>más historias ni ocasión</l>
+<l>de que a una Fabia la oí.</l>
+<l>Si os importa, yo cumplí</l>
+<l>con deciros la canción.</l>
+<l>Volved atrás, no paséis</l>
+<l>deste arroyo.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>En mi nobleza,</l>
+<l>fuera ese temor bajeza.</l></sp>
+<sp><speaker>LABRADOR</speaker>
+<l>Muy necio valor tenéis.</l>
+<l>Volved, volved a Medina.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Ven tú conmigo.</l></sp>
+<sp><speaker>LABRADOR</speaker>
+<l>No puedo.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Qué de sombras finge el miedo!</l>
+<l>¡Qué de engaños imagina!</l>
+<l>Oye, escucha. ¿Dónde fue,</l>
+<l>que apenas sus pasos siento?</l>
+<l>¡Ah, labrador! Oye, aguarda...</l>
+<l>«Aguarda», responde el eco.</l>
+<l>¡Muerto yo! Pero es canción</l>
+<l>que por algún hombre hicieron</l>
+<l>de Olmedo, y los de Medina</l>
+<l>en este camino han muerto.</l>
+<l>A la mitad dél estoy:</l>
+<l>¿qué han de decir si me vuelvo?</l>
+<l>Gente viene... No me pesa;</l>
+<l>si allá van, iré con ellos.</l></sp>
+<stage>Salgan DON RODRIGO y DON FERNANDO y su gente.</stage>
+<sp><speaker>RODRIGO</speaker>
+<l>¿Quién va?</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Un hombre. ¿No me ven?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Deténgase.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Caballeros,</l>
+<l>si acaso necesidad</l>
+<l>los fuerza a pasos como éstos,</l>
+<l>desde aquí a mi casa hay poco:</l>
+<l>no habré menester dineros;</l>
+<l>que de día y en la calle</l>
+<l>se los doy a cuantos veo</l>
+<l>que me hacen honra en pedirlos.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Quítese las armas luego.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Para qué?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Para rendillas.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Saben quién soy?</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>El de Olmedo,</l>
+<l>el matador de los toros,</l>
+<l>que viene arrogante y necio</l>
+<l>a afrentar los de Medina;</l>
+<l>el que deshonra a don Pedro</l>
+<l>con alcagüetes infames.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Si fuérades a lo menos</l>
+<l>nobles vosotros, allá,</l>
+<l>pues tuvistes tanto tiempo,</l>
+<l>me hablárades, y no agora,</l>
+<l>que solo a mi casa vuelvo.</l>
+<l>Allá en las rejas, adonde</l>
+<l>dejastes la capa huyendo,</l>
+<l>fuera bien, y no en cuadrilla</l>
+<l>a media noche, soberbios.</l>
+<l>Pero confieso, villanos,</l>
+<l>que la estimación os debo:</l>
+<l>que, aun siendo tantos, sois pocos.</l></sp>
+<stage>Riñan.</stage>
+<sp><speaker>RODRIGO</speaker>
+<l>Yo vengo a matar, no vengo</l>
+<l>a desafíos, que, entonces,</l>
+<l>te matara cuerpo a cuerpo.</l>
+<l>Tírale.</l></sp>
+<stage>Disparen dentro.</stage>
+<sp><speaker>ALONSO</speaker>
+<l>Traidores sois;</l>
+<l>pero sin armas de fuego</l>
+<l>no pudiérades matarme.</l>
+<l>¡Jesús!</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>¡Bien lo has hecho, Mendo!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Qué poco crédito di</l>
+<l>a los avisos del cielo!</l>
+<l>Valor propio me ha engañado,</l>
+<l>y muerto envidias y celos.</l>
+<l>¡Ay de mí! ¿Que haré en un campo</l>
+<l>tan solo?</l></sp>
+<stage>Sale TELLO.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Pena me dieron</l>
+<l>estos hombres que a caballo</l>
+<l>van hacia Medina huyendo.</l>
+<l>Si a don Alonso habían visto</l>
+<l>pregunté; no respondieron.</l>
+<l>¡Mala señal! Voy temblando.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¡Dios mío, piedad! ¡Yo muero!</l>
+<l>Vos sabéis que fue mi amor</l>
+<l>dirigido a casamiento.</l>
+<l>¡Ay, Inés!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>De lastimosas</l>
+<l>quejas siento tristes ecos.</l>
+<l>Hacia aquella parte suenan.</l>
+<l>No está del camino lejos</l>
+<l>quien las da. No me ha quedado</l>
+<l>sangre; pienso que el sombrero</l>
+<l>puede tenerse en el aire</l>
+<l>solo en cualquiera cabello.</l>
+<l>¡Ah, hidalgo!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>¿Quién es?</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Ay, Dios!</l>
+<l>¿Por qué dudo lo que veo?</l>
+<l>Es mi señor don Alonso.</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Seas bien venido, Tello.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¿Cómo, señor, si he tardado?</l>
+<l>¿Cómo, si a mirarte llego</l>
+<l>hecho una fiera de sangre?</l>
+<l>¡Traidores, villanos, perros,</l>
+<l>volved, volved a matarme,</l>
+<l>pues habéis, infames, muerto</l>
+<l>el más noble, el más valiente,</l>
+<l>el más galán caballero</l>
+<l>que ciñó espada en Castilla!</l></sp>
+<sp><speaker>ALONSO</speaker>
+<l>Tello, Tello, ya no es tiempo</l>
+<l>más que de tratar del alma.</l>
+<l>Ponme en tu caballo presto</l>
+<l>y llévame a ver mis padres.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>¡Qué buenas nuevas les llevo</l>
+<l>de las fiestas de Medina!</l>
+<l>¿Qué dirá aquel noble viejo?</l>
+<l>¿Qué hará tu madre y tu patria?</l>
+<l>¡Venganza, piadosos cielos!</l></sp>
+<stage>Salen DON PEDRO, DOÑA INÉS, DOÑA LEONOR, FABIA y ANA.</stage>
+<sp><speaker>INÉS</speaker>
+<l>¿Tantas mercedes ha hecho?</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Hoy mostró con su real</l>
+<l>mano, heroica y liberal,</l>
+<l>la grandeza de su pecho.</l>
+<l>Medina está agradecida,</l>
+<l>y, por la que he recibido,</l>
+<l>a besarla os he traído.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>¿Previene ya su partida?</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Sí, Leonor, por el Infante,</l>
+<l>que aguarda al Rey en Toledo.</l>
+<l>En fin, obligado quedo;</l>
+<l>que por merced semejante,</l>
+<l>más por vosotras lo estoy,</l>
+<l>pues ha de ser vuestro aumento.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Con razón estás contento.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Alcaide de Burgos soy.</l>
+<l>Besad la mano a Su Alteza.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Ha de haber ausencia, Fabia!</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Más la fortuna te agravia.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No en vano tanta tristeza</l>
+<l>he tenido desde ayer.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>Yo pienso que mayor daño</l>
+<l>te espera, si no me engaño,</l>
+<l>como suele suceder,</l>
+<l>que en las cosas por venir</l>
+<l>no puede haber cierta ciencia.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¿Qué mayor mal que la ausencia,</l>
+<l>pues es mayor que morir?</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Ya, Inés, ¿qué mayores bienes</l>
+<l>pudiera yo desear,</l>
+<l>si tú quisieras dejar</l>
+<l>el propósito que tienes?</l>
+<l>No porque yo te hago fuerza,</l>
+<l>pero quisiera casarte.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Pues tu obediencia no es parte</l>
+<l>que mi propósito tuerza.</l>
+<l>Me admiro de que no entiendas</l>
+<l>la ocasión.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Yo no la sé.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Pues yo por ti la diré,</l>
+<l>Inés, como no te ofendas.</l>
+<l>No la casas a su gusto.</l>
+<l>¡Mira qué presto!</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Mi amor</l>
+<l>se queja de tu rigor,</l>
+<l>porque, a saber tu disgusto,</l>
+<l>no lo hubiera imaginado.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Tiene inclinación Inés</l>
+<l>a un caballero, después</l>
+<l>que el Rey de una cruz le ha honrado;</l>
+<l>que esto es deseo de honor,</l>
+<l>y no poca honestidad.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Pues si él tiene calidad</l>
+<l>y tú le tienes amor,</l>
+<l>¿quién ha de haber que replique?</l>
+<l>Casate en buen hora, Inés.</l>
+<l>Pero ¿no sabré quién es?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Es don Alonso Manrique.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Albricias hubiera dado.</l>
+<l>¿El de Olmedo?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Sí, señor.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Es hombre de gran valor,</l>
+<l>y desde agora me agrado</l>
+<l>de tan discreta elección;</l>
+<l>que si el hábito rehusaba,</l>
+<l>era porque imaginaba</l>
+<l>diferente vocación.</l>
+<l>Habla, Inés, no estés ansí.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Señor, Leonor se adelanta;</l>
+<l>que la inclinación no es tanta</l>
+<l>como ella te ha dicho aquí.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Yo no quiero examinarte,</l>
+<l>sino estar con mucho gusto</l>
+<l>de pensamiento tan justo</l>
+<l>y de que quieras casarte.</l>
+<l>Desde agora es tu marido;</l>
+<l>que me tendré por honrado</l>
+<l>de un yerno tan estimado,</l>
+<l>tan rico y tan bien nacido.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Beso mil veces tus pies.</l>
+<l>Loca de contento estoy,</l>
+<l>Fabia.</l></sp>
+<sp><speaker>FABIA</speaker>
+<l>El parabién te doy,</l>
+<l>si no es pésame después.</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>El Rey.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Llegad a besar</l>
+<l>su mano.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Qué alegre llego!</l></sp>
+<stage>Salen el REY, el CONDESTABLE y gente, y DON RODRIGO y DON FERNANDO.</stage>
+<sp><speaker>PEDRO</speaker>
+<l>Dé Vuestra Alteza los pies,</l>
+<l>por la merced que me ha hecho</l>
+<l>del alcaidía de Burgos,</l>
+<l>a mí y a mis hijas.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Tengo</l>
+<l>bastante satisfación</l>
+<l>de vuestro valor, don Pedro,</l>
+<l>y de que me habéis servido.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Por lo menos lo deseo.</l></sp>
+<sp><speaker>REY</speaker>
+<l>¿Sois casadas?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>No, señor.</l></sp>
+<sp><speaker>REY</speaker>
+<l>¿Vuestro nombre?</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Inés.</l></sp>
+<sp><speaker>REY</speaker>
+<l>¿Y el vuestro?</l></sp>
+<sp><speaker>LEONOR</speaker>
+<l>Leonor.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Don Pedro merece</l>
+<l>tener dos gallardos yernos,</l>
+<l>que están presentes, señor,</l>
+<l>y que yo os pido por ellos</l>
+<l>los caséis de vuestra mano.</l></sp>
+<sp><speaker>REY</speaker>
+<l>¿Quién son?</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Yo, señor, pretendo,</l>
+<l>con vuestra licencia, a Inés.</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Y yo a su hermana le ofrezco</l>
+<l>la mano y la voluntad.</l></sp>
+<sp><speaker>REY</speaker>
+<l>En gallardos caballeros</l>
+<l>emplearéis vuestras dos hijas,</l>
+<l>don Pedro.</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Señor, no puedo</l>
+<l>dar a Inés a don Rodrigo,</l>
+<l>porque casada la tengo</l>
+<l>con don Alonso Manrique,</l>
+<l>el Caballero de Olmedo,</l>
+<l>a quien hicistes merced</l>
+<l>de un hábito.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Yo os prometo</l>
+<l>que la primera encomienda</l>
+<l>sea suya...</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>¡Estraño suceso!</l></sp>
+<sp><speaker>FERNANDO</speaker>
+<l>Ten prudencia.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Porque es hombre</l>
+<l>de grandes merecimientos.</l></sp>
+<stage>Sale TELLO.</stage>
+<sp><speaker>TELLO</speaker>
+<l>Dejadme entrar.</l></sp>
+<sp><speaker>REY</speaker>
+<l>¿Quién da voces?</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Con la guarda un escudero</l>
+<l>que quiere hablarte.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Dejadle.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>Viene llorando y pidiendo</l>
+<l>justicia.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Hacerla es mi oficio.</l>
+<l>Eso significa el cetro.</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Invictísimo don Juan,</l>
+<l>que del castellano reino,</l>
+<l>a pesar de tanta envidia,</l>
+<l>gozas el dichoso imperio:</l>
+<l>con un caballero anciano</l>
+<l>vine a Medina, pidiendo</l>
+<l>justicia de dos traidores;</l>
+<l>pero el doloroso exceso</l>
+<l>en tus puertas le ha dejado,</l>
+<l>si no desmayado, muerto.</l>
+<l>Con esto yo, que le sirvo,</l>
+<l>rompí con atrevimiento</l>
+<l>tus guardas y tus oídos:</l>
+<l>oye, pues te puso el cielo</l>
+<l>la vara de su justicia</l>
+<l>en tu libre entendimiento,</l>
+<l>para castigar los malos</l>
+<l>y para premiar los buenos.</l>
+<l>La noche de aquellas fiestas</l>
+<l>que a la Cruz de Mayo hicieron</l>
+<l>caballeros de Medina,</l>
+<l>para que fuese tan cierto</l>
+<l>que donde hay cruz hay pasión,</l>
+<l>por dar a sus padres viejos</l>
+<l>contento de verle libre</l>
+<l>de los toros, menos fieros</l>
+<l>que fueron sus enemigos,</l>
+<l>partió de Medina a Olmedo</l>
+<l>don Alonso, mi señor,</l>
+<l>aquel ilustre mancebo</l>
+<l>que mereció tu alabanza,</l>
+<l>que es raro encarecimiento.</l>
+<l>Quedéme en Medina yo,</l>
+<l>como a mi cargo estuvieron</l>
+<l>los jaeces y caballos,</l>
+<l>para tenerte cuenta dellos.</l>
+<l>Ya la destocada noche,</l>
+<l>de los dos polos en medio,</l>
+<l>daba a la traición espada,</l>
+<l>mano al hurto, pies al miedo,</l>
+<l>cuando partí de Medina;</l>
+<l>y al pasar un arroyuelo,</l>
+<l>puente y señal del camino,</l>
+<l>veo seis hombres corriendo</l>
+<l>hacia Medina, turbados</l>
+<l>y, aunque juntos, descompuestos.</l>
+<l>La luna, que salió tarde,</l>
+<l>menguado el rostro sangriento,</l>
+<l>me dio a conocer los dos;</l>
+<l>que tal vez alumbra el cielo</l>
+<l>con las hachas de sus luces</l>
+<l>el más escuro silencio,</l>
+<l>para que vean los hombres</l>
+<l>de las maldades los dueños,</l>
+<l>porque a los ojos divinos</l>
+<l>no hubiese humanos secretos.</l>
+<l>Paso adelante, ¡ay de mí!,</l>
+<l>y envuelto en su sangre veo</l>
+<l>a don Alonso espirando.</l>
+<l>Aquí, gran señor, no puedo</l>
+<l>ni hacer resistencia al llanto,</l>
+<l>ni decir el sentimiento.</l>
+<l>En el caballo le puse</l>
+<l>tan animoso, que creo</l>
+<l>que pensaban sus contrarios</l>
+<l>que no le dejaban muerto.</l>
+<l>A Olmedo llegó con vida,</l>
+<l>cuanto fue bastante, ¡ay cielo!,</l>
+<l>para oír la bendición</l>
+<l>de dos miserables viejos,</l>
+<l>que enjugaban las heridas</l>
+<l>con lágrimas y con besos.</l>
+<l>Cubrió de luto su casa</l>
+<l>y su patria, cuyo entierro</l>
+<l>será el del fénix, Señor,</l>
+<l>después de muerto viviendo</l>
+<l>en las lenguas de la fama,</l>
+<l>a quien conocen respeto</l>
+<l>la mudanza de los hombres</l>
+<l>y los olvidos del tiempo.</l></sp>
+<sp><speaker>REY</speaker>
+<l>¡Estraño caso!</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>¡Ay de mí!</l></sp>
+<sp><speaker>PEDRO</speaker>
+<l>Guarda lágrimas y estremos,</l>
+<l>Inés, para nuestra casa.</l></sp>
+<sp><speaker>INÉS</speaker>
+<l>Lo que de burlas te dije,</l>
+<l>señor, de veras te ruego.</l>
+<l>Y a vos, generoso Rey,</l>
+<l>destos viles caballeros</l>
+<l>os pido justicia.</l></sp>
+<sp><speaker>REY</speaker>
+<l>Dime,</l>
+<l>pues pudiste conocerlos,</l>
+<l>¿quién son esos dos traidores?</l>
+<l>¿Dónde están? Que ¡vive el cielo</l>
+<l>de no me partir de aquí</l>
+<l>hasta que los deje presos!</l></sp>
+<sp><speaker>TELLO</speaker>
+<l>Presentes están, Señor:</l>
+<l>don Rodrigo es el primero,</l>
+<l>y don Fernando el segundo.</l></sp>
+<sp><speaker>CONDESTABLE</speaker>
+<l>El delito es manifiesto,</l>
+<l>su turbación lo confiesa.</l></sp>
+<sp><speaker>RODRIGO</speaker>
+<l>Señor, escucha...</l></sp>
+<sp><speaker>REY</speaker>
+<l>Prendedlos,</l>
+<l>y en un teatro mañana</l>
+<l>cortad sus infames cuellos:</l>
+<l>fin de la trágica historia</l>
+<l>del Caballero de Olmedo.</l></sp></div>
+
+      </body>
+  </text>
+</TEI>
