@@ -1,67 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader type="text">
       <fileDesc>
          <titleStmt>
             <title>Peribáñez y el comendador de Ocaña</title>
             <author>Félix Lope de Vega y Carpio</author>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p part="N">Publication Information</p>
          </publicationStmt>
-         <sourceDesc>
-            <p>Based on the es.wikisource.org edition in public domain</p>
+         <sourceDesc default="false">
+            <p part="N">Based on the es.wikisource.org edition in public domain</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
-     <front><castList><castItem><role xml:id="inés_peri">INÉS</role> <roleDesc>madrina</roleDesc></castItem>
-     <castItem><role xml:id="costanza_peri">COSTANZA</role> <roleDesc>labradora</roleDesc></castItem>
-     <castItem><role xml:id="casilda_peri">CASILDA</role> <roleDesc>desposada</roleDesc></castItem>
-     <castItem><role xml:id="peribáñez_peri">PERIBÁÑEZ</role> <roleDesc>novio</roleDesc></castItem>
-     <castItem><role xml:id="bartolo_peri">BARTOLO</role> <roleDesc>labrador</roleDesc></castItem>
-     <castItem><role xml:id="comendador_peri">COMENDADOR</role></castItem>
-     <castItem><role xml:id="blas_peri">BLAS</role></castItem>
-     <castItem><role xml:id="marín_peri">MARÍN</role> <roleDesc>lacayo</roleDesc></castItem>
-     <castItem><role xml:id="luján_peri">LUJÁN</role> <roleDesc>lacayo</roleDesc></castItem>
-    <castItem> <role xml:id="leonardo_peri">LEONARDO</role> <roleDesc>criado</roleDesc></castItem>
-    <castItem> <role xml:id="rey_peri">REY</role> <roleDesc>El rey Enrique</roleDesc></castItem>
-     <castItem><role xml:id="reina_peri">REINA</role></castItem>
-     <castItem><role xml:id="condestable_peri">CONDESTABLE</role></castItem>
-    <castItem><role xml:id="paje_peri">PAJE</role></castItem>
-     <castItem><role xml:id="secretario_peri">SECRETARIO</role></castItem>
-     <castItem><role xml:id="regidor_peri">REGIDOR</role> <roleDesc>Dos Regidores de Toledo</roleDesc></castItem>
-     <castItem><role xml:id="gómez_peri">GÓMEZ</role> <roleDesc>Gómez Manrique</roleDesc></castItem>
-    <castItem> <role xml:id="cura_peri">CURA</role> <roleDesc>a lo gracioso</roleDesc></castItem>
-     <castItem><role xml:id="gil_peri">GIL</role></castItem>
-    <castItem><role xml:id="antón_peri">ANTÓN</role></castItem>
-     <castItem><role xml:id="benito_peri">BENITO</role></castItem>
-    <castItem><role xml:id="mendo_peri">MENDO</role></castItem>
-     <castItem><role xml:id="llorente_peri">LLORENTE</role></castItem>
-    <castItem><role xml:id="chaparro_peri">CHAPARRO</role></castItem>
-    <castItem><role xml:id="helipe_peri">HELIPE</role></castItem>
-     <castItem><role xml:id="belardo_peri">BELARDO</role></castItem>
-     <castItem><role xml:id="pintor_peri">PINTOR</role></castItem>
-    <castItem><role xml:id="músico_peri">MÚSICO</role> <roleDesc>de villanos</roleDesc></castItem>
-     <castItem><role xml:id="segador_peri">SEGADOR</role></castItem></castList></front>
+     <front><castList><castItem type="role"><role xml:id="inés_peri">INÉS</role> <roleDesc>madrina</roleDesc></castItem>
+     <castItem type="role"><role xml:id="costanza_peri">COSTANZA</role> <roleDesc>labradora</roleDesc></castItem>
+     <castItem type="role"><role xml:id="casilda_peri">CASILDA</role> <roleDesc>desposada</roleDesc></castItem>
+     <castItem type="role"><role xml:id="peribáñez_peri">PERIBÁÑEZ</role> <roleDesc>novio</roleDesc></castItem>
+     <castItem type="role"><role xml:id="bartolo_peri">BARTOLO</role> <roleDesc>labrador</roleDesc></castItem>
+     <castItem type="role"><role xml:id="comendador_peri">COMENDADOR</role></castItem>
+     <castItem type="role"><role xml:id="blas_peri">BLAS</role></castItem>
+     <castItem type="role"><role xml:id="marín_peri">MARÍN</role> <roleDesc>lacayo</roleDesc></castItem>
+     <castItem type="role"><role xml:id="luján_peri">LUJÁN</role> <roleDesc>lacayo</roleDesc></castItem>
+    <castItem type="role"> <role xml:id="leonardo_peri">LEONARDO</role> <roleDesc>criado</roleDesc></castItem>
+    <castItem type="role"> <role xml:id="rey_peri">REY</role> <roleDesc>El rey Enrique</roleDesc></castItem>
+     <castItem type="role"><role xml:id="reina_peri">REINA</role></castItem>
+     <castItem type="role"><role xml:id="condestable_peri">CONDESTABLE</role></castItem>
+    <castItem type="role"><role xml:id="paje_peri">PAJE</role></castItem>
+     <castItem type="role"><role xml:id="secretario_peri">SECRETARIO</role></castItem>
+     <castItem type="role"><role xml:id="regidor_peri">REGIDOR</role> <roleDesc>Dos Regidores de Toledo</roleDesc></castItem>
+     <castItem type="role"><role xml:id="gómez_peri">GÓMEZ</role> <roleDesc>Gómez Manrique</roleDesc></castItem>
+    <castItem type="role"> <role xml:id="cura_peri">CURA</role> <roleDesc>a lo gracioso</roleDesc></castItem>
+     <castItem type="role"><role xml:id="gil_peri">GIL</role></castItem>
+    <castItem type="role"><role xml:id="antón_peri">ANTÓN</role></castItem>
+     <castItem type="role"><role xml:id="benito_peri">BENITO</role></castItem>
+    <castItem type="role"><role xml:id="mendo_peri">MENDO</role></castItem>
+     <castItem type="role"><role xml:id="llorente_peri">LLORENTE</role></castItem>
+    <castItem type="role"><role xml:id="chaparro_peri">CHAPARRO</role></castItem>
+    <castItem type="role"><role xml:id="helipe_peri">HELIPE</role></castItem>
+     <castItem type="role"><role xml:id="belardo_peri">BELARDO</role></castItem>
+     <castItem type="role"><role xml:id="pintor_peri">PINTOR</role></castItem>
+    <castItem type="role"><role xml:id="músico_peri">MÚSICO</role> <roleDesc>varios músicos de villanos</roleDesc></castItem>
+     <castItem type="role"><role xml:id="segador_peri">SEGADOR</role></castItem></castList></front>
       <body>
 
-<div type="act" n="I">
+<div type="act" n="I" part="N" org="uniform" sample="complete">
 <stage>Boda de villanos. El CURA; INÉS, madrina;
 COSTANZA, labradora; CASILDA, novia;
 PERIBÁÑEZ; MÚSICOS, de labradores</stage>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Largos años os gocéis.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>Si son como yo deseo,</l>
 <l>casi inmortales seréis.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Por el de serviros, creo</l>
 <l>que merezco que me honréis.</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>Aunque no parecen mal,</l>
 <l>son excusadas razones</l>
 <l>para cumplimiento igual,</l>
@@ -70,41 +67,41 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>Hartas os dije; no queda</l>
 <l>cosa que deciros pueda</l>
 <l>el más deudo, el más amigo.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Señor doctor, yo no digo</l>
 <l>más de que bien les suceda.</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>Espérolo en Dios, que ayuda</l>
 <l>a la gente virtuosa.</l>
 <l>Mi sobrina es muy sesuda.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Sólo con no ser celosa</l>
 <l>saca este pleito de duda</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No me deis vos ocasión,</l>
 <l>que en mi vida tendré celos.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Por mi no sabréis qué son.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Dicen que al amor los cielos</l>
 <l>le dieron esta pensión.</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>Sentaos, y alegrad el día</l>
 <l>en que sois uno los dos.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Yo tengo harta alegría</l>
 <l>en ver que me ha dado Dios</l>
 <l>tan hermosa compañía.</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>Bien es que a Dios se atribuya,</l>
 <l>que en el reino de Toledo</l>
 <l>no hay cara como la suya.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Si con amor pagar puedo,</l>
 <l>esposo, la afición tuya,</l>
 <l>de lo que debiendo quedas</l>
 <l>me estás en obligación.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Casilda, mientras no puedas</l>
 <l>excederme en afición,</l>
 <l>no con palabras me excedas.</l>
@@ -139,7 +136,7 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>para el invierno aterido</l>
 <l>y para el verano ardiente.</l>
 <l>Félix Lope de Vega y Carpio</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Contigo, Casilda, tengo</l>
 <l>cuanto puedo desear,</l>
 <l>y sólo el pecho prevengo;</l>
@@ -155,7 +152,7 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>que te diga quien te vea:</l>
 <l>la ventura de la fea</l>
 <l>pasóse a Casilda hermosa.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Pues yo ¿cómo te diré</l>
 <l>lo menos que miro en ti,</l>
 <l>que lo más del alma fue?</l>
@@ -191,17 +188,17 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>con capillo de cendal,</l>
 <l>y paréceste a ti mismo,</l>
 <l>porque no tienes igual.</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>Ea, bastan los amores,</l>
 <l>que quieren estos mancebos</l>
 <l>bailar y ofrecer.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Señores,</l>
 <l>pues no sois en amor nuevos,</l>
 <l>perdón.</l></sp>
-<sp><speaker>MÚSICO</speaker>
+<sp who="#músico_peri" ana="m"><speaker>MÚSICO</speaker>
 <l>Ama hasta que adores.</l>
-<l>Canten y danzan</l>
+<stage>Canten y danzan</stage>
 <l>"Dente parabienes</l>
 <l>el mayo garrido,</l>
 <l>los alegres campos,</l>
@@ -218,13 +215,13 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>por el monte mismo</l>
 <l>que cubrió la nieve,</l>
 <l>a pacer tomillos."</l></sp>
-<sp><speaker>MÚSICO</speaker>
-<l>Folia</l>
+<sp who="#músico_peri" ana="m"><speaker>MÚSICO</speaker>
+<stage>Folia</stage>
 <l>"Y a los nuevos desposados</l>
 <l>eche Dios su bendición;</l>
 <l>parabién les den los prados,</l>
 <l>pues hoy para en uno son."</l>
-<l>Vuelva a danzar</l>
+<stage>Vuelva a danzar</stage>
 <l>"Montañas heladas</l>
 <l>y soberbios riscos,</l>
 <l>antiguas encinas</l>
@@ -248,14 +245,14 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>pues hoy para en uno son."</l>
 <l>Hagan gran ruido y</l>
 <l>entre BARTOLO, labrador</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>¿Qué es aquello?</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>¿No lo veis</l>
 <l>en la grita y el ruido?</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>¿Mas que el novillo han traído?</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>¿Cómo un novillo? Y aun tres.</l>
 <l>Pero el tiznado que agora</l>
 <l>traen del campo, ¡voto al sol,</l>
@@ -279,68 +276,68 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>más gallardo que un azor.</l>
 <l>¡Juro a mi, si no tuviera</l>
 <l>cintero el novillo!</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>¿Aquí</l>
 <l>no podrá entrar?</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>Antes si.</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>Pues, Pedro, de esa manera,</l>
 <l>allá me subo al terrado.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>Dígale alguna oración,</l>
 <l>que ya ve que no es razón</l>
 <l>irse, señor licenciado.</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>Pues oración ¿a qué fin?</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>¿A qué fin? De resistillo.</l></sp>
-<sp><speaker>CURA</speaker>
+<sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>Engáñaste, que hay novillo</l>
 <l>que no entiende bien latín.</l>
 <l>Éntrese</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>Al terrado va sin duda.</l>
 <l>La grita creciendo va.</l>
 <l>Voces</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Todas iremos allá,</l>
 <l>que, atado, al fin, no se muda.</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>Es verdad, que no es posible</l>
 <l>que más que la soga alcance.</l></sp>
 <stage>Vanse</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Tú quieres que intente un lance?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¡Ay no, mi bien, que es terrible!</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Aunque más terrible sea,</l>
 <l>de los cuernos le asiré,</l>
 <l>y en tierra con éI daré,</l>
 <l>por que mi valor se vea.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No conviene a tu decoro</l>
 <l>el día que te has casado,</l>
 <l>ni que un recién desposado</l>
 <l>se ponga en cuernos de un toro.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Si refranes considero,</l>
 <l>dos me dan gran pesadumbre;</l>
 <l>que a la cárcel, ni aun por lumbre,</l>
 <l>y de cuernos, ni aun tintero.</l>
 <l>Quiero obedecer.</l>
 <l>Ruido dentro</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¡Ay Dios!</l>
 <l>¿Qué es esto?</l>
 <l>Dentro</l>
 <l>¡Que gran desdicha!</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Algún mal hizo por dicha.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Cómo, estando aquí los dos?</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>¡Oh, que nunca le trujeran,</l>
 <l>pluguiera al cielo, del soto!</l>
 <l>A la fe, que no se alaben</l>
@@ -361,12 +358,12 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>con el acero mohoso,</l>
 <l>te haga sentar por fuerza,</l>
 <l>y manchar en sangre el polvo!</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Repórtate ya, si quieres,</l>
 <l>y dinos lo que es, Bartolo;</l>
 <l>que no maldijera más</l>
 <l>Zamora a Bellido Dolfos.</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>El Comendador de Ocaña,</l>
 <l>mueso señor generoso,</l>
 <l>en un bayo que cubrían</l>
@@ -395,31 +392,31 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <sp><speaker>SANCHO</speaker>
 <l>Aquí estaba el licenciado</l>
 <l>y lo podrán absolver.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Pienso que se fue a esconder.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Sube, Bartolo, al terrado.</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>Voy a buscarle.</l></sp>
 <stage>Vase</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Camina.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Por silla vamos los dos</l>
 <l>en que llevarle, si Dios</l>
 <l>llevársele determina.</l></sp>
-<sp><speaker>MARÍN</speaker>
+<sp who="#marín_peri" ana="m"><speaker>MARÍN</speaker>
 <l>Vamos, Luján, que sospecho</l>
 <l>que es muerto el Comendador.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>El corazón de temor</l>
 <l>me va saltando en el pecho.</l></sp>
 <stage>Vanse</stage>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Id vos, porque me parece,</l>
 <l>Pedro, que algo vuelve en sí,</l>
 <l>y traed agua.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Si aquí</l>
 <l>el Comendador muriese,</l>
 <l>no vivo más en Ocaña.</l>
@@ -427,7 +424,7 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <stage>Vanse todos.</stage>
 <l>Queden CASILDA y el COMENDADOR en una</l>
 <l>silla, y ella tomándole las manos</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¡Oh qué mal el mal se emplea</l>
 <l>en quien es la flor de España!</l>
 <l>¡Ah gallardo caballero!</l>
@@ -443,14 +440,14 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>de la gloria y opinión</l>
 <l>de tanto capitán fuerte.</l>
 <l>¡Ah señor Comendador!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Quién llama? ¿Quién está aquí?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¡Albricias, que habló!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Ay de mí!</l>
 <l>¿Quién eres?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Yo soy, señor.</l>
 <l>No os aflijáis, que no estáis</l>
 <l>donde no os desean más bien</l>
@@ -459,7 +456,7 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>de haber corrido aquel toro.</l>
 <l>Haced cuenta que esta casa</l>
 <l>aunque es vuestra hoy.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Pasa</l>
 <l>todo el humano tesoro!</l>
 <l>Estuve muerto en el suelo,</l>
@@ -470,128 +467,128 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <l>que es justo pensar que sea</l>
 <l>cielo donde un hombre vea</l>
 <l>que hay ángeles como vos.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Antes por vuestras razones</l>
 <l>podría yo presumir</l>
 <l>que estáis cerca de morir.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Cómo?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Porque veis visiones.</l>
 <l>Y advierta vueseñoría</l>
 <l>que, si es agradecimiento</l>
 <l>de hallarse en el aposento</l>
 <l>desta humilde casa mía,</l>
 <l>de hoy solamente lo es.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Sois la novia, por ventura?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No por ventura, si dura</l>
 <l>y crece este mal después,</l>
 <l>venido por mi ocasión.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Que vos estáis ya casada?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Casada y bien empleada.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Pocas hermosas lo son.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Pues por eso he yo tenido</l>
 <l>la ventura de la fea.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <stage>Aparte</stage>
 <l>¡Que un tosco villano sea</l>
 <l>desta hermosura marido!</l>
 <l>¿Vuestro nombre?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Con perdón,</l>
 <l>Casilda, señor, me nombro.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <stage>Aparte</stage>
 <l>De ver su traje me asombro</l>
 <l>y su rara perfección:</l>
 <l>diamante en plomo engastado.</l>
 <l>¡Dichoso el hombre mil veces</l>
 <l>a quien tu hermosura ofreces!</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No es él el bien empleado;</l>
 <l>yo lo soy, Comendador;</l>
 <l>créalo su señoría.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Aun para ser mujer mía</l>
 <l>tenéis, Casilda, valor.</l>
 <l>Dame licencia que pueda</l>
 <l>regalarte.</l></sp>
 <stage>PERIBÁÑEZ entre</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>No parece</l>
 <l>el licenciado. Si crece</l>
 <l>el accidente...</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Ahí te queda,</l>
 <l>porque ya tiene salud</l>
 <l>don Fadrique, mi señor.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Albricias te da mi amor.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Tal ha sido la virtud</l>
 <l>desta piedra celestial.</l>
 <stage>Salen MARÍN y LUJÁN,
 lacayos</stage>
 </sp>
-<sp><speaker>MARÍN</speaker>
+<sp who="#marín_peri" ana="m"><speaker>MARÍN</speaker>
 <l>Ya dicen que ha vuelto en sí.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Señor, la silla está aquí.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Pues no pase del portal,</l>
 <l>que no he menester ponerme</l>
 <l>en ella.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¡Gracias a Dios!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Esto que os debo a los dos,</l>
 <l>si con salud vengo a verme,</l>
 <l>satisfaré de manera</l>
 <l>que conozcáis lo que siento</l>
 <l>vuestro buen acogimiento.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Si a vuestra salud pudiera,</l>
 <l>señor, ofrecer la mía,</l>
 <l>no lo dudéis.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Yo Io creo.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¿Qué sientes?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Un gran deseo</l>
 <l>que cuando entré no tenía.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>No lo entiendo.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Importa poco.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Yo hablo de tu caída.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>En peligro está mi vida</l>
 <l>por un pensamiento loco.</l>
 <l>Váyanse;</l>
 <l>queden CASILDA y PERIBÁÑEZ</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Parece que va mejor.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Lástima, Pedro, me ha dado.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Por mal agüero he tomado</l>
 <l>que caiga el Comendador.</l>
 <l>¡Mal haya la fiesta, amén,</l>
 <l>el novillo y quien le ató!</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No es nada, luego me habló.</l>
 <l>Antes lo tengo por bien,</l>
 <l>por que nos haga favor</l>
 <l>si ocasión se nos ofrece.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Casilda, mi amor merece</l>
 <l>satisfacción de mi amor.</l>
 <l>Ya estamos en nuestra casa,</l>
@@ -604,14 +601,14 @@ lacayos</stage>
 <l>la paz y el bien de los dos.</l>
 <l>Espero amores de ti</l>
 <l>que has de hacer gloria mi pena.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Qué ha de tener para buena</l>
 <l>una mujer?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Oye.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Di.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Amar y honrar su marido</l>
 <l>es letra de este abecé,</l>
 <l>siendo buena por la B,</l>
@@ -652,16 +649,16 @@ lacayos</stage>
 <l>que con aquesta cartilla,</l>
 <l>tú serás flor de la villa,</l>
 <l>y yo el mas noble villano.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Estudiaré, por servirte,</l>
 <l>las letras de ese abecé;</l>
 <l>pero dime si podré</l>
 <l>otro, mi Pedro, decirte,</l>
 <l>si no es acaso licencia.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Antes yo me huelgo. Di,</l>
 <l>que quiero aprender de ti.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Pues escucha, y ten paciencia.</l>
 <l>La primera letra es A,</l>
 <l>que altanero no has de ser;</l>
@@ -696,26 +693,26 @@ lacayos</stage>
 <l>Abrázale</l>
 <l>y como estamos aquí</l>
 <l>estemos después de muertos.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Yo me ofrezco, prenda mía,</l>
 <l>a saber este abecé.</l>
 <l>¿Quieres más?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Mi bien no sé</l>
 <l>si me atreva el primer día</l>
 <l>a pedirte un gran favor.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Mi amor se agravia de ti.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Cierto?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Sí.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Pues oye.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Di</l>
 <l>cuánto se obliga mi amor.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>El día de la Asunción</l>
 <l>se acerca; tengo deseo</l>
 <l>de ir a Toledo, y creo</l>
@@ -723,40 +720,40 @@ lacayos</stage>
 <l>de ver la imagen también</l>
 <l>del Sagrario, que aquel día</l>
 <l>sale en procesión.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>La mía</l>
 <l>es tu voluntad, mi bien.</l>
 <l>Tratemos de la partida.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Ya por la G me pareces</l>
 <l>galán; tus manos mil veces</l>
 <l>beso.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>A tus primas convida,</l>
 <l>y vaya un famoso carro.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Tanto me quieres honrar?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Allá te pienso comprar.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Dilo.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>...un vestido bizarro.</l>
 <l>Éntrense.</l>
 <l>Salga el COMENDADOR y LEONARDO, criado</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Llámame, Leonardo, presto</l>
 <l>a Luján.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Ya le avisé,</l>
 <l>pero estaba descompuesto.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Vuelve a llamarle.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Yo iré.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Parte.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <stage>Aparte</stage>
 <l>¿En qué ha de parar esto?</l>
 <l>Cuando se siente mejor,</l>
@@ -765,7 +762,7 @@ lacayos</stage>
 <l>Sospiros al aire envía:</l>
 <l>¡mátenme si no es amor!</l>
 <l>Váyase</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Hermosa labradora,</l>
 <l>más bella, más lucida</l>
 <l>que ya del sol vestida</l>
@@ -803,17 +800,17 @@ lacayos</stage>
 <l>¡Dichoso tú, que tienes</l>
    <l>en la troj de tu lecho tantos bienes!</l></sp>
 <stage>Entre LUJÁN</stage>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Perdona, que estaba el bayo</l>
 <l>necesitado de mí.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Muerto estoy, matóme un rayo;</l>
 <l>aún dura, Luján, en mí</l>
 <l>la fuerza de aquel desmayo.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¿Todavía persevera,</l>
 <l>y aquella pasión te dura?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Como va el fuego a su esfera,</l>
 <l>el alma a tanta hermosura</l>
 <l>sube cobarde y ligera.</l>
@@ -826,7 +823,7 @@ lacayos</stage>
 <l>de no parecer ingrato</l>
 <l>al deseo que mostró,</l>
 <l>hacerle algún bien?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Si yo</l>
 <l>quisiera bien, con recato,</l>
 <l>quiero decir, advertido</l>
@@ -844,10 +841,10 @@ lacayos</stage>
 <l>en la guarda de su honor:</l>
 <l>que la obligación, señor,</l>
 <l>descuida el mayor cuidado.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Qué le daré por primeras</l>
 <l>señales?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Si consideras</l>
 <l>lo que un labrador adulas,</l>
 <l>será darle un par de mulas</l>
@@ -871,10 +868,10 @@ lacayos</stage>
 <l>y entre unos verdes olmos y cipreses</l>
 <l>gozó de amor los regalados fines,</l>
 <l>y la tuvo por suya trece meses.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>No pintó mal el poeta</l>
 <l>lo que puede el interés.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Ten por opinión discreta</l>
 <l>la del dar, porque al fin es</l>
 <l>la más breve y más secreta.</l>
@@ -885,12 +882,12 @@ lacayos</stage>
 <l>que negocia por metales,</l>
 <l>dicen que lleva los pies</l>
 <l>todos envueltos en lana.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Pues alto, venza interés!</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Mares y montañas allana</l>
 <l>y tú lo verás después.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Desde que fuiste conmigo,</l>
 <l>Luján, al Andalucía,</l>
 <l>y fui en la guerra testigo</l>
@@ -905,21 +902,21 @@ lacayos</stage>
 <l>que le ponga su fortuna;</l>
 <l>y yo te pienso mudar</l>
 <l>deste oficio.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Si en alguna</l>
 <l>cosa te puedo agradar,</l>
 <l>mándame, y verás mi amor,</l>
 <l>que yo no puedo, señor,</l>
 <l>ofrecerte otras grandezas.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Sácame destas tristezas.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Este es el medio mejor.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Pues vamos, y buscarás</l>
 <l>el par de mulas más bello</l>
 <l>que él haya visto jamás.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Ponles ese yugo al cuello,</l>
 <l>que antes de un hora verás</l>
 <l>arar en su pecho fiero</l>
@@ -929,30 +926,30 @@ lacayos</stage>
 <l>si no se siembra dinero.</l>
 <l>Váyanse.</l></sp>
 <stage>Salen INÉS, COSTANZA Y CASILDA</stage>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No es tarde para partir</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>El tiempo es bueno y es llano</l>
 <l>todo el camino.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>En verano</l>
 <l>suelen muchas veces ir</l>
 <l>en diez horas, y aun en menos.</l>
 <l>¿Qué galas llevas, Inés?</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Pobres y el talle que ves.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>Yo llevo unos cuerpos llenos</l>
 <l>de pasamanos de plata.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Desabrochado el sayuelo,</l>
 <l>salen bien.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>De terciopelo</l>
 <l>sobre encarnada escarlata</l>
 <l>los pienso llevar, que son</l>
 <l>galas de mujer casada.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>Una basquiña prestada</l>
 <l>me daba Inés, la de Antón.</l>
 <l>Era palmilla gentil</l>
@@ -961,38 +958,38 @@ lacayos</stage>
 <l>Menga, la de Blasco Gil,</l>
 <l>porque dice que el color</l>
 <l>no dice bien con mi cara.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Bien sé yo quién te prestara</l>
 <l>una faldilla mejor.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>¿Quién?</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Casilda.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Si tú quieres,</l>
 <l>la de grana blanca es buena,</l>
 <l>o la verde, que está llena</l>
 <l>de vivos.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>Liberal eres</l>
 <l>y bien acondicionada;</l>
 <l>mas si Pedro ha de reñir,</l>
 <l>no te la quiero pedir,</l>
 <l>y guárdete Dios, casada.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No es Peribáñez, Costanza,</l>
 <l>tan mal acondicionado.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>¿Quiérete bien tu velado?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Tan presto temes mudanza?</l>
 <l>No hay en esta villa toda</l>
 <l>novios de placer tan ricos;</l>
 <l>pero aún comemos los picos</l>
 <l>de las roscas de la boda.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>¿Dícete muchos amores?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No sé yo cuáles son pocos;</l>
 <l>sé que mis sentidos locos</l>
 <l>lo están de tantos favores.</l>
@@ -1016,7 +1013,7 @@ lacayos</stage>
 <l>ir por cebada me manda;</l>
 <l>yo la traigo, el la zaranda</l>
 <l>y deja la que aprovecha.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Revuélvela en el pesebre,</l>
 <l>y allí me vuelve a abrazar,</l>
 <l>que no hay tan bajo lugar</l>
@@ -1053,78 +1050,78 @@ lacayos</stage>
 <l>donde le pesa al aurora</l>
 <l>cuando se llega la hora</l>
 <l>de venirnos a llamar.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>¡Dichosa tú, casadilla,</l>
 <l>que en tan buen estado estás!</l>
 <l>Ea, ya no falta más</l>
    <l>sino salir de la villa.</l></sp>
 <stage>Entre PERIBÁÑEZ</stage>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Esta el carro aderezado?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Lo mejor que puede está.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Luego ¿pueden subir ya?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pena, Casilda, me ha dado</l>
 <l>el ver que el carro de Bras</l>
 <l>lleva alfombra y repostero.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Pídele a algún caballero.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Al Comendador podrás.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>El nos mostraba afición,</l>
 <l>y pienso que nos le diera.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Qué se pierde en ir?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Espera,</l>
 <l>que a la fe que no es razón</l>
 <l>que vaya sin repostero.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Pues vámonos a vestir.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>También le puedes pedir.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Qué, mi Casilda?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>...un sombrero.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Eso no.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Por qué? ¿Es exceso?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Porque plumas de señor</l>
 <l>podrán darnos por favor</l>
 <l>a ti viento y a mi peso.</l>
    <stage>Vanse todos.</stage></sp>
 <stage>Entre el COMENDADOR, y LUJÁN</stage>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Ellas son con extremo.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Yo no he visto</l>
 <l>mejores bestias, por tu vida y mía,</l>
 <l>en cuantas he tratado, y no son pocas.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Las arracadas faltan.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Dijo el dueño</l>
 <l>que cumplen a estas yerbas los tres años,</l>
 <l>y costaron lo mismo que le diste,</l>
 <l>habrá un mes, en la feria de Mansilla,</l>
 <l>y que saben muy bien de albarda y silla.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿De qué manera, di, Luján, podremos</l>
 <l>darlas a Peribáñez, su marido,</l>
 <l>que no tenga malicia en mi propósito?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Llamándole a tu casa, y previniéndole</l>
 <l>de que estás a su amor agradecido.</l>
 <l>Pero cáusame risa en ver que hagas</l>
 <l>tu secretario en cosas de tu gusto</l>
 <l>un hombre de mis prendas.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>No te espantes;</l>
 <l>que sirviendo mujer de humildes prendas,</l>
 <l>es fuerza que lo trate con las tuyas.</l>
@@ -1142,19 +1139,19 @@ lacayos</stage>
 <l>que para comprar mulas eres propio,</l>
 <l>de suerte que yo trato el amor mío</l>
 <l>de la manera misma que él me trata.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Ya que no fue tu amor, señor, discreto,</l>
    <l>el modo de tratarle lo parece.</l></sp>
 <stage>Entre LEONARDO</stage>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Aquí está Peribáñez.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Quién, Leonardo?</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Peribáñez, señor.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Qué es lo que dices?</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Digo que me pregunta Peribáñez</l>
 <l>por ti, y yo pienso bien que le conoces.</l>
 <l>Es Peribánez, labrador de Ocaña,</l>
@@ -1164,16 +1161,16 @@ lacayos</stage>
 <l>en esta villa, seguirán su nombre</l>
 <l>cuantos salen al campo con su arado,</l>
 <l>porque es, aunque villano, muy honrado.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¿De qué has perdido el color?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Ay cielos!</l>
 <l>¡Que de sólo venir el que es esposo</l>
 <l>de una mujer que quiero bien, me sienta</l>
 <l>descolorir, helar y temblar todo!</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Luego ¿no ternás ánimo de verle?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Di que entre, que del modo que a quien ama,</l>
 <l>la calle, las ventanas y las rejas</l>
 <l>agradables le son, y en las criadas</l>
@@ -1181,18 +1178,18 @@ lacayos</stage>
 <l>así pienso mirar en su marido</l>
 <l>la hermosura por quien estoy perdido.</l></sp>
 <stage>Sale PERIBÁÑEZ con capa</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Dame tus generosos pies.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Oh Pedro!</l>
 <l>Seas mil veces bien venido. Dame</l>
 <l>otras tantas tus brazos.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¡Señor mío!</l>
 <l>¡Tanta merced a un rústico villano</l>
 <l>de los menores que en Ocaña tienes!</l>
 <l>¡Tanta merced a un labrador!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>No eres</l>
 <l>indigno, Peribáñez, de mis brazos,</l>
 <l>que, fuera de ser hombre bien nacido,</l>
@@ -1202,7 +1199,7 @@ lacayos</stage>
 <l>cuanto ha sido por ti tener la vida,</l>
 <l>que pienso que sin ti fuera perdida.</l>
 <l>¿Qué quieres de esta casa?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Señor mío,</l>
 <l>yo soy, ya lo sabrás, recién casado.</l>
 <l>Los hombres, y de bien, cual lo profeso,</l>
@@ -1223,9 +1220,9 @@ lacayos</stage>
 <l>para adornar el carro, y le suplico</l>
 <l>que mi ignorancia su grandeza abone,</l>
 <l>y como enamorado me perdone.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Estás contento, Peribáñez?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Tanto,</l>
 <l>que no trocara a este sayal grosero</l>
 <l>la encomienda mayor que el pecho cruza</l>
@@ -1234,7 +1231,7 @@ lacayos</stage>
 <l>buena cristiana, humilde, y que me quiere</l>
 <l>no sé si tanto como yo la quiero,</l>
 <l>pero con más amor que mujer tuvo.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Tenéis razón de amar a quien os ama,</l>
 <l>por ley divina y por humanas leyes;</l>
 <l>que a vos eso os agrada como vuestro.</l>
@@ -1246,52 +1243,52 @@ lacayos</stage>
 <l>que compré para el coche de camino,</l>
 <l>y a su esposa llevad las arracadas,</l>
 <l>si el platero las tiene ya acabadas.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Aunque bese la tierra, señor mío,</l>
 <l>en tu nombre mil veces, no te pago</l>
 <l>una mínima parte de las muchas</l>
 <l>que debo a las mercedes que me haces.</l>
 <l>Mi esposa y yo, hasta aquí vasallos tuyos,</l>
 <l>desde hoy somos esclavos de tu casa.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Ve, Leonardo, con él.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Vente conmigo.</l></sp>
 <stage>Vanse</stage>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Luján, ¿qué te parece?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Que se viene</l>
 <l>la ventura a tu casa.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Escucha aparte:</l>
 <l>el alazán al punto me adereza,</l>
 <l>que quiero ir a Toledo rebozado,</l>
 <l>porque me lleva el alma esta villana.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¿Seguirla quieres?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Sí, pues me persigue,</l>
    <l>por que este ardor con verla se mitigue.</l></sp>
 <stage>Váyanse.</stage>
 <stage>Entren con acompañamiento el rey REY y el CONDESTABLE</stage>
-<sp><speaker>CONDESTABLE</speaker>
+<sp who="#condestable_peri" ana="m"><speaker>CONDESTABLE</speaker>
 <l>Alegre está la ciudad,</l>
 <l>y a servirte apercibida,</l>
 <l>con la dichosa venida</l>
 <l>de tu sacra majestad.</l>
 <l>Auméntales el placer</l>
 <l>ser víspera de tal día.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>El deseo que tenía</l>
 <l>me pueden agradecer.</l>
 <l>Soy de su rara hermosura</l>
 <l>el mayor apasionado.</l></sp>
-<sp><speaker>CONDESTABLE</speaker>
+<sp who="#condestable_peri" ana="m"><speaker>CONDESTABLE</speaker>
 <l>Ella, en amor y en cuidado,</l>
 <l>notablemente procura</l>
 <l>mostrar agradecimiento.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Es octava maravilla,</l>
 <l>es corona de Castilla,</l>
 <l>es su lustre y ornamento;</l>
@@ -1305,12 +1302,12 @@ lacayos</stage>
 <l>tantos siglos celebrada.</l>
 <l>Salgo de su santa iglesia</l>
 <l>con admiración y amor.</l></sp>
-<sp><speaker>CONDESTABLE</speaker>
+<sp who="#condestable_peri" ana="m"><speaker>CONDESTABLE</speaker>
 <l>Este milagro, señor,</l>
 <l>vence al antiguo de Efesia.</l>
 <l>¿Piensas hallarte mañana</l>
 <l>en la procesión?</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Iré,</l>
 <l>para ejemplo de mi fe,</l>
 <l>con la imagen soberana,</l>
@@ -1318,15 +1315,15 @@ lacayos</stage>
 <l>a que rogase por mí</l>
 <l>en esta jornada.</l>
 <l>Un PAJE entre</l></sp>
-<sp><speaker>PAJE</speaker>
+<sp who="#paje_peri" ana="m"><speaker>PAJE</speaker>
 <l>Aquí</l>
 <l>tus pies vienen a besar</l>
 <l>dos regidores, de parte</l>
 <l>de su noble ayuntamiento.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Di que lleguen.</l></sp>
 <stage>Salen dos REGIDORES</stage>
-<sp><speaker>REGIDOR</speaker>
+<sp who="#regidor_peri" ana="m"><speaker>REGIDOR</speaker>
 <l>Esos pies</l>
 <l>besa, gran señor, Toledo</l>
 <l>y dice que, para darte</l>
@@ -1338,31 +1335,31 @@ lacayos</stage>
 <l>para la jornada ofrecen</l>
 <l>mil hombres de todo el reino</l>
 <l>y cuarenta mil ducados.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Mucho a Toledo agradezco</l>
 <l>el servicio que me hace;</l>
 <l>pero es Toledo en efeto.</l>
 <l>¿Sois caballeros los dos?</l></sp>
-<sp><speaker>REGIDOR</speaker>
+<sp who="#regidor_peri" ana="m"><speaker>REGIDOR</speaker>
 <l>Los dos somos caballeros .</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Pues hablad al Condestable</l>
 <l>mañana, por que Toledo</l>
 <l>vea que en vosotros pago</l>
 <l>la que a su nobleza debo.</l></sp>
 <stage>Entren INÉS y COSTANZA y CASILDA con sombreros de borlas y vestidos de labradoras a uso de la Sagra y PERIBÁÑEZ y el comendador, de camino, detrás</stage>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Pardiez, que tengo de verle,</l>
 <l>pues hemos venido a tiempo</l>
 <l>que está el Rey en la ciudad.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>¡Oh qué gallardo mancebo!</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Este llaman don Enrique</l>
 <l>Tercero.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¡Qué buen tercero!</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Es hijo del Rey don Juan</l>
 <l>el Primero, y así, es nieto</l>
 <l>del Segundo don Enrique,</l>
@@ -1375,22 +1372,22 @@ lacayos</stage>
 <l>y de los brazos asiendo,</l>
 <l>a Enrique le dio la daga,</l>
 <l>que agora se ha vuelto cetro.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>¿Quién es aquél tan erguido</l>
 <l>que habla con él?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Cuando menos</l>
 <l>el Condestable.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Que son</l>
 <l>los reyes de carne y hueso?</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>Pues ¿de qué pensabas tú?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>De damasco o terciopelo.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>¡Si que eres boba en verdad!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <stage>Aparte</stage>
 <l>Como sombra voy siguiendo</l>
 <l>el sol de aquesta villana,</l>
@@ -1399,108 +1396,108 @@ lacayos</stage>
 <l>el ser conocido temo.</l>
 <l>Pero ya se va al alcázar.</l></sp>
 <stage>Vase el rey y su gente</stage>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>¡Hola! El Rey se va.</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>Tan presto,</l>
 <l>que aún no he podido saber</l>
 <l>si es barbirrubio o taheño.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Los reyes son a la vista,</l>
 <l>Costanza, por el respeto,</l>
 <l>imágenes de milagros,</l>
 <l>porque siempre que los vemos,</l>
 <l>de otra color nos parecen.</l></sp>
 <stage>LUJÁN entre con un PINTOR</stage>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Aquí está.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>¿Cuál dellos?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¡Quedo!</l>
 <l>Señor, aquí está el pintor.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Oh amigo!</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>A servirte vengo.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Traes el naipe y colores?</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Sabiendo tu pensamiento,</l>
 <l>colores y naipe traigo.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Pues con notable secreto,</l>
 <l>de aquellas tres labradoras</l>
 <l>me retrata la de en medio,</l>
 <l>luego que en cualquier lugar</l>
 <l>tomen con espacio asiento.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Que será dificultoso</l>
 <l>temo, pero yo me atrevo</l>
 <l>a que se parezca mucho.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Pues advierte lo que quiero.</l>
 <l>Si se parece en el naipe,</l>
 <l>deste retrato pequeño</l>
 <l>quiero que hagas uno grande</l>
 <l>con más espacio en un lienzo.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>¿Quiéresle entero?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>No tanto;</l>
 <l>basta que de medio cuerpo,</l>
 <l>mas con las mismas patenas,</l>
 <l>sartas, camisa y sayuelo.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Allí se sientan a ver</l>
 <l>la gente.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Ocasión tenemos.</l>
 <l>Yo haré el retrato.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Casilda,</l>
 <l>tomemos aqueste asiento</l>
 <l>para ver las luminarias.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Dicen que al ayuntamiento</l>
 <l>traerán bueyes esta noche.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Vamos, que aquí los veremos</l>
 <l>sin peligro y sin estorbo.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Retrata, pintor, al cielo</l>
 <l>todo bordado de nubes,</l>
 <l>y retrata un prado ameno</l>
 <l>todo cubierto de flores.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Cierto que es bella en extremo.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Tan bella que está mi amo</l>
 <l>todo cubierto de vello,</l>
 <l>de convertido en salvaje.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>La luz faltará muy presto.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>No lo temas, que otro sol</l>
 <l>tiene en sus ojos serenos,</l>
 <l>siendo estrellas para ti,</l>
 <l>para mi rayos de fuego.</l></sp>
 
-</div><div type="act" n="II">
+</div><div type="act" n="II" part="N" org="uniform" sample="complete">
 <stage>Cuatro labradores: BLAS, GIL, ANTÓN, BENITO</stage>
-<sp><speaker>BENITO</speaker>
+<sp who="#benito_peri" ana="m"><speaker>BENITO</speaker>
 <l>Yo soy deste parecer.</l></sp>
-<sp><speaker>GIL</speaker>
+<sp who="#gil_peri" ana="m"><speaker>GIL</speaker>
 <l>Pues asentaos y escribildo.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>Mal hacemos en hacer</l>
 <l>entre tan pocos cabildo.</l></sp>
-<sp><speaker>BENITO</speaker>
+<sp who="#benito_peri" ana="m"><speaker>BENITO</speaker>
 <l>Ya se llamó desde ayer.</l></sp>
-<sp><speaker>BLAS</speaker>
+<sp who="#blas_peri" ana="m"><speaker>BLAS</speaker>
 <l>Mil faltas se han conocido</l>
 <l>en esta fiesta pasada.</l></sp>
-<sp><speaker>GIL</speaker>
+<sp who="#gil_peri" ana="m"><speaker>GIL</speaker>
 <l>Puesto, señores, que ha sido</l>
 <l>la procesión tan honrada</l>
 <l>y el santo tan bien servido,</l>
@@ -1522,30 +1519,30 @@ lacayos</stage>
 <l>en el reino de Toledo.</l>
 <l>Pues ¿por qué tenemos miedo</l>
 <l>a ningún gasto?</l></sp>
-<sp><speaker>BENITO</speaker>
+<sp who="#benito_peri" ana="m"><speaker>BENITO</speaker>
 <l>No ha sido</l>
    <l>sino descuido y olvido.</l></sp>
 <stage>Entre PERIBÁÑEZ</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Si en algo serviros puedo,</l>
 <l>veisme aquí, si ya no es tarde.</l></sp>
-<sp><speaker>BLAS</speaker>
+<sp who="#blas_peri" ana="m"><speaker>BLAS</speaker>
 <l>Peribáñez, Dios os guarde,</l>
 <l>gran falta nos habéis hecho.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>El no seros de provecho</l>
 <l>me tiene siempre cobarde.</l></sp>
-<sp><speaker>BENITO</speaker>
+<sp who="#benito_peri" ana="m"><speaker>BENITO</speaker>
 <l>Toma asiento junto a mi.</l></sp>
-<sp><speaker>GIL</speaker>
+<sp who="#gil_peri" ana="m"><speaker>GIL</speaker>
 <l>¿Dónde has estado?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>En Toledo,</l>
 <l>que a ver con mi esposa fui</l>
 <l>la fiesta.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>¿Gran cosa?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Puedo</l>
 <l>decir, señores, que vi</l>
 <l>un cielo en ver en el suelo</l>
@@ -1565,10 +1562,10 @@ lacayos</stage>
 <l>el Rey en esta ocasión.</l>
 <l>Pasaba al Andalucía</l>
 <l>para proseguir la guerra.</l></sp>
-<sp><speaker>GIL</speaker>
+<sp who="#gil_peri" ana="m"><speaker>GIL</speaker>
 <l>Mucho nuestra cofradía</l>
 <l>sin vos en mil cosas yerra.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pensé venir otro día</l>
 <l>y hallarme a la procesión</l>
 <l>de nuestro Roque divino,</l>
@@ -1577,9 +1574,9 @@ lacayos</stage>
 <l>con tan devota intención,</l>
 <l>que hasta que pasó la octava</l>
 <l>no pude hacella venir.</l></sp>
-<sp><speaker>GIL</speaker>
+<sp who="#gil_peri" ana="m"><speaker>GIL</speaker>
 <l>¿Que allá el señor Rey estaba?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Y el Maestre, oí decir,</l>
 <l>de AIcántara y Calatrava.</l>
 <l>¡Brava jornada aperciben!</l>
@@ -1589,25 +1586,25 @@ lacayos</stage>
 <l>del modo que los reciben.</l>
 <l>Pero, esto aparte dejando,</l>
 <l>¿de qué estábades tratando?</l></sp>
-<sp><speaker>BENITO</speaker>
+<sp who="#benito_peri" ana="m"><speaker>BENITO</speaker>
 <l>De la nuestra cofradía</l>
 <l>de San Roque, y, a fe mía,</l>
 <l>que el ver que has llegado cuando</l>
 <l>mayordomo están haciendo,</l>
 <l>me ha dado, Pedro, a pensar</l>
 <l>que vienes a serlo.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>En viendo</l>
 <l>a Peribáñez entrar,</l>
 <l>lo mismo estaba diciendo.</l></sp>
-<sp><speaker>BLAS</speaker>
+<sp who="#blas_peri" ana="m"><speaker>BLAS</speaker>
 <l>¿Quién lo ha de contradecir?</l></sp>
-<sp><speaker>GIL</speaker>
+<sp who="#gil_peri" ana="m"><speaker>GIL</speaker>
 <l>Por mi digo que lo sea,</l>
 <l>y en la fiesta por venir</l>
 <l>se ponga cuidado y vea</l>
 <l>lo que es menester pedir.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Aunque por recién casado</l>
 <l>replicar fuera razón,</l>
 <l>puesto que me habéis honrado,</l>
@@ -1617,26 +1614,26 @@ lacayos</stage>
 <l>la mayordomía aceto</l>
 <l>para que más me provoque</l>
 <l>a su servicio.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>En efeto,</l>
 <l>haréis mejor lo que toque.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Qué es lo que falta de hacer?</l></sp>
-<sp><speaker>BENITO</speaker>
+<sp who="#benito_peri" ana="m"><speaker>BENITO</speaker>
 <l>Yo quisiera proponer</l>
 <l>que otro San Roque se hiciese</l>
 <l>más grande, por que tuviese</l>
 <l>más vista.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Buen parecer.</l>
 <l>¿Qué dice Gil?</l></sp>
-<sp><speaker>GIL</speaker>
+<sp who="#gil_peri" ana="m"><speaker>GIL</speaker>
 <l>Que es razón,</l>
 <l>que es viejo y chico el que tiene</l>
 <l>la cofradía.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Y Antón?</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>Que hacerle grande conviene,</l>
 <l>y que ponga devoción.</l>
 <l>Está todo desollado</l>
@@ -1647,9 +1644,9 @@ lacayos</stage>
 <l>Y a los dos dedos, que son</l>
 <l>con que da la bendición,</l>
 <l>falta más de la mitad.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Blas, ¿qué diz?</l></sp>
-<sp><speaker>BLAS</speaker>
+<sp who="#blas_peri" ana="m"><speaker>BLAS</speaker>
 <l>Que a la ciudad</l>
 <l>vayan hoy Pedro y Antón,</l>
 <l>y hagan aderezar</l>
@@ -1657,18 +1654,18 @@ lacayos</stage>
 <l>porque no es justo gastar</l>
 <l>ni hacerlo agora mayor,</l>
 <l>pudiéndole renovar.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Blas dice bien, pues está</l>
 <l>tan pobre la cofradía;</l>
 <l>mas ¿cómo se llevará?</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>En vuesa pollina o mía</l>
 <l>sin daño y golpes irá</l>
 <l>de una sábana cubierto.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pues esto baste por hoy,</l>
 <l>si he de ir a Toledo.</l></sp>
-<sp><speaker>BLAS</speaker>
+<sp who="#blas_peri" ana="m"><speaker>BLAS</speaker>
 <l>Advierto</l>
 <l>que este parecer que doy</l>
 <l>no lleva engaño encubierto;</l>
@@ -1676,15 +1673,15 @@ lacayos</stage>
 <l>cuando Roque se volviera</l>
 <l>San Cristóbal, sabré dar</l>
 <l>mi parte.</l></sp>
-<sp><speaker>GIL</speaker>
+<sp who="#gil_peri" ana="m"><speaker>GIL</speaker>
 <l>Cuando eso fuera,</l>
 <l>¿quién se pudiera excusar?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pues vamos, Antón, que quiero</l>
 <l>despedirme de mi esposa.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>Yo con la imagen te espero.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Llamará Casilda hermosa</l>
 <l>este mi amor lisonjero;</l>
 <l>que, aunque desculpado quedo</l>
@@ -1694,9 +1691,9 @@ lacayos</stage>
 <l>me voy de Ocaña a Toledo.</l>
 <l>Éntrense.</l></sp>
 <stage>Salen el COMENDADOR y LEONARDO</stage>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Cuéntame el suceso todo.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Si de algún provecho es</l>
 <l>haber conquistado a Inés,</l>
 <l>pasa, señor, deste modo.</l>
@@ -1732,15 +1729,15 @@ lacayos</stage>
 <l>que si a Casilda ha de haber</l>
 <l>puerta, por aquí ha de ser,</l>
 <l>que es prima y es bachillera.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Ay Leonardo! ¡Si mi suerte</l>
 <l>al imposible inhumano</l>
 <l>de aqueste desdén villano,</l>
 <l>roca del mar siempre fuerte,</l>
 <l>hallase fácil camino!</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>¿Tan ingrata te responde?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Seguíla, ya sabes dónde,</l>
 <l>sombra de su sol divino,</l>
 <l>y, en viendo que me quitaba</l>
@@ -1761,9 +1758,9 @@ lacayos</stage>
 <l>Leonardo, a llamar un día</l>
 <l>un pintor, que retrató</l>
 <l>en un naipe su desdén.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Y ¿parecióse?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Tan bien,</l>
 <l>que después me le pasó</l>
 <l>a un lienzo grande, que quiero</l>
@@ -1774,38 +1771,38 @@ lacayos</stage>
 <l>tú irás por él a Toledo;</l>
 <l>pues con el vivo no puedo,</l>
 <l>viviré con el pintado.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Iré a servirte, aunque siento</l>
 <l>que te aflijas por mujer</l>
 <l>que la tardas en vencer</l>
 <l>lo que ella en saber tu intento.</l>
 <l>Déjame hablar con Inés,</l>
 <l>que verás lo que sucede.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Si ella lo que dices puede,</l>
 <l>no tiene el mundo interés...</l></sp>
 <stage>LUJÁN entre como segador</stage>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¿Estás solo?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Oh buen Luján!</l>
 <l>Sólo está Leonardo aquí.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¡Albricias, señor!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Si a ti</l>
 <l>deseos no te las dan</l>
 <l>¿Qué hacienda tengo en Ocaña?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>En forma de segador,</l>
 <l>a Peribáñez, señor</l>
 <l>tanto el apariencia engaña,</l>
 <l>pedí jornal en su trigo,</l>
 <l>y, desconocido, estoy</l>
 <l>en su casa desde hoy.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Quién fuera, Luján, contigo!</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Mañana, al salir la aurora,</l>
 <l>hemos de ir los segadores</l>
 <l>al campo; mas tus amores</l>
@@ -1821,14 +1818,14 @@ lacayos</stage>
 <l>abra la puerta, y te adiestre</l>
 <l>por donde vayas a ver</l>
 <l>esta invencible mujer.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Cómo quieres que te muestre</l>
 <l>debido agradecimiento</l>
 <l>Luján, de tanto favor?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Es el tesoro mayor</l>
 <l>del alma el entendimiento.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Por qué camino tan llano</l>
 <l>has dado a mi mal remedio!</l>
 <l>Pues no estando de por medio</l>
@@ -1842,17 +1839,17 @@ lacayos</stage>
 <l>pero de que no te hubiese</l>
 <l>por el disfraz conocido!</l>
 <l>¿Has mirado bien la casa?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Y, ¡cómo si la miré!</l>
 <l>Hasta el aposento entré</l>
 <l>del sol que tu pecho abrasa.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¿Que has entrado a su aposento?</l>
 <l>¿Que de tan divino sol</l>
 <l>fuiste Faetón español?</l>
 <l>¡Espantoso atrevimiento!</l>
 <l>¿Qué hacía aquel ángel bello?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Labor en un limpio estrado,</l>
 <l>no de seda ni brocado,</l>
 <l>aunque pudiera tenello,</l>
@@ -1872,7 +1869,7 @@ lacayos</stage>
 <l>viendo tus armas honradas:</l>
 <l>Rendidas, que no colgadas,</l>
 <l>pues amor lo quiere ansí.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Antes ellas te advirtieron</l>
 <l>de que en aquella ocasión</l>
 <l>tomaban la posesión</l>
@@ -1885,33 +1882,33 @@ lacayos</stage>
 <l>que, mientras me voy a armar,</l>
 <l>querrá la noche llegar</l>
 <l>para dolerse de mi.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¿Ha de ir Leonardo contigo?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Paréceme discreción,</l>
 <l>porque en cualquiera ocasión</l>
    <l>es bueno al lado un amigo.</l></sp>
 <stage>Vanse.</stage>
 <stage>Entran CASILDA e INÉS</stage>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Conmigo te has de quedar</l>
 <l>esta noche, por tu vida.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Licencia es razón que pida.</l>
 <l>Desto no te has de agraviar,</l>
 <l>que son padres en efeto.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Enviaréles un recaudo,</l>
 <l>por que no estén con cuidado,</l>
 <l>que ya es tarde, te prometo.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Trázalo como te dé</l>
 <l>más gusto, prima querida.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No me habrás hecho en tu vida</l>
 <l>mayor placer, a la fe.</l>
 <l>Esto debes a mi amor.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Estás, Casilda, enseñada</l>
 <l>a dormir acompañada;</l>
 <l>no hay duda, tendrás temor.</l>
@@ -1923,16 +1920,16 @@ lacayos</stage>
 <l>cuéntame por desmayada.</l>
 <l>Tiemblo una espada envainada;</l>
 <l>desnuda, pierdo el sentido.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No hay en casa qué temer,</l>
 <l>que duermen en el portal</l>
 <l>los segadores.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Tu mal</l>
 <l>soledad debe de ser,</l>
 <l>y temes que estos desvelos</l>
 <l>te quiten el sueño.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Aciertas,</l>
 <l>que los desvelos son puertas</l>
 <l>para que pasen los celos</l>
@@ -1940,97 +1937,97 @@ lacayos</stage>
 <l>y en comenzando a temer,</l>
 <l>no hay más dormir que poner</l>
 <l>con celos remedio a amor.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Pues ¿qué ocasión puede darte</l>
 <l>en Toledo?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Tú no ves</l>
 <l>que celos es aire, Inés,</l>
 <l>que vienen de cualquier parte?</l>
 <l>[</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Que de Medina venía</l>
 <l>oí yo siempre cantar.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Y Toledo no es lugar</l>
 <l>de adonde venir podría?</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Grandes hermosuras tiene.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Ahora bien, vente a cenar.</l></sp>
 <stage>LLORENTE y MENDO, segadores</stage>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>A quien ha de madrugar</l>
 <l>dormir luego le conviene.</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>Digo que muy justo es.</l>
 <l>Los ranchos pueden hacerse.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Ya vienen a recogerse</l>
 <l>los segadores, Inés.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Pues vamos, y a Sancho avisa</l>
 <l>el cuidado de la huerta.</l></sp>
 <stage>Vanse</stage>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Muesama acude a la puerta.</l>
 <l>Andará dándonos prisa</l>
    <l>por no estar aquí su dueño.</l></sp>
 <stage>Entren BARTOLO y CHAPARRO, segadores</stage>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>A alba he de haber segado</l>
 <l>todo el repecho del prado.</l></sp>
-<sp><speaker>CHAPARRO</speaker>
+<sp who="#chaparro_peri" ana="m"><speaker>CHAPARRO</speaker>
 <l>Si diere licencia el sueño.</l>
 <l>Buenas noches os dé Dios,</l>
 <l>Mendo y Llorente.</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>El sosiego</l>
 <l>no será mucho si luego</l>
 <l>habemos de andar los dos</l>
 <l>con las hoces a destajo,</l>
 <l>aquí manada, aquí corte.</l></sp>
-<sp><speaker>CHAPARRO</speaker>
+<sp who="#chaparro_peri" ana="m"><speaker>CHAPARRO</speaker>
 <l>Pardiez, Mendo, cuando importe,</l>
 <l>bien luce el justo trabajo.</l>
 <l>Sentaos y, antes de dormir,</l>
 <l>o cantemos o contemos</l>
 <l>algo de nuevo y podremos</l>
 <l>en esto nos divertir.</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>¿Tan dormido estáis, Llorente?</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Pardiez, Bartol, que quisiera</l>
 <l>que en un año amaneciera</l>
 <l>cuatro veces solamente.</l></sp>
 <stage>HELIPE y LUJÁN, segadores</stage>
-<sp><speaker>HELIPE</speaker>
+<sp who="#helipe_peri" ana="m"><speaker>HELIPE</speaker>
 <l>¿Hay para todos lugar?</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>¡Oh Helipe! Bien venido.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Y yo, si lugar os pido,</l>
 <l>¿podréle por dicha hallar?</l></sp>
-<sp><speaker>CHAPARRO</speaker>
+<sp who="#chaparro_peri" ana="m"><speaker>CHAPARRO</speaker>
 <l>No faltará para vos.</l>
 <l>Aconchaos junto la puerta.</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>Cantar algo se concierta.</l></sp>
-<sp><speaker>CHAPARRO</speaker>
+<sp who="#chaparro_peri" ana="m"><speaker>CHAPARRO</speaker>
 <l>Y aun contar algo, por Dios.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Quien supiere un lindo cuento,</l>
 <l>póngale luego en el corro.</l></sp>
-<sp><speaker>CHAPARRO</speaker>
+<sp who="#chaparro_peri" ana="m"><speaker>CHAPARRO</speaker>
 <l>De mi capote me ahorro</l>
 <l>y para escuchar me asiento.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Va primero de canción,</l>
 <l>y luego diré una historia</l>
 <l>que me viene a la memoria.</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>Cantad.</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Ya comienzo el son.</l>
 <l>Canten con las guitarras</l>
 <l>"Trébole, ¡ay Jesús, cómo güele!</l>
@@ -2051,13 +2048,13 @@ lacayos</stage>
 <l>y el faldellín de color.</l>
 <l>Trébole, ¡ay Jesús, cómo güele!</l>
 <l>Trébole, ¡ay Jesús, qué olor!"</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Parecen que se han dormido.</l>
 <l>No tenéis ya que cantar.</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Yo me quiero recostar,</l>
 <l>aunque no en trébol florido.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¿Qué me detengo? Ya están</l>
 <l>los segadores durmiendo.</l>
 <l>Noche, este amor te encomiendo.</l>
@@ -2065,110 +2062,110 @@ lacayos</stage>
 <l>La puerta le quiero abrir.</l>
    <l>¿Eres tú, señor?</l></sp>
 <stage>Entren el COMENDADOR y LEONARDO</stage>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Yo soy.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Entra presto.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Dentro estoy.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Ya comienzan a dormir.</l>
 <l>Seguro por ellos pasa,</l>
 <l>que un carro puede pasar</l>
 <l>sin que puedan despertar.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Luján, yo no sé la casa.</l>
 <l>Al aposento me guía.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Quédese Leonardo aquí.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Que me place.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Ven tras mí.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Oh amor! ¡Oh fortuna mía!</l>
 <l>¡Dame próspero suceso!</l></sp>
 <stage>Vanse</stage>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Hola, Mendo!</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>¿Qué hay, Llorente?</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>En casa anda gente.</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>¿Gente?</l>
 <l>Que lo temí te confieso.</l>
 <l>¿Así se guarda el decoro</l>
 <l>a Peribáñez?</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>No sé.</l>
 <l>Sé que no es gente de a pie.</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>¿Cómo?</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Trae capa con oro.</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>¿Con oro? Mátenme aquí</l>
 <l>si no es el Comendador.}}</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Demos voces.</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>¿No es mejor</l>
 <l>callar?</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Sospecho que sí.</l>
 <l>Pero ¿de qué sabes que es</l>
 <l>el Comendador?</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>No hubiera</l>
 <l>en Ocaña quien pusiera</l>
 <l>tan atrevidos los pies,</l>
 <l>ni aun el pensamiento, aquí.</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Esto es casar con mujer</l>
 <l>hermosa.</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>¿No puede ser</l>
 <l>que ella esté sin culpa?</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Sí.</l>
    <l>Ya vuelven. Hazte dormido.</l></sp>
 <stage>[Entren el COMENDADOR y LUJÁN]</stage>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Ce! ¡Leonardo!</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>¿Qué hay, señor?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Perdí la ocasión mejor</l>
 <l>que pudiera haber tenido.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>¿Cómo?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Ha cerrado y muy bien</l>
 <l>el aposento esta fiera.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Llama.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Si gente no hubiera...!</l>
 <l>Mas despertarán también.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>No harán, que son segadores,</l>
 <l>y el vino y cansancio son</l>
 <l>candados de la razón</l>
 <l>y sentidos exteriores.</l>
 <l>Pero escucha, que han abierto</l>
 <l>la ventana del portal.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Todo me sucede mal.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>¿Si es ella?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Tenlo por cierto.</l>
 <l>A la ventana con un rebozo, CASILDA</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Es hora de madrugar,</l>
 <l>amigos?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Señora mía,</l>
 <l>ya se va acercando el día</l>
 <l>y es tiempo de ir a segar.</l>
@@ -2188,7 +2185,7 @@ lacayos</stage>
 <l>por sus cartas le llamara;</l>
 <l>que dejar sola esa cara</l>
 <l>nunca fue de amantes ley.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Labrador de lejas tierras,</l>
 <l>que has venido a nuesa villa</l>
 <l>convidado del agosto,</l>
@@ -2221,7 +2218,7 @@ lacayos</stage>
 <l>requiebros a maravilla,</l>
 <l>no labradores desdenes</l>
 <l>envueltos en señorías.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Olerále a guantes de ámbar,</l>
 <l>a perfumes y pastillas,</l>
 <l>no a tomillo ni cantueso,</l>
@@ -2254,7 +2251,7 @@ lacayos</stage>
 <l>mala fuese la tu dicha,</l>
 <l>que si Peribáñez viene</l>
 <l>no verás la luz del día.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Quedo, señora. ¡Señora!</l>
 <l>Casilda, amores, Casilda,</l>
 <l>yo soy el Comendador;</l>
@@ -2263,7 +2260,7 @@ lacayos</stage>
 <l>dos sartas de perlas finas</l>
 <l>y una cadena esmaltada</l>
 <l>de más peso que la mía.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Segadores de mi casa,</l>
 <l>no durmáis, que con su risa</l>
 <l>os está llamando el alba.</l>
@@ -2273,12 +2270,12 @@ lacayos</stage>
 <l>le mando el sombrero grande</l>
 <l>con que va Pedro a las viñas.</l>
 <l>Quítase de la ventana</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>Llorente, muesa ama llama.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Huye, señor, huye aprisa,</l>
 <l>que te ha de ver esta gente.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Ah, cruel sierpe de Libia!</l>
 <l>Pues aunque gaste mi hacienda,</l>
 <l>mi honor, mi sangre y mi vida,</l>
@@ -2286,16 +2283,16 @@ lacayos</stage>
 <l>tengo de vencer tus iras.</l>
 <stage>Vanse el COMENDADOR</stage>
 <l>[LUJÁN y LEONARDO]</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>Yérguete cedo, Chaparro,</l>
 <l>que viene a gran prisa el día.</l></sp>
-<sp><speaker>CHAPARRO</speaker>
+<sp who="#chaparro_peri" ana="m"><speaker>CHAPARRO</speaker>
 <l>Ea, Helipe, que es muy tarde.</l></sp>
-<sp><speaker>HELIPE</speaker>
+<sp who="#helipe_peri" ana="m"><speaker>HELIPE</speaker>
 <l>Pardiez, Bartol, que se miran</l>
 <l>todos los montes bañados</l>
 <l>de blanca luz por encima.</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Seguidme todos, amigos,</l>
 <l>porque muesama no diga</l>
 <l>que porque muesamo falta</l>
@@ -2304,7 +2301,7 @@ lacayos</stage>
 <stage>Salen PERIBÁÑEZ,
 el PINTOR y ANTÓN</stage>
 </sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Entre las tablas que vi</l>
 <l>de devoción o retratos,</l>
 <l>adonde menos ingratos</l>
@@ -2317,58 +2314,58 @@ el PINTOR y ANTÓN</stage>
 <l>el aderezo del santo,</l>
 <l>reciba yo favor tanto</l>
 <l>que vuelva a mirarla yo.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Vos tenéis mucha razón,</l>
 <l>que es bella la labradora.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Quitalda del clavo ahora,</l>
 <l>que quiero enseñarla a Antón.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>Ya la vi, mas, si queréis,</l>
 <l>también holgaré de vella.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Id, por mi vida, por ella.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Yo voy.</l></sp>
 <stage>Vase</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Un ángel veréis.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>Bien sé yo por qué miráis</l>
 <l>la villana con cuidado.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Sólo el traje me le ha dado,</l>
 <l>que en el gusto os engañáis.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>Pienso que os ha parecido</l>
 <l>que parece a vuestra esposa.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Es Casilda tan hermosa?</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>Pedro, vos sois su marido,</l>
 <l>a vos os está más bien</l>
 <l>alaballa que no a mí.</l>
 <stage>Sale el PINTOR
 con el retrato de CASILDA, grande</stage>
 </sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>La labradora está aquí.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <stage>Aparte</stage>
 <l>Y mi deshonra también.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>¿Qué os parece?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Que es notable.</l>
 <l>¿No os agrada, Antón?</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>Es cosa</l>
 <l>a vuestros ojos hermosa</l>
 <l>y a los del mundo admirable.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Id, Antón, a la posada</l>
 <l>y ensillad mientras que voy.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <stage>Aparte</stage>
 <l>Puesto que ignorante soy,</l>
 <l>Casilda es la retratada,</l>
@@ -2376,80 +2373,80 @@ con el retrato de CASILDA, grande</stage>
 <l>abrasándose de celos.</l>
 <l>Adiós.</l>
 <l>'Váyase ANTÓN'</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>No han hecho los cielos</l>
 <l>cosa, señor, como ésta.</l>
 <l>¡Bellos ojos! ¡Linda boca!</l>
 <l>¿De dónde es esta mujer?</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>No acertarla a conocer</l>
 <l>a imaginar me provoca</l>
 <l>que no está bien retratada--</l>
 <l>porque dónde vos nació.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿En ócaña?</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Sí.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pues yo</l>
 <l>conozco una desposada</l>
 <l>a quien algo se parece.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Yo no sé quién es, mas sé</l>
 <l>que a hurto la retraté,</l>
 <l>no como agora se ofrece,</l>
 <l>mas en un naipe. De allí</l>
 <l>a este lienzo la he pasado.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Ya sé quién la ha retratado.</l>
 <l>Si acierto, ¿diréislo?</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Sí.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>El Comendador de Ocaña.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Por saber que ella no sabe</l>
 <l>el amor de hombre tan grave,</l>
 <l>que es de lo mejor de España,</l>
 <l>me atrevo a decir que es él.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Luego, ¿ella no es sabidora?</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Como vos antes de agora;</l>
 <l>antes, por ser tan fiel,</l>
 <l>tanto trabajo costó</l>
 <l>el poderla retratar.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Queréismela a mi fiar,</l>
 <l>y llevársela yo?</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>No me han pagado el dinero.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Yo os daré todo el valor.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Temo que el Comendador</l>
 <l>se enoje, y mañana espero</l>
 <l>un lacayo suyo aquí.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pues, ¿sábelo ese lacayo?</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Anda veloz como un rayo</l>
 <l>por rendirla.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Ayer le vi,</l>
 <l>y le quise conocer.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>¿Mandáis otra cosa?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>En tanto</l>
 <l>que nos reparáis el santo,</l>
 <l>tengo de venir a ver</l>
 <l>mil veces este retrato.</l></sp>
-<sp><speaker>PINTOR</speaker>
+<sp who="#pintor_peri" ana="m"><speaker>PINTOR</speaker>
 <l>Como fuéredes servido.</l>
 <l>Adiós.</l></sp>
 <stage>Vase el PINTOR</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Qué he visto y oído</l>
 <l>cielo airado, tiempo ingrato?</l>
 <l>Mas si de este falso trato</l>
@@ -2478,7 +2475,7 @@ con el retrato de CASILDA, grande</stage>
 <l>la codiciara también.</l>
 <l>¡Mal haya el humilde, amén,</l>
 <l>que busca mujer hermosa!</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Don Fadrique me retrata</l>
 <l>a mi mujer, luego ya</l>
 <l>haciendo dibujo está</l>
@@ -2513,32 +2510,32 @@ con el retrato de CASILDA, grande</stage>
 <stage>Salen LEONARDO
 y el COMENDADOR</stage>
 </sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Por esta casta, como digo, manda</l>
 <l>su majestad,Leonardo que le envíe</l>
 <l>de Ocaña y de su tierra alguna gente.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>¡Y qué piensas hacer?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Que se echen bandos</l>
 <l>y que se alisten de valientes mozos</l>
 <l>hasta doscientos hombres, repartidos</l>
 <l>en dos lucida compañías, ciento</l>
 <l>de gente labradora y ciento hidalgos.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>¿Y no será mejor hidalgos todos?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>No caminas al paso de mi intento,</l>
 <l>y así vas lejos de mi pensamiento.</l>
 <l>De estos cien labradores hacer quiero</l>
 <l>cabeza y capitán a Peribáñez,</l>
 <l>y con esta invención tenelle ausente.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>¡Extrañas cosas piensan los amantes!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Amor es guerra y cuanto piensa, ardides.</l>
 <l>¿Si habrá venido ya?</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Luján me dijo</l>
 <l>que a comer le esperaban y que estaba</l>
 <l>Casilda llena de congoja y miedo.</l>
@@ -2549,12 +2546,12 @@ y el COMENDADOR</stage>
 <l>a que, viéndola triste y afligida,</l>
 <l>no se atreviese a declarar su pecho,</l>
 <l>lo que después para servirte haría.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>¡Rigurosa mujer! ¡Maldiga el cielo</l>
 <l>el punto en que caí, pues no he podido</l>
 <l>desde entonces, Leonardo, levantarme</l>
 <l>de los umbrales de su puerta!</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Calla,</l>
 <l>que más fuerte era Troya y la conquista</l>
 <l>derribó sus murallas por el suelo.</l>
@@ -2563,22 +2560,22 @@ y el COMENDADOR</stage>
 <l>niegan, señor, lo mismo que desean.</l>
 <l>Ausenta a su marido honradamente,</l>
 <l>que tú verás el fin de tu deseo.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Quiéralo mi ventura, que te juro</l>
 <l>que, habiendo sido en tantas ocasiones</l>
 <l>tan animoso como sabe el mundo,</l>
 <l>en ésta voy con un temor notable.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Bueno será saber si Pedro viene.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Parte, Leonardo, y de tu Inés te informa,</l>
 <l>sin que pases la calle ni levantes</l>
 <l>los ojos a ventana o puerta suya.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Exceso es ya tan gran desconfianza,</l>
 <l>porque ninguno amó sin esperanza.</l></sp>
 <stage>Vase LEONARDO</stage>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Cuentan de un rey que a un árbol adoraba,</l>
 <l>y que un mancebo a un mármol asistía,</l>
 <l>a quien, sin dividirse noche y día,</l>
@@ -2596,19 +2593,19 @@ y el COMENDADOR</stage>
 <stage>Vase.</stage>
 <stage>Salen PERIBÁÑEZ y ANTÓN</stage>
 </sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Vos os podéis ir, Antón,</l>
 <l>a vuestra casa, que es justo.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>Y vos, ¿no fuera razón?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Ver mis segadores gusto,</l>
 <l>pues llego a buena ocasión.</l>
 <l>que la haza cae aquí.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <l>¿Y no fuera mejor haza</l>
 <l>vuestra Casilda?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Es ansí,</l>
 <l>pero quiero darles traza</l>
 <l>de lo que han de hacer, por mí.</l>
@@ -2616,14 +2613,14 @@ y el COMENDADOR</stage>
 <l>y a la mía así de paso</l>
 <l>decid que me quedo a ver</l>
 <l>nuestra hacienda.</l></sp>
-<sp><speaker>ANTÓN</speaker>
+<sp who="#antón_peri" ana="m"><speaker>ANTÓN</speaker>
 <stage>Aparte</stage>
 <l>¡Extraño caso!</l>
 <l>No quiero darle a entender</l>
 <l>que entiendo su pensamiento.</l>
 <l>Quedad con Dios.</l></sp>
 <stage>Vase ANTÓN</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Él os guarde.</l>
 <l>Tanta es la afrenta que siento,</l>
 <l>que sólo por entrar tarde</l>
@@ -2655,30 +2652,30 @@ y el COMENDADOR</stage>
 <l>porque en ajeno instrumento</l>
 <l>comienza el alma a llorar.</l>
 <l>Dentro grita como que siegan</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>Date más priesa, Bartol,</l>
 <l>mira que la noche baja,</l>
 <l>y se va a poner el sol.</l></sp>
-<sp><speaker>BARTOLO</speaker>
+<sp who="#bartolo_peri" ana="m"><speaker>BARTOLO</speaker>
 <l>Bien cena quien bien trabaja,</l>
 <l>dice el refrán español.</l></sp>
-<sp><speaker>LLORENTE</speaker>
+<sp who="#llorente_peri" ana="m"><speaker>LLORENTE</speaker>
 <l>Échote una pulla, Andrés:</l>
 <l>que te bebas media azumbre.</l></sp>
-<sp><speaker>CHAPARRO</speaker>
+<sp who="#chaparro_peri" ana="m"><speaker>CHAPARRO</speaker>
 <l>Échame otras dos, Ginés.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Todo me da pesadumbre,</l>
 <l>todo mi desdicha es.</l></sp>
-<sp><speaker>MENDO</speaker>
+<sp who="#mendo_peri" ana="m"><speaker>MENDO</speaker>
 <l>Canta, Llorente, el cantar</l>
 <l>de la mujer de muesamo.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Qué tengo más que esperar?</l>
 <l>La vida, cielos, desamo.</l>
    <l>¿Quién me la quiere quitar?</l></sp>
 <stage>Canta un SEGADOR</stage>
-<sp><speaker>SEGADOR</speaker>
+<sp who="segador_peri" ana="m"><speaker>SEGADOR</speaker>
 <l>"La mujer de Peribáñez</l>
 <l>hermosa es a maravilla;</l>
 <l>el Comendador de Ocaña</l>
@@ -2691,7 +2688,7 @@ y el COMENDADOR</stage>
 <l>con su capa la pardilla,</l>
 <l>que no a vos, Comendador,</l>
 <l>con la vuesa guarnecida."</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Notable aliento he cobrado</l>
 <l>con oír esta canción,</l>
 <l>porque lo que ésta ha cantado</l>
@@ -2710,64 +2707,64 @@ y el COMENDADOR</stage>
 <stage>Vase.</stage>
 <stage>Salen INÉS y CASILDA</stage>
 </sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Tú me habías de decir</l>
 <l>desatino semejante?</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Deja que pase adelante.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Ya, ¿cómo te puedo oír?</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Prima, no me has entendido,</l>
 <l>y este preciarte de amar</l>
 <l>a Pedro te hace pensar</l>
 <l>que ya está Pedro ofendido.</l>
 <l>Lo que yo te digo a ti</l>
 <l>es cosa que a mí me toca.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿A ti?</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Sí.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Yo estaba loca.</l>
 <l>Pues si a ti te toca, di.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Leonardo, aquel caballero</l>
 <l>del Comendador, me ama</l>
 <l>y por su mujer me quiere.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Mira, prima, que te engaña.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Yo sé, Casilda, que soy</l>
 <l>su misma vida.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Repara</l>
 <l>que son sirenas los hombres,</l>
 <l>que para matarnos cantan.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Yo tengo cédula suya.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Inés, plumas y palabras</l>
 <l>todas se las lleva el viento.</l>
 <l>Muchas damas tiene Ocaña</l>
 <l>con ricos dotes, y tú</l>
 <l>ni eres muy rica ni hidalga.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Prima, si con el desdén</l>
 <l>que agora comienzas, tratas</l>
 <l>al señor Comendador,</l>
 <l>falsas son mis esperanzas,</l>
 <l>todo mi remedio impides.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Ves, Inés, cómo te engañas,</l>
 <l>pues por que me digas eso</l>
 <l>quiere fingir que te ama?</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Hablar bien no quita honor,</l>
 <l>que yo no digo que salgas</l>
 <l>a recibirle a la puerta</l>
 <l>ni a verle por la ventana.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Si te importara la vida,</l>
 <l>no le mirara la cara.</l>
 <l>Y advierte que no le nombres,</l>
@@ -2776,37 +2773,37 @@ y el COMENDADOR</stage>
 <l>y de las locas palabras</l>
 <l>vienen las infames obras.</l></sp>
 <stage>PERIBÁÑEZ con unas alforjas en las manos</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¡Esposa!</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¡Luz de mi alma!</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Estás buena?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Estoy sin ti.</l>
 <l>¿Vienes bueno?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>El verte basta</l>
 <l>para que salud me sobre.</l>
 <l>¡Prima!</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>¡Primo!</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿Qué me falta,</l>
 <l>si juntas os veo?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Estoy</l>
 <l>a nuestra Inés obligada,</l>
 <l>que me ha hecho compañía</l>
 <l>lo que has faltado de Ocaña.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>A su casamiento rompas</l>
 <l>dos chinelas argentadas,</l>
 <l>y yo los zapatos nuevos</l>
 <l>que siempre en bodas se calzan.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Qué me traes de Toledo?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Deseos, que por ser carga</l>
 <l>tan pesada, no he podido</l>
 <l>traerte joyas ni galas.</l>
@@ -2818,27 +2815,27 @@ y el COMENDADOR</stage>
 <l>y para prender las sayas</l>
 <l>dos cintas de vara y media</l>
 <l>con sus herretes de plata.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Mil años te guarde el cielo.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Sucedióme una desgracia,</l>
 <l>que a la fe que fue milagro</l>
 <l>llegar con vida a mi casa.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¡Ay, Jesús! Toda me turbas.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Caí de unas cuestas altas</l>
 <l>sobre una piedras.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿Qué dices?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Que si no me encomendara</l>
 <l>al santo en cuyo servicio</l>
 <l>caí de la yegua baya,</l>
 <l>a estas horas estoy muerto.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Toda me tienes helada.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Prometíle la mejor</l>
 <l>prenda que hubiese en mi casa</l>
 <l>para honor de su capilla,</l>
@@ -2848,11 +2845,11 @@ y el COMENDADOR</stage>
 <l>y cuelguen en las paredes</l>
 <l>de aquella su ermita santa</l>
 <l>en justo agradecimiento.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Si fueran paños de Francia,</l>
 <l>de oro, seda, perlas, piedras,</l>
 <l>no replicara palabra.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pienso que nos está bien</l>
 <l>que no están en nuestra casa</l>
 <l>paños con armas ajenas;</l>
@@ -2885,37 +2882,37 @@ y el COMENDADOR</stage>
 <l>Pero no quisiera nada.</l>
 <l>Vamos a cenar, Casilda,</l>
 <l>y apercíbanme la cama.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>¿No estás bueno?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Bueno estoy.</l></sp>
 <stage>Sale LUJÁN</stage>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Aquí un criado te aguarda</l>
 <l>del Comendador.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¿De quién?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Del Comendador de Ocaña.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pues, ¿qué me quiere a estas horas?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Eso sabrás si le hablas.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>¡Eres tú aquel segador</l>
 <l>que anteayer entró en mi casa?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>¿Tan presto me desconoces?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Donde tantos hombres andan,</l>
 <l>no te espantes.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <stage>Aparte</stage>
 <l>Malo es esto.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <stage>Aparte</stage>
 <l>Con muchos sentidos habla.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <stage>Aparte</stage>
 <l>¿El Comendador a mí?</l>
 <l>¡Ay, honra, al cuidado ingrata!</l>
@@ -2923,22 +2920,22 @@ y el COMENDADOR</stage>
 <l>cualquiera golpe le basta.</l></sp>
 <stage>Vase.</stage>
 </div>
-         <div type="act" n="III">
+         <div type="act" n="III" part="N" org="uniform" sample="complete">
 <stage>Salen el COMENDADOR y LEONARDO</stage>
 
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Cuéntame, Leonardo, breve</l>
 <l>lo que ha pasado en Toledo.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Lo que referirte puedo,</l>
 <l>puesto que a ceñirlo pruebe</l>
 <l>en las más breves razones,</l>
 <l>quiere más paciencia.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Advierte</l>
 <l>que soy un sano a la muerte,</l>
 <l>y qué remedios me pones.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>El rey Enrique el Tercero,</l>
 <l>que hoy Justiciero llaman,</l>
 <l>porque Catón y Aristides</l>
@@ -2963,7 +2960,7 @@ y el COMENDADOR</stage>
 <l>donde al presente se hallan</l>
 <l>prelados y caballeros,</l>
 <l>villas y ciudades varias.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Digo sus procuradores,</l>
 <l>donde en su real alcázar</l>
 <l>la disposición de todo</l>
@@ -2988,7 +2985,7 @@ y el COMENDADOR</stage>
 <l>primos del rey, que bastaban,</l>
 <l>no de Granada, de Troya</l>
 <l>ser incendio sus espadas;</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Ruy López de Ávalos, grande</l>
 <l>por la dicha y por las armas,</l>
 <l>Condestable de Castilla,</l>
@@ -3012,18 +3009,18 @@ y el COMENDADOR</stage>
 <l>Pero Sánchez del Castillo,</l>
 <l>Rodríguez de Salamanca,</l>
 <l>Periáñez...</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Detente.</l>
 <l>Qué Periáñez? Aguarda,</l>
 <l>que la sangre se me hiela</l>
 <l>con ese nombre.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Oh qué gracia!</l>
 <l>Háblote de los oidores</l>
 <l>del Rey y del que se llama</l>
 <l>Peribáñez, imaginas</l>
 <l>que es el labrador de Ocaña.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Si hasta agora te pedía</l>
 <l>la relación y la causa</l>
 <l>la jornada del Rey,</l>
@@ -3034,9 +3031,9 @@ y el COMENDADOR</stage>
 <l>a las fronteras que guardan,</l>
 <l>con favor del granadino,</l>
 <l>los que le niegan las parias?</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Eso es todo.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Pues advierte</l>
 <l>no lo que me es de importancia</l>
 <l>que mientras fuiste a Toledo</l>
@@ -3055,42 +3052,42 @@ y el COMENDADOR</stage>
 <l>ayer, Leonardo, a la plaza,</l>
 <l>hoy, según Luján me ha dicho,</l>
 <l>con ella a Toledo marcha.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Buena te deja a Casilda,</l>
 <l>tan villana y tan ingrata</l>
 <l>como siempre!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Sí, mas mira</l>
 <l>que amor en ausencia larga</l>
 <l>hará el efeto que suele</l>
 <l>en piedra el curso del agua.</l>
 <l>Tocan cajas</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>¿Pero qué cajas son éstas?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>No dudes que son sus cajas.</l>
 <l>Tu alférez trae los hidalgos.</l>
 <l>Toma, Leonardo, tus armas,</l>
 <l>por que mejor le engañemos,</l>
 <l>para que a la vista salgas</l>
 <l>también con tu compañía.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Ya llegan. Aquí me aguarda.</l></sp>
 <stage>Vase Leonardo. Sale una compañía de labradores,armados graciosamente, y detrás PERIBÁÑEZ</stage>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>No me quise despedir</l>
 <l>sin ver a su señoría.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Estimo la cortesía.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Yo os voy, señor, a servir.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Decid al Rey mi señor.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Al Rey y a vos...</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Está bien.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>...que al Rey es justo, y también</l>
 <l>a vos, por quien tengo honor;</l>
 <l>que yo, cuándo mereciera</l>
@@ -3102,57 +3099,57 @@ y el COMENDADOR</stage>
 <l>porque su estatura excede</l>
 <l>todos mis cinco sentidos?</l>
 <l>Guárdeos muchos años Dios.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Y os traiga, Pedro, con bien.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Vengo bien vestido?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Bien.</l>
 <l>No hay diferencia en los dos.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Sola una cosa querría.</l>
 <l>No sé si a vos os agrada.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Decid, a ver.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Que la espada</l>
 <l>me ciña su señoría,</l>
 <l>para que ansí vaya honrado.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Mostrad, haréos caballero,</l>
 <l>que de esos bríos espero,</l>
 <l>Pedro, un valiente soldado.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pardiez, señor, hela aquí!</l>
 <l>Cíñamela su mercé.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Esperad, os la pondré,</l>
 <l>por que la llevéis por mí.</l></sp>
-<sp><speaker>BELARDO</speaker>
+<sp who="#belardo_peri" ana="m"><speaker>BELARDO</speaker>
 <l>Híncate, Blas, de rodillas;</l>
 <l>que le quieren her hidalgo.</l></sp>
-<sp><speaker>BLAS</speaker>
+<sp who="#blas_peri" ana="m"><speaker>BLAS</speaker>
 <l>Pues</l>
 <l>quedará falto en algo?</l></sp>
-<sp><speaker>BELARDO</speaker>
+<sp who="#belardo_peri" ana="m"><speaker>BELARDO</speaker>
 <l>En mucho, si no te humillas.</l></sp>
-<sp><speaker>BLAS</speaker>
+<sp who="#blas_peri" ana="m"><speaker>BLAS</speaker>
 <l>Belardo, vos, que sois viejo,</l>
 <l>hanle de dar con la espada?</l></sp>
-<sp><speaker>BELARDO</speaker>
+<sp who="#belardo_peri" ana="m"><speaker>BELARDO</speaker>
 <l>Yo de mi burra manchada,</l>
 <l>de su albarda y aparejo</l>
 <l>entiendo más que de armar</l>
 <l>caballeros de Castilla.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Ya os he puesto la cuchilla.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Qué falta agora?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Jurar</l>
 <l>que a Dios, supremo Señor,</l>
 <l>y al Rey serviréis con ella.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Eso juro, y de traella</l>
 <l>en defensa de mi honor,</l>
 <l>del cual, pues voy a la guerra,</l>
@@ -3183,16 +3180,16 @@ y el COMENDADOR</stage>
 <l>con este honor me dejáis,</l>
 <l>mirad cómo le guardáis,</l>
 <l>o quejaréme de vos.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Yo os doy licencia, si hiciere</l>
 <l>en guardarle deslealtad,</l>
 <l>que de mí os quejéis.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Marchad,</l>
 <l>y venga lo que viniere.</l>
 <stage>Vanse, marchando detrás</stage>
 <l>con graciosa arrogancia</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Algo confuso me deja</l>
 <l>el estilo con que habla,</l>
 <l>porque parece que entabla</l>
@@ -3211,20 +3208,20 @@ y el COMENDADOR</stage>
    <l>antes que amanezca el día.</l></sp>
 <stage>Vanse.</stage>
 <stage>Salen en lo alto COSTANZA,CASILDA y INÉS</stage>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>En fin</l>
 <l>se ausenta tu esposo?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Pedro a la guerra se va,</l>
 <l>que en la que me deja acá</l>
 <l>pudiera ser más famoso.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Casilda, no te enternezcas,</l>
 <l>que el nombre de capitán</l>
 <l>no comoquiera le dan.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Nunca estos nombres merezcas!</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>A fe que tiene razón</l>
 <l>Inés, que entre tus iguales</l>
 <l>nunca he visto cargos tales,</l>
@@ -3232,30 +3229,30 @@ y el COMENDADOR</stage>
 <l>Demás que tengo entendido</l>
 <l>que a Toledo solamente</l>
 <l>ha de llegar con la gente.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Pues si eso no hubiera sido,</l>
 <l>quedárame vida a mí?</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>La caja suena.</l>
 <l>Si es él?</l></sp>
-<sp><speaker>COSTANZA</speaker>
+<sp who="#costanza_peri" ana="f"><speaker>COSTANZA</speaker>
 <l>De los que se van con él</l>
 <l>ten lástima, y no de ti.</l>
 <l>La caja y salen PERIBÁÑEZ,</l>
 <l>con bandera, y los soldados</l></sp>
-<sp><speaker>BELARDO</speaker>
+<sp who="#belardo_peri" ana="m"><speaker>BELARDO</speaker>
 <l>Véislas allí en el balcón,</l>
 <l>que me remozo de vellas;</l>
 <l>mas ya no soy para ellas,</l>
 <l>ni ellas para mí lo son.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Tan viejo estáis ya, Belardo?</l></sp>
-<sp><speaker>BELARDO</speaker>
+<sp who="#belardo_peri" ana="m"><speaker>BELARDO</speaker>
 <l>El gusto se acabó ya.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Algo de él os quedará</l>
 <l>bajo del capote pardo.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Todo está bien prevenido.</l>
 <l>Mas dicen que en un lugar</l>
 <l>una parentela toda</l>
@@ -3273,42 +3270,42 @@ y el COMENDADOR</stage>
 <l>el cura le preguntó,</l>
 <l>dijo tres veces que no,</l>
 <l>y deshízose la boda.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Quieres decir que nos falta</l>
 <l>entre tantas prevenciones</l>
 <l>el sí de Casilda?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Pones</l>
 <l>el hombro a empresa muy alta</l>
 <l>de parte de su dureza</l>
 <l>y era menester el sí.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>No va mal trazado así;</l>
 <l>que su villana aspereza</l>
 <l>no se ha de rendir por ruegos;</l>
 <l>por engaños ha de ser.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Bien puede bien suceder,</l>
 <l>mas pienso que vamos ciegos.</l></sp>
-<stage>Salen un CRIADO y los MÚSICOS</stage>
-<sp><speaker>PAJE</speaker>
+<stage>Salen un PAJE y los MÚSICOS</stage>
+<sp who="#paje_peri" ana="m"><speaker>PAJE</speaker>
 <l>Los músicos han venido.</l></sp>
-<sp><speaker>MUSICO</speaker>
+            <sp who="#músico_peri" ana="m"><speaker>MÚSICO</speaker>
 <l>Aquí, señor, hasta el día,</l>
 <l>tiene vuesa señoría</l>
 <l>a Lisardo y a Leonido.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Oh amigos! Agradeced</l>
 <l>que este pensamiento os fío,</l>
 <l>que es de honor y, en fin, es mío.</l></sp>
-<sp><speaker>MUSICO</speaker>
+<sp who="#músico_peri" ana="m"><speaker>MÚSICO</speaker>
 <l>Siempre nos haces merced.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Dan las once?</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Una, dos, tres...</l>
 <l>No dio más.</l></sp>
-<sp><speaker>MÚSICO</speaker>
+<sp who="#músico_peri" ana="m"><speaker>MÚSICO</speaker>
 <l>Contaste mal.</l>
 <l>Ocho eran dadas.</l>
 <l>de veinte o treinta gallinas.</l>
@@ -3328,7 +3325,7 @@ y el COMENDADOR</stage>
 <l>y con requiebros tan ricos</l>
 <l>a los pechos por los picos</l>
 <l>las almas comunicar,</l></sp>
-<sp><speaker>MÚSICO</speaker>
+<sp who="#músico_peri" ana="m"><speaker>MÚSICO</speaker>
 <l>dije:</l>
 <l>Oh, maldígale Dios,</l>
 <l>aunque grave y altanero,</l>
@@ -3350,58 +3347,58 @@ y el COMENDADOR</stage>
 <l>En esta saca de harina</l>
 <l>me podré encubrir mejor,</l>
 <l>que si es el Comendador,</l>
-<l>lejos de aquí me imagina.</l>
-<l>Escóndese.</l></sp>
+   <l>lejos de aquí me imagina.</l></sp>
+<stage>Escóndese.</stage>
 <stage>Salen INÉS y CASILDA</stage>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Gente digo que he sentido.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Digo que te has engañado.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Tú con un hombre has hablado.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Yo?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Tú, pues.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Tú,</l>
 <l>lo has oído?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Pues si no hay malicia aquí,</l>
 <l>mira que serán ladrones.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Ladrones!</l>
 <l>Miedo me pones.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Da voces.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Yo no.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Yo sí.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Mira que es alborotar</l>
 <l>la vecindad sin razón.</l></sp>
 <stage>Salen el COMENDADOR Y LUJÁN</stage>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Ya no puede mi afición</l>
 <l>sufrir, temer ni callar.</l>
 <l>Yo soy el Comendador,</l>
 <l>yo soy tu señor.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No tengo</l>
 <l>señor más que a Pedro.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Vengo</l>
 <l>esclavo, aunque soy señor.</l>
 <l>Duélete de mí, o diré</l>
 <l>que te hallé con el lacayo</l>
 <l>que miras.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Temiendo el rayo,</l>
 <l>del trueno no me espanté.</l>
 <l>Pues, prima,</l>
 <l>tú me has vendido!</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Anda, que es locura agora,</l>
 <l>siendo pobre labradora,</l>
 <l>y un villano tu marido,</l>
@@ -3410,25 +3407,25 @@ y el COMENDADOR</stage>
 <l>en su vida, ya que está</l>
 <l>en casa, que no en tu honor.</l>
 <l>Peribáñez fue a Toledo.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Oh prima crüel y fiera,</l>
 <l>vuelta de prima, tercera!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Dejadme, a ver lo que puedo.</l>
 <l>A INÉS</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Dejémoslos, que es mejor.</l>
 <l>A solas se entenderán.</l></sp>
 <stage>Vanse</stage>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Mujer soy de un capitán,</l>
 <l>si vos sois comendador.</l>
 <l>Y no os acerquéis a mí,</l>
 <l>porque a bocados y a coces</l>
 <l>os haré...</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Paso, y sin voces.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Ay honra!</l>
 <stage>Aparte</stage>
 <l>Qué aguardo aquí?</l>
@@ -3439,50 +3436,50 @@ y el COMENDADOR</stage>
 <l>que la honra es encomienda</l>
 <l>de mayor autoridad.</l>
 <l>Hiere al COMENDADOR</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Jesús!</l>
 <l>Muerto soy!</l>
 <l>Piedad!</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>No temas, querida prenda,</l>
 <l>mas sígueme por aquí.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No te hablo de turbada.</l>
 <stage>Vanse.</stage>
 <l>Siéntese el COMENDADOR en una silla</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Señor, tu sangre sagrada</l>
 <l>se duela agora de mí,</l>
 <l>pues me ha dejado la herida</l>
 <l>pedir perdón a un vasallo.</l></sp>
 <stage>Sale LEONARDO</stage>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Todo en confusión lo hallo.</l>
 <l>Ah, Inés!</l>
 <l>Estás escondida?</l>
 <l>Inés!</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Voces oigo aquí.</l>
 <l>Quien llama?</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Yo soy, Inés.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Ay Leonardo!</l>
 <l>No me ves?</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Mi señor?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Leonardo, sí.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Qué te ha dado? Que parece</l>
 <l>que muy desmayado estás.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Dióme la muerte no más.</l>
 <l>Más el que ofende merece.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Herido!</l>
 <l>De quién?</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>No quiero</l>
 <l>voces ni venganzas ya.</l>
 <l>Mi vida en peligro está,</l>
@@ -3492,83 +3489,83 @@ y el COMENDADOR</stage>
 <l>Llévame a dar confesión</l>
 <l>y las venganzas dejemos.</l>
 <l>A Peribáñez perdono.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Que un villano te mató</l>
 <l>y que no lo vengo yo?</l>
 <l>Esto siento.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Yo le abono.</l>
 <l>No es villano, es caballero;</l>
 <l>que pues le ceñí la espada</l>
 <l>con la guarnición dorada,</l>
 <l>no ha empleado mal su acero.</l></sp>
-<sp><speaker>LEONARDO</speaker>
+<sp who="#leonardo_peri" ana="m"><speaker>LEONARDO</speaker>
 <l>Vamos, llamaré a la puerta</l>
 <l>del Remedio.</l></sp>
-<sp><speaker>COMENDADOR</speaker>
+<sp who="#comendador_peri" ana="m"><speaker>COMENDADOR</speaker>
 <l>Sólo es Dios.</l>
 <stage>Vanse.</stage>
 <stage>Salen LUJÁN, enharinado;
 INÉS, PERIBÁÑEZ, y CASILDA</stage>
 </sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Aquí moriréis los dos.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Ya estoy, sin heridas, muerta.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Desventurado Luján,</l>
 <l>dónde podrás esconderte?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Ya no se excusa tu muerte.</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Por qué, señor capitán?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Por fingido segador.</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Y a mí,</l>
 <l>por qué?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Por traidora.</l>
 <l>Huye LUJÁN, herido,</l>
 <l>y luego INÉS</l></sp>
-<sp><speaker>LUJÁN</speaker>
+<sp who="#luján_peri" ana="m"><speaker>LUJÁN</speaker>
 <l>Muerto soy!</l></sp>
-<sp><speaker>INÉS</speaker>
+<sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
 <l>Prima y señora!</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>No hay sangre donde hay honor.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Cayeron en el portal.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Muy justo ha sido el castigo.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>No irás, Casilda, conmigo?</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Tuya soy al bien o al mal.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>A las ancas de esa yegua</l>
 <l>amanecerás conmigo</l>
 <l>en Toledo.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Y a pie, digo.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Tierra en medio es buena tregua</l>
 <l>en todo acontecimiento,</l>
 <l>y no aguardar al rigor.</l></sp>
-<sp><speaker>CASILDA</speaker>
+<sp who="#casilda_peri" ana="f"><speaker>CASILDA</speaker>
 <l>Dios haya al Comendador.</l>
 <l>Matóle su atrevimiento.</l>
 <stage>Vanse.</stage>
 <stage>Salen el REY Enrique
 y el CONDESTABLE</stage>
 </sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Alégrame de ver con qué alegría</l>
 <l>Castilla toda a la jornada viene.</l></sp>
-<sp><speaker>CONDESTABLE</speaker>
+<sp who="#condestable_peri" ana="m"><speaker>CONDESTABLE</speaker>
 <l>Aborrecen, señor, la monarquía</l>
 <l>que en nuestra España el africano tiene.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Libre pienso dejar la Andalucía,</l>
 <l>si el ejército nuestro se previene,</l>
 <l>antes que el duro invierno con su hielo</l>
@@ -3584,88 +3581,88 @@ y el CONDESTABLE</stage>
 <l>Tiemble en Granada el atrevido moro</l>
 <l>de las rojas banderas y pendones.</l>
 <l>Convierta su alegría en triste lloro.</l></sp>
-<sp><speaker>CONDESTABLE</speaker>
+<sp who="#condestable_peri" ana="m"><speaker>CONDESTABLE</speaker>
 <l>Hoy me verás formar los escuadrones.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>La Reina viene, su presencia adoro.</l>
 <l>No ayuda mal en estas ocasiones.</l></sp>
 <stage>Salen la REINA y acompañamiento</stage>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Si es de importancia, volveréme luego.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Cuando lo sea, que no os vais os ruego.</l>
 <l>Qué puedo yo tratar de paz, señora,</l>
 <l>en que vos no podáis darme consejo?</l>
 <l>Y si es de guerra lo que trato agora,</l>
 <l>cuándo con vos, mi bien, no me aconsejo?</l>
 <l>Cómo queda don Juan?</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Por veros llora.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Guárdele Dios, que es un divino espejo</l>
 <l>donde se ven agora retratados,</l>
 <l>mejor que los presentes, los pasados.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>El príncipe don Juan es hijo vuestro;</l>
 <l>con esto sólo encarecido queda.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Mas con decir que es vuestro, siendo nuestro,</l>
 <l>él mismo dice la virtud que hereda.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Hágale el cielo en imitaros diestro,</l>
 <l>que con esto no más que le conceda,</l>
 <l>le ha dado todo el bien que le deseo.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>De vuestro generoso amor lo creo.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Como tiene dos años, le quisiera</l>
 <l>de edad que esta jornada acompañara</l>
 <l>vuestras banderas.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Ojalá pudiera,</l>
 <l>y a ensalzar la de Cristo comenzara!</l></sp>
 <stage>Sale GÓMEZ Manrique</stage>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Qué caja es esa?</l></sp>
-<sp><speaker>GÓMEZ</speaker>
+<sp who="#gómez_peri" ana="m"><speaker>GÓMEZ</speaker>
 <l>Gente de la Vera</l>
 <l>y Extremadura.</l></sp>
-<sp><speaker>CONDESTABLE</speaker>
+<sp who="#condestable_peri" ana="m"><speaker>CONDESTABLE</speaker>
 <l>De Guadalajara</l>
 <l>y Atienza pasa gente.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Y la de Ocaña?</l></sp>
-<sp><speaker>GÓMEZ</speaker>
+<sp who="#gómez_peri" ana="m"><speaker>GÓMEZ</speaker>
 <l>Quédase atrás por una triste hazaña.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Cómo?</l></sp>
-<sp><speaker>GÓMEZ</speaker>
+<sp who="#gómez_peri" ana="m"><speaker>GÓMEZ</speaker>
 <l>Dice la gente que ha llegado</l>
 <l>que a don Fadrique un labrador ha muerto.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>A don Fadrique y al mejor soldado</l>
 <l>que trujo roja cruz?</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Cierto?</l></sp>
-<sp><speaker>GÓMEZ</speaker>
+<sp who="#gómez_peri" ana="m"><speaker>GÓMEZ</speaker>
 <l>Y muy cierto.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>En el alma, señora, me ha pesado.</l>
 <l>Cómo fue tan notable desconcierto?</l></sp>
-<sp><speaker>GÓMEZ</speaker>
+<sp who="#gómez_peri" ana="m"><speaker>GÓMEZ</speaker>
 <l>Por celos.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Fueron justos?</l></sp>
-<sp><speaker>GÓMEZ</speaker>
+<sp who="#gómez_peri" ana="m"><speaker>GÓMEZ</speaker>
 <l>Fueron locos.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Celos, señor, y cuerdos, habrá pocos.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Está preso el villano?</l></sp>
-<sp><speaker>GÓMEZ</speaker>
+<sp who="#gómez_peri" ana="m"><speaker>GÓMEZ</speaker>
 <l>Huyóse luego</l>
 <l>con su mujer.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Qué desvergüenza extraña!</l>
 <l>Con estas nuevas a Toledo llego?</l>
 <l>Así de mi justicia tiembla España?</l>
@@ -3676,21 +3673,21 @@ y el CONDESTABLE</stage>
 <l>Id luego y que ninguno los encubra</l>
 <l>ni pueda dar sustento ni otra cosa,</l>
 <l>so pena de la vida.</l></sp>
-<sp><speaker>GÓMEZ</speaker>
+<sp who="#gómez_peri" ana="m"><speaker>GÓMEZ</speaker>
 <l>Voy.</l></sp>
 <stage>Vase</stage>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Que cubra</l>
 <l>el cielo aquella mano rigurosa!</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Confiad que tan presto se descubra,</l>
 <l>cuanto llega la fama codiciosa</l>
 <l>del oro prometido.</l></sp>
 <stage>Sale un PAJE</stage>
-<sp><speaker>PAJE</speaker>
+<sp who="#paje_peri" ana="m"><speaker>PAJE</speaker>
 <l>Aquí está Arceo,</l>
 <l>acabado el guión.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Verle deseo.</l>
 <stage>Sale un SECRETARIO</stage>
 <l>con un pendón rojo,</l>
@@ -3699,71 +3696,71 @@ y el CONDESTABLE</stage>
 <l>arriba que tiene una espada,</l>
 <l>y en la otra banda</l>
 <l>un Cristo crucificado</l></sp>
-<sp><speaker>SECRETARIO</speaker>
+<sp who="#secretario_peri" ana="m"><speaker>SECRETARIO</speaker>
 <l>Éste es, señor, el guión.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Mostrad. Paréceme bien,</l>
 <l>que este capitán también</l>
 <l>lo fue de mi redención.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Qué dicen las letras?</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Dicen:</l>
 <l>Juzga tu causa, Señor.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Palabras son de temor.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Y es razón que atemoricen.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>De esotra parte</l>
 <l>qué está?</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>El castillo y el león,</l>
 <l>y esta mano por blasón,</l>
 <l>que va castigando ya.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>¿La letra?</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Sólo mi nombre.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Cómo?</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Enrique Justiciero,</l>
 <l>que ya, en lugar del Tercero,</l>
 <l>quiero que este nombre asombre.</l></sp>
 <stage>Sale GÓMEZ</stage>
-<sp><speaker>GÓMEZ</speaker>
+<sp who="#gómez_peri" ana="m"><speaker>GÓMEZ</speaker>
 <l>Ya se van dando pregones,</l>
 <l>con llanto de la ciudad.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Las piedras mueve a piedad.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Basta que los azadones</l>
 <l>a las cruces de Santiago</l>
 <l>se igualan!</l>
 <l>Cómo o por dónde?</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Triste de él si no se esconde!</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Voto y juramento hago</l>
 <l>de hacer en él un castigo</l>
 <l>que ponga al mundo temor.</l></sp>
 <stage>Sale un PAJE</stage>
-<sp><speaker>PAJE</speaker>
+<sp who="#paje_peri" ana="m"><speaker>PAJE</speaker>
 <l>Aquí dice un labrador</l>
 <l>que le importa hablar contigo.</l>
 <stage>Sale PERIBÁÑEZ, todo de labrador,
 con capa larga y su mujer, CASILDA</stage>
 </sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Señora, tomemos sillas.</l></sp>
-<sp><speaker>CONDESTABLE</speaker>
+<sp who="#condestable_peri" ana="m"><speaker>CONDESTABLE</speaker>
 <l>Éste algún aviso es.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Dame, gran señor, tus pies.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Habla, y no estés de rodillas.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Cómo, señor, puedo hablar,</l>
 <l>si me ha faltado la habla</l>
 <l>y turbados los sentidos</l>
@@ -3773,28 +3770,28 @@ con capa larga y su mujer, CASILDA</stage>
 <l>que tengo de tu justicia,</l>
 <l>comienzo tales palabras.</l>
 <l>Yo soy Peribáñez</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Quién?</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Peribáñez, el de Ocaña.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Matadle, guardas, matadle!</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>No en mis ojos. Tenéos, guardas.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Tened respeto a la Reina.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Pues ya que matarme mandas,</l>
 <l>no me oirás siquiera, Enrique,</l>
 <l>pues Justiciero te llaman?</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Bien dice. Oílde, señor.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Bien decís; no me acordaba</l>
 <l>que las partes se han de oír,</l>
 <l>y más cuando son tan flacas.</l>
 <l>Prosigue.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Yo soy un hombre,</l>
 <l>aunque de villana casta,</l>
 <l>limpio de sangre, y jamás</l>
@@ -3827,7 +3824,7 @@ con capa larga y su mujer, CASILDA</stage>
 <l>y de las paredes bajas</l>
 <l>quité las armas que al toro</l>
 <l>pudieran servir de capa.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Advertí mejor su intento,</l>
 <l>mas llamóme una mañana</l>
 <l>y díjome que tenía</l>
@@ -3866,14 +3863,14 @@ con capa larga y su mujer, CASILDA</stage>
 <l>que es quien agora la gana,</l>
 <l>porque viuda de mí,</l>
 <l>no pierda prenda tan alta.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Qué os parece?</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>Que he llorado,</l>
 <l>que es la respuesta que basta</l>
 <l>para ver que no es delito,</l>
 <l>sino valor.</l></sp>
-<sp><speaker>REY</speaker>
+<sp who="#rey_peri" ana="m"><speaker>REY</speaker>
 <l>Cosa extraña!</l>
 <l>Que un labrador tan humilde</l>
 <l>estime tanto su fama!</l>
@@ -3893,15 +3890,15 @@ con capa larga y su mujer, CASILDA</stage>
 <l>de su persona, le doy</l>
 <l>licencia de traer armas</l>
 <l>defensivas y ofensivas.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Con razón todos te llaman</l>
 <l>don Enrique el Justiciero.</l></sp>
-<sp><speaker>REINA</speaker>
+<sp who="#reina_peri" ana="f"><speaker>REINA</speaker>
 <l>A vos, labradora honrada,</l>
 <l>os mando de mis vestidos</l>
 <l>cuatro, por que andéis con galas,</l>
 <l>siendo mujer de soldado.</l></sp>
-<sp><speaker>PERIBÁÑEZ</speaker>
+<sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Senado, con esto acaba</l>
 <l>la tragicomedia insigne</l>
 <l>del Comendador de Ocaña.</l></sp></div>
