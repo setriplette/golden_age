@@ -32,7 +32,7 @@ Pág\.\s.+\nE.+Carpio\n
     Find <l>(Acto\s[I]+)</l>
     Replace \1
     
-7. Grabbed my speakers with [A-ZÁÉÍÚÑ][A-ZÁÉÍÚÑ]+\s*[A-ZÁÉÍÚÑ]+
+7. Grabbed my speakers with [A-ZÁÉÍÓÚÑ][A-ZÁÉÍÓÚÑ]+\s*[A-ZÁÉÍÚÑ]+
 What do I do about the y (and) between some speaker names? They are in stage directions, so maybe I should get rid of the <l></l> around stage direction before I grab speakers.
 
 8. Remove <l> around stage directions
@@ -90,7 +90,7 @@ What do I do about the y (and) between some speaker names? They are in stage dir
     I do!
     
 16. Fix sp around stage directions
-    Find (</l>)(<stage>.+</stage>)</sp>
+    Find (</l>)(\n<stage>.+</stage>\n)</sp>
     Replace \1</sp>\2
     
     Check and see if this worked. Seems like it. Phew! Moved my first </sp> to the end.
