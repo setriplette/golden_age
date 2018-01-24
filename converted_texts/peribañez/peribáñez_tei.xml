@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../ODD/out/goldenAgeODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../ODD/out/goldenAgeODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -83,13 +83,13 @@ PERIBÁÑEZ; MÚSICOS, de labradores</stage>
 <sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
 <l>Por mi no sabréis qué son.</l></sp>
 <sp who="#inés_peri" ana="f"><speaker>INÉS</speaker>
-<l>Dicen que al amor los cielos</l>
+<l>Dicen que al <rs type="emotion" ana="noun">amor</rs> los cielos</l>
 <l>le dieron esta pensión.</l></sp>
 <sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
 <l>Sentaos, y alegrad el día</l>
 <l>en que sois uno los dos.</l></sp>
 <sp who="#peribáñez_peri" ana="m"><speaker>PERIBÁÑEZ</speaker>
-<l>Yo tengo harta alegría</l>
+<l>Yo tengo harta <rs type="emotion" ana="noun">alegría</rs></l>
 <l>en ver que me ha dado Dios</l>
 <l>tan hermosa compañía.</l></sp>
 <sp who="#cura_peri" ana="m"><speaker>CURA</speaker>
