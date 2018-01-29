@@ -36,17 +36,17 @@
 
 <div type="act" n="I" part="N" org="uniform" sample="complete">
 <stage>Sale DOÑA ELVIRA y CELIA.</stage>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Mil vidas quiero perder,</l>
 <l>bárbaro padre engañado.</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>Ya queda determinado</l>
 <l>en que has de ser su mujer.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Eso, ¿cómo puede ser,</l>
 <l>si la ley cristiana adoro,</l>
 <l>y el Rey de Sevilla es moro?</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>Ya lo ha mirado quien sabe,</l>
 <l>y aunque es negocio tan grave,</l>
 <l>no se ofende tu decoro;</l>
@@ -54,15 +54,15 @@
 <l>que como amor te tuviese,</l>
 <l>a nuestra Fe se volviese,</l>
 <l>y que en su aumento sería.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Si yo dejase la mía,</l>
 <l>¿no es el peligro mayor,</l>
 <l>teniéndole el mismo amor?</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>No, porque enseñada estás,</l>
 <l>ni es posible que jamás</l>
 <l>dieses en tan grande error.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>De los padres la obediencia</l>
 <l>ha de ser en cosas justas,</l>
 <l>que a las que son tan injustas</l>
@@ -81,13 +81,13 @@
 <l>a un moro Rey de Sevilla,</l>
 <l>que ha llegado hasta la orilla</l>
 <l>del Tajo con sus caballos.</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>Harto a sus nobles vasallos</l>
 <l>su pretensión maravilla,</l>
 <l>entre los cuales, alguno</l>
 <l>pudiera mejor honrarte,</l>
 <l>cuando quisiera casarte.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No quiero, Celia, a ninguno.</l>
 <l>Pero si el Rey importuno,</l>
 <l>a mi desdén y temor</l>
@@ -108,34 +108,34 @@
 <l>Celia, tú me has de ayudar</l>
 <l>para salir de Toledo;</l>
 <l>¿qué respondes?</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>Tengo miedo.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Ayúdame con callar.</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>Pues, ¿cómo piensas dejar</l>
 <l>la grandeza en que has nacido?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Mudando, Celia, el vestido</l>
 <l>se mudará la grandeza,</l>
 <l>pues era mayor bajeza</l>
 <l>rendirme a tan vil partido.</l></sp>
 <stage>Sale el REY DON ALFONSO, ZAIDE y AUDALLA, moros, y DON MANRIQUE.</stage>
-<sp who="#zaide_labrador"><speaker>ZAIDE</speaker>
+<sp who="#zaide_labrador" ana="m"><speaker>ZAIDE</speaker>
 <l>¿Podremos de esa suerte, Rey cristiano,</l>
 <l>besar la mano a nuestra Reina?</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>El día</l>
 <l>que me determiné que fuese vuestra</l>
 <l>os corre obligación.</l></sp>
-<sp who="#audalla_labrador"><speaker>AUDALLA</speaker>
+<sp who="#audalla_labrador" ana="f"><speaker>AUDALLA</speaker>
 <l>Dadnos, señora,</l>
 <l>las manos, aunque indignos de besarlas</l>
 <l>como a vasallos vuestros, los primeros</l>
 <l>que os reconocen por señora y reina</l>
 <l>de la parte mejor que tiene España,</l>
 <l>y el claro Betis con sus ondas baña.</l></sp>
-<sp who="#zaide_labrador"><speaker>ZAIDE</speaker>
+<sp who="#zaide_labrador" ana="m"><speaker>ZAIDE</speaker>
 <l>Vais a ser reina, no del Reino solo,</l>
 <l>sino de nuestras almas; vais, señora,</l>
 <l>a la mejor ciudad que mira Apolo,</l>
@@ -144,14 +144,14 @@
 <l>cuyas nieves el Sol apenas dora,</l>
 <l>y con tan verdes años que no alcanza</l>
 <l>toda su luz el fin de su esperanza.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Amigos, yo me tengo por dichosa</l>
 <l>en ser mujer de un príncipe que pudo</l>
 <l>obligar a mi padre, Rey cristiano,</l>
 <l>con ley tan diferente, Dios os guarde.</l></sp>
-<sp who="#audalla_labrador"><speaker>AUDALLA</speaker>
+<sp who="#audalla_labrador" ana="f"><speaker>AUDALLA</speaker>
 <l>¡Qué dulce sol en nuestros ojos arde!</l></sp>
-<sp who="#zaide_labrador"><speaker>ZAIDE</speaker>
+<sp who="#zaide_labrador" ana="m"><speaker>ZAIDE</speaker>
 <l>¡Qué divina belleza! Porque tengas</l>
 <l>mayor gusto, señora, desta dicha,</l>
 <l>que así puedes llamar tu casamiento,</l>
@@ -160,30 +160,30 @@
 <l>considerar si representa al vivo</l>
 <l>la Majestad Real, y le acompaña</l>
 <l>marcial aspecto, de los Reyes digno.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>De espacio le veré, guárdeos el cielo.</l></sp>
-<sp who="#audalla_labrador"><speaker>AUDALLA</speaker>
+<sp who="#audalla_labrador" ana="f"><speaker>AUDALLA</speaker>
 <l>Él quiera que tan presto te veamos</l>
 <l>con la corona insigne de Sevilla,</l>
 <l>cuanto lleguemos a la verde orilla</l>
 <l>del Betis, que te espera laureado</l>
 <l>de las perlas que el mar le ofrece y rinde.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>¿Qué os parece de Elvira?</l></sp>
-<sp who="#audalla_labrador"><speaker>AUDALLA</speaker>
+<sp who="#audalla_labrador" ana="f"><speaker>AUDALLA</speaker>
 <l>Que tendremos</l>
 <l>una estrella por reina, un sol, un cielo.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Venga luego, Almanzor, que ya querría</l>
 <l>darle mis brazos como hijo.</l></sp>
-<sp who="#audalla_labrador"><speaker>AUDALLA</speaker>
+<sp who="#audalla_labrador" ana="f"><speaker>AUDALLA</speaker>
 <l>Él tiene</l>
 <l>tal deseo de verte, que entretiene</l>
 <l>con mil desasosiegos la esperanza.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Paz con Castilla para siempre alcanza.</l></sp>
 <stage>Vanse todos, y queda solo DON MANRIQUE.</stage>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Cuando pudiera el dolor</l>
 <l>tener licencia de hablar,</l>
 <l>aun no me deja quejar</l>
@@ -208,7 +208,7 @@
 <l>estos bárbaros hiciste</l>
 <l>temblar, ¿cómo los temiste</l>
 <l>en tu más discreta edad?</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>¿Ha faltado la lealtad</l>
 <l>de los Castellanos? No;</l>
 <l>fe pienso que te faltó</l>
@@ -226,7 +226,7 @@
 <l>¿Cómo vivir me permites</l>
 <l>para que lo pueda ver?</l></sp>
 <stage>Sale DOÑA ELVIRA con rebociño y sombrero.</stage>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>En tal desesperación</l>
 <l>todo lo atropello y dejo,</l>
 <l>porque es el mejor consejo</l>
@@ -245,51 +245,51 @@
 <l>de mis desdichas y dél?</l>
 <l>Noche, dame tu favor,</l>
 <l>y ayuda mi atrevimiento.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Pasos parece que siento,</l>
 <l>¿quién va?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿No lo veis, señor?</l>
 <l>Una mujer sola soy,</l>
 <l>que no os da que recelar.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Oíd.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Dejadme pasar,</l>
 <l>en grande peligro estoy.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>¡Del Alcázar a estas horas</l>
 <l>mujer! Yo os tengo de ver.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Recelos de una mujer,</l>
 <l>¿adónde hay tantas señoras?</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Pues, ¿a quién servís aquí,</l>
 <l>que lo niega el buen olor?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Dejadme pasar, señor,</l>
 <l>y no reparéis en mí,</l>
 <l>que solo a saber entré</l>
 <l>si está aquí un hombre celosa.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>¿De fuera sois?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Pues no es cosa</l>
 <l>fácil de entender?</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>No sé.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Eso es ya descortesía.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>¿Y si os quiero acompañar?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>De aquí no habéis de faltar.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>¿Por qué?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¡Qué necia porfía!</l></sp>
 <stage>Vase.</stage>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Por Dios que fue necedad</l>
 <l>no reconocerla bien,</l>
 <l>que aunque mostraba desdén,</l>
@@ -306,7 +306,7 @@
 <l>que sirviera de consuelo</l>
 <l>a tus celos, y aun recelo</l>
 <l>que tú me lo hubieras dado.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Rejas, lastimaos de mí,</l>
 <l>pues no me puedo apartar</l>
 <l>de vosotras y el lugar</l>
@@ -324,47 +324,47 @@
 <l>por no dejarme entender,</l>
 <l>no puedo atreverme a tanto.</l></sp>
 <stage>Vase, salen DORISTO y FILENO, labradores.</stage>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Ataste bien los pollinos?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Como tengan que pacer,</l>
 <l>ellos se sabrán tener.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Anda gente en los caminos,</l>
 <l>y en sintiendo bestias, suelen</l>
 <l>irse tras ellas.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No harán,</l>
 <l>dormid, seguros están,</l>
 <l>no temáis que vos desvelen.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Ya poco debe de haber</l>
 <l>de aquí al Alba.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Echaos ahí.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Pon las alforjas aquí.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Dormid, Doristo, a pracer.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Qué has comprado en el mercado?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Vale tan caro en Toledo,</l>
 <l>que apenas jurarvos puedo,</l>
 <l>que unas cintas he comprado.</l>
 <l>Concertaba unos breviescos,</l>
 <l>y no alcanzó la soldada</l>
 <l>de un año, pues una espada...</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Breviescos?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Par Dios, tan frescos,</l>
 <l>que ponérselos podía</l>
 <l>la misma Infanta.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Ya el sueño</l>
 <l>me coge.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Para mi dueño,</l>
 <l>si Dios quiere que algún día</l>
 <l>lleve una rica patena</l>
@@ -395,7 +395,7 @@
 <l>seculórum séculas,</l>
 <l>amén Jesús.</l></sp>
 <stage>En recostándose sale DOÑA ELVIRA.</stage>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Ánimo vil corazón,</l>
 <l>pues dicen que la mujer</l>
 <l>mayor le suele tener</l>
@@ -421,7 +421,7 @@
 <l>y un instante divertid</l>
 <l>la causa de mis cuidados.</l></sp>
 <stage>Échase junto a FILENO.</stage>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Paréceme, y no es en vano,</l>
 <l>que el Alba quiere reír;</l>
 <l>¡oh qué mal puede dormir</l>
@@ -440,28 +440,28 @@
 <l>desde el in principio al fin.</l>
 <l>¿Si se me olvidó algún santo?</l>
 <l>Hao Doristo.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Es hora?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Sí,</l>
 <l>porque antes de la del cielo,</l>
 <l>el Alba he visto reír.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Qué dices?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Que una señora</l>
 <l>ha dormido junto a mí,</l>
 <l>que parece entre claveles</l>
 <l>tiritaña de jazmín.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Has andado con la bota</l>
 <l>en ayunas? Que es gentil.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Si es vino lo que os he dicho,</l>
 <l>por los ojos le bebí.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Voto al Sol que es verdad.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Mira,</l>
 <l>qué serafín de marfil.</l>
 <l>Si esto es bota, voto al Sol</l>
@@ -469,75 +469,75 @@
 <l>que yo durmiese con ella</l>
 <l>sin sentirlo. Voto a mí,</l>
 <l>que si lo hubiera sentido.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Si despierta?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Creo que sí.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¡Ay cielos!, ¿qué gente es esta?</l>
 <l>Muerta soy, ¡ay Dios!</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Mentís,</l>
 <l>que más cerca estáis, señora,</l>
 <l>de matar que de morir;</l>
 <l>no os alteréis.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Quién sois, hombres?</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Hombres, como vos decís,</l>
 <l>y lo que os enseña el traje,</l>
 <l>tan sencillo como vil.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Vais o venís de Toledo?</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Venimos.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Qué vais en fin?</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>A nuestras casas.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Qué casas?</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>No están muy lejos de aquí,</l>
 <l>aunque en medio desos montes.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Desdichas con que nací</l>
 <l>me llevan desesperada,</l>
 <l>y solo os puedo decir</l>
 <l>que ganaréis en llevarme</l>
 <l>un alma.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>El cuerpo gentil,</l>
 <l>aunque soy pobre villano,</l>
 <l>podéis, señora, decir.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Mil joyas tengo que daros.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Bien decís, porque yo vi</l>
 <l>el aparador del cielo</l>
 <l>en esa tienda de abril.</l>
 <l>Doristo, yo he de llevarla.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Y si nos pueden seguir?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Los montes sé de memoria.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Qué determináis?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Venid,</l>
 <l>que aunque me maten por vos,</l>
 <l>será gloria para mí.</l>
 <stage>Vanse.</stage>
 <stage>Sale el REY, CELIA y DON MANRIQUE, y un Capitán.</stage>
 </sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>¿Esto guardaba el cielo</l>
 <l>a mis postreros años?</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Justamente</l>
 <l>crece tu desconsuelo</l>
 <l>haberle dado causa.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Solo siente</l>
 <l>mi alma haberle sido</l>
 <l>en alguna manera fementido.</l>
@@ -551,7 +551,7 @@
 <l>que pudiste avisarme y no lo has hecho,</l>
 <l>¿qué quieres que te diga?</l>
 <l>Bien fuera justo atravesarte el pecho.</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>Pues, ¿quién imaginara</l>
 <l>que tan crüel resolución tomara?</l>
 <l>Apenas prevenía</l>
@@ -572,17 +572,17 @@
 <l>porque no la impidiese con quejarme,</l>
 <l>salió donde se entiende,</l>
 <l>que el cielo por su causa la defiende.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>A decir no me atrevo,</l>
 <l>que yo la hablé, que yo la vi, que he sido</l>
 <l>quien más sentirlo debo.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Bien parece que el cielo está ofendido,</l>
 <l>que si él no la amparara,</l>
 <l>¿qué tierra en sus entrañas la guardara?</l>
 <l>Oh nunca yo tuviera</l>
 <l>pensamiento tan vil.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Señor, yo pienso</l>
 <l>que si el cielo no fuera</l>
 <l>su defensor, con su poder inmenso,</l>
@@ -592,7 +592,7 @@
 <l>con este, si bien Rey, bárbaro en todo,</l>
 <l>que no hay para buscalla</l>
 <l>a gusto de los cielos mejor modo.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Ya sabe el cielo santo</l>
 <l>mi segura intención, como mi llanto.</l>
 <l>Si Elvira pareciere</l>
@@ -602,7 +602,7 @@
 <l>que bien se ve que el cielo</l>
 <l>me castiga con tanto desconsuelo.</l></sp>
 <stage>Vase.</stage>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Ay, Celia, no es posible</l>
 <l>que creas lo que yo te diré agora.</l>
 <l>En pena tan terrible,</l>
@@ -617,26 +617,26 @@
 <l>pero no pude, que la hicieron día.</l>
 <l>Dirás que soy culpado,</l>
 <l>no lo fui yo, la culpa fue mi estrella.</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>¿Cómo habiéndola hablado</l>
 <l>no supiste, Manrique, conocella?</l>
 <l>Desdicha fue notable.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>¿Qué importa que la vea y que la hable,</l>
 <l>si el cielo la defiende?</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>Lo cierto es que tú no te atreviste.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Tu ignorancia me ofende,</l>
 <l>¿qué haré, Celia?, ¿qué haré?</l></sp>
-<sp who="#celia_labrador"><speaker>CELIA</speaker>
+<sp who="#celia_labrador" ana="f"><speaker>CELIA</speaker>
 <l>Vivir muy triste,</l>
 <l>pues tus ojos te culpan.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>La noche y la desdicha me disculpan.</l>
 <stage>Salen ALFONSO y LAURO, labradores con gabanes de seda y sombreros, medias de</stage>
 <l>color y jubones ricos.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>No te descompongas tanto,</l>
 <l>Lauro, así te guarde Dios,</l>
 <l>que ni el ser primos los dos,</l>
@@ -645,7 +645,7 @@
 <l>que no lleguemos a ser</l>
 <l>enemigos, hasta ver</l>
 <l>quien la ha de servir y amar.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Alfonso, en esta montaña</l>
 <l>hay solas dos caserías</l>
 <l>de nuestros padres, podrías,</l>
@@ -664,7 +664,7 @@
 <l>que de su verdad te advierte.</l>
 <l>Muero por ella y sería</l>
 <l>dejártela gran bajeza.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Yo pensé que en tu nobleza,</l>
 <l>Lauro, este gusto hallaría,</l>
 <l>que no ha sido preferirme,</l>
@@ -681,13 +681,13 @@
 <l>es imposible dejalla.</l>
 <l>Tú podrás, pues no te quiere,</l>
 <l>y está más puesto en razón.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Esa loca presunción,</l>
 <l>posesión injusta adquiere,</l>
 <l>que yo sé que a mí me adora.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿A ti?, ¿cómo?, ¿cuándo?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Advierte</l>
 <l>que presumir desa suerte</l>
 <l>ni merece ni enamora.</l>
@@ -695,20 +695,20 @@
 <l>cuando es fácil en amar,</l>
 <l>que tienen el olvidar</l>
 <l>como sombra del querer.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Si della tienes favor</l>
 <l>te quiero dejar la empresa.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>De que no entiendas, me pesa,</l>
 <l>que nació mujer Leonor.</l>
 <l>Yo no me quiero alabar,</l>
 <l>porque no es de hombres de bien.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿En fin de quererla bien</l>
 <l>no quieres, Lauro, dejar?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>No puedo, que sí querría.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Pues si habemos de reñir,</l>
 <l>lo que te quiero pedir,</l>
 <l>te merezca en cortesía.</l>
@@ -722,19 +722,19 @@
 <l>y que le codicio yo.</l>
 <l>No riñamos, pues no es bien,</l>
 <l>como villanos.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Yo quiero</l>
 <l>reñir como caballero.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Si tú quieres, yo también.</l>
 <l>Un criado viene aquí,</l>
 <l>que suele tener la llave.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>No la dará si lo sabe.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Que es para burlas le di.</l></sp>
 <stage>Sale DORISTO.</stage>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Doristo, Alfonso y yo estamos</l>
 <l>deseosos de saber</l>
 <l>las armas, que puede ser</l>
@@ -742,21 +742,21 @@
 <l>Querríamos esgrimir,</l>
 <l>por tu vida que nos des</l>
 <l>dos espadas.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Dos, y aun tres,</l>
 <l>pero no habéis de decir</l>
 <l>que yo las truje, a señor,</l>
 <l>no se enoje si lo sabe.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>No hayas miedo.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Voy.</l></sp>
 <stage>Vase.</stage>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Acabe</l>
 <l>mi vida amando a Leonor.</l>
 <l>Él va por ellas.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Yo creo,</l>
 <l>si este fue nuestro destino,</l>
 <l>que no habrá mejor camino</l>
@@ -770,43 +770,43 @@
 <l>ha crecido en ti y en mí</l>
 <l>la soberbia o la nobleza,</l>
 <l>quede el uno y sea señor.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>De tus presunciones temo,</l>
 <l>que como Rómulo y Remo,</l>
 <l>haces Italia a Leonor.</l></sp>
 <stage>Sale DORISTO con dos espadas.</stage>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Las dos mejores espadas</l>
 <l>pienso, Lauro, que escogí.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Esta es buena para mí.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Ambas las truje doradas.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Yo no tengo que escoger,</l>
 <l>porque las espadas son</l>
 <l>el temple del corazón,</l>
 <l>que es quien las ha de mover.</l>
 <l>Vete, Doristo, de aquí.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Luego, ¿no tengo de ver</l>
 <l>como esgrimís?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ha de ser</l>
 <l>en sabiéndolo.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Es ansí,</l>
 <l>pero ¿qué importa? ¿Soy yo</l>
 <l>algún capitán?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ven luego.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Necio he sido, estuve ciego,</l>
 <l>Lauro la color perdió.</l>
 <l>No me contenta la esgrima,</l>
 <l>alguno quiero llamar.</l></sp>
 <stage>Vase.</stage>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ya no tienes que aguardar,</l>
 <l>tu loca furia me anima,</l>
 <l>porque tanta confianza</l>
@@ -815,65 +815,65 @@
 <l>tal valor mi amor alcanza,</l>
 <l>que fueras un escuadrón</l>
 <l>de hombres.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Obra y habla menos,</l>
 <l>como lo han de hacer los buenos.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Mi sangre y mi amor lo son.</l></sp>
 <stage>Salen DORISTO y FILENO con hondas.</stage>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Digo que se están matando.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pardiez que tienes razón,</l>
 <l>despartamos la cuestión.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Cómo?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Comiendo y tirando</l>
 <l>los cayados en aceros,</l>
 <l>y en guarniciones las rejas</l>
 <l>huera digo.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>¿Son ovejas?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Fuera digo, caballeros.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ah villano.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿A mí villano?</l>
 <l>Bien pagas lo que me debes.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Pues, Fileno, ¿a mí te atreves?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Téngase todo cristiano.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Con hondas tiráis, groseros?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>¿Piedras tiráis?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Qué turrón.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Dejen luego la cuestión.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Huera digo, caballeros.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Lauro, dejémoslo así,</l>
 <l>que no faltará lugar.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Cuánto no es dejar de amar</l>
 <l>a Leonor, dejo por ti.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Podrá saber la ocasión</l>
 <l>desta pendencia, Fileno?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Tú te azoras?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Oh qué bueno,</l>
 <l>¿paréceos que era razón</l>
 <l>dejaros matar así?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>¿Y si muerto alguno hubieras?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No tiraba yo de veras,</l>
 <l>que no estoy huera de mí.</l>
 <l>La honda tiraba a tiento,</l>
@@ -883,24 +883,24 @@
 <l>Mas decidme la ocasión,</l>
 <l>¿por qué dos primos y hermanos</l>
 <l>habéis venido a las manos?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Amores y celos son.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Quiere Alfonso que no quiera</l>
 <l>a Leonor, y quiere amor</l>
 <l>que quiera a Leonor, Leonor</l>
 <l>desengañarme pudiera,</l>
 <l>pero escucha mis amores.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¿qué preguntas más?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>En la disculpa que das</l>
 <l>quieres más de mil Leonores.</l>
 <l>¿Pero lo cierto es que ama</l>
 <l>Leonor a Alfonso?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>No sé.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Aborrece y te daré</l>
 <l>una zagala de fama,</l>
 <l>que a casa truje de un monte,</l>
@@ -911,118 +911,118 @@
 <l>mas viéndome tan grosero,</l>
 <l>quiero dejar lo que quiero,</l>
 <l>y dártela, Lauro, a ti.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Pues, ¿a quién sirve?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>A señor.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Alfonso, ¿hasla visto?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Agora</l>
 <l>la oí nombrar.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Es señora</l>
 <l>de gran pergeño y valor,</l>
 <l>puesto que en humilde traje.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Si me agrada dejaré</l>
 <l>a Leonor.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Muy bien a fe.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pues cuando no la aventaje,</l>
 <l>yo me doy por mentecato.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Vámosla a ver.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Entra pues.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>¿Y cómo se llama?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Inés.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Buen nombre.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Es toda un retrato</l>
 <l>de un serafín de marfil.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Pues será sin destos celos.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Tiene en los ojos anzuelos.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>¿Pesca?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Agarra a lo sutil.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Toma, Doristo, la espada,</l>
 <l>porque no riña señor.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Pardiez, que viene Leonor</l>
 <l>de tu pendencia enojada.</l></sp>
 <stage>Vase LAURO y sale LEONOR, labradora rica.</stage>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Dicha he tenido en hallarte</l>
 <l>solo, que si a Lauro viera,</l>
 <l>pienso que mi amor supiera</l>
 <l>matarle y desagraviarte.</l>
 <l>¿Qué es esto?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Qué puede ser?</l>
 <l>Celos.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Dame aquesa espada.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Suelta.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Muestra.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Estás airada.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Prima, ¿qué quieres hacer?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Matar a Lauro.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Detente,</l>
 <l>que no es eso lo que dice</l>
 <l>Lauro.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Este amor contradice</l>
 <l>tu sospecha, y Lauro miente.</l>
 <l>Vete, Doristo, de aquí.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Si habéis de reñir también,</l>
 <l>llamaré a Fileno.</l></sp>
 <stage>Vase.</stage>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Bien.</l>
 <l>Ay, Leonor, muero por ti,</l>
 <l>¿no me dirás qué favor</l>
 <l>es este de que se alaba?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¿Él se alaba?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Agora acaba</l>
 <l>de persuadirme tu amor.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Tú no ves que es desatino,</l>
 <l>y que yo te adoro a ti.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Es aquel mi padre?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Sí.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Leonor, su enojo adivino,</l>
 <l>tú le puedes esperar.</l></sp>
 <stage>Vase y sale FELICIANO, viejo con DORISTO.</stage>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Para qué niegas, Doristo,</l>
 <l>lo que yo he sentido y visto?</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Porque me pude engañar,</l>
 <l>que dijeron que esgrimían.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Dónde está Alfonso, Leonor?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Al campo salió, señor,</l>
 <l>que dijeron que querían</l>
 <l>él y Lauro degollar</l>
@@ -1030,7 +1030,7 @@
 <l>puesto que los dos aquí</l>
 <l>no pueden armas hallar</l>
 <l>para matarlo, seguras.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Cuentan, que Apolo celoso</l>
 <l>de Adonis, mancebo hermoso,</l>
 <l>que en las de Arcadia espesuras,</l>
@@ -1040,15 +1040,15 @@
 <l>con razón tu ingenio daba</l>
 <l>a los celos ese nombre,</l>
 <l>que aún es más fiero animal.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>La causa interpretas mal.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Mal?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Sí, porque Alonso no es hombre</l>
 <l>que me estimara tan poco,</l>
 <l>que con su primo riñera.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Bien quiero yo que te quiera,</l>
 <l>mas no con amor tan loco.</l>
 <l>Ahora bien, pues ya cesó</l>
@@ -1066,22 +1066,22 @@
 <l>Vuélvete allá con tu madre,</l>
 <l>fidalgos viven allá</l>
 <l>con quien casarte.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Si ya</l>
 <l>te cansas de ser mi padre</l>
 <l>en lugar del que perdí,</l>
 <l>donde quisieres me envía.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Tú sabes si yo tenía</l>
 <l>hijo y dote para ti.</l></sp>
 <stage>Vase.</stage>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Si envían a la montaña</l>
 <l>por celos a Leonor bella,</l>
 <l>y me destierran con ella,</l>
 <l>la ocasión me desengaña.</l></sp>
 <stage>Salen LAURO y DOÑA ELVIRA en hábito de labradores, y FILENO.</stage>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Si de Leonor hasta aquí</l>
 <l>los ojos me enamoraron,</l>
 <l>todo su amor me quitaron</l>
@@ -1094,27 +1094,27 @@
 <l>que puede haber que te veo,</l>
 <l>que si un siglo de deseo</l>
 <l>fuera de Leonor amante.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Vete, Lauro, norabuena,</l>
 <l>que se lo diré a señor.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>De escuchar tu desamor</l>
 <l>me estoy muriendo de pena,</l>
 <l>¿a Lauro no quieres bien?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Yo, Fileno, estás en ti?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Habla, Fileno, por mí,</l>
 <l>ablanda tú su desdén.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿En efeto te agradó?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Muriéndome estoy por ella.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pues déjame hablar con ella.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Habla, que me turbo yo.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Inés, bien sé la ocasión</l>
 <l>porque a Lauro eres ingrata,</l>
 <l>y aunque la causa es tan justa,</l>
@@ -1134,7 +1134,7 @@
 <l>Agora creo el refrán</l>
 <l>que de vuestros gustos habla,</l>
 <l>siempre escogéis lo peor.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Fileno, tu confianza</l>
 <l>ha sido justa y discreta,</l>
 <l>en tus méritos fundada.</l>
@@ -1163,29 +1163,29 @@
 <l>llévame a Lauro de aquí,</l>
 <l>que bien podrás si le engañas,</l>
 <l>y verás lo que te estimo.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No pienso que se regala</l>
 <l>la cera al Sol como yo,</l>
 <l>oyéndote esas palabras;</l>
 <l>¿qué me quieres?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Qué te quiero?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Voy a hacer lo que me mandas,</l>
 <l>seguro de que eres mía.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Pues, ¿quién no adora esa cara?,</l>
 <l>¿quién no celebra ese ingenio?,</l>
 <l>¿esas piernas, esas gracias,</l>
 <l>esa limpieza y aseo?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Andallo mi Sabastiana,</l>
 <l>voto al Sol si en todo el valle</l>
 <l>hombre te mira ni habla,</l>
 <l>que le he de comer de celos.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Vete Fileno, ¿qué aguardas?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Lauro, Inés te quiere bien,</l>
 <l>pero dice que la tratas</l>
 <l>como a mujer sin favor,</l>
@@ -1195,7 +1195,7 @@
 <l>que las regalan y sirvan,</l>
 <l>con fiesta, música y galas,</l>
 <l>y otras cosas que se usan.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Bien dice, pero se engaña</l>
 <l>en pensar de mí, que soy</l>
 <l>de condición tan villana,</l>
@@ -1218,12 +1218,12 @@
 <l>que envidie Zocodover,</l>
 <l>y entre moros Vivarrambla.</l>
 <l>El domingo doy principio.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Vamos, que por oro y plata</l>
 <l>camina a la posesión</l>
 <l>lindamente la esperanza.</l></sp>
 <stage>Vanse.</stage>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Desiertos campos, soledad gustosa,</l>
 <l>líquidos, sonorosos arroyuelos</l>
 <l>que hacéis al prado cristalinos velos,</l>
@@ -1239,7 +1239,7 @@
 <l>que no están los contentos en el oro,</l>
 <l>sino al revés, el oro en los contentos.</l></sp>
 <stage>Sale ALFONSO.</stage>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Tanto enojo y tanta grita</l>
 <l>para cosa tan pequeña,</l>
 <l>nunca de su necedad</l>
@@ -1257,18 +1257,18 @@
 <l>pongan delante un espejo,</l>
 <l>y más con luna tan bella.</l>
 <l>¿Quién eres mujer del cielo?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Una mujer de la tierra</l>
 <l>que vino a servir aquí.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿A servir?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Pues, ¿qué os altera?</l>
 <l>¿Qué habéis visto agora en mí</l>
 <l>que serviros no merezca?</l>
 <l>¿No sois hijo de señor?,</l>
 <l>¿no sois Alfonso?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Quisiera</l>
 <l>ser hijo del rey Alfonso</l>
 <l>que hoy a Castilla gobierna,</l>
@@ -1277,49 +1277,49 @@
 <l>más morenas ya por ti,</l>
 <l>pues con ese sol las quemas,</l>
 <l>trujo Fileno?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Yo soy.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿De dónde eres?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No lo sepas</l>
 <l>por tu vida por agora,</l>
 <l>que no quiero que me tengas</l>
 <l>por arrogante.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>No haré,</l>
 <l>aunque digas que eres reina,</l>
 <l>porque lo pareces toda.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Es esta la vez primera</l>
 <l>que te veo y no es razón</l>
 <l>que hablarte tanto me vean,</l>
 <l>que no tendrá más valor</l>
 <l>una mujer forastera</l>
 <l>del que ella se diere a sí.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ya que quien eres me niegas,</l>
 <l>óyeme a mí que yo soy.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Ya lo sé, no me detengas.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ay, Inés, en esta casa</l>
 <l>creo que es tu nombre.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Aciertas.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>De mi padre una sobrina.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>La historia, si es larga, abrevia.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Servíamosla Lauro y yo,</l>
 <l>hoy reñíamos por ella,</l>
 <l>si Fileno no llegara,</l>
 <l>que porque no la quisiera,</l>
 <l>se ofreció de darle a ti.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Pues qué, ¿soy yo suya?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Espera,</l>
 <l>dijo que si le agradabas,</l>
 <l>cosa que juzgaba incierta,</l>
@@ -1328,18 +1328,18 @@
 <l>que yo le dejo a Leonor,</l>
 <l>hoy cesa la competencia,</l>
 <l>porque quiero yo ser tuyo.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Hoy mis desdichas comienzan;</l>
 <l>¿quieres otra cosa?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Solo</l>
 <l>que cuando mi primo veas</l>
 <l>le digas, que yo te sirvo,</l>
 <l>aunque no me favorezcas.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Adiós.</l></sp>
 <stage>Vase.</stage>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¡Qué brío, qué talle,</l>
 <l>qué donaire, qué belleza!</l>
 <l>Parece rayo el amor,</l>
@@ -1350,41 +1350,41 @@
 <l>y amor que las sangres mezcla</l>
 <l>un instante de otros ojos?</l></sp>
 <stage>Sale FILENO.</stage>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Serán estremadas fiestas.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Qué fiestas, Fileno?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Alfonso,</l>
 <l>las fiestas que Lauro ordena.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Por Leonor?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Que no hay Leonor.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Cómo?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Ni della se acuerda,</l>
 <l>que apenas la bella Inés</l>
 <l>le enseñé, cuando por ella</l>
 <l>está perdiendo el juicio.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Pues dile que no le pierda,</l>
 <l>sino que sirva a Leonor,</l>
 <l>que libre puede quererla</l>
 <l>porque yo adoro en Inés.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Es de burlas o de veras?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Tan de veras que mil vidas</l>
 <l>perderé si no la deja.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pues, señor, ni Inés es tuya,</l>
 <l>ni suya, con que esto queda</l>
 <l>remediado por agora.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Pues cúya?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Y basta que sea</l>
 <l>prenda de un hombre de bien,</l>
 <l>de cuyas patas y piernas</l>
@@ -1393,37 +1393,37 @@
 <l>hombres de azúcar rosado,</l>
 <l>que se rizan y se peinan,</l>
 <l>sino de gente robusta.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Quién es por tu vida?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Espera,</l>
 <l>que no me atrevo a decillo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Quién hay en toda la aldea,</l>
 <l>desde la falda del valle</l>
 <l>a la cumbre de la sierra,</l>
 <l>que merezca tanta dicha,</l>
 <l>que tanta gloria merezca?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Yo era.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Quién?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Yo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Qué dices?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Que me quiere y me requiebra,</l>
 <l>me pecilga y me constriñe.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Habrante engañado bestia;</l>
 <l>¿un ángel a ti?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pues ven,</l>
 <l>y pregúntaselo a ella.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ven conmigo.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Bien lo entiendes,</l>
 <l>hay mujer que más se precia</l>
 <l>de un borrico que anda llano,</l>
@@ -1431,7 +1431,7 @@
 <stage>Vanse.</stage></div>
 <div type="act" n="II" part="N" org="uniform" sample="complete">
 <stage>Salen LEONOR y DOÑA ELVIRA.</stage>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Antes que me queje, Inés,</l>
 <l>a Feliciano mi tío,</l>
 <l>dueño tuyo y dueño mío,</l>
@@ -1462,7 +1462,7 @@
 <l>la desdicha que refieres,</l>
 <l>que es en las nobles mujeres</l>
 <l>cosa peligrosa y fea.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Con injusta reprehensión</l>
 <l>tus celos tu engaño muestra,</l>
 <l>la información fue siniestra,</l>
@@ -1485,30 +1485,30 @@
 <l>para igualar mi afición.</l>
 <l>Tú le goza muchos años</l>
 <l>segura, que tuyo es.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Yo tengo por cierto, Inés,</l>
 <l>que mis celos son engaños,</l>
 <l>pero hay gustos tan estraños,</l>
 <l>que cuanto ven apetecen;</l>
 <l>mucho tus partes merecen,</l>
 <l>bien puedo yo estar celosa.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Las tuyas, Leonor hermosa,</l>
 <l>todo este monte enriquecen.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Esto de hablar toledano,</l>
 <l>y picar en discreción,</l>
 <l>despierta, Inés, la afición</l>
 <l>de quien se precia de vano;</l>
 <l>pensará que es cortesano</l>
 <l>por hablarte y por quererte.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Yo le trataré de suerte,</l>
 <l>que no me quiera, Leonor.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Pagarás mi grande amor,</l>
 <l>del que le tengo le advierte.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Demás, que Lauro desea,</l>
 <l>que conozca su afición,</l>
 <l>por mí me dices que son</l>
@@ -1516,29 +1516,29 @@
 <l>Pues si Lauro me desea,</l>
 <l>segura puedes estar,</l>
 <l>Lauro me sabrá guardar.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¿Que de Lauro son las fiestas?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Cosas públicas son estas,</l>
 <l>Leonor, a todo el lugar.</l>
 <l>Esta sortija mantiene</l>
 <l>Lauro por mí.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Pues Inés,</l>
 <l>quiérele bien, que ya ves</l>
 <l>que partes y gracias tiene.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Alfonso del monte viene,</l>
 <l>Leonor, ¿pondreme en hüida?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>No te des por entendida,</l>
 <l>celos suelen despertar</l>
 <l>a amor.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿En qué ha de parar</l>
 <l>la confusión de mi vida?</l></sp>
 <stage>Sale ALFONSO.</stage>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>A darte cuenta, Leonor,</l>
 <l>vengo de un notable caso,</l>
 <l>alegre por una parte,</l>
@@ -1555,7 +1555,7 @@
 <l>veo venir por el campo,</l>
 <l>con grande algazara y grita,</l>
 <l>un escuadrón de africanos.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Dejando el Real camino,</l>
 <l>iban siguiendo y volando</l>
 <l>perdices y francolines,</l>
@@ -1584,7 +1584,7 @@
 <l>con los hierros plateados,</l>
 <l>arremetiole hacia mí,</l>
 <l>y díjome en castellano</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Quién sois, cristiano? Yo dije</l>
 <l>Soy un montañés hidalgo,</l>
 <l>que vivo cerca de aquí.</l>
@@ -1616,19 +1616,19 @@
 <l>vienen con él, y el aldea</l>
 <l>alegre le da los brazos.</l></sp>
 <stage>Salen ZULEMA, Rey, AUDALLA, ZAIDE y FELICIANO.</stage>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>He tenido, señor, a gran ventura,</l>
 <l>que siendo vos quien sois, yo un pobre hidalgo,</l>
 <l>honréis mi casa en esta coyuntura,</l>
 <l>aunque para serviros poco valgo.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Ella es muy rica, espléndida y segura,</l>
 <l>aunque de la ribera fértil salgo</l>
 <l>del claro Betis, la del Tajo admiro,</l>
 <l>tan verdes selvas en sus montes miro.</l>
 <l>Dejé el camino aficionado, y vine</l>
 <l>de la suerte que veis.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Fue dicha mía,</l>
 <l>que os obligue la caza, el monte incline,</l>
 <l>para que honréis aquesta casa un día.</l>
@@ -1636,97 +1636,97 @@
 <l>que aunque rústica y pobre serranía,</l>
 <l>os hubiera servido un caballero,</l>
 <l>aunque en labranza y hábito grosero.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Quién es esta señora?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Es mi sobrina.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Y esta gallarda moza?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Es mi criada.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¡Tu criada belleza tan divina!</l>
 <l>Bien dices, pues del cielo fue criada</l>
 <l>¿el nombre?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Inés, señor.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>El cuerpo inclina.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No estoy a Majestades enseñada.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Por Alá, que tuviera a gran ventura,</l>
 <l>que así fuese de Elvira la hermosura.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿El talle de una pobre labradora</l>
 <l>igualáis a una Infanta de Castilla?</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Yo me holgara que fuérades señora,</l>
 <l>que yo os hiciera Reina de Sevilla.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Llega Alfonso a sus pies.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Yo llego agora,</l>
 <l>aunque me visteis fuera de la villa,</l>
 <l>a besaros la mano.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Alzaos del suelo.</l>
 <stage>Tocan cajas.</stage>
 <l>Cajas tocan aquí, ¿qué es esto cielo?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>No os alteréis, señor, que es una fiesta</l>
 <l>de una sortija que hacen los pastores.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Holgareme de verla.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>No es compuesta</l>
 <l>de galas, ni caballos, ni colores;</l>
 <l>la rústica pobreza manifiesta</l>
 <l>dirigida al favor de unos amores.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Yo quiero ser jüez, denme una silla.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Que este es yerno de Alfonso de Castilla?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Así lo dicen, Inés.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Y cómo puede</l>
 <l>dar un cristiano rey su hija a un moro?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Por dicha esa ventura le concede</l>
 <l>el cielo por su bien.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Contra el decoro</l>
 <l>de su nobleza y de su ley procede.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Decid que entre la fiesta.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Qué tesoro,</l>
 <l>qué paz, qué aumento le resulta desto?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Música suena.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Diles que entren presto.</l>
 <stage>Sale LAURO con vaquero y máscara, lanza pintada, y por padrinos dos damas con máscaras y</stage>
 <l>dos tarjetas, en una pintada la Luna y en la otra el Sol.</l>
 <l>Este es el mantenedor,</l>
 <l>llega y descúbrete, Lauro,</l>
 <l>besa los pies a su Alteza.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Por buen agüero he tomado</l>
 <l>tener un rey por jüez,</l>
 <l>no para el premio que aguardo,</l>
 <l>sino para la esperanza</l>
 <l>del buen fin de sus cuidados.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Si como galán venís</l>
 <l>sois venturoso en premiaros,</l>
 <l>segura tenéis la empresa.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>En vivos celos me abraso.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Qué fiesta es esta que hacéis?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Correr lanzas a caballo,</l>
 <l>que lo que habéis de juzgar,</l>
 <l>es quien da mejor al blanco</l>
@@ -1735,11 +1735,11 @@
 <l>cuál va más firme y derecho,</l>
 <l>cuál más galán y bizarro,</l>
 <l>la invención y mejor letra.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Galanes sois, y cristianos.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Esta, señor, es la mía.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Yo la leo, que he estudiado</l>
 <l>vuestra lengua desde niño,</l>
 <l>y al fin la escribo y la hablo.</l>
@@ -1747,72 +1747,72 @@
 <l>La Luna se me ponía,</l>
 <l>mas luego que el Sol salió,</l>
 <l>seguile, aunque me abrasó.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>En aquestas dos tarjetas</l>
 <l>truje mi intento pintado.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Y quién estas damas son?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>La que dejo y la que amo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Hay mayor atrevimiento?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Los demás entran.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Qué aguardo?</l>
 <l>¿Quién trujo este moro aquí,</l>
 <l>cuando me estoy abrasando?</l>
 <stage>Sale FILENO vestido de papel, como los muchachos que van a los gallos con su</stage>
 <l>rehilero, y por padrinos todas tres damas que han salido.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Este es Fileno.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Quién es</l>
 <l>Fileno?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Es mozo del campo,</l>
 <l>hombre de humor, aunque pobre.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Vese en la invención y el gasto.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Besa los pies a su Alteza.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Armado de punta en blanco</l>
 <l>a la vuesa morería,</l>
 <l>Fileno, Rey de los gallos,</l>
 <l>pide los pies, gran señor.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>A fe que venís gallardo</l>
 <l>¿qué le dan al más galán?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Un ganso, señor.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Un ganso?</l>
 <l>Denle cincuenta por mí.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Cincuenta? Rey sois de patos.</l>
 <l>¡Oh qué ventura es estar</l>
 <l>cerca de los Reyes!</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Cuánto</l>
 <l>os ha costado el vestido?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Señor, costome tres cuartos.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Denle una almalafa mía</l>
 <l>de terciopelo y brocado.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Qué es almalafa?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Un vestido.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Dadme vuestras moras manos</l>
 <l>y prega a Dios que viváis,</l>
 <l>gran Zulema tantos años,</l>
 <l>que os llamen Matuszalema.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Traéis letra?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Letra traigo,</l>
 <l>y tres damas por padrinos,</l>
 <l>con un concequiero bravo.</l>
@@ -1821,25 +1821,25 @@
 <l>y yo solamente quiero</l>
 <l>mi salud y mi dinero.</l></sp>
 <stage>Sale DON MANRIQUE de camino.</stage>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Dicha ha sido acertar así a esta aldea</l>
 <l>que está por estos montes escondida;</l>
 <l>¿es este el Rey?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Pues, ¿quién queréis que sea?</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Guarden los cielos, gran señor, tu vida.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Gracias a Alá, que quiere que ya vea,</l>
 <stage>¿así mi suegro el Rey de mí se olvida?</stage>
 <l>un caballero de su casa.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>El cielo</l>
 <l>sabe, Fénix del África, su celo.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Este no es don Manrique?, ¿a qué ha venido?</l>
 <l>En mayor confusión estoy agora.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Puesto que Embajador trágico he sido,</l>
 <l>no por eso mi amor el tuyo ignora,</l>
 <l>don Manrique de Lara me apellido,</l>
@@ -1862,7 +1862,7 @@
 <l>que bien pueden las paces conservarse,</l>
 <l>pues la observancia de la ley le obliga,</l>
 <l>y el Reino, que con quejas le fatiga.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Eso pudiera el Rey tener mirado,</l>
 <l>y con ella y el Reino prevenido,</l>
 <l>pues que tan cerca estoy, que de su Estado,</l>
@@ -1896,46 +1896,46 @@
 <l>y dile, que jamás tan justa ira</l>
 <l>podrá templarme sin que goce a Elvira.</l></sp>
 <stage>Vase.</stage>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Espera, advierte; fuese.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Caballero,</l>
 <l>si con un escuadrón de labradores</l>
 <l>queréis acometer al Moro fiero,</l>
 <l>matalde, y escusad guerras mayores.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Vino de paz el bárbaro primero,</l>
 <l>y no es razón, que nombre de traidores</l>
 <l>puedan tener jamás los Castellanos.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Temblando estoy de verme entre sus manos.</l>
 <l>¿Quién dijera a Manrique que yo era</l>
 <l>del Moro que se fue tan arrogante?</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Hidalgos desta aldea, el Rey me espera.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Queremos ir con vos.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Pues id delante,</l>
 <l>pero quedaos, que deste monte a fuera,</l>
 <l>no hay moro de Sevilla que me espante.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Lauro.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>¿Qué quieres, que tu intento ignoro?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Que se llevase la almalafa el Moro.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Deseo saber de ti,</l>
 <l>y con razón lo deseo,</l>
 <l>que de mi desdicha creo,</l>
 <l>que eso y más pase por mí,</l>
 <l>¿si quieres bien a Inés?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Sí.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿A Leonor no quieres?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>No,</l>
 <l>que como Inés me agradó,</l>
 <l>hasta Leonor te dejé,</l>
@@ -1945,12 +1945,12 @@
 <l>que queriendo tú a Leonor,</l>
 <l>fue mucho tener amor,</l>
 <l>y reducirme a olvidar.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>A Leonor te quiero dar,</l>
 <l>pues a Leonor has querido,</l>
 <l>que por ti della me olvido,</l>
 <l>que quiero querer a Inés.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Ya vienes tarde y no es</l>
 <l>para acetar el partido.</l>
 <l>Si tengo de andar tras ti,</l>
@@ -1959,12 +1959,12 @@
 <l>para ti ni para mí;</l>
 <l>a ver a Inés remití</l>
 <l>el olvidar a Leonor.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Que mucho, si era mejor,</l>
 <l>Lauro, yo me llamo a engaño,</l>
 <l>pues fue el concierto en mi daño</l>
 <l>por la mitad del valor.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Alfonso, yo he visto en ti</l>
 <l>tal inconstancia y mudanza,</l>
 <l>que he perdido la esperanza</l>
@@ -1974,15 +1974,15 @@
 <l>y que ocasión no me des</l>
 <l>a que otra vez descolguemos</l>
 <l>las armas que no tenemos.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Oye, no te vayas pues.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>¿Qué quieres? ¿Como no sea</l>
 <l>dejar a Inés?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Que ella diga</l>
 <l>a quien quiere.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Amor me obliga</l>
 <l>que mi esperanza creyera;</l>
 <l>pero aunque quererte quiera,</l>
@@ -1991,13 +1991,13 @@
 <l>que el querer no está en mi mano,</l>
 <l>dejarla sí, porque es llano,</l>
 <l>si fuere Inés tu mujer.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ya viene, que amor la mueve,</l>
 <l>dando con los pies al prado,</l>
 <l>más flores que le ha quitado,</l>
 <l>del frío invierno la nieve.</l></sp>
 <stage>Sale ELVIRA.</stage>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Parece que el cielo llueve</l>
 <l>desdichas en mis enojos,</l>
 <l>¿cuándo cesarán mis ojos</l>
@@ -2036,22 +2036,22 @@
 <l>que con moros africanos.</l>
 <l>¿Si querré para olvidar</l>
 <l>mis trabajos? ¡Ay!, ¿quién es?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Dos almas somos, Inés,</l>
 <l>que venimos a penar.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Con almas no pienso amar,</l>
 <l>y más si penas tenéis.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Ay, Inés.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Qué me queréis?</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Que escuches y hagas favor</l>
 <l>a quien tuvieres amor.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Decid lo que pretendéis.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Inés, cuando te vi te amé, no pude</l>
 <l>amarte antes de verte, pero al verte</l>
 <l>quererte se siguió, que fue quererte,</l>
@@ -2066,7 +2066,7 @@
 <l>Inés, quiéreme a mí, no lo dilates,</l>
 <l>y cuando no merezca que me quieras,</l>
 <l>por lo menos merezca que me mates.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Inés, sin verte el alma te adoraba,</l>
 <l>que quien te vio por fuerza te quería,</l>
 <l>pues fui animoso a ver como sería</l>
@@ -2081,7 +2081,7 @@
 <l>Esto resuelvo en dos palabras breves,</l>
 <l>que cuando no me pagues, me has pagado,</l>
 <l>pues has de conocer lo que me debes.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Alfonso y Lauro, si olvidar pudistes,</l>
 <l>con verme a mí, lo que primero amastes,</l>
 <l>de la poca firmeza que mostrastes,</l>
@@ -2096,7 +2096,7 @@
 <l>Porque desengañada, aunque querida,</l>
 <l>ni se deja engañar de quien engaña,</l>
 <l>ni se deja querer de quien olvida.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Tú respondiste muy bien,</l>
 <l>como no quieras a Lauro;</l>
 <l>lo que he perdido restauro</l>
@@ -2108,7 +2108,7 @@
 <l>que si quieres perderé</l>
 <l>la vida con el honor.</l></sp>
 <stage>Vase.</stage>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Alfonso dice muy bien,</l>
 <l>ya que no quieras a Lauro,</l>
 <l>con no querelle restauro</l>
@@ -2120,27 +2120,27 @@
 <l>no querer, y mataré</l>
 <l>a quien hicieres favor.</l></sp>
 <stage>Vase y sale FILENO.</stage>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>A los moros he seguido,</l>
 <l>y no he podido alcanzallos,</l>
 <l>porque el viento y los caballos,</l>
 <l>las parejas han corrido.</l>
 <l>Sin la almalafa me quedo,</l>
 <l>cincuenta gansos perdí.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Fileno.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Tú estás aquí?</l>
 <l>Huélgome que hablarte puedo.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Yo más de verte a la fe,</l>
 <l>que esos necios me han cansado.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Ya los vi salir del prado;</l>
 <l>¿qué te dijeron?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No sé.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Précianse de cortesanos,</l>
 <l>y que decienden de reyes,</l>
 <l>hartos de andar tras los bueyes</l>
@@ -2151,37 +2151,37 @@
 <l>no acuden tanto al espejo.</l>
 <l>Para que dellos te libres</l>
 <l>un consejo darte quiero.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Ya, Fileno, considero,</l>
 <l>que son como ricos libres.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>En siendo mancebos ricos</l>
 <l>quieren por fuerza las mozas,</l>
 <l>tú que de honrada te gozas,</l>
 <l>no escuches sus dulces picos,</l>
 <l>que te vendrás a perder.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Y el consejo?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Que te cases,</l>
 <l>para que la vida pases</l>
 <l>con tu marido a placer.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Con quién?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Yo sé bien con quien.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Quién por tu vida?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No quiero</l>
 <l>que te enojes.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Quién?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Yo ero.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Tú, mi Fileno?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Pues quién ?</l>
 <l>No es peor andarte así,</l>
 <l>y dar algún estropieso,</l>
@@ -2195,155 +2195,155 @@
 <l>todo por allí se va,</l>
 <l>que mientras entero está,</l>
 <l>no se le atreve ninguno.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Tienes tú con qué vivir</l>
 <l>si nos casamos los dos?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Sí tengo, gracias a Dios,</l>
 <l>endemás de mi servir.</l>
 <l>Eso poco me desvela,</l>
 <l>aunque no con mis descansos.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Qué tienes?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Cincuenta gansos,</l>
 <l>y una almalafa de tela.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Quién tal riqueza te dio?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Pues eso te maravilla?</l>
 <l>Allá los tengo en Castilla,</l>
 <l>que el Moro me los mandó.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Feliciano viene aquí,</l>
 <l>háblale, que allí me escondo.</l></sp>
 <stage>Sale FELICIANO y LEONOR.</stage>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Esto, Leonor, te respondo.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Poco te dueles de mí.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Pues si vino esa mujer</l>
 <l>a valerse de un hidalgo,</l>
 <l>ya que no la sirvo en algo,</l>
 <l>he de dejarla perder?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¿Y es bien que Alfonso se mate</l>
 <l>con Lauro, de celos della?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Es una honrada doncella,</l>
 <l>y su amor es disparate.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¿Si Alfonso ha de ser mi esposo,</l>
 <l>es bien que esté enamorado?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Quiérele tú con cuidado,</l>
 <l>y no le traigas celoso.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¿Yo celoso?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Podré hablarte?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Qué quieres? ¿Por qué no vas</l>
 <l>al campo?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Impórtame más</l>
 <l>hablarte, señor, aparte.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Di delante de Leonor.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Señor, el hombre en defeto</l>
 <l>es hombre.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Qué buen sujeto.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Yo como digo, señor.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Pues has dicho alguna cosa?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No me hubiera a mí parido</l>
 <l>mi madre, si su marido.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¡Qué turbación tan graciosa!</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Pues bien?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No huera casado</l>
 <l>con ella, que de casarse</l>
 <l>nací yo.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Qué ha de sacarse</l>
 <l>de todo lo que has hablado?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿No lo entiende?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Yo, de qué?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Ni yo tampoco por Dios,</l>
 <l>pero casados los dos</l>
 <l>pienso que más craro esté.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Quién?, ¿tú y yo?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Mas harre allá,</l>
 <l>no sino yo con Inés,</l>
 <l>que ella quiere, yo en después</l>
 <l>que está en casa.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Entiendo ya;</l>
 <l>pero, ¿Inés te quiere a ti?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Sí señor.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Oyes Leonor?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Que está borracho, señor,</l>
 <l>y viene fuera de sí.</l>
 <l>Es mujer, Inés, que tiene</l>
 <l>el pensamiento en el cielo.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Idos los dos, que recelo</l>
 <l>que por esos olmos viene.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Si eso es verdad, yo te mando</l>
 <l>un collar de aljófar.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Ven,</l>
 <l>que ella lo dirá también.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Así.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿No hablo?, ¿no ando?,</l>
 <l>¿no soy hombre yo?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Sí.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Y pues?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Es desigual para ti.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Algún secreto hay en mí,</l>
 <l>pues a mí me quiere Inés.</l></sp>
 <stage>Vanse y sale DOÑA ELVIRA.</stage>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Seas, Inés, bien venida.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>A tu servicio, señor.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>No he tenido, Inés mayor</l>
 <l>admiración en mi vida.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Cómo, señor?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Viendo en ti</l>
 <l>tal modestia y gravedad,</l>
 <l>que tenías calidad,</l>
 <l>y nobleza presumí.</l>
 <l>¿Tú tienes entendimiento?,</l>
 <l>¿tú a Fileno quieres bien?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Pues, ¿quién te lo ha dicho?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Quién?</l>
 <l>Él trata tu casamiento.</l>
 <l>No sé quién eres, mas creo,</l>
@@ -2354,7 +2354,7 @@
 <l>para Alfonso, te casara</l>
 <l>con él, tal miro en tu cara</l>
 <l>de generoso valor.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Señor, para sosegar</l>
 <l>de Alfonso y Lauro los celos,</l>
 <l>porque he tenido recelos</l>
@@ -2371,7 +2371,7 @@
 <l>mientras casas a Leonor,</l>
 <l>porque con esta mi honor</l>
 <l>guardaré de Lauro y dél.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Fío de tu entendimiento,</l>
 <l>y lo que pienso de ti,</l>
 <l>que quieres hacer así</l>
@@ -2387,7 +2387,7 @@
 <stage>Vase.</stage>
 <stage>Sale ALFONSO.</stage>
 </sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Pastores destas montañas,</l>
 <l>yo me muero por Inés,</l>
 <l>sabed que no tengo vida</l>
@@ -2416,15 +2416,15 @@
 <l>ojos parad, esta es</l>
 <l>Inés, ¿dónde vas tan sola?,</l>
 <l>¿tan sola y triste?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No sé.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Huyes de mí por ventura?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Mas de mí pudiera ser,</l>
 <l>que no estoy también conmigo,</l>
 <l>que vaya conmigo bien.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Inés, sospechas me han dado,</l>
 <l>que eres principal mujer,</l>
 <l>y que te burlas de todos,</l>
@@ -2449,7 +2449,7 @@
 <l>porque en la Corte después</l>
 <l>viviésemos como nobles,</l>
 <l>y nos conociese el Rey.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Alfonso, de tu nobleza</l>
 <l>yo tengo satisfación,</l>
 <l>casos de fortuna son,</l>
@@ -2474,225 +2474,225 @@
 <l>que cualquier sombra me espanta</l>
 <l>como si fuera la Infanta</l>
 <l>que está escondida en Toledo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Hay dicha como la mía?</l>
 <l>¿Qué haré? Pero escucha un poco.</l></sp>
 <stage>Sale FILENO.</stage>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Vengo de contento loco.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Qué haré si Lauro porfía?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Señor lo tiene por bien.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Este es Fileno.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>En efeto</l>
 <l>me ha dicho que soy discreto,</l>
 <l>y venturoso también,</l>
 <l>y que quiere ser padrino.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Vete Alfonso, no nos vea</l>
 <l>quien de mi recato crea</l>
 <l>algún necio desatino.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Podré aquesta noche hablarte,</l>
 <l>nuestra gente recogida,</l>
 <l>con la honestidad debida?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Yo no me atrevo a escucharte,</l>
 <l>no, por no ser descortés,</l>
 <l>mas porque solos los dos</l>
 <l>no estamos bien.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Bien por Dios,</l>
 <l>solos Alfonso y Inés,</l>
 <l>mal ahuero, no me agrada.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Hazme este bien.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Vete agora.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Alienta dulce señora</l>
 <l>un alma tan desmayada,</l>
 <l>da vida a quien.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Vete ya.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Pues, ¿doleraste de mí?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Si aquesto dices aquí,</l>
 <l>mira lo que harás allá.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ahora bien, yo espero, Inés,</l>
 <l>que has de conocer mi amor.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Poco te duele mi honor.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Yo me voy.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Camina pues.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>No sé qué tengo, no puedo.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¡Dulce engañar de los hombres!</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Con qué regalados nombres</l>
 <l>te diré que en ti me quedo?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Agora estamos así?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Pobre Fileno, ¿esto pasa?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No me cogerás en casa.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Voyme mi bien?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Eso sí.</l>
 <l>¿Tú estabas aquí, Fileno?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pues, ¿dónde tengo de estar,</l>
 <l>en el monte?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¡Qué pesar</l>
 <l>me ha dado Alfonso!</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¡Oh qué bueno!</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Cosa que celoso estés.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pues, ¿son los agravios celos?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Agravios, saben los cielos.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Tú quieres matarme, pues</l>
 <l>vengo de hablar con señor,</l>
 <l>y hallo a Alfonso.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No prosigas,</l>
 <l>que no quiero que me digas</l>
 <l>cosa que ofenda mi honor.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Señor nos quiere casar.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Ese es todo mi deseo.</l>
 <l>¿Tienes buen ánimo?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Creo</l>
 <l>que me quieres enseñar</l>
 <l>desde agora la cartilla.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No es eso; que soy mujer</l>
 <l>que pudiera merecer</l>
 <l>ser la Infanta de Castilla.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pues, ¿para qué será bueno</l>
 <l>el ser animoso, Inés?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Yo no quiero que después</l>
 <l>te quejes de mí, Fileno.</l>
 <l>Sabe que yo fui casada.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Casada?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Casada fui,</l>
 <l>si bien solo un mes me vi</l>
 <l>de mi dulce esposo amada.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>El desengaño temía.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Pues aquesto sientes?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Siento,</l>
 <l>que ha de ser mi casamiento</l>
 <l>como quínola con guía</l>
 <l>En fin.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Cierto caballero,</l>
 <l>que primero me sirvió,</l>
 <l>a mi esposo me mató.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Yo vengo a ser el tercero.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Con esto se me aparece</l>
 <l>cada noche.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Malos años.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Y sus amorosos daños</l>
 <l>me refiere y me enternece,</l>
 <l>jurando que ha de matar</l>
 <l>a quien se case conmigo.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Soy yo deso muy amigo,</l>
 <l>y que me vengan a hablar</l>
 <l>personas del otro mundo.</l>
 <l>Inés, yo me voy a casa,</l>
 <l>que anochece ya.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Esto pasa?</l>
 <l>Yo siempre en verdad me fundo,</l>
 <l>de espacio lo has de pensar.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No me dejes solo.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Pues,</l>
 <l>¿ya no te quieres casar?</l>
 <l>Anda que no será nada,</l>
 <l>sombras son.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Sombras las nombras?</l>
 <l>Casarme y topar con sombras.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Voyme pues que no te agrada.</l></sp></div>
 <div type="act" n="III" part="N" org="uniform" sample="complete">
 <stage>Salen FILANDRO, RISELO, LISEO y FILENO, con vestidos de segadores, sombreros y</stage>
 <l>hoces, y instrumentos.</l>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>Cansado estoy de segar,</l>
 <l>tales bríos el Sol tiene.</l></sp>
-<sp who="#liseo_labrador"><speaker>LISEO</speaker>
+<sp who="#liseo_labrador" ana="m"><speaker>LISEO</speaker>
 <l>Mientras la merienda viene</l>
 <l>un poco podéis cantar.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Eso sí, que yo también</l>
 <l>ayudaré por mi parte.</l></sp>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>¿Será de amor o de Marte?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Qué es Marte? Y hablemos bien.</l></sp>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>Marte es el Dios de la guerra</l>
 <l>y como el Moro Andaluz</l>
 <l>su Luna opone a la Cruz,</l>
 <l>gloria del cielo y la tierra,</l>
 <l>andan, Fileno, canciones,</l>
 <l>que animan al Rey cristiano.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Si baja el Moro Africano,</l>
 <l>no faltarán coscorrones.</l></sp>
-<sp who="#liseo_labrador"><speaker>LISEO</speaker>
+<sp who="#liseo_labrador" ana="m"><speaker>LISEO</speaker>
 <l>Notable gente ha traído.</l></sp>
-<sp who="#riselo_labrador"><speaker>RISELO</speaker>
+<sp who="#riselo_labrador" ana="m"><speaker>RISELO</speaker>
 <l>Diz que ya la tierra pasa.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Y el Rey?</l></sp>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>No se está en su casa,</l>
 <l>que su ejército escogido</l>
 <l>pasa la Morina tierra,</l>
 <l>para detenerle el paso.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Supisteis ya todo el caso</l>
 <l>que fue causa de la guerra?</l></sp>
-<sp who="#riselo_labrador"><speaker>RISELO</speaker>
+<sp who="#riselo_labrador" ana="m"><speaker>RISELO</speaker>
 <l>En las copras a la he</l>
 <l>se dice todo.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pues vaya,</l>
 <l>en tanto que el Sol desmaya;</l>
 <l>¿quién lo compuso?</l></sp>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>Tomé.</l>
 <l>[TODOS]</l>
 <stage>Cantan.</stage>
@@ -2705,20 +2705,20 @@
 <l>que don Manrique de Lara</l>
 <l>en Zamora la tenía.</l></sp>
 <stage>Sale ALFONSO.</stage>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>El cielo maldiga amén</l>
 <l>mi necia curiosidad.</l></sp>
-<sp who="#riselo_labrador"><speaker>RISELO</speaker>
+<sp who="#riselo_labrador" ana="m"><speaker>RISELO</speaker>
 <l>Este es Alfonso, parad.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ya que trazó su desdén,</l>
 <l>Inés, en tan grande amor,</l>
 <l>me la quita de los ojos</l>
 <l>mi padre por darme enojos;</l>
 <l>¿hay más estraño rigor?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Qué hay Alfonso?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Busco a Inés,</l>
 <l>que mientras fui a ver la gente</l>
 <l>del ejército valiente,</l>
@@ -2726,11 +2726,11 @@
 <l>pasa de nuestra montaña,</l>
 <l>mi padre crüel la echó</l>
 <l>de casa.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No supe yo</l>
 <l>esa vil y infame hazaña,</l>
 <l>que yo supiera esconderla.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Vive Dios que le he de dar</l>
 <l>tal pesadumbre y pesar,</l>
 <l>como él me ha dado por ella.</l>
@@ -2749,7 +2749,7 @@
 <l>y va Alfonso con la suya</l>
 <l>para detenerle airado,</l>
 <l>irme quiero a ser soldado.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Resolución es la tuya</l>
 <l>tan honrada, que me ofrezco</l>
 <l>de acompañarte a la guerra,</l>
@@ -2758,7 +2758,7 @@
 <l>Pero podrete servir</l>
 <l>de llevarte como paje,</l>
 <l>armas, caballo y bagaje.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>No me pudieras decir</l>
 <l>cosa de mayor contento,</l>
 <l>dame, Fileno, esos brazos,</l>
@@ -2766,12 +2766,12 @@
 <l>que el oro dese avariento.</l>
 <l>Mil galas quiero ponerte,</l>
 <l>mis plumas.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Plumas también?</l></sp>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>Pues a fe que hay aquí quien</l>
 <l>fuera también desa suerte.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Filandro, Riselo, amigos,</l>
 <l>venid conmigo a la guerra,</l>
 <l>pues ya cercan nuestra sierra</l>
@@ -2782,19 +2782,19 @@
 <l>con las armas en las manos.</l>
 <l>Juntemos un escuadrón,</l>
 <l>seré vuestro Capitán.</l></sp>
-<sp who="#riselo_labrador"><speaker>RISELO</speaker>
+<sp who="#riselo_labrador" ana="m"><speaker>RISELO</speaker>
 <l>Si tú vas, todos irán,</l>
 <l>pardiez no quede garzón</l>
 <l>en toda la serranía.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Vamos zagales por moros,</l>
 <l>que diz que traen tesoros</l>
 <l>de toda la Andalucía.</l>
 <l>A la he que hemos de ver</l>
 <l>esta vez quien puede más.</l></sp>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>Todos irán si tú vas.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>A todos quiero poner</l>
 <l>con ricas plumas y espadas.</l>
 <l>¿A mí quitarme mi bien,</l>
@@ -2806,24 +2806,24 @@
 <l>¿No pudiera herirme a mí?</l>
 <l>Vamos amigos callando</l>
 <l>sin que lo entienda señor.</l></sp>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>Tú nos verás tu valor</l>
 <l>hidalgamente imitando.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Luego que os veáis galanes</l>
 <l>tendréis los bríos mayores,</l>
 <l>que de fuertes labradores</l>
 <l>se hacen fuertes capitanes.</l>
 <l>Volverá todo hombre rico.</l></sp>
-<sp who="#liseo_labrador"><speaker>LISEO</speaker>
+<sp who="#liseo_labrador" ana="m"><speaker>LISEO</speaker>
 <l>La guerra lo puede hacer.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pardiez que me he de comer</l>
 <l>un morico chiquitico.</l>
 <stage>Vanse.</stage>
 <stage>Salen FELICIANO, DORISTO y DOÑA ELVIRA.</stage>
 </sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Movido de tu llanto,</l>
 <l>que por tu honrada cara decendiendo,</l>
 <l>puede obligarme a tanto,</l>
@@ -2842,7 +2842,7 @@
 <l>noble, inocente, principal, discreto,</l>
 <l>mientras que le sosiego,</l>
 <l>y el casamiento de Leonor le ruego.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No hay monte en esta aldea,</l>
 <l>de cuantos la coronan, señor mío,</l>
 <l>que para mí no sea,</l>
@@ -2852,33 +2852,33 @@
 <l>Con tal que no me arrojes</l>
 <l>de tu presencia y casa, ni conmigo</l>
 <l>por Alfonso te enojes.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>De tu inocencia soy, Inés, testigo;</l>
 <l>no llores, pues has visto</l>
 <l>la voluntad y celo de Doristo.</l></sp>
 <stage>Sale LEONOR.</stage>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¿Con ese descuido estás?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Sabías que estaba aquí?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¿No me lo dijiste?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Sí,</l>
 <l>¿dónde tan turbada vas?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¿Cómo dónde voy turbada,</l>
 <l>si Alfonso, por darte enojos,</l>
 <l>lleva la luz de mis ojos,</l>
 <l>entre sus ojos robada?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Qué dices?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Que por la sierra</l>
 <l>en un caballo se parte.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Dónde, Leonor, a qué parte?</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Todos dicen que a la guerra,</l>
 <l>y debe de ser verdad,</l>
 <l>pues se llena un escuadrón</l>
@@ -2892,34 +2892,34 @@
 <l>a Fileno, aquel bellaco,</l>
 <l>abrazado con un saco,</l>
 <l>se parte con él también.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>No tengas pena, Leonor,</l>
 <l>aún tengo el pasado brío</l>
 <l>¡oh traidor, no es hijo mío!</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>El oro siente.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Oh traidor,</l>
 <l>con Lauro te he de casar,</l>
 <l>tuya y de Lauro ha de ser</l>
 <l>mi hacienda.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>En mí quiso hacer</l>
 <l>venganza de su pesar.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Ven conmigo, haz que me den</l>
 <l>una yegua.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Estás muy viejo,</l>
 <l>que no vayas te aconsejo.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Viejo? Camina.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>¡Ay mi bien!</l></sp>
 <stage>Vanse, tocan caja, salen soldados y un Capitán, el REY ALFONSO y DON MANRIQUE.</stage>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>¿Tan cerca estamos ya?</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Tan cerca estamos,</l>
 <l>que se oyen las trompetas de los moros,</l>
 <l>retumbando los ecos en los ramos.</l>
@@ -2929,7 +2929,7 @@
 <l>mostrar valor al Africano airado,</l>
 <l>como se le mostraron tus mayores,</l>
 <l>pues es de tus mayores heredado.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>¡Qué lleguen por mi tierra vencedores</l>
 <l>los bárbaros del África, Manrique,</l>
 <l>esmaltando los aires de colores!</l>
@@ -2942,36 +2942,36 @@
 <l>La santa Fe de aquel Señor que adoro</l>
 <l>se ha de ensalzar, como me enseña Elvira,</l>
 <l>Elvira oculta, cuya vida ignoro.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Los pueblos, gran señor, que vienen mira</l>
 <l>a socorrer tu ejército de gente,</l>
 <l>cuya lealtad con justa causa admira,</l>
 <l>pues todos vienen voluntariamente.</l>
 <stage>Sale ALFONSO muy bizarro, y los labradores todos con espadas y plumas, y FILENO de</stage>
 <l>soldado, a lo gracioso.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Aquí está su Majestad.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Dejadme llegar primero.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Oh lo que ha de hacer el Rey</l>
 <l>en viéndome los briviescos.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Calla, Fileno, que aquí</l>
 <l>es todo mudo respeto,</l>
 <l>porque la primera ley</l>
 <l>del Palacio es el silencio.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Voto a tal, que quiero echar</l>
 <l>varaones a este coleto,</l>
 <l>pero parecen alones,</l>
 <l>y hacen menos alto el cuerpo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Vuestra Majestad me dé</l>
 <l>sus pies.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>¿Quién eres mancebo?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Quien con aquestos soldados</l>
 <l>viene a servirte dispuesto.</l>
 <l>Hijo soy de un labrador,</l>
@@ -2997,26 +2997,26 @@
 <l>tres mil ducados en oro,</l>
 <l>ojalá que fueran ciento,</l>
 <l>para gastos de la guerra.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Manrique, ¿qué dices desto?</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Señor, que se ve muy claro,</l>
 <l>que te favorece el cielo,</l>
 <l>por ser la causa tan justa.</l>
 <l>Ya tienes, señor, dineros</l>
 <l>para sustentar seis meses</l>
 <l>tu ejército.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Ya no temo,</l>
 <l>ni los soles del verano</l>
 <l>ni los yelos del invierno.</l>
 <l>Danse, mancebo animoso,</l>
 <l>los brazos, como mi deudo,</l>
 <l>y dime tu nombre.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Alfonso</l>
 <l>me llamo.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Tengo por cierto</l>
 <l>que serás de los mejores</l>
 <l>que ha tenido nuestro Reino.</l>
@@ -3024,127 +3024,127 @@
 <l>que a todos os agradezco</l>
 <l>el gusto con que venís.</l>
 <l>¿Quién eres tú?</l></sp>
-<sp who="#liseo_labrador"><speaker>LISEO</speaker>
+<sp who="#liseo_labrador" ana="m"><speaker>LISEO</speaker>
 <l>Soy Liseo.</l></sp>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>Yo Filandro, gran señor.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Yo, con perdón, soy Fileno.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>¿Qué tenéis que yo os perdone?</l>
 <l>¿Es muerte lo que habéis hecho?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Sí señor, allá en mi tierra</l>
 <l>he muerto muchos carneros.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>¡Qué inocencia!</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No en pendencia,</l>
 <l>señor, sino los pescuezos</l>
 <l>con el cuchillo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Es un hombre</l>
 <l>simple y de poco talento.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Los talegos truje yo,</l>
 <l>y sino es por mí, no creo</l>
 <l>que se rompieran las arcas</l>
 <l>donde los tenía el viejo.</l>
 <l>Que a fe que ha gentiles años</l>
 <l>que no vieron luz.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Callemos,</l>
 <l>bestia.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Capitán le nombro</l>
 <l>a Alfonso.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Los pies te beso.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>A mí me toca pardiez</l>
 <l>ser Alteza.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Esto es bueno.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>He tenido alferecía</l>
 <l>siendo niño.</l></sp>
-<sp who="#filandro_labrador"><speaker>FILANDRO</speaker>
+<sp who="#filandro_labrador" ana="m"><speaker>FILANDRO</speaker>
 <l>De becerro,</l>
 <l>Fileno, serás Alférez.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Alférez vacuno, niego.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Vamos, Manrique, a saber</l>
 <l>qué intenta el Moro soberbio.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Que pretende acometer,</l>
 <l>dijeron los caballeros</l>
 <l>que ayer corrieron el campo.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Esté apercebido el nuestro,</l>
 <l>y lo que quisiere intente,</l>
 <l>que ver sus fuerzas deseo.</l></sp>
 <stage>Vanse.</stage>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Qué hombre de bien es el Rey.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Parécete bien?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No pienso</l>
 <l>que hay mejor hombre en Castilla,</l>
 <l>aficionado le quedo.</l>
 <l>¿Hemos de comer con él?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Nunca te he visto tan necio.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pues, ¿dónde, que rabio de hambre,</l>
 <l>como soy soldado nuevo?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Lo que tuvieren los moros</l>
 <l>después que se lo quitemos,</l>
 <l>eso habemos de comer,</l>
 <l>porque no hay otro sustento.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>La gana se me ha quitado.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Amigos, venido habemos</l>
 <l>a ganar honor y fama,</l>
 <l>en viendo moros, a ellos.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Y ellos qué han de hacer entonces?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Tirar cuchilladas diestros</l>
 <l>con los alfanjes que traen.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿A quién?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>A nosotros.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Bueno.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Pues, ¿no se han de defender?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Y qué les habemos hecho,</l>
 <l>para tirar cuchilladas?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Eso es guerra, majadero,</l>
 <l>hasta ver quien vence a quien.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No tendré yo por discreto</l>
 <l>hombre que fuere a la guerra.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>La guerra fue fundamento</l>
 <l>de la nobleza del mundo,</l>
 <l>ella introdujo el Imperio,</l>
 <l>por ella fueron los Reyes,</l>
 <l>y ella tiene en paz los Reinos.</l>
 <l>Tuvo en el cielo principio.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>En ese principio veo,</l>
 <l>que tal debía de ser,</l>
 <l>pues que la echaron del cielo.</l></sp>
 <stage>Cajas dentro, y dice MANRIQUE.</stage>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Aquí soldados, aquí</l>
 <l>que el Africano soberbio</l>
 <l>acomete la vanguardia,</l>
@@ -3153,40 +3153,40 @@
 <l>los del Reino de Toledo.</l>
 <l>Aquí Vegas y Mendozas,</l>
 <l>aquí Vargas y Bueros.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ea mis fuertes soldados,</l>
 <l>cuando llaman vamos presto.</l>
 <l>Acometamos.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>A mí,</l>
 <l>no me llama por lo menos,</l>
 <l>porque llama a los Mendozas,</l>
 <l>y yo me llamo Fileno.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Fileno, a todos nos llama,</l>
 <l>daca la espada.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No puedo,</l>
 <l>que le hizo el sastre el sayo</l>
 <l>al uso de agora estrecho.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Maestra bestia.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>No estoy ducho,</l>
 <l>¿qué he de hacer?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ir sacudiendo</l>
 <l>en los moros.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿En los moros?</l>
 <l>Eso es si quisieren ellos.</l></sp>
 <stage>Vanse, quede FILENO, y dice dentro ZULEMA.</stage>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Valientes moros aquí,</l>
 <l>mostrad africano esfuerzo,</l>
 <l>Sultanos, Muzas, Zegríes,</l>
 <l>Zaros, Hametes y Celios.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Él conjura algunos diablos,</l>
 <l>los nombres lo van diciendo</l>
 <l>garipundios, niflos, gazmios,</l>
@@ -3195,13 +3195,13 @@
 <l>si no me escondo perezco,</l>
 <l>que el efeto del temor</l>
 <l>se me baja a los briviescos.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Ea, valientes cristianos,</l>
 <l>a ellos Santiago a ellos.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Ea moros andaluces,</l>
 <l>Mahoma, Mahoma.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Oh perros,</l>
 <l>quiero ir y tener brío,</l>
 <l>voto al Sol que no me atrevo.</l>
@@ -3213,12 +3213,12 @@
 <l>si nunca comienzo a serlo.</l>
 <stage>Suena ruido de guerra y vayan saliendo algunos soldados moros y cristianos peleando, y</stage>
 <l>después ALFONSO con ZULEMA.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ya te digo que te rindas.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Cristiano mira primero</l>
 <l>la calidad del rendido.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Moro, yo no estoy a tiempo</l>
 <l>de mirar en calidades,</l>
 <l>que en la guerra hay mil ejemplos,</l>
@@ -3227,27 +3227,27 @@
 <l>por soldados sin valor,</l>
 <l>y yo tan grande le tengo,</l>
 <l>que puedo igualarme a ti.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Quién eres?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Un caballero</l>
 <l>que tengo sangre Real.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Pues yo me rindo y te ruego</l>
 <l>que no me quites la espada.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Di la causa, porque debo</l>
 <l>fiarme de tu palabra,</l>
 <l>y guardarte ese respeto.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Porque soy el Rey.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Señor,</l>
 <l>dadme, si la espada os dejo,</l>
 <l>una prenda para gaje,</l>
 <l>de que sois mi prisionero,</l>
 <l>como en Castilla se usa.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Solo en mi persona tengo</l>
 <l>este retrato, que es causa</l>
 <l>destas guerras, estad cierto,</l>
@@ -3259,7 +3259,7 @@
 <l>unos cristianos me dieron,</l>
 <l>que dicen que es de la Infanta.</l>
 <l>¿Qué te admiras?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Santo cielo,</l>
 <l>que cosa tan parecida</l>
 <l>aquella Inés, por quien muero.</l>
@@ -3268,65 +3268,65 @@
 <l>más loco que el amor mío,</l>
 <l>más imposible y más necio.</l></sp>
 <stage>Suena la guerra, y salgan tres moros, acuchillándoles FILENO.</stage>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Todo ha sido comenzar,</l>
 <l>hüir galgos, pues hay cerros.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Qué es esto Fileno?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Oh perros.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Tente.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Déjame matar</l>
 <l>diez o doce, que ya estoy</l>
 <l>emberrinchado con ellos.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Escucha.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Muero por vellos</l>
 <l>patalear.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Muerto soy,</l>
 <l>todo me sucede mal.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Ay, Fileno, qué ventura</l>
 <l>tuviera yo tan segura,</l>
 <l>a ser la fortuna igual.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Qué hace este perro aquí?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Déjale, que es prisionero</l>
 <l>mío.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Sacodirle quiero.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Tente y escucha.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Di,</l>
 <l>que estoy de verme valiente,</l>
 <l>y de haber vencido el miedo</l>
 <l>tan contento, que no puedo</l>
 <l>tenerle la espada.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Pues tente,</l>
 <l>oye la desdicha mía,</l>
 <l>este es el Rey.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Este?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Sí.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pagarme tenéis aquí</l>
 <l>los gansos del otro día.</l>
 <l>Voto al Sol que he de quitalle</l>
 <l>el almalafa.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Está atento.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Cómo tienes sentimiento</l>
 <l>prendiendo un rey?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Por dejalle</l>
 <l>las armas me dio esta prenda,</l>
 <l>que es un retrato de Inés,</l>
@@ -3334,7 +3334,7 @@
 <l>¿cómo quieres tú que emprenda,</l>
 <l>que sea tan gran señora</l>
 <l>de un hidalgo labrador?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Cuido que te engaña amor</l>
 <l>con este retrato agora.</l>
 <l>Que mujer que se casaba</l>
@@ -3342,7 +3342,7 @@
 <l>la Infanta, si bien tener</l>
 <l>voluntad la disculpaba</l>
 <l>a un hombre de mi caletre.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Quién habrá fortuna mía,</l>
 <l>que en el término de un día</l>
 <l>tus confusiones penetre?</l>
@@ -3356,65 +3356,65 @@
 <l>no hay mayor desdicha, no.</l>
 <l>O nunca yo te venciera,</l>
 <l>Rey de Sevilla.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Esa gloria</l>
 <l>te quitas?</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Ya la vitoria</l>
 <l>cantan, qué infamia me espera.</l></sp>
 <stage>Tocan cajas y sale el REY, MANRIQUE y soldados.</stage>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>En la felicidad deste suceso,</l>
 <l>Manrique, huirse el Rey, desdicha ha sido.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Antes dicen que es muerto, y te confieso</l>
 <l>que tu mismo valor le habrá vencido.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Si le llevara yo conmigo preso,</l>
 <l>la paz, las parias y el mejor partido,</l>
 <l>quedaban a mi gusto, que en su tierra,</l>
 <l>quien le heredare seguirá la guerra.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Aquí está Alfonso, a quien le debes parte</l>
 <l>desta vitoria, que animoso ha hecho</l>
 <l>altas hazañas de un cristiano Marte.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Estoy aficionado y satisfecho.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Más deseo servirte y obligarte,</l>
 <l>por circunstancias de mi noble pecho.</l>
 <l>[...]</l>
 <l>[...]</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>¿Quién le prendió?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Yo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Calla necio,</l>
 <l>yo le rendí, señor, para que veas</l>
 <l>si parte desta sangre tengo en precio.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Para que el fin de mi fortuna veas</l>
 <l>de su constancia término y desprecio,</l>
 <l>[...-eas]</l>
 <l>aquí me tienes a tus pies.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Zulema,</l>
 <l>el más seguro sus mudanzas tema.</l>
 <l>Como esta guerra sin razón hacías,</l>
 <l>y con más arrogancia que derecho,</l>
 <l>no tuviste el suceso que emprendías.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Ya lo he pagado y quedas satisfecho.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Alfonso, más laureles merecías</l>
 <l>que dio Roma a sus cónsules.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Mi pecho</l>
 <l>con su humildad estos favores mide.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Pide mercedes, pide Alfonso, pide.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Señor, solo quisiera suplicarte,</l>
 <l>que pues mi casa está de aquí tan cerca,</l>
 <l>y no puedes hallar mejor posada</l>
@@ -3424,60 +3424,60 @@
 <l>que morirá con esto el viejo honrado,</l>
 <l>y yo de mi servicio tan pagado,</l>
 <l>que alabaré tu nombre eternamente.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Para huéspedes somos mucha gente,</l>
 <l>que por tu causa, como ves, llevamos</l>
 <l>otro rey más.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Señor, yo he visto en ella</l>
 <l>al Rey aposentado, y sé que es casa</l>
 <l>que puede aposentar a muchos reyes.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Si dispensan de huéspedes las leyes,</l>
 <l>que uno pueda llevar otro consigo,</l>
 <l>yo llevo al Rey.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Y yo, señor, te digo,</l>
 <l>que agora que conozco quien me ha preso,</l>
 <l>tengo consuelo de mi mal suceso.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>No me has pagado como yo pensaba,</l>
 <l>Rey, en la prenda que me diste, ¡ah cielos!</l>
 <l>Más es perder el bien que tener celos.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Siga la gente en orden el camino,</l>
 <l>que no pretendo alcance ni más gloria</l>
 <l>que esta prisión, laurel de mi vitoria.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Ah señor Rey.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>¿Quién eres?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿No se acuerda</l>
 <l>de un labrador que entraba en la sortija?</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>De mis desdichas, cuando tantas llevo,</l>
 <l>debo acordarme y lastimarme debo.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Deme mis gansos y almalafa digo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¡Ay!, roguemos a amor, Fileno amigo,</l>
 <l>que Inés sea Inés, que si es Inés Elvira,</l>
 <l>mi mal será verdad, mi bien mentira.</l></sp>
 <stage>Salen LEONOR, DOÑA ELVIRA y LAURO.</stage>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Esto se dice por cierto.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>Que Alfonso es muerto, ¡ay de mí!</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Vivo es, Leonor, para ti,</l>
 <l>solo para Inés es muerto.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Si algún secreto encubierto</l>
 <l>pensáis que tengo, es engaño,</l>
 <l>solo me pesa su daño,</l>
 <l>por ser hijo de quien es.</l></sp>
-<sp who="#leonor_labrador"><speaker>LEONOR</speaker>
+<sp who="#leonor_labrador" ana="f"><speaker>LEONOR</speaker>
 <l>No procura Lauro, Inés,</l>
 <l>más bien que tu desengaño</l>
 <l>él te quiere, y te asegura</l>
@@ -3490,7 +3490,7 @@
 <l>que quien lo que fue posible</l>
 <l>desprecia por lo imposible,</l>
 <l>llora su daño después.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Inés, si te ha persuadido</l>
 <l>con tanta razón, Leonor,</l>
 <l>no muera mi justo amor</l>
@@ -3532,7 +3532,7 @@
 <l>que si te cansa mi vida,</l>
 <l>te serviré con mi muerte.</l></sp>
 <stage>Vase.</stage>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Ojos, valiente firmeza</l>
 <l>habéis tenido en sufrir</l>
 <l>las lágrimas que al salir</l>
@@ -3554,76 +3554,76 @@
 <l>más señor que labrador,</l>
 <l>en dar placeres y enojos.</l></sp>
 <stage>Sale ALFONSO de soldado y FILENO.</stage>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Entra sin hacer rüido.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Cómo serán, si ya llegan</l>
 <l>los moros y los cristianos,</l>
 <l>que hoy en tu casa aposentas?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Lindo agüero.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Cómo así?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>En casa está Inés.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Qué es della?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>La primer cosa que veo.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¡Oh mi mujer!</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Tente bestia.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Cielos qué veo?, ¿es Alfonso?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿No me ves, mi sol, mi estrella?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿No me ves, que soy Fileno?</l>
 <l>Mi solana y mi azotea.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Desvíate allá.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Ay mi bien,</l>
 <l>qué lágrimas que me cuestas.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Por mi ausencia dulces ojos?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Ay Dios, por tu eterna ausencia;</l>
 <l>Lauro me dijo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Qué dijo?</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Que eras muerto, que esta sierra</l>
 <l>era tu verde sepulcro.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Miente, y saco la espetera,</l>
 <l>que los muertos son los moros,</l>
 <l>tanto, que parecen penas</l>
 <l>sus cuerpos en esos montes.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>¿Hay tal maldad, que no cesa</l>
 <l>Lauro, de intentar mi daño?</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Quedo, que los Reyes llegan.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Yo me voy de aquí, señor.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Antes quisiera que vieras</l>
 <l>al rey Alfonso.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No puedo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Espero un momento, espera.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>¿Qué quieres?</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Mirar un naipe,</l>
 <l>que si la figura es cierta,</l>
 <l>será azar, con que he perdido</l>
 <l>la dicha, el juego y la prenda.</l>
 <l>Ay cielos, perdido soy.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Yo más, pues el Rey intenta,</l>
 <l>Yo más, pues el Rey intenta,</l>
 <l>o con Manrique las guerras,</l>
@@ -3631,55 +3631,55 @@
 <l>a uno dellos me ha de dar,</l>
 <l>mi dicha que me conozcan,</l>
 <l>y se acabe mi tragedia.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Fileno, Lauro me ha hecho</l>
 <l>algún mal, pues Inés bella</l>
 <l>se esconde en esta ocasión.</l>
 <l>Aquí un momento te queda,</l>
 <l>que tengo de hablar con Lauro.</l></sp>
 <stage>Vase, y salen el REY, ZULEMA, DON MANRIQUE, FELICIANO y todos.</stage>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Pienso que en hablarle yerras.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Señor, esta es pobre casa.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Sois mi deudo, y puedo en ella</l>
 <l>justamente aposentarme,</l>
 <l>decidme, ¿qué dama es esta?</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Es mi sobrina, señor,</l>
 <l>que para casar con ella</l>
 <l>mi Alfonso envié a León.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Si agora queréis que sea,</l>
 <l>holgaré de ser padrino.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Qué dicha mayor pudiera</l>
 <l>sucederme?</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Yo me ofrezco</l>
 <l>al dote, que es justa deuda,</l>
 <l>pues soy cautivo de Alfonso.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>¿A mí, perro?</l></sp>
 <stage>Salen riñendo con espadas LAURO y ALFONSO, y metiendo paz DORISTO y pastores.</stage>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Muere.</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>Afuera.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>¡Ay tan grande atrevimiento!</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>¿Pues, Alfonso, en mi presencia?</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Cuánto has hecho bien, Alfonso,</l>
 <l>en mi prisión y en la guerra,</l>
 <l>has destrüido en sacar</l>
 <l>la espada.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Sino tuviera</l>
 <l>respeto a lo que te debo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Dios sabe lo que me pesa,</l>
 <l>señor, de haberte ofendido,</l>
 <l>pero la ocasión es esta.</l>
@@ -3689,105 +3689,105 @@
 <l>una traición en mi ausencia,</l>
 <l>que es decir que yo soy muerto,</l>
 <l>para casarse con ella.</l></sp>
-<sp who="#lauro_labrador"><speaker>LAURO</speaker>
+<sp who="#lauro_labrador" ana="m"><speaker>LAURO</speaker>
 <l>Señor, si se dijo así,</l>
 <l>¿era mucho que quisiera,</l>
 <l>queriéndola yo también,</l>
 <l>solicitar su belleza?</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>No era mucho, ¿dónde está?</l>
 <l>Que quiero que esta contienda</l>
 <l>tenga fin, con que ella diga</l>
 <l>a cual se inclina.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Hoy quisiera</l>
 <l>ser muerto en esta batalla,</l>
 <l>parte, Fileno, por ella.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Voy, señor Rey, pero es mía,</l>
 <l>démela su reverencia,</l>
 <l>y pido justicia y costas.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>¿Quién sino tú me pudiera</l>
 <l>quitar el sosiego, Alfonso?</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Pariente, no os cause pena,</l>
 <l>que yo pondré paz en todo.</l></sp>
 <stage>Sale FILENO y DOÑA ELVIRA.</stage>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Ya estaba junto a la puerta</l>
 <l>acechando a quien la dabas.</l></sp>
-<sp who="#feliciano_labrador"><speaker>FELICIANO</speaker>
+<sp who="#feliciano_labrador" ana="m"><speaker>FELICIANO</speaker>
 <l>Entra, ¿qué te turbas? Entra,</l>
 <l>y besa los pies al Rey.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Alza el rostro de la tierra.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>No puedo alzarle, señor,</l>
 <l>con el llanto y la vergüenza.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Cielos, la voz de mi Elvira</l>
 <l>es esta, sin duda es ella.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Yo soy, señor.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>¿Quién?</l></sp>
-<sp who="#doristo_labrador"><speaker>DORISTO</speaker>
+<sp who="#doristo_labrador" ana="m"><speaker>DORISTO</speaker>
 <l>La Infanta.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Qué graciosa borrachera,</l>
 <l>es mi mujer.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Quiero hablarte,</l>
 <l>y lágrimas no me dejan.</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Pues si es Elvira, señor,</l>
 <l>dámela y cese la guerra,</l>
 <l>darele a Córdoba en dote.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>Ya no es posible que sea,</l>
 <l>que don Manrique de Lara</l>
 <l>merece tan alta prenda</l>
 <l>por su sangre y sus servicios.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>A tu elección sola queda</l>
 <l>el arbitrio de casarte.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Por no casar con Zulema</l>
 <l>he pasado estas fortunas.</l>
 <l>Manrique bien mereciera</l>
 <l>que le honraras, pero yo</l>
 <l>soy de Alfonso.</l></sp>
-<sp who="#manrique_labrador"><speaker>MANRIQUE</speaker>
+<sp who="#manrique_labrador" ana="m"><speaker>MANRIQUE</speaker>
 <l>¿Cómo?</l></sp>
-<sp who="#zulema_labrador"><speaker>ZULEMA</speaker>
+<sp who="#zulema_labrador" ana="m"><speaker>ZULEMA</speaker>
 <l>Espera.</l></sp>
-<sp who="#elvira_labrador"><speaker>ELVIRA</speaker>
+<sp who="#elvira_labrador" ana="f"><speaker>ELVIRA</speaker>
 <l>Digo que de Alfonso he sido</l>
 <l>mujer.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Llegado a que seas</l>
 <l>por tu gusto su mujer,</l>
 <l>nadie la ocasión pretenda.</l>
 <l>Alfonso es mi deudo.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Dame</l>
 <l>los pies.</l></sp>
-<sp who="#rey_labrador"><speaker>REY</speaker>
+<sp who="#rey_labrador" ana="m"><speaker>REY</speaker>
 <l>Y Castilla sepa</l>
 <l>que más te quiero casada</l>
 <l>con hombre de tales prendas,</l>
 <l>que no Reina de Sevilla,</l>
 <l>mientras que de moros sea.</l>
 <l>Sea Lauro de Leonor.</l></sp>
-<sp who="#fileno_labdrador"><speaker>FILENO</speaker>
+<sp who="#fileno_labdrador" ana="m"><speaker>FILENO</speaker>
 <l>Manda, señor, pues me dejan</l>
 <l>sin Inés, que por lo menos</l>
 <l>me paguen lo que me deban,</l>
 <l>y que Zulema me dé</l>
 <l>una almalafa de tela,</l>
 <l>y endemás cincuenta gansos.</l></sp>
-<sp who="#alfonso_labrador"><speaker>ALFONSO</speaker>
+<sp who="#alfonso_labrador" ana="m"><speaker>ALFONSO</speaker>
 <l>Aquí acaba la Comedia</l>
 <l>del labrador venturoso,</l>
 <l>humilde su autor os ruega,</l>
