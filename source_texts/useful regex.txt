@@ -1,0 +1,9 @@
+Useful regex
+
+not [^ ]
+
+You can put a literal space in [  ] in the find window
+
+Look ahead ? For example, .+?
+
+Look ahead, but not ?!  (.+?!)\n\n\ Look ahead but not until a new line

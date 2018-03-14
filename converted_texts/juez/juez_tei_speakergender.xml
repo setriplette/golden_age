@@ -1,0 +1,3863 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>El juez en su causa</title>
+            <author>Félix Lope de Vega y Carpio</author>
+         </titleStmt>
+         <publicationStmt>
+            <p part="N">Based on the public domain text of es.wikisource.org</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p part="N">Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <front><castList><castItem type="role"><role xml:id="leonida_juez">LEONIDA</role> <roleDesc>reina</roleDesc></castItem>
+        <castItem type="role"><role xml:id="albano_juez">ALBANO</role> <roleDesc>rey</roleDesc></castItem>
+        <castItem type="role"><role xml:id="octavio_juez">OCTAVIO</role> <roleDesc>su hermano</roleDesc></castItem>
+        <castItem type="role"><role xml:id="fabia_juez">FABIA</role> <roleDesc>dama</roleDesc></castItem>
+        <castItem type="role"><role xml:id="florelo_juez">FLORELO</role> <roleDesc>pescador</roleDesc></castItem>
+        <castItem type="role"><role xml:id="ergasto_juez">ERGASTO</role> <roleDesc>pescador</roleDesc></castItem>
+        <castItem type="role"><role xml:id="silvano_juez">SILVANO</role> <roleDesc>pescador, pastor</roleDesc></castItem>
+        <castItem type="role"><role xml:id="clavela_juez">CLAVELA</role> <roleDesc>pescadora</roleDesc></castItem>
+        <castItem type="role"><role xml:id="rosardo_juez">ROSARDO</role> <roleDesc>capitán</roleDesc></castItem>
+        <castItem type="role"><role xml:id="fineo_juez">FINEO</role> <roleDesc>caballero</roleDesc></castItem>
+        <castItem type="role"><role xml:id="lirano_juez">LIRANO</role></castItem>
+        <castItem type="role"><role xml:id="tiberio_juez">TIBERIO</role> <roleDesc>caballero</roleDesc></castItem>
+        <castItem type="role"><role xml:id="arminda_juez">ARMINDA</role> <roleDesc>infanta</roleDesc></castItem>
+        <castItem type="role"><role xml:id="reinaldo_juez">REINALDO</role> <roleDesc>caballero</roleDesc></castItem>
+        <castItem type="role"><role xml:id="fabio_juez">FABIO</role> <roleDesc>caballero</roleDesc></castItem>
+       <castItem type="role"><role xml:id="feniso_juez">FENISO</role></castItem>
+        <castItem type="role"><role>DOS CAZADORES</role> <roleDesc>non-speaking</roleDesc></castItem>
+       <castItem type="role"><role xml:id="floro_juez">FLORO</role> <roleDesc>pastor</roleDesc></castItem>
+        <castItem type="role"><role xml:id="lucindo_juez">LUCINDO</role> <roleDesc>caballero</roleDesc></castItem>
+       <castItem type="role"><role xml:id="capitán_juez">CAPITÁN</role></castItem>
+        <castItem type="role"><role xml:id="piloto_juez">PILOTO</role></castItem>
+        <castItem type="role"><role xml:id="eliso_juez">ELISO</role> <roleDesc>pastor</roleDesc></castItem>
+        <castItem type="role"><role xml:id="ricardo_juez">RICARDO</role> <roleDesc>rey viejo de Escocia</roleDesc></castItem></castList>
+     </front>
+      <body>
+        
+<div type="act" n="I" part="N" org="uniform" sample="complete">
+<stage>Sale[n] la reina LEONIDA y FABIA , dama.</stage>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l> A ti te falta prudencia.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Déjame, Fabia, que amor</l>
+<l>ni tiene en celos valor,</l>
+<l>ni entendimiento en ausencia. Amar por breve accidente</l>
+<l>aun hace alegre el vivir,</l>
+<l>pero, ¿quién podrá sufrir</l>
+<l>que toda el alma se ausente? Si la mitad piensas que es</l>
+<l>mi esposo el Rey, y que tengo</l>
+<l>otra mitad con que vengo</l>
+<l>a quedar viva después, engáñaste, porque en él</l>
+<l>está todo de tal suerte,</l>
+<l>que se ha de seguir mi muerte</l>
+<l>en apartándome dél. Si aquello que nos anima</l>
+<l>es alma, el Rey vive en mí</l>
+<l>por alma.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Ya viene aquí.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Quién ha de haber que reprima la fuerza de los enojos? <stage>Salen de camino el rey ALBANO y OTAVIO , su hermano.</stage></l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Veros quisiera escusar,</l>
+<l>mas pudo el alma obligar</l>
+<l>la persuasión de los ojos. Los vuestros me dicen ya</l>
+<l>cuán bien escusado fuera,</l>
+<l>pues con ser fuego su esfera,</l>
+<l>lloviendo perlas está. Dejad la tristeza aparte,</l>
+<l>mirad, mi bien, que el aurora</l>
+<l>al salir del sol las llora</l>
+<l>pero no cuando se parte.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> En esto veréis que soy</l>
+<l>noche, a quien sin vós dejáis.</l>
+<l>¿Ya en fin de partida estáis?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>De muerte, mi vida, estoy. Que si el morir es partir,</l>
+<l>cuando de lo que es la vida</l>
+<l>se parten, esta partida</l>
+<l>debe llamarse morir. El rey de Escocia, señora,</l>
+<l>vuestro padre y mi señor,</l>
+<l>da a Otavio, por su valor,</l>
+<l>a vuestra hermana Teodora y quiere que yo presente</l>
+<l>estos conciertos. Se acaben</l>
+<l>los cielos, Leonida, saben</l>
+<l>lo que siento en verme ausente, pero consolarme debe</l>
+<l>y dar a mi mal paciencia,</l>
+<l>que será breve la ausencia,</l>
+<l>si amando hay ausencia breve, y a vós la seguridad</l>
+<l>deste sentimiento mío.</l> 
+</sp><sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Todo lo creo y confío</l>
+<l>de vuestra justa lealtad. Que si no me consolara</l>
+<l>el saber que le tenéis,</l>
+<l>lo que es la vida que veis</l>
+<l>menos que el partir durara. Esto y saber que mi hermana</l>
+<l>merezca a Otavio y que vós</l>
+<l>los amparéis a los dos,</l>
+<l>mil imposibles allana que esta partida ofrecía.</l>
+<l>Mirad que de mí tengáis</l>
+<l>la memoria que dejáis</l>
+<l>tan estampada en la mía. Y que si fuere posible,</l>
+<l>con vós traigáis a Teodora.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Ese postrero, señora,</l>
+<l>parece a Otavio imposible. Porque el Rey no ha de querer</l>
+<l>verse ausente de los dos.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Sí hará, queriéndolo vós,</l>
+<l>y por hacerme placer.</l></sp>
+<sp><speaker>OCTAVIO </speaker>
+<l>A mi hermano he suplicado</l>
+<l>que pida al Rey mi señor</l>
+<l>nos haga tanto favor</l>
+<l>luego que yo tome estado. Que sé lo que gustaréis</l>
+<l>de que esté con vós Teodora. LEONIDA</l>
+<l>Si en la soledad de agora</l>
+<l>darme consuelo podéis, es solamente el seguro</l>
+<l>desta palabra.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Esa doy,</l>
+<l>seguro está por quien soy,</l>
+<l>lo que cumplirla procuro. Y voy con gran confïanza</l>
+<l>que el Rey mi señor la dé.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Pues con eso haréis que esté</l>
+<l>toda verde mi esperanza. Persuadiola a la venida.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Poco será menester,</l>
+<l>porque en siendo su mujer</l>
+<l>será cierta la partida. La nuestra se acerca ya;</l>
+<l>venid a verme partir.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Y voy a ver dividir</l>
+<l>la vida que en vós está. Estoy, porque os vais sin veros,</l>
+<l>por no sentir el dejaros,</l>
+<l>si es bien, pudiendo miraros</l>
+<l>anticiparle a perderos. Al fin voy a ver que os vais</l>
+<l>sin mí. ALBANO</l>
+<l>Yo quedo con vós,</l>
+<l>que siendo un alma los dos,</l>
+<l>estoy donde vós estáis. No creáis que se divida.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>En vuestra salud allá</l>
+<l>veréis cómo vive acá</l>
+<l>esta que dejáis sin vida.</l></sp>
+<stage>Vanse; y salgan de una isla LIRANO y FLORELO , pescadores.</stage>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l> ¿Está cocida la red?</l></sp>
+<sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>Al sol queda todavía</l>
+<l>para pedirle merced</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>Que despachemos querría.</l>
+<l>La mesa en tanto poned.</l></sp>
+   <sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>Dejad cocer el pescado</l>
+<l>que aún el agua colea.</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>Allá es señor delicado,</l>
+<l>Florelo, el fresco desea,</l>
+<l>y acá se estima el salado.</l></sp>
+   <sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>Tienen poca estimación</l>
+<l>las cosas por la abundancia.</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>¿Echaste al barco el resón? </l></sp>
+<sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>Atado no es de importancia</l>
+<l>dance de la mar al son.</l></sp>
+<sp><speaker>LIRANO </speaker><l>¿Qué pescado está cociendo?</l></sp>
+<sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>Un congrio y cuatro lampugas.</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>¿Trujiste verdura?</l></sp>
+<sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>Entiendo</l>
+<l>que trujo Ergasto lechugas</l>
+<l>y que está ensalada haciendo. Para vinagre y aceite</l>
+<l>tiende en esta verde alfombra,</l>
+<l>en tanto que abril la afeite,</l>
+<l>los manteles a esta sombra,</l>
+<l>que aún es agora deleite.</l>
+<l>Dos o tres corchos refresca</l>
+<l>en aquella fuente fresca.</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>Saca el vino del tonel,</l>
+<l>porque se escabeche en él,</l>
+<l>dentro del cuerpo la pesca.</l></sp>
+   <sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker><l>Todo está a punto, Lirano.</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>Ni cuidado me fastidia,</l>
+<l>ni ambición de oficio vano,</l>
+<l>mal haya quien tiene envidia</l>
+<l>al más galán cortesano. <stage>Sale ERGASTO , pescador.</stage></l></sp>
+<sp who="#ergasto_juez" ana="m"><speaker>ERGASTO</speaker>
+<l> ¿Es hora ya de comer?</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>Aquí dicen que ha de ser.</l></sp>
+<sp who="#ergasto_juez" ana="m"><speaker>ERGASTO</speaker>
+<l>Hombre de la mar ha sido</l>
+<l>de tan loco parecer.</l></sp>
+<sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>Aquí dicen que ha de ser.</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>¿Cómo?</l></sp>
+<sp who="#ergasto_juez" ana="m"><speaker>ERGASTO</speaker>
+<l>No quisiera estar</l>
+<l>de aquí a un hora dentro el mar,</l>
+<l>que este sol fuerte amenaza</l>
+<l>que por su salada plaza</l>
+<l>quieren los vientos rifar. ¿Aquellas nubes no veis,</l>
+<l>no veis aquellos delfines?</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>Pues, ¡alto!, no comencéis</l>
+<l>para tener tristes fines</l>
+<l>la fiesta que pretendáis. Comed en el cabañal,</l>
+<l>que ya cubre aquel nublado</l>
+<l>la lámpara celestial.</l></sp>
+<sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>El cielo se ha rebozado,</l>
+<l>cuán cierta fue la señal. LIRANO</l>
+<l>Ya se levanta mareta,</l>
+<l>ya todo el mar se inquieta.</l></sp>
+<sp who="#ergasto_juez" ana="m"><speaker>ERGASTO</speaker>
+<l>¡Ay, de la nave, Florelo!,</l>
+<l>que entre las aguas y el cielo</l>
+<l>viene a los vientos sujeta.</l></sp>
+<stage>Sale SILVANO , pescador.</stage>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>¿Ha llegado por agua</l>
+<l>el espantoso aguacero?</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>No, mas estase esperando.</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>A daros aviso vengo</l>
+<l>que tenéis un convidado.</l>
+<l>Por eso, despachad presto</l>
+<l>aunque las redes dejéis,</l>
+<l>los plomos y los anzuelos,</l>
+<l>las palangres y la ropa</l>
+<l>de aquesta ribera en medio.</l>
+<l>Porque la divina Arminda,</l>
+<l>Arminda digo, no es menos</l>
+<l>que Arminda, no presumáis</l>
+<l>que pude engañarme en esto.</l>
+<l>Princesa de aquestas islas,</l>
+<l>con un venablo y dos perros,</l>
+<l>temiendo la tempestad</l>
+<l>viene de su furia huyendo.</l>
+<l>En vuestra cabaña queda,</l>
+<l>allí sentada la dejo</l>
+<l>mientras os vengo a buscar. LIRANO</l>
+<l>¿Hay más notable suceso?</l>
+<l>¡La princesa destas islas</l>
+<l>en nuestra cabaña, cielos!</l>
+<l>Pero, ¿cuándo de las cosas</l>
+<l>resulta a los reyes menos?</l>
+<l>Dale gracias que en la tierra,</l>
+<l>y suya, la coge el tiempo,</l>
+<l>que si estuviera en la mar,</l>
+<l>de la suerte que le veo,</l>
+<l>apenas supiera darle</l>
+<l>ni consuelo ni remedio.</l>
+<l>Mísera de aquella nave,</l>
+<l>que por sus aguas corriendo</l>
+<l>hace experiencia del daño</l>
+<l>que desde la tierra vemos.</l></sp>
+<sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>Parece que a tomar tierra,</l>
+<l>arrojada de los vientos,</l>
+<l>forceja una nave triste.</l></sp>
+<sp who="#ergasto_juez" ana="m"><speaker>ERGASTO</speaker>
+<l>Bien dices, no viene lejos,</l>
+<l>pero que llegue a la orilla</l>
+<l>por imposible lo tengo;</l>
+<l>que parece que la mar</l>
+<l>quiere estrellarla en el cielo</l>
+<l>como toro que algún hombre</l>
+<l>tiene en los fogosos cuernos.</l>
+<l>Quiere arrojarla de sí. LIRANO</l>
+<l>Coge las redes, Florelo,</l>
+<l>y vamos el monte arriba.</l></sp>
+<sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l>¡Oh, tierra, principio nuestro!</l></sp>
+<stage>Vanse todos y sale ARMINDA , con un venablo de caza, y CLAVELA , pescadora.</stage>
+<sp who="#clavela_juez" ana="f"><speaker>CLAVELA</speaker>
+<l> Aquí podrá Vuestra Alteza</l>
+<l>entretenerse mejor.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¿Que también sabéis de amor?</l></sp>
+<sp who="#clavela_juez" ana="f"><speaker>CLAVELA</speaker>
+<l>Amor es naturaleza y si está en los mismos peces,</l>
+<l>cuánto mejor podrá estar</l>
+<l>en los hombres de la mar.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Bien dices, que muchas veces los peces enamorados,</l>
+<l>sintiendo de amor los tiros,</l>
+<l>han salido a dar suspiros</l>
+<l>de las aguas a los prados. Tú, en efeto, te casaste</l>
+<l>con este tu pescador. CLAVELA</l>
+<l>Mi padre era labrador</l>
+<l>deste lugar que dejaste. A la falda desta sierra</l>
+<l>Silvio de pescar vivía,</l>
+<l>salió de la mar un día,</l>
+<l>puso la pesca en la tierra. Llegué yo a comprar y compré</l>
+<l>el pez marido, pues creyó</l>
+<l>que allí nació su deseo</l>
+<l>y allí mi remedio hallé. De suerte que transformó</l>
+<l>amor en carne el pescado,</l>
+<l>y los peces y el ganado</l>
+<l>a una misma red juntó. Yo guardo aquellas ovejas</l>
+<l>y él sale al mar en su barca,</l>
+<l>y ansí viven en una arca</l>
+<l>los anzuelos y las rejas. Pero cuando el sol se baña</l>
+<l>nos venimos a juntar,</l>
+<l>yo del monte y él del mar,</l>
+<l>en esta pobre cabaña. Donde creo que una vez,</l>
+<l>ya por gloria, ya por pena,</l>
+<l>me vuelva el amor sirena,</l>
+<l>porque la mitad soy pez.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> Envidia tengo a tu vida.</l></sp>
+<sp who="#clavela_juez" ana="f"><speaker>CLAVELA</speaker>
+<l>Merezco ser envidiada,</l>
+<l>porque contenta casada</l>
+<l>quiero bien y soy querida. Pero ves, señora, aquí</l>
+<l>de mis bienes la ocasión. <stage>Sale[n] LIRANO , ERGASTO y SILVANO .</stage></l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>¿Estas sospechas qué son?</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>¿Es esta la Infanta?</l></sp>
+<sp who="#ergasto_juez" ana="m"><speaker>ERGASTO</speaker>
+<l>Sí.</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l> Denos, tu Alteza, los pies.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¡Oh, amigos, bien seáis venidos!</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>No estamos apercebidos;</l>
+<l>pobre nuestra choza es, mas grande la voluntad,</l>
+<l>¿cómo os dejaron ansí?</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>En el monte me perdí</l>
+<l>con esta gran tempestad. Mas no tengo por perderme</l>
+<l>el haberme entretenido</l>
+<l>con Clavela, pues ha sido</l>
+<l>holgarme y entretenerme. ¿Quién es su esposo?</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>Yo soy.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Vós estáis bien empleado.</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>Ya de Vuestra Alteza honrado,</l>
+<l>¿quién dudará que lo estoy? ARMINDA Descansad, comed, que quiero</l>
+<l>veros comer.</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>No es razón,</l>
+<l>porque en aquesta ocasión</l>
+<l>habéis de comer primero. ¡Oh, quién lo hubiera sabido!,</l>
+<l>que de tierra no os faltara</l>
+<l>quien el conejo os sacara</l>
+<l>en el vivir escondido. La parda y roja perdiz,</l>
+<l>con el lazo o con la luz,</l>
+<l>y con el presto arcabuz</l>
+<l>la tórtola y codorniz. Del mar el sabroso mero,</l>
+<l>el safio y el verderol,</l>
+<l>el ostión que se abre al sol</l>
+<l>desde que baja el lucero. La langosta, que cocida</l>
+<l>es un ramo de coral,</l>
+<l>y fruta deste tiempo igual</l>
+<l>de aquellos montes cogida, donde el sombroso castaño</l>
+<l>el verde fruto encubierto</l>
+<l>muestra en el erizo abierto</l>
+<l>por los estremos del año. El nogal de sombra enferma,</l>
+<l>el membrillo y la granada,</l>
+<l>que de otra más regalada</l>
+<l>toda aquesta sierra es yerma. Mas ya que lo es tanto el suelo</l>
+<l>y os trujo una tempestad,</l>
+<l>comeréis la voluntad,</l>
+<l>que es mesa que agrada al cielo. <stage>Sale FLORELO .</stage></l></sp>
+<sp who="#florelo_juez" ana="m"><speaker>FLORELO</speaker>
+<l> Estraños son los efectos</l>
+<l>de una borrasca tan fiera,</l>
+<l>pues igualmente lo han sido</l>
+<l>para la mar y la tierra.</l>
+<l>En la tierra, pues perdida</l>
+<l>de tanta gente, su Alteza</l>
+<l>honra esta pobre cabaña</l>
+<l>rica y dichosa en tenerla.</l>
+<l>Para el mar, pues que queriendo</l>
+<l>coger las redes y cuerdas</l>
+<l>vi una nave derrotada</l>
+<l>acercarse a la ribera.</l>
+<l>Roto el bauprés y mesena,</l>
+<l>sin jarcia, escota, ni vela,</l>
+<l>sin áncoras y sin cables</l>
+<l>toda la popa deshecha.</l>
+<l>Dieron voces a la orilla,</l>
+<l>yo con mi barca pequeña</l>
+<l>camino, acércome y veo</l>
+<l>que por la primer cubierta</l>
+<l>bajan al barco dos hombres</l>
+<l>de notable gentileza,</l>
+<l>que según su gente dijo</l>
+<l>eran los reyes de Ibernia.</l>
+<l>Que yendo a Escocia corrieron</l>
+<l>tan fuerte esta gran tormenta</l>
+<l>que la soberbia del mar</l>
+<l>a nuestras islas los echa.</l>
+<l>Saquelos a tierra en fin,</l>
+<l>supieron que la princesa</l>
+<l>nuestro pobre albergue honraba</l>
+<l>y los dos vienen a verla.</l>
+<l>Pero no han osado entrar</l>
+<l>hasta que les des licencia. ARMINDA</l>
+<l>Di que entren; estraño caso.</l></sp>
+<sp who="#lirano_juez" ana="m"><speaker>LIRANO</speaker>
+<l>Alarga, Silvio, la mesa.</l></sp>
+<stage>Sale[n] el rey ALBANO y OTAVIO , su hermano.</stage>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> Dame, señora, los pies,</l>
+<l>que en parte tan desigual</l>
+<l>vuestra presencia real</l>
+<l>está diciendo quién es.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> Si por mujer Vuestra Alteza</l>
+<l>me quiere honrar desta suerte,</l>
+<l>¿cómo no mira y advierte</l>
+<l>mi humildad y su grandeza? Lo que en la mar le arrojó</l>
+<l>a la tierra donde está,</l>
+<l>a mí, donde pienso ya</l>
+<l>que a servirle me inclinó. No sin causa me perdí,</l>
+<l>pues había de ganar</l>
+<l>el recibiros del mar</l>
+<l>que os ha derrotado ansí.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> Conforma tanto al valor</l>
+<l>la amorosa cortesía,</l>
+<l>que ya la pérdida mía</l>
+<l>es la ganancia mayor. Mucho le debo a la mar</l>
+<l>por la tormenta, si acierto</l>
+<l>por vós a tan dulce puerto,</l>
+<l>que ha sido errando, acertar. Y pues sois del sacro templo</l>
+<l>a que me debo ofrecer</l>
+<l>la imagen hoy quiero hacer</l>
+<l>pintar del caso el ejemplo y ofrecerle a vuestro nombre. ARMINDA</l>
+<l>Si yo lo fuera, os librara</l>
+<l>del mar antes que llegara</l>
+<l>donde a quien le mire asombre. ¿Quién es este caballero?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Mi hermano, a vuestro servicio.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Bien lo mostraba el indicio</l>
+<l>de su persona primero. Y la pregunta escusara</l>
+<l>si antes en ella advirtiera.}}</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Quien llega a vuestra ribera</l>
+<l>y en vuestro puerto se ampara más le debe a la fortuna</l>
+<l>por la tormenta que corre</l>
+<l>donde esta luz le socorre,</l>
+<l>que por bonanza ninguna. No tengo qué os ofrecer</l>
+<l>donde mi hermano lo está.</l></sp>
+<sp who="#clavela_juez" ana="f"><speaker>CLAVELA</speaker>
+<l>Señora, advierte que es ya</l>
+<l>tiempo de dar a comer a los huéspedes y a ti.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>A mí, Clavela, bastará</l>
+<l>vuestra humildad, mas repara</l>
+<l>que están dos reyes aquí. CLAVELA Ya los miro tan contentos</l>
+<l>de vuestra rara hermosura</l>
+<l>que comerán su ventura,</l>
+<l>beberán sus pensamientos. No podrán a Vuestra Alteza</l>
+<l>la culpa sino al lugar,</l>
+<l>mas, ¿qué les puede faltar</l>
+<l>donde está vuestra belleza?</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> Señores, los dueños son</l>
+<l>desta cabaña animosos,</l>
+<l>y aunque pobres, deseosos</l>
+<l>de que entendáis su afición. Honradlos comiendo aquí,</l>
+<l>porque hay hasta la ciudad</l>
+<l>una legua.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>La humildad</l>
+<l>no está en ellos para mí. Con vós parece que ha sido,</l>
+<l>que después que en ella estáis,</l>
+<l>ella, Majestad, les dais</l>
+<l>con que nos han recebido. Y pues vós os disponéis</l>
+<l>que hay que decir de los dos,</l>
+<l>pues comeremos con vós,</l>
+<l>que al sol convidar podéis. Pero no, que de invidioso</l>
+<l>dirá que le dais veneno. OCTAVIO</l>
+<l>[Aparte.]</l>
+<l>¡Oh, mar de sucesos lleno!,</l>
+<l>¡oh, mar siempre cauteloso! Agradable puerto vi</l>
+<l>mirando aquesta mujer,</l>
+<l>pero ya pudiera ser</l>
+<l>más tempestad para mí.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> [Aparte.]</l>
+<l>Desde que mi esposa amé,</l>
+<l>nunca mujer me agradó,</l>
+<l>ni mi alma le quebró</l>
+<l>aquella debida fe. Y pienso desde que vi</l>
+<l>desta mujer la belleza</l>
+<l>que ofendiera la firmeza</l>
+<l>con que hasta agora viví.</l></sp>
+<sp who="#clavela_juez" ana="f"><speaker>CLAVELA</speaker>
+<l> Ea, que ya está corrida</l>
+<l>la pobre mesa, señores,</l>
+<l>en la alfombra de las flores</l>
+<l>de aquestos prados tejida. Entrad, que por varias leyes</l>
+<l>de la fortuna hoy se goza</l>
+<l>de que tiene en esta choza</l>
+<l>una aventura de reyes.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> Vamos y gocemos della. OCTAVIO</l>
+<l>[Aparte.]</l>
+<l>¡Oh, Arminda, quién te trocara</l>
+<l>por Teodora!</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>[Aparte.]</l>
+<l>¡Oh, quién llegara</l>
+<l>a tal tiempo, Arminda bella, que se casara contigo,</l>
+<l>o quién, como Otavio, fuera</l>
+<l>libre!</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>¡Oh, traidora ribera!,</l>
+<l>¡oh, mar, cuán piadoso amigo fueras en haberme muerto!,</l>
+<l>pues en tu orilla homicida</l>
+<l>salgo en la mar de la vida</l>
+<l>y tomo en la muerte puerto.</l></sp>
+<stage>Vanse, y entra[n] ROSARDO y FINEO .</stage>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> ¿Tan grande atrevimiento,</l>
+<l>tan grande desatino, tal locura</l>
+<l>cabe en tu pensamiento? ROSARDO</l>
+<l>¿De qué te espantas, si el amor procura</l>
+<l>tener por más hazaña</l>
+<l>la que fuere más bárbara y estraña? Cuando cosas iguales</l>
+<l>se quieren y se abrazan, decir pueden</l>
+<l>que siendo naturales,</l>
+<l>efetos de su causa no la exceden,</l>
+<l>y que en esta armonía,</l>
+<l>más la razón, que no el amor, los guía. Porque a ninguno admira</l>
+<l>cuando por su querido igual esposo,</l>
+<l>la tórtola suspira</l>
+<l>o el ciervo, de los otros temeroso,</l>
+<l>lleno de celos brama</l>
+<l>en el setiembre por la parda gama. Naturaleza enseña</l>
+<l>esa igualdad en hombres y animales,</l>
+<l>y el amor se desdeña</l>
+<l>de reducir así cosas iguales.</l>
+<l>Lo desigual le agrada</l>
+<l>y entonces triunfa de la flecha airada. Esto muestra, Fineo,</l>
+<l>la antigüedad que a Júpiter pintaba</l>
+<l>cuando con tal deseo,</l>
+<l>siendo divino, la belleza amaba</l>
+<l>de la tierra y ardiendo</l>
+<l>iba del arco del amor huyendo. ROSARDO ¿No has visto una vid nueva</l>
+<l>de nacimiento humilde a un alma asida</l>
+<l>y que abrazada prueba</l>
+<l>tener en sus eternos brazos vida?,</l>
+<l>pues ese es el ejemplo</l>
+<l>que de mi desigual amor contemplo. Partiose el Rey a Escocia,</l>
+<l>dejome en gobierno de su casa</l>
+<l>mientras allá negocia</l>
+<l>y con Teodora su cuñada casa</l>
+<l>aquel su hermano Otavio.</l>
+<l>Bien puede amor hacerle aqueste agravio de más que yo no intento</l>
+<l>violencia alguna con la Reina; en tanto</l>
+<l>que vuelve el pensamiento</l>
+<l>a su hermosura celestial levanto,</l>
+<l>que aún la boca no sabe,</l>
+<l>mas de que yo como es razón la alabé. Con esto no es mi culpa</l>
+<l>tan digna de castigo.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>El pensamiento</l>
+<l>ya no tiene disculpa,</l>
+<l>pues es contra su ley atrevimiento;</l>
+<l>mira que ya te llama</l>
+<l>la infamia desta impresa y no la fama. Parece que contemplo</l>
+<l>tu amargo fin, para tu vida muerte</l>
+<l>y para el mundo ejemplo. ROSARDO</l>
+<l>Tarde el temor a la esperanza advierte.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Antes del mal no es tarde.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>No hay mal por grande bien, ni amor cobarde.</l></sp>
+<stage>Entra[n] la reina LEONIDA y TIBERIO .</stage>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> ¿A dónde habrá sufrimiento</l>
+<l>para tan grave dolor?</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>A donde hubiere valor</l>
+<l>y sobrare entendimiento. Vuestra Alteza esté segura</l>
+<l>de que no se habrá perdido.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Pues, gran señora, ¿qué ha sido?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Qué ha de ser? Mi desventura. De tres naves en que iba</l>
+<l>el Rey a Escocia han llegado</l>
+<l>las dos, la suya ha faltado.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Con justa razón te priva la nueva heroica, señora,</l>
+<l>de sufrimiento, pues pudo</l>
+<l>perderse el Rey.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>Yo lo dudo. LEONIDA</l>
+<l>Yo no, ya el alma le llora.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> Amor es muy temeroso,</l>
+<l>en algún puerto habrá dado,</l>
+<l>de la tormenta arrojado.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Y puede ser provechoso cuando sucediese ansí,</l>
+<l>que diese en puerto enemigo.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>A correr el mar me obligó</l>
+<l>cuando fïases de mí, señora, esta diligencia.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>Y yo iré por otra parte,</l>
+<l>porque deseo obligarte</l>
+<l>a esperanza y a paciencia.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Quedaré tan obligada</l>
+<l>cuanto en el premio veréis.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Buscar las islas tenéis,</l>
+<l>a la parte más helada de la Ibernia rigurosa</l>
+<l>hacen ciudad en el mar,</l>
+<l>si él mismo os deja llegar</l>
+<l>en esta ocasión forzosa. Porque dicen que en tres meses</l>
+<l>y en seis suele defender</l>
+<l>el puerto. LEONIDA</l>
+<l>Bien puede ser</l>
+<l>que si tomar le pudieses en ellos el Rey hallases,</l>
+<l>Fineo, o que tú, Tiberio,</l>
+<l>si parece cautiverio</l>
+<l>desta banda te informases. En fin, de cualquier manera,</l>
+<l>viviré en vuestra esperanza.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Yo parto.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>Y yo, en confianza</l>
+<l>de que vive.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Dios lo quiera.</l></sp>
+<stage>Vanse FINEO y TIBERIO .</stage>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Yo no te voy a servir</l>
+<l>porque soy desconfïado.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿De qué lo estás? ROSARDO</l>
+<l>Del cuidado</l>
+<l>de que pueda el Rey vivir. Llegan a Escocia sus naves</l>
+<l>perdidas con la tormenta,</l>
+<l>que es lo que Tiberio cuenta</l>
+<l>y que ya por cartas sabes. Y la del Rey no parece,</l>
+<l>luego no es justo creer</l>
+<l>que el mar ha de obedecer</l>
+<l>al que la tierra obedece. No guarda el agua respeto</l>
+<l>ni puede ser castigada</l>
+<l>la más poderosa armada.</l>
+<l>Turba en su seno inquieto, que aunque el cielo le mandó</l>
+<l>que a la tierra no pasase,</l>
+<l>si la tierra en ella entrase,</l>
+<l>poder entonces le dio.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Pesadamente consuelas.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Hablo también con temor.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Bien parece que tu amor</l>
+<l>no camina entre sus velas.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> El que yo te tengo a ti</l>
+<l>me ha hecho temer contigo</l>
+<l>y al fin lo que temo digo. LEONIDA</l>
+<l>¿Qué amor me tienes a mí</l>
+<l>pues que no me has consolado?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Creer siempre lo peor</l>
+<l>es discreción.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿De qué suerte?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Porque después se convierte</l>
+<l>en mayor gusto el temor, y si lo que fue temido</l>
+<l>es a la desdicha igual,</l>
+<l>ya está prevenido el mal</l>
+<l>y es menos mal prevenido.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Antes es sentir el daño</l>
+<l>dos veces.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿De qué manera?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>La una cuando se espera</l>
+<l>hasta ver el desengaño y la otra cuando viene.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Qué daño puede temer</l>
+<l>quien debe esperar placer</l>
+<l>del mismo temor que tiene? LEONIDA ¿Yo, placer?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Pues qué tan mal</l>
+<l>te puede estar el perder</l>
+<l>quien no te supo querer</l>
+<l>con amor al tuyo igual? ¡Cuánto mejor hallarías</l>
+<l>en Francia, en Ingalaterra</l>
+<l>o en Hungría!</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Oh, infame, cierra</l>
+<l>la boca!</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>A verdades mías pagas siempre con razones</l>
+<l>ásperas.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Qué son verdades?,</l>
+<l>si el daño me persuades</l>
+<l>y en otro mayor me pones.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Dado que el Rey fuese muerto,</l>
+<l>cosa en la naturaleza</l>
+<l>tan cierta, y en la estrañeza</l>
+<l>del mar, suceso tan cierto, merece mi buen deseo</l>
+<l>que como a infame le nombres,</l>
+<l>porque te diga los hombres</l>
+<l>dignos de tan alto empleo. LEONIDA Pues es bien que tú me cases</l>
+<l>antes que vïuda sea.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Esto es hablar quien desea</l>
+<l>que en tu remedio acertases. Pero debió de enojarte</l>
+<l>haberte dicho que el Rey</l>
+<l>no te ha guardado la ley</l>
+<l>debida a amor en no amarte.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Pues eso no era razón</l>
+<l>que me enojara.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Conmigo,</l>
+<l>porque si verdad te digo,</l>
+<l>en la mejor ocasión.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> ¿Verdad?, ¿pues de qué lo sabes?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>De otras muchas aficiones.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Y esto llamas ocasiones</l>
+<l>no pareciendo sus naves para que yo corra aquí</l>
+<l>la tormenta que el allá?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Como sé que muerto está,</l>
+<l>a lo menos para mí, llamo ocasión más segura</l>
+<l>al hablarte sin temor. LEONIDA</l>
+<l>Ni el Rey me ha sido traidor</l>
+<l>ni su voluntad perjura. Ni es muerto ni lo ha de ser,</l>
+<l>ni sus naves se han perdido,</l>
+<l>ni yo tendré otro marido</l>
+<l>ni de otro seré mujer. Ni el cielo dividirá</l>
+<l>dos almas eternamente</l>
+<l>si por algún accidente</l>
+<l>los cuerpos lo quedan ya. Ni ha de haber donde yo reino</l>
+<l>villanos aduladores,</l>
+<l>ni se han de alegrar traidores</l>
+<l>de tiranizar mi reino. Ni habrá sospecha tan fuerte</l>
+<l>que de amor el Rey me impida,</l>
+<l>ni le durará la vida</l>
+<l>a quien tratarse su muerte.</l></sp>
+<stage>Vase la reina y queda ROSARDO .</stage>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Este es el fin de un loco atrevimiento,</l>
+<l>principio en la tragedia de mi vida.</l>
+<l>Mientras callaba, mi esperanza asida</l>
+<l>de un falso engaño dilatose al viento.</l>
+<l>Habló mi amor para mayor tormento,</l>
+<l>el desengaño acrecentó la herida,</l>
+<l>mi propria lengua ha sido mi homicida</l>
+<l>y aún no se declaró mi pensamiento.</l>
+<l>¿Si me entendió, si sabe mi cuidado</l>
+<l>y a muerte por decille me condena,</l>
+<l>y mi vida y amor se han acabado?</l>
+<l>Mas, ¿qué me aflige lo que amor ordena?,</l>
+<l>que más quiero morir habiendo hablado,</l>
+<l>que no vivir sin declarar mi pena. <stage>Vase y sale[n] el rey ALBANO y OTAVIO .</stage></l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> He llegado a tal furor</l>
+<l>después, Otavio, que entré</l>
+<l>en esta isla que fue</l>
+<l>circe de mi loco amor,</l>
+<l>que temo de su rigor</l>
+<l>que me ha de costar la vida.</l>
+<l>No me acuerdo de Leonida</l>
+<l>más que si jamás la viera,</l>
+<l>que si el alma verla espera</l>
+<l>es para ser su homicida. Como el alterado mar,</l>
+<l>no me ha dejado partir</l>
+<l>el trato, el ver, el oír,</l>
+<l>el hablar, el desear.</l>
+<l>Tanto han podido afirmar</l>
+<l>este pensamiento en mí,</l>
+<l>que hoy le dije, y le mentí,</l>
+<l>que era muerta mi mujer</l>
+<l>y que lo había de ser</l>
+<l>como dijese que sí. ALBANO Preguntome de qué suerte</l>
+<l>su muerte había sabido,</l>
+<l>pues por el mar no había sido</l>
+<l>posible saber su muerte.</l>
+<l>Mira lo que amor advierte</l>
+<l>que dije que era muerta</l>
+<l>cuando de la más incierta</l>
+<l>en sus islas tomé puerto,</l>
+<l>aunque el haberlo encubierto</l>
+<l>de alguna duda la advierta. Pero dile por razón</l>
+<l>que entonces iba a casarme</l>
+<l>y no quise declararme</l>
+<l>hasta saber tu afición,</l>
+<l>prometile, ¡qué traición!,</l>
+<l>ir a sosegar mi estado</l>
+<l>y dejarte aquí empeñado</l>
+<l>en mi palabra real</l>
+<l>hasta volver con igual</l>
+<l>grandeza a quedar casado. Pero no pude vencer</l>
+<l>aquel casto pensamiento</l>
+<l>ni bastó mi atrevimiento,</l>
+<l>ni hay fuerzas en mi poder,</l>
+<l>de suerte que vino a ser</l>
+<l>concierto que me partiese</l>
+<l>y que a casarme volviese</l>
+<l>con aparato real</l>
+<l>y a intentar el mejor mal</l>
+<l>que de traidor se escribiese. OCTAVIO ¿Por qué razón?, ¿qué te obliga?,</l>
+<l>si una vez de aquí te vas.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Otavio, el no haber ya más</l>
+<l>sufrido tanta fatiga,</l>
+<l>¿qué puede haber que te diga</l>
+<l>más de que muero y la adoro</l>
+<l>contra mi real decoro?</l>
+<l>No lo quisiera intentar</l>
+<l>a poder pasarla el mar</l>
+<l>como a Europa el blanco toro. Pero pues no puede ser</l>
+<l>que lo goce de otra suerte,</l>
+<l>yo pienso intentar la muerte</l>
+<l>de la Reina mi mujer,</l>
+<l>que muerta podré volver</l>
+<l>a casarme con Arminda,</l>
+<l>que pues tan lejos a linda,</l>
+<l>de aquestas islas mi estado</l>
+<l>ha de ser vano cuidado</l>
+<l>que de otra suerte se rinda.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l> Oyendo estoy tus razones,</l>
+<l>y dudando si eres quien</l>
+<l>quiso a Leonida tanto bien. ALBANO</l>
+<l>Si a considerar te pones,</l>
+<l>Otavio, las confusiones</l>
+<l>en que amor el mundo ha puesto,</l>
+<l>verás que es lo menos esto.</l>
+<l>No repliques que estoy loco</l>
+<l>y todo consejo es poco</l>
+<l>en un corazón dispuesto. Desde aquí voy a embarcarme;</l>
+<l>tú te queda, Otavio, aquí.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>¿Yo, para qué?, si de ti</l>
+<l>no es justo agora apartarme.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Hasta que vuelva a casarme</l>
+<l>podría haber dilación.</l>
+<l>Libres los isleños son</l>
+<l>por no tener rey estraño.</l>
+<l>Ha de intentar en mi daño</l>
+<l>casarla en esta ocasión. Es mujer y, sin consejo,</l>
+<l>podrá entretanto casarse,</l>
+<l>mas sobra que ha de aguardarse</l>
+<l>si aquí por prenda te dejo.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Ahora bien, yo no me quejo</l>
+<l>de tu locura y partida</l>
+<l>que sé que en viendo a Leonida</l>
+<l>has de mudar de opinión,</l>
+<l>que desta loca afición</l>
+<l>será su gusto homicida. ALBANO Plega a Dios, hermano Otavio,</l>
+<l>que tanto Leonida pueda</l>
+<l>y que el cielo le conceda</l>
+<l>fuerza de impidir tu agravio.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Tú mirarás como sabio</l>
+<l>en esta navegación</l>
+<l>la fealdad desta traición.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Él sabe que se lo ruego,</l>
+<l>¡oh, mar, apaga mi fuego!,</l>
+<l>si tales tus aguas son.</l></sp>
+<stage>Vase el rey ALBANO y queda OTAVIO .</stage>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l> ¿Hay más estraño amor? ¿Pero qué digo?,</l>
+<l>si de la misma yerba estoy tocado</l>
+<l>Culpo a mi hermano donde soy culpado,</l>
+<l>que amando a Arminda, el mismo engaño sigo.</l>
+<l>Déjame aquí para leal testigo</l>
+<l>del engaño que deja concertado</l>
+<l>y es fuerza que de mí quede engañado,</l>
+<l>que a tal hermano, tan fingido amigo.</l>
+<l>Arminda, plega a Dios que correspondas</l>
+<l>porque viva Leonida siempre esquiva,</l>
+<l>y que tu rostro de su llanto escondas.</l>
+<l>Nunca tan fiero mal la fama escriba,</l>
+<l>¡oh, sacro mar!, sepúltale en sus ondas,</l>
+<l>muera el traidor y el inocente viva. <stage>Sale[n] ARMINDA y REINALDO , caballero.</stage></l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l> No quiere que con él vaya mi gente,</l>
+<l>estraño agravio ha hecho a mi deseo;</l>
+<l>con la que tiene aquí se parte solo.</l>
+<l>Díjele tu recado y que yo era</l>
+<l>de aquella gente capitán y dice</l>
+<l>que te besa las manos, mas que es justo</l>
+<l>que yo quede a servirte con mi gente,</l>
+<l>que el no la ha menester, pues por agora</l>
+<l>no tiene Ibernia público enemigo</l>
+<l>y que va más seguro con secreto.</l>
+<l>Dejele ya en la barca y prevenida</l>
+<l>de velas le esperaba aquella nave</l>
+<l>que casi rota vino a nuestro puerto,</l>
+<l>porque está reparada y de manera</l>
+<l>que no hay en las islas más ligera.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Buen viaje, buen viento y buena dicha.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>¿Quién se partió, señora?</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>El Rey, tu hermano.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Así me dijo aquí, mas no de suerte</l>
+<l>que creyese tan cerca su partida.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Parte, Reinaldo, a recoger la gente.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>¿Cómo ha quedado Otavio en vuestras islas? ARMINDA</l>
+<l>Después sabrás la causa, parte agora.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Guárdete el cielo de traición, señora.</l></sp>
+<stage>Vase REINALDO .</stage>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>No quiso, Otavio, el Rey llevar mi gente.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Débele de importar ir con la suya.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Deseo que me digas con quién iba</l>
+<l>a casarse, que ya me ha descubierto</l>
+<l>la causa que le trujo a nuestras islas,</l>
+<l>que el camino de Escocia fue fingido.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>El camino de Escocia fue muy cierto,</l>
+<l>y que quiso casarme con Teodora,</l>
+<l>hermana de Leonida, mujer suya,</l>
+<l>que todo lo demás son invenciones</l>
+<l>de un hombre que con loco pensamiento</l>
+<l>intenta tu imposible casamiento.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> ¿Pues no es muerta la Reina?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Si estuviera</l>
+<l>más lejos de las islas y al mar cercano</l>
+<l>las altas velas en golfo dïera,</l>
+<l>tú vieras la intención del Rey mi hermano. ARMINDA</l>
+<l>Cuando estuviera agora en la ribera,</l>
+<l>habiendo sido su deseo en vano,</l>
+<l>¿qué venganza me llama o me provoca</l>
+<l>para adelante si hoy traición me toca? Y ansí te guarde el cielo, Otavio mío,</l>
+<l>que te fíes de mí.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Si agradecieras</l>
+<l>mi justo amor, como de ti confié,</l>
+<l>notables cosas de un traidor supieras.</l>
+<l>Digo traidor por este desvarío,</l>
+<l>que si por ser de amor le consideras</l>
+<l>en el mismo rigor, de tanta culpa</l>
+<l>por mil historias le darás disculpa. Sí te diré el suceso, pero temo...</l>
+<l>¿Mas qué puedo temer? Advierte un poco</l>
+<l>y hago testigo al mismo Dios supremo,</l>
+<l>que solo por Leonida me provoco.</l>
+<l>El Rey te quiere con tan loco estremo</l>
+<l>que parte a dar la muerte, como loco,</l>
+<l>a su mujer, hermosa y inocente,</l>
+<l>que en lo que dice de que es muerta, miente. Tú harás, Arminda, un necio casamiento</l>
+<l>si vuelve el Rey aquí; pues que la mano</l>
+<l>has de tomar de un bárbaro sangriento,</l>
+<l>por más que le disculpe amor liviano.</l>
+<l>Mas temo de que tanto atrevimiento</l>
+<l>temple, llegando allá mi loco hermano,</l>
+<l>con la vista de aquella reina hermosa,</l>
+<l>honesta, casta, santa y virtuosa. Déjame aquí para que yo te impida</l>
+<l>que entre tanto te cases y le esperes,</l>
+<l>que da la muerte a la sin par Leonida,</l>
+<l>glorioso honor y ejemplo de mujeres.</l>
+<l>Estas cosas le dije a la partida,</l>
+<l>es incapaz de la razón que quieres,</l>
+<l>no le pude vencer, vénzale el cielo. ARMINDA</l>
+<l>¡Entre la sangre me discurre un yelo! ¿Que el rey Albano, por casar conmigo,</l>
+<l>quiere matar a su inocente esposa?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Parta Reinaldo y sepa lo que digo,</l>
+<l>pues con secreto no es difícil cosa.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Dente los cielos bárbaro castigo</l>
+<l>conforme a tu maldad, y rigurosa</l>
+<l>la mar que ha dado fin a tantas gentes;</l>
+<l>primero te sepultes que lo intentes. Rómpase el leño donde vas contento</l>
+<l>en un escollo o barco peligroso,</l>
+<l>brame el toro del húmido elemento</l>
+<l>con perilo tan fiero y riguroso;</l>
+<l>caiga de su nubiberse aposento</l>
+<l>el tridente de Júpiter fogoso,</l>
+<l>que derribando el corredor de popa</l>
+<l>te abrase en alma sin tocar la ropa. No llegues para siempre a la ribera</l>
+<l>de tu querida patria y si el estrago</l>
+<l>del mar te diere alguna, sea tan fiera</l>
+<l>que des en un caribe o lotófago.</l>
+<l>Leonida bella, si tu cuello espera</l>
+<l>su espada vil, de tu virtud en pago</l>
+<l>no soy la culpa yo, sino su suerte</l>
+<l>que me impide el aviso de tu muerte. OCTAVIO No te aflija ni mueva a dolor tanto</l>
+<l>el pensar la inocencia de Leonida,</l>
+<l>que el Rey llegado haya, si el mar y el cielo</l>
+<l>tan justas maldiciones no ejecutan,</l>
+<l>templará su rigor solo en verla,</l>
+<l>porque es dignade honor y de respeto,</l>
+<l>y viéndola y hablándola, ¿quién duda</l>
+<l>que envaine luego la traición desnuda? Solo te pido yo que si tus años</l>
+<l>han de elegir esposo conveniente,</l>
+<l>y sabes que yo soy para los daños</l>
+<l>de aquestas islas capitán valiente,</l>
+<l>los propios te parezcan más estraños</l>
+<l>y permitas que yo tu guarda intente</l>
+<l>con el nombre que solo mereciera,</l>
+<l>no quien mi sangre, quien mi amor tuviera.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> No dudes, no, que te acetara, Otavio,</l>
+<l>en justo matrimonio, pero advierte</l>
+<l>que tengo de pagar todo el agravio</l>
+<l>que de Leonida ha de causar la muerte.</l>
+<l>Si tú das orden más prudente y sabio</l>
+<l>que tu hermano cruel trueque la suerte,</l>
+<l>yo te doy la palabra que algún modo</l>
+<l>se puede hallar de remediarlo todo. OCTAVIO Cuando mi hermano con ausencia tanta</l>
+<l>no mude el pensamiento, que estoy cierto</l>
+<l>que no será tan firme hombre tan malo,</l>
+<l>casado yo contigo, ¿de qué temes</l>
+<l>a Escocia, a Inglaterra, ni a Alemania?</l>
+<l>¿No sabré yo de todos defenderte,</l>
+<l>no sabré yo poner aquestas islas</l>
+<l>en la defensa que otros capitanes?,</l>
+<l>Fuera de que si tú no estás casada,</l>
+<l>él es juez, dirá que eres culpada.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> No dices mal, que si el traidor intenta</l>
+<l>matar su esposa y saben que a casarse</l>
+<l>vuelven a mi tierra, han de pensar que he sido</l>
+<l>culpada en el concierto de la muerte,</l>
+<l>y sabiendo que soy en este medio</l>
+<l>tu mujer, no podrán culparme en nada.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Si conoces, señora, mis deseos,</l>
+<l>no dilates al premio.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Está seguro</l>
+<l>de que tu bien y mi quietud procuro.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l> Pues dame en prendas de tu fe la mano.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Con la palabra firme de ser tuya,</l>
+<l>para que nuestra boda tenga efeto. (Dense las manos y entre REINALDO y FABIO .)</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>No digas, Fabio, que es amor discreto.</l></sp>
+<sp who="#fabio_juez" ana="m"><speaker>FABIO</speaker>
+<l>¿Diole la mano?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>¿En eso pones duda?</l></sp>
+<sp who="#fabio_juez" ana="m"><speaker>FABIO</speaker>
+<l>No, recelaste en vano que este Otavio</l>
+<l>vino a quitarte la esperanza justa.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¿Quién es?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Yo soy.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¿Qué quieres?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Vine a darte</l>
+<l>cuenta de la partida del Rey.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¿Tienes</l>
+<l>que decirme otra cosa?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Que la gente</l>
+<l>del rey de Ibernia va con viento en popa</l>
+<l>y que acá se quedaron mis deseos.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>No te espantes si son deseos locos,</l>
+<l>porque de esos se suelen lograr pocos. Ven, Otavio, conmigo y trataremos</l>
+<l>de que se fortifiquen estas islas. OCTAVIO</l>
+<l>Ya sabes mi deseo en tu servicio.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Eres príncipe, en fin harás tu oficio.</l></sp>
+<stage>Vanse.</stage>
+<sp who="#fabio_juez" ana="m"><speaker>FABIO</speaker>
+<l>Los dos se van y dicen que con ánimo</l>
+<l>de que se fortifique, es lo que tratan.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>No dices mal; mas, ¿qué mejores fuerzas</l>
+<l>que las de amor si ya le tiene Otavio</l>
+<l>y aquí me ha hecho tan notable agravio?</l></sp>
+<sp who="#fabio_juez" ana="m"><speaker>FABIO</speaker>
+<l> Agravio no, pero desdén ha sido.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Matar a Otavio tengo.</l></sp>
+<sp who="#fabio_juez" ana="m"><speaker>FABIO</speaker>
+<l>¿De qué suerte?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>¿Ha de faltar industria?</l></sp>
+<sp who="#fabio_juez" ana="m"><speaker>FABIO</speaker>
+<l>¿Y qué has temido?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Que ha de reinar y que me ha de dar la muerte.</l></sp>
+<sp who="#fabio_juez" ana="m"><speaker>FABIO</speaker>
+<l>¿De Arminda piensas que ha de ser marido?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>¿La mano que le dio no te lo advierte?,</l>
+<l>mas yo haré que la mano se divida</l>
+   <l>con la que traigo donde ves ceñida.</l></sp>
+</div><div type="act" n="II" part="N" org="uniform" sample="complete">
+<stage>Salen Leonida, reina y Fabia</stage>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> ¿Qué tiene el Rey, Fabia mía,</l>
+<l>que después desta jornada</l>
+<l>aun de mirarme se enfada</l>
+<l>con tanta melancolía? ¿Qué tiene el Rey, que en efeto,</l>
+<l>no sabe disimular,</l>
+<l>pues ni en hablar ni en mirar</l>
+<l>guarda el rigor de discreto? ¿Qué tiene el Rey que conmigo</l>
+<l>usa de tanto rigor?</l>
+<l>Pero dijera mejor,</l>
+<l>¡oh, Fabia!, que lo que digo: ¿Qué no tiene el Rey?, y fuera</l>
+<l>acertar lo que pregunto,</l>
+<l>y saber el alma junto</l>
+<l>lo que a partes considera. Fabia, el Rey no tiene amor</l>
+<l>y como amor no me tiene</l>
+<l>a tanta tristeza viene</l>
+<l>y yo vengo a tal temor. Pues si amor no tiene el Rey,</l>
+<l>¿qué me admiro que en el trato</l>
+<l>no guarda a mi amor ingrato</l>
+<l>de amante la justa ley? Por los ojos que, en efeto,</l>
+<l>cristales del alma son,</l>
+<l>muestra amor del corazón</l>
+<l>lo más íntimo y secreto.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l> Yo he visto que me aborrece;</l>
+<l>esos miedos son de amor,</l>
+<l>porque amando con rigor</l>
+<l>tales recelos padece. Verdad es que con cuidado,</l>
+<l>después que ha venido, estoy,</l>
+<l>pero este sentido doy</l>
+<l>al que a los dos nos ha dado, que como tan gran tormenta,</l>
+<l>como sabes, padeció</l>
+<l>el trabajo en que se vio</l>
+<l>hoy en la memoria sienta. Que pensaría perderte,</l>
+<l>el reino y vida, y sospecho</l>
+<l>que este cuidado en el pecho,</l>
+<l>aunque generoso y fuerte, a un hombre imaginativo</l>
+<l>pudo este disgusto hacer.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Sí, mas llegado el placer</l>
+<l>de verse ya libre y vivo, restituido a su casa,</l>
+<l>a su esposa, reino y gusto,</l>
+<l>¿cómo no templa el disgusto</l>
+<l>y aquesta memoria pasa? Que la memoria del mal,</l>
+<l>en los que libres se ven,</l>
+<l>antes acrecienta el bien</l>
+<l>con placer y gusto igual. No, Fabia, que me han engañado</l>
+<l>señas del Rey mi señor</l>
+<l>o en esta ausencia el amor</l>
+<l>por otro amor ha trocado.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l> ¡Gracia tienes, en la mar</l>
+<l>y en las islas donde vino</l>
+<l>de estar solo y peregrino</l>
+<l>pudo olvidarte y amar! ¿A quién querías que amase</l>
+<l>entre unas peñas?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>No sé,</l>
+<l>pero sé que en él se ve</l>
+<l>lo que si yo te contase, o en mi honestidad cupiese,</l>
+<l>conocerías si estoy</l>
+<l>engañada.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Aunque no soy</l>
+<l>tan discreta que entendiese por conjeturas tu daño,</l>
+<l>ni por favores tu miedo,</l>
+<l>poco más o menos puedo</l>
+<l>resumir que es todo engaño.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Engaño no puede ser,</l>
+<l>que no se puede engañar</l>
+<l>el placer por el pesar,</l>
+<l>ni el pesar por el placer. El libro de los casados,</l>
+<l>todo en dos hojas se encierra,</l>
+<l>qué es mesa y cama.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>No yerra,</l>
+<l>tal vez que tienen cuidados esa regla general</l>
+<l>y anda al gusto divertida.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>No cuando el amor ha sido,</l>
+<l>Fabia, en los dos igual. Si tiene pena el marido,</l>
+<l>comunica a la mujer</l>
+<l>el pesar como el placer</l>
+<l>y es igualmente sentido. Y así están tristes los dos,</l>
+<l>que uno alegre y otro triste</l>
+<l>en desigualdad consiste</l>
+<l>contra lo que ordena Dios. Pero advierte que aquí viene,</l>
+<l>como suele, pensativo.</l></sp>
+<stage>Sale el rey ALBANO .</stage>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Quien vive como yo vivo,</l>
+<l>más muerte que vida tiene. Tales mis tristezas son</l>
+<l>que puedo determinarme</l>
+<l>a una de dos, o a matarme</l>
+<l>o a tomar resolución.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> ¿No ves qué triste semblante</l>
+<l>muestra y que hablando consigo,</l>
+<l>no ve que aquí estoy contigo</l>
+<l>ni aunque me ponga adelante? ¿No ves qué melancolía</l>
+<l>tan profunda?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Estoy loco</l>
+<l>porque no habiéndola muerto</l>
+<l>no ha de ser vida la mía. También de la dilación</l>
+<l>puede resultarme daño,</l>
+<l>ello ha de ser con engaño.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Qué notable confusión! ¿No miras cómo entre sí</l>
+<l>está trazando quimeras?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Cuanto en el Rey consideras,</l>
+<l>voy considerando en mí. Pero de aquella tristeza</l>
+<l>no es posible que otro amor</l>
+<l>sea causa y el proprio honor,</l>
+<l>mayor cuanto más grandeza, se la quiero atribuir.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Al honor, ¿por qué razón?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Porque sus efetos son</l>
+<l>el no poderlos decir.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Luego haste dado a entender</l>
+<l>que está el Rey de mí celoso.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Un desatino amoroso</l>
+<l>cualquiera lo puede hacer. ¿Por qué no podría ser</l>
+<l>que quien te quisiese mal,</l>
+<l>que le has sido desleal</l>
+<l>quisiese darle a entender? Las historias están llenas</l>
+<l>de sucesos semejantes,</l>
+<l>tal por invidia de amantes,</l>
+<l>tal por venganzas ajenas. ¿Tienes sospechas de alguno?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Basta, que en lo cierto has dado,</l>
+<l>celos es este cuidado,</l>
+<l>no porque de hombre ninguno declaradamente sea</l>
+<l>amada, pero bien creo</l>
+<l>que he conocido un deseo</l>
+<l>y sé que mi mal desea.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l> ¿De quién?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>De Rosardo, Fabia.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>¿Pues hase atrevido a ti?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Estoy por decir que sí,</l>
+<l>puesto que así me agravia. No tan descubiertamente</l>
+<l>que yo le mostrase enojos,</l>
+<l>pero basta que los ojos</l>
+<l>digan lo que el alma siente. Y este, viendo mi virtud</l>
+<l>y que en comenzando a hablar</l>
+<l>jamás le daba lugar,</l>
+<l>trocó la solicitud de mi gusto en mi dolor</l>
+<l>y habrá por dicha pensado</l>
+<l>poner el Rey en cuidado</l>
+<l>con sospechas de mi honor. No quiero hablarle.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Pues bien,</l>
+<l>¿qué quieres hacer?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Pensar.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Ya no le dejes de hablar</l>
+<l>y muéstrale amor también, que si te ve sospechosa</l>
+<l>estaralo más de ti.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Dices bien. ¿Qué haces aquí,</l>
+<l>mi señor?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¡Oh, Reina hermosa! Cuidados y pensamientos</l>
+<l>del gobierno me divierten,</l>
+<l>que para que en algo acierte</l>
+<l>andan siempre por los vientos. No falta qué imaginar</l>
+<l>a quien sustenta una pobre</l>
+<l>familia, y que falta o sobre</l>
+<l>siempre tiene qué pensar. Pues mirad a quien gobierna,</l>
+<l>como yo, tan grande estado,</l>
+<l>cuál ha de ser su cuidado</l>
+<l>y solicitud eterna.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Mi padre vuelve a escribir</l>
+<l>de vuestro hermano, ¿qué haré?,</l>
+<l>¿qué respuesta le daré?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Que estoy en mi intento firme y que ya sabemos dél;</l>
+<l>que iremos, queriendo Dios,</l>
+<l>a Escocia presto los dos,</l>
+<l>porque tengo de ir con él.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> ¿Pues dónde dicen que está?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Dio en el Asia derrotada,</l>
+<l>tengo aviso que ha llegado</l>
+<l>a Chipre y que viene ya. Eso podéis escribir</l>
+<l>y que luego partiremos.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Guárdeos el cielo.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¡Qué estremos</l>
+<l>entre vivir y morir!</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> ¿Qué te parece?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Que creo</l>
+<l>que el deseo te ha engañado.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Si el deseo da cuidado,</l>
+<l>no me ha engañado el deseo.</l>
+<l>(Va[n]se la Reina y FABIA .)</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> Pasan el mar mis tristes pensamientos</l>
+<l>en la nave mortal de mis cuidados,</l>
+<l>entre tantas fortunas arrojados,</l>
+<l>que están más locos que los mismos vientos.</l>
+<l>La causa de los graves movimientos,</l>
+<l>lejos entre peñascos elevados,</l>
+<l>muestran la luz, que de mirar turbados</l>
+<l>los ojos truecan a los elementos.</l>
+<l>Por el agua en que nadan da la lumbre</l>
+<l>y cerca se promete a la esperanza</l>
+<l>desde el puerto a los ojos ofrecida.</l>
+<l>Yo sigo la verdad por alta cumbre</l>
+<l>y engañado de ver su semejanza,</l>
+<l>la muerte bebo a sombra de la vida.</l></sp>
+<stage>Sale ROSARDO .</stage>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Tiberio dice que me llamas.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Pienso,</l>
+<l>según tardaste, que tenías hecho,</l>
+<l>Rosardo, aquello para que te llamo.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Pues es cosa que pude adevinar?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>No, capitán, que no es tan fácil cosa,</l>
+<l>antes me ha parecido tan difícil</l>
+<l>que podría tardar en comenzarla</l>
+<l>más que has tardado en el venir a oírla.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>No hay cosa que lo sea a quien te sirve</l>
+<l>con el gusto y amor que yo te sirvo,</l>
+<l>y admírome que digas que es difícil</l>
+<l>de decírmela, que para hacerla</l>
+<l>mis deseos la tienen por tan fácil.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>No has de decir difícil conociendo</l>
+<l>que te la digo a ti, pero es estraña,</l>
+<l>que de su parte sola dificulta</l>
+<l>el poderla decir tan libremente,</l>
+<l>tanta dificultad mi pecho siente.</l>
+<l>Mas conociendo yo...</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>[Aparte.]</l>
+<l>¡Válgame el cielo!</l>
+<l>¿Si la Reina le ha dicho mis intentos,</l>
+<l>que aún no los declaré por el respeto</l>
+<l>debido a la grandeza de su estado</l>
+<l>y el Rey quiere matarme?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Conociendo,</l>
+<l>Rosardo, tu lealtad...</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>[Aparte.]</l>
+<l>Ello es sin duda,</l>
+<l>la Reina sospechó mis pensamientos</l>
+<l>y los ha dicho al Rey.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Y tan seguro</l>
+<l>de tu valor, yo fío de ti mi honra.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>[Aparte.]</l>
+<l>¿Qué aguardo más?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Por mil respetos justos</l>
+<l>me importa, capitán, matar la Reina,</l>
+<l>destos no tengo que informarte.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¡Ay, cielo!</l>
+<l>¿Matar la Reina?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Porque no te importa</l>
+<l>juzgar a ti de la razón, mas solo</l>
+<l>ejecutar la muerte.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>No te espantes</l>
+<l>que me admire, señor, de lo que dices</l>
+<l>y en alguna manera esté turbado.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>No me espanto, Rosardo, que diciéndolo</l>
+<l>estoy turbado yo; y así no es mucho</l>
+<l>que tú lo estés oyéndolo, mas mira,</l>
+<l>que como digo, soy juez en esto</l>
+<l>y tú el ejecutor.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Tú habrás mirado,</l>
+<l>señor, la causa que te mueve a cosa</l>
+<l>tan estraña y tan fuera de aquel gusto</l>
+<l>que has mostrado en quererla y estimarla</l>
+<l>por tantas excelencias como tiene</l>
+<l>en su virtud, su ingenio y su hermosura.</l>
+<l>Bien me parece grave lo que mandas</l>
+<l>y sabe Dios, señor, cuánto lo siento,</l>
+<l>mas eres Rey y obedecerte debo,</l>
+<l>que tú no me mandarás cosa injusta</l>
+<l>y obedecerte debo en lo que es justo.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Yo tengo de ausentarme, que no quiero</l>
+<l>ni puede ser, que esté presente.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿A dónde?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Al monte, solo ausencia de dos días.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Pues cómo tengo de intentar su muerte?</l>
+<l>¿Tengo de entrar en forma de justicia</l>
+<l>o quieres que la mate con secreto?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Yo te daré un papel cuando me parta</l>
+<l>y aquella orden seguirás en todo.</l>
+<l>No tengo que advertirte, el mismo caso</l>
+<l>te dice la importancia, a Dios te queda.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Cuándo te partirás?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Luego querría.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Pues escribe.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Yo voy, Rosardo; advierte</l>
+<l>que está mi vida y honra en esta muerte.</l></sp>
+<stage>Vase el Rey.</stage>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> ¡Oh, terrible mudamiento!,</l>
+<l>¡oh, notable ejecución!</l>
+<l>Mas si tiene el Rey razón,</l>
+<l>¿de qué tiemblas, pensamiento? ¿Él no dice que es juez</l>
+<l>y que soy ejecutor?</l>
+<l>Pues, ¿de qué tengo temor?</l>
+<l>Muera mi amor de una vez en la vida de Leonida,</l>
+<l>pues no puede de otra suerte</l>
+<l>dar a mis sospechas muerte</l>
+<l>y a mis esperanzas vida. Amé mi muerte en amalla,</l>
+<l>porque si el Rey lo entendiera</l>
+<l>la vida y honra perdiera,</l>
+<l>y estas dos tendré en matalla. ¿Mas cómo será posible</l>
+<l>que mate lo que adoré?,</l>
+<l>pero si a un bárbaro fue</l>
+<l>posible aqueste imposible... Si Celín Turco mató</l>
+<l>por su honor y honesta fama</l>
+<l>sin otra ofensa a su dama,</l>
+<l>¿no podré matarla yo? Demos, que corre por cuenta</l>
+<l>del Rey, ¿pues qué puedo hacer</l>
+<l>más justo que obedecer</l>
+<l>lo que él por su agravio intenta?</l></sp>
+<stage>Sale FINEO .</stage>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> Todo hoy os ando a buscar,</l>
+<l>y ni en Palacio ni fuera</l>
+<l>os pude hallar.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>No quisiera</l>
+<l>que este me viniera a hallar. Pero echarele de mí,</l>
+<l>¿para qué soy menester?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>De vós quisiera saber</l>
+<l>si hay nuevas de Otavio.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Sí. Que el Rey dijo ayer que Otavio</l>
+<l>estaba en Chipre y venía</l>
+<l>a Ibernia.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Escribir querría</l>
+<l>a Escocia, porque este agravio, de no haber el Rey llegado</l>
+<l>habiéndolo prometido,</l>
+<l>de tal manera han sentido</l>
+<l>que piensan que le ha casado en Alemania en secreto</l>
+<l>y que el concierto quebró.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Que irá presto el Rey sé yo</l>
+<l>y tendrá la boda efecto, y tan presto cuanto llegue</l>
+<l>su hermano.</l></sp>
+<stage>Sale[n] TIBERIO y dos cazadores.</stage>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>A todos avisa,</l>
+<l>Lisenio, con mucha prisa,</l>
+<l>puesto que el tiempo la niegue, porque quiere el Rey salir</l>
+<l>con tanta que no hay lugar</l>
+<l>más que de hacer ensillar.</l></sp>
+<sp><speaker>LISENIO</speaker>
+<l>Todo se hará prevenir.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l> Pues parte y a punto estén.</l></sp>
+<sp><speaker>LISENIO</speaker>
+<l>Voy.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>¡Oh, capitán Rosardo!,</l>
+<l>¿qué hay de nuevo?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>El Rey aguarda.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>Pues podréis hablarle bien si son negocios de guerra</l>
+<l>de aquí al monte.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>De paz son,</l>
+<l>pues son de mi galardón.</l></sp>
+<stage>Sale el Rey de camino, con un papel.</stage>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Hoy la piedad se destierra de todo punto de mí.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>El Rey sale.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Adiós, Fineo.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Hablarte después deseo,</l>
+<l>¿a dónde he de hallarte?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Aquí.</l></sp>
+<stage>Vanse FINEO , TIBERIO y los cazadores.</stage>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> Rosardo.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Señor.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Advierte</l>
+<l>lo que dice este papel</l>
+<l>y toma esta llave.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>En él</l>
+<l>hallaré de obedecerte la ley, y tú, gran señor,</l>
+<l>en el de mi pecho noble</l>
+<l>la obediencia.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>No te doble</l>
+<l>piedad, respeto, ni amor.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> ¿Para qué es aquesta llave?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Para entrar hasta su cama.</l>
+<l>Mi honor, mi vida, mi fama,</l>
+<l>solo en este papel cabe, y en ese pecho, Rosardo.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Tú conocerás quién soy.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>La llave de mi honor te doy,</l>
+<l>que le restaures aguardo.</l></sp>
+<stage>Vase el Rey.</stage>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Cuanto más se va acercando</l>
+<l>la ejecución desta muerte,</l>
+<l>más de su culpa me advierte</l>
+<l>y mas temor voy cobrando. Pues si es culpada, ¿qué temo</l>
+<l>dándome el Rey en su culpa</l>
+<l>para su sangre disculpa?</l>
+<l>Yo paso de estremo a estremo sin medio proporcionado,</l>
+<l>sin duda cometo error,</l>
+<l>que pasar de tanto amor</l>
+<l>a un odio tan declarado no es guardar la proporción</l>
+<l>debida al entendimiento,</l>
+<l>más destemplar su instrumento</l>
+<l>a la divina razón. Pero sea lo que fuere</l>
+<l>la obediencia es justa ley;</l>
+<l>el Rey es Rey, mande el Rey</l>
+<l>y venga lo que viniere.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>(Lea.) «Esta noche entrarás con esta llave</l>
+<l>hasta la cama en que la Reina duerme</l>
+<l>y sin decir a qué lleva contigo</l>
+<l>a tu amigo Fineo y dale muerte</l>
+<l>con ella, y juntos en su sangre envueltos</l>
+<l>déjalos hasta el día si por dicha</l>
+<l>no lo sienten las damas de su cámara,</l>
+<l>y tú venme a buscar al monte luego,</l>
+<l>donde con pena del suceso aguardo,</l>
+<l>que allá sabrás lo que has de hacer, Rosardo.» ¿Fineo muerto con la Reina? ¡Cielos!</l>
+<l>¿Qué novedad es esta? ¿Cómo o cuándo</l>
+<l>Fineo ha dado al Rey estos desvelos</l>
+<l>o si él tuvo amor? Más voy considerando</l>
+<l>que me debía de reñir con celos</l>
+<l>el servir a la Reina imaginando</l>
+<l>que quien con él ha sido deshonesta,</l>
+<l>tampoco fuera con mi amor compuesta. ¡Ah, villano Fineo!, quien te vía</l>
+<l>traerme ejemplos y formar castigos</l>
+<l>para el amor que él mismo le tenía,</l>
+<l>juzgaba en mí los cielos enemigos.</l>
+<l>Pues ya llegó de mi venganza el día,</l>
+<l>que tal suelen tener falsos amigos</l>
+<l>debida pena, ¿mas la Reina es esta?,</l>
+<l>en fin mujer, esta es la Porcia honesta.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Esta es la virtuosa, esta es la santa,</l>
+<l>agora, dulce Albano, he conocido</l>
+<l>que alguna justa persuasión levanta</l>
+<l>contra mi honor el mar de tu sentido.</l>
+<l>Ya mi presencia, ya mi amor te espanta,</l>
+<l>ya huyes a los montes, ya en olvido</l>
+<l>has puesto los regalos que solías</l>
+<l>gozar las noches y estimar los días. ¿Qué haré, cómo diré que injustamente</l>
+<l>tratas mi fe?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Feliso llega agora</l>
+<l>con este pliego.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Bienvenido sea,</l>
+<l>¿quién está aquí?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Rosardo a tu servicio</l>
+<l>y doyte parabién, Reina y señora,</l>
+<l>del pliego si es de Otavio.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>No es de Otavio,</l>
+<l>pero es del Rey mi padre y de mi hermana.</l>
+<l>Muestra un cuchillo del estuche, Fabia.</l>
+<l>Cortaré este cordel, que como es grande</l>
+<l>quiso apretalle el secretario.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Corta,</l>
+<l>que ya tengo deseo de ver nuevas,</l>
+<l>(Dale el cuchillo y al cortar yérese.)</l>
+<l>si allá las hay de Otavio.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Espera, ¡ay triste!</l>
+<l>¡Oh!, mal haya la prisa, y el cuchillo,</l>
+<l>al pasar el cordel, paseme el dedo.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Hay tal desgracia? Espere Vuestra Alteza,</l>
+<l>¿es algo?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Con la sangre me he turbado</l>
+<l>y todo es nada.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Aunque es atrevimiento,</l>
+<l>este lienzo suplico que merezca</l>
+<l>apretar esa sangre porque quede</l>
+<l>la mía honrada con tan gran reliquia.</l>
+<l>(Al sacar el lienzo ROSARDO , saca también el papel, delo envuelto en él y désele.)</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Lo que te debo, capitán, me obliga</l>
+<l>a acetar el servicio.</l>
+<l>[Aparte.]</l>
+<l>Mas, ¿qué es esto</l>
+<l>que suena con el lienzo? ¿Hay tal locura?</l>
+<l>Papel me ha dado en él, pues callar quiero;</l>
+<l>no entienda que lo entiendo, pues me obliga</l>
+<l>a hacerle dar la muerte. Salte afuera,</l>
+<l>Rosardo, que este lienzo que me has dado</l>
+<l>no viene a resistir la sangre mía,</l>
+<l>antes viene a sacarla.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¡Santo cielo,</l>
+<l>si adevina que soy quien esta noche</l>
+<l>ha de matarla! ¿Pero cuándo el alma</l>
+<l>dejó de ser profeta en los peligros?</l>
+<l>Buscar quiero a Fineo y prevenirle</l>
+<l>de que esta noche entremos donde lleve</l>
+<l>el castigo que a mí y al Rey le debe.</l></sp>
+<stage>Vase ROSARDO .</stage>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> ¿Fuese el villano?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Ya, señora, es ido.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Hase visto jamás atrevimiento</l>
+<l>que iguale al deste bárbaro atrevido?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>¿De qué te ha enfadado?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Ya no siento</l>
+<l>que el Rey trate mi amor con tanto olvido,</l>
+<l>como deste villano el pensamiento.</l>
+<l>Mira si ya está todo declarado.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>¿Cómo?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>En el lienzo este papel me ha dado.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l> ¿Papel a ti?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Pues no le ves?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Señora,</l>
+<l>hazle luego matar.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Tantos pedazos</l>
+<l>cuantos hago el papel.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Detente un poco,</l>
+<l>no le rasgues, veamos lo que dice.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>No dices mal, sepamos lo que intenta.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Quítate el lienzo, que tu sangre afrenta.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Válgame el cielo, Fabia, esta es la letra</l>
+<l>del Rey!</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>¿Del Rey?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Pues cómo o a qué efeto</l>
+<l>me da papel del Rey dentro de un lienzo?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Sin duda que al sacarle juntamente</l>
+<l>sacó lienzo y papel.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Pues es sin duda</l>
+<l>que lo que he visto la color me muda. (Lea.)</l>
+<l>«Esta noche entrarás con esta llave</l>
+<l>hasta la cama en que la Reina duerme,</l>
+<l>y sin decir a qué lleva contigo</l>
+<l>a tu amigo Fineo y dale muerte</l>
+<l>con ella, y juntos en su sangre envueltos</l>
+<l>déjalos hasta el día si por dicha</l>
+<l>no lo sienten las damas de su cámara,</l>
+<l>y tú venme a buscar al monte luego,</l>
+<l>donde con pena del suceso aguardo,</l>
+<l>que allá sabrás lo que has de hacer, Rosardo.» Declarose, Fabia, el Rey</l>
+<l>y todo se ha declarado.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>¡Basta, que le han engañado!</l>
+<l>¡Oh, fiera envidia sin ley!</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Aunque a mí me parecía</l>
+<l>que este testimonio ha sido</l>
+<l>deste mismo que ha querido</l>
+<l>derribar la virtud mía.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l> ¿Pues cómo el papel te ha dado</l>
+<l>con que desto te avisó?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Porque al cielo enterneció</l>
+<l>la inocencia de mi estado. Que no porque él pretendiese</l>
+<l>avisarme por camino</l>
+<l>tan estraño y peregrino.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>¿Es posible que pudiese persuadirse el Rey, que sabe</l>
+<l>tu virtud, a tal maldad?</l>
+<l>¿Que tanta facilidad</l>
+<l>en tanta grandeza cabe que manda matar contigo</l>
+<l>a Fineo?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Yo a Fineo...?</l>
+<l>En toda mi vida creo</l>
+<l>que habló palabra conmigo. Ello es fortuna deshecha,</l>
+<l>necesario es el valor</l>
+<l>que para tanto rigor</l>
+<l>ningún remedio aprovecha. Yo quiero dejar matarme,</l>
+<l>mi sangre al cielo le pida</l>
+<l>venganza.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>¿Perder la vida</l>
+<l>quieres?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Pues puedo librarme?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l> A lo menos, si turbada</l>
+<l>la vida perder te atreves,</l>
+<l>por lo que a tu honor le debes</l>
+<l>estás, señora, obligada a no aventurar tu honor,</l>
+<l>que si te dejas matar,</l>
+<l>¿qué opinión has de dejar</l>
+<l>de tu perdido valor?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> El cielo vuelve por quien</l>
+<l>mata el mundo sin razón.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>En las cosas de opinión</l>
+<l>muchas desdichas le ven. Si entra aqueste capitán</l>
+<l>con una llave a tu cama</l>
+<l>de noche, tu vida y fama</l>
+<l>en igual peligro están. Quizá dará satisfación</l>
+<l>de tu inocencia, y lo fundo,</l>
+<l>en que siempre piensa el mundo</l>
+<l>en las cosas de opinión, más lo mal que lo bueno,</l>
+<l>por eso apruebo el librarte</l>
+<l>y lo que es dejar matarte</l>
+<l>de todo punto condene. Huye el peligro y después</l>
+<l>verá el Rey el desengaño.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Y si doy fuerzas al daño...</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>¿Cómo fuerzas?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Y pues no ves que la duda que el Rey tiene</l>
+<l>huyéndome se confirma?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Es duda lo que se afirma,</l>
+<l>pues a ejecutarse viene. Créeme, que una vez muerta</l>
+<l>con Fineo, aunque te llame</l>
+<l>santa el mundo, al vulgo infame</l>
+<l>dejas abierta la puerta para que con lengua vil</l>
+<l>se afirme en tu deshonor.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Que haya en el Rey tal rigor!</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Una sospecha sutil entra por la más cerrada</l>
+<l>puerta del alma con celos.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Esto permiten los cielos?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Huyela traidora espada de Rosardo, que tu cuello</l>
+<l>ya también te amenaza.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Con qué fuerzas, con qué traza?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>La ocasión muestra el cabello, que si le dejas agora</l>
+<l>te has de arrepentir.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Qué haré?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Huírte.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Cómo podré?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Tú muchas veces, señora, la caza has ejercitado;</l>
+<l>sal por el jardín segura</l>
+<l>cuando ya la noche obscura</l>
+<l>tiene su manto estrellado en hábito varonil,</l>
+<l>pues le solías llevar,</l>
+<l>y en un caballo igualar</l>
+<l>el curso al viento sutil. Corred, en fin, hasta el puerto,</l>
+<l>donde podrás embarcarte</l>
+<l>a Escocia, y dándole parte</l>
+<l>al Rey deste desconcierto volver a cobrar tu honor.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Tú me dices lo que importa,</l>
+<l>el tiempo y la dicha es corta,</l>
+<l>no hay sino es mostrar valor. En forma de hombre saldré,</l>
+<l>¿mas de quién podré fiarme?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Bien dices, sin declararme</l>
+<l>un crïado te daré que por hombre te acompañe,</l>
+<l>a quien después le dirás</l>
+<l>quién eres.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Dónde hallarás</l>
+<l>quien aproveche y no dañe?</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l> Yo sé que jamás te vio</l>
+<l>este escudero que digo.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Pues vente, Fabia, conmigo,</l>
+<l>porque, en fin, viviendo yo, me queda más esperanza</l>
+<l>de cobrar mi honor.</l></sp>
+<sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
+<l>Sí hará</l>
+<l>y espero en Dios que podrás</l>
+<l>tomar del traidor venganza.</l></sp>
+<stage>Vanse y sale[n] el Rey, TIBERIO y gente de la caza con su grita, y silbos.</stage>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l> Seguirle, señor, puedes,</l>
+<l>que se lanzó por estas verdes jaras.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Tú parte y no te quedes,</l>
+<l>que yo al ruido destas fuentes claras</l>
+<l>quiero sentarme a solas;</l>
+<l>ardas, mar, con mis inquietas olas.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l> Advierte que anochece</l>
+<l>y no queda lugar.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Tiberio, amigo,</l>
+<l>poco gusto me ofrece</l>
+<l>la caza, el monte, el animal que sigo;</l>
+<l>¿no adviertes mi tristeza?</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>Ya, señor, la he notado en Vuestra Alteza, pero como no hay leyes</l>
+<l>de preguntar los súbditos vasallos</l>
+<l>sus cosas a los reyes,</l>
+<l>no me atreviera a hablarte.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Esos caballos</l>
+<l>arrienda en esos robles.</l>
+<l>[Aparte.]</l>
+<l>Qué congoja que dan los tratos dobles. Deseo ya la muerte</l>
+<l>de Leonida mi esposa, y temeroso</l>
+<l>de aquella misma suerte,</l>
+<l>estoy de que no muera deseoso.</l>
+<l>A lo menos quisiera,</l>
+<l>que sin matarla yo, morir pudiera.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l> Estraños pensamientos</l>
+<l>al Rey combaten, pues hablando solo</l>
+<l>muestra en sus movimientos</l>
+<l>su gran tristeza.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Esconde el rostro, Apolo,</l>
+<l>date prisa a bañarte</l>
+<l>en el mar donde vas a sepultarte. Callada noche fría,</l>
+<l>ponte delante, con tu niebla obscura,</l>
+<l>del resplandor del día,</l>
+<l>no vea vuestra luz serena y pura.</l>
+<l>¡Oh, cielos!, la violencia</l>
+<l>con que muere a mis manos la inocencia. Sombras de aquestos montes,</l>
+<l>caed de sus estremos a sus faldas,</l>
+<l>cubrid los horizontes</l>
+<l>y el manto de las frígidas espaldas,</l>
+<l>no le pintes de estrellas,</l>
+<l>noche vestida de sus luces bellas, que no es razón que veáis</l>
+<l>esta traición a que el amor me obliga,</l>
+<l>porque después no sean</l>
+<l>testigos contra mí.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>No sé qué diga,</l>
+<l>señor, de tu tristeza,</l>
+<l>ya esconde el sol su aurífera cabeza. ¿Quieres que nos volvamos</l>
+<l>a aquella casería en que la gente</l>
+<l>de servicio dejamos?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Puro cristal desta serena fuente,</l>
+<l>no me sirvas de espejo,</l>
+<l>pues infamada tu hermosura dejo. No retrates la cara</l>
+<l>de un traidor homicida, noche, tente</l>
+<l>tu carro helado, para,</l>
+<l>apica tus caballos blandamente,</l>
+<l>porque de mi Leonida</l>
+<l>dilates, noche, la inocente vida. ¿Mas cómo aquesto digo?,</l>
+<l>¿estoy en mí? ¿Posible es que la empresa</l>
+<l>del alto bien que sigo,</l>
+<l>por la piedad cobardemente cesa?</l>
+<l>¿Qué puede haber que rinda</l>
+<l>a quien adora la divina Arminda? ¡Oh, Arminda!, si imagino</l>
+<l>en tu rara belleza, tu hermosura,</l>
+<l>a mayor desatino</l>
+<l>obliga mi deseo, fuente pura,</l>
+<l>en esa blanca plata,</l>
+<l>ya no traidor, amante me retrata. Ánimo, pensamiento,</l>
+<l>no estorbe la piedad tan justa empresa</l>
+<l>con el merecimiento</l>
+<l>de Arminda, todo para; todo cesa.</l>
+<l>Ven, Tiberio, conmigo.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>¿A dónde vas?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Mi pensamiento sigo.</l></sp>
+<stage>Vanse, y sale[n] FINEO y ROSARDO .</stage>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> ¿Dónde, Rosardo, me llevas</l>
+<l>por el palacio del Rey?</l>
+<l>Mira que no es justa ley</l>
+<l>que a tales cosas te atrevas.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Aquí espera y no te muevas.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Quién esta llave te dio?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>La Reina, que me mandó</l>
+<l>que mientras el Rey cazase</l>
+<l>este lugar ocupase</l>
+<l>que para mi amor dejó.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> ¿Leonida?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Leonida, pues.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Que ha podido ser vencida</l>
+<l>la gran virtud de Leonida?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Amor la puso a sus pies.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Que te quiere?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿No lo ves?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Que te dio llave?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>En su pecho.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Tiemblo, Rosardo.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Ya es hecho.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Que la venciste?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Es mujer.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Yo me tengo de volver.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Ya es tarde y no es de provecho.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> ¿Cómo?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Téngote cerrado.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¡Abrirás o vive Dios</l>
+<l>que nos matemos los dos,</l>
+<l>que soy caballero honrado,</l>
+<l>y me has traído engañado!</l>
+<l>¡Que yo soy al Rey leal</l>
+<l>y no es bien que a infamia tal</l>
+<l>ayude ni dé favor!</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>En los delitos de amor</l>
+<l>es la fuerza natural. Culpa a la naturaleza,</l>
+<l>Fineo, que nos forzó.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>No hizo, pues Dios nos dio</l>
+<l>razón contra su flaqueza.</l>
+<l>Mira la antigua nobleza</l>
+<l>que de tus padres y abuelos</l>
+<l>has heredado.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Son celos,</l>
+<l>no en balde me han dicho a mí</l>
+<l>que amas la Reina.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Yo?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Sí.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Mejor me guarden los cielos para el respeto debido</l>
+<l>a su virtud y valor.</l>
+<l>Tendré yo a la Reina amor,</l>
+<l>como siempre le he tenido.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Amor dices?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Pues no ha sido</l>
+<l>justo, siendo con lealtad.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Pues con esa libertad</l>
+<l>dices que la quieres bien?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿No tengo de amar a quien</l>
+<l>me manda el cielo?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Es verdad, pero es en agravio mío.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Pareces al lobo frío</l>
+<l>cuando dijo que el cordero</l>
+<l>le enturbió el agua del río;</l>
+<l>no miras tu desvarío</l>
+<l>y enfádate mi razón.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¡A mi amistad tal traición!</l>
+<l>¡Vive el cielo que es mal hecho!</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Qué dices?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>No es de provecho</l>
+<l>(Dale de puñaladas y cae FINEO .)</l>
+<l>satisfacerme, traidor;</l>
+<l>tú confesaste su amor,</l>
+<l>yo he de pasarte el pecho.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> ¡Jesús!</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Lo más acabé,</l>
+<l>que fue matar al amigo;</l>
+<l>el intento del Rey sigo</l>
+<l>y a la Reina mataré,</l>
+<l>pienso que dormiendo esté,</l>
+<l>pues despierte en la otra vida.</l>
+<l>(Éntrase ROSARDO y dice FINEO , revolviendo con ansias de muerte.)</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¡Oh, fiera mano homicida!,</l>
+<l>¿con cuál ocasión me has muerto?</l>
+<l>Sin duda que fue concierto</l>
+<l>para infamar a Leonida. Esto pretende el traidor,</l>
+<l>¿si daré voces, que haré?</l>
+<l>Mas, ¿qué importa que las dé</l>
+<l>si ha de volver a acabarme?</l>
+<l>Probar quiero a descolgarme</l>
+<l>deste balcón a este huerto,</l>
+<l>que cuando en él caiga muerto</l>
+<l>habrá sabido enterrarme.</l>
+<l>(Torna ROSARDO con el papel en la punta de un puñal.)</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> ¡Oh, caso prodigioso!, ¡oh, fuerza estraña,</l>
+<l>de mi desdicha! ¡Vive el alto cielo,</l>
+<l>que se ha entendido por mi propria culpa</l>
+<l>del Rey el homicida pensamiento,</l>
+<l>y de mi ejecución su atrevimiento!</l>
+<l>Llegué a la cama, y con la luz que ardía,</l>
+<l>pendiente en medio de la cuadra al tiempo,</l>
+<l>que con la daga ejecutaba el golpe,</l>
+<l>veo compuesta la bordada cama</l>
+<l>y en medio de las ricas almohadas</l>
+<l>esta daga desnuda punta arriba</l>
+<l>y este papel en ella atravesado,</l>
+<l>miro el papel y hallo que es el mismo</l>
+<l>que el Rey me dio, que yo sin duda alguna</l>
+<l>le di a la Reina envuelto en aquel lienzo.</l>
+<l>Ella se huyó con el temor, yo he muerto</l>
+<l>a Fineo, ¿qué haré? Buscarla quiero,</l>
+<l>que de algún caballero acompañada</l>
+<l>del puerto irá camino, y a Fineo</l>
+<l>pondré en la cama como el Rey lo manda.</l>
+<l>¿Aquí no le dejé? ¿Qué es esto, cielo?</l>
+<l>Pues medio muerto estaba, si la herida</l>
+<l>le dio lugar a huir, ¿por dónde pudo,</l>
+<l>que las puertas están cerradas todas?</l>
+<l>¿Qué dirá el Rey?, ¿Qué encanto es este, cielo?</l>
+<l>Mas, ¿si se echó deste balcón? Mal hice</l>
+<l>en no acabar de todo aquella vida</l>
+<l>odiosa al Rey y amada de Leonida.</l></sp>
+<stage>Vase y sale la Reina en hábito de hombre con LUCINDO .</stage>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Déjalos pacer un rato,</l>
+<l>cuelguen del arzón los frenos.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>No dudes que será bien</l>
+<l>para que tomen aliento.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Mucho habemos caminado.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>No hay espuela como el miedo,</l>
+<l>no hay viento como el peligro,</l>
+<l>no hay alas como el recelo.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Imaginas tú quién soy?</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Díjome que un caballero</l>
+<l>Fabia, a cuyo padre noble</l>
+<l>los que yo tuve sirvieron.</l>
+<l>Puede haber como tres días,</l>
+<l>que del lugar donde pienso</l>
+<l>esconderte por su orden</l>
+<l>vine a la Corte, mas creo</l>
+<l>que debes de ser persona</l>
+<l>con quien trata casamiento</l>
+<l>y por alguna desgracia</l>
+<l>sales de la Corte huyendo.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>[Aparte.]</l>
+<l>De lo mismo que este dice,</l>
+<l>cielo, aprovecharme quiero.</l>
+<l>A ti, pues eres hidalgo,</l>
+<l>y en fin en tu amparo vengo</l>
+<l>y Fabia tu honor te fía,</l>
+<l>quiero decirte el suceso.</l>
+<l>Yo soy lo mejor de Ibernia;</l>
+<l>hice, Lucindo, un torneo</l>
+<l>a honor de Fabia, con quien</l>
+<l>estoy casado en secreto.</l>
+<l>Un príncipe generoso,</l>
+<l>un competidor que tengo,</l>
+<l>un pretendiente de Fabia,</l>
+<l>sin saber que la poseo,</l>
+<l>sobre una toca de plata</l>
+<l>que me dio dándole el precio</l>
+<l>que había ganado él mismo,</l>
+<l>dando invidia a sus deseos,</l>
+<l>por mejor lanza y espada,</l>
+<l>galas, brío, gracia y cuerpo,</l>
+<l>me desafió esta noche.</l>
+<l>Salí al campo en el overo</l>
+<l>que a donde ves me ha traído,</l>
+<l>y hallele solo en el puesto,</l>
+<l>remitimos a las armas,</l>
+<l>las palabras y el suceso.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Tirome un tajo y del tajo,</l>
+<l>al diestro revés volviendo,</l>
+<l>hirió su mismo caballo,</l>
+<l>que era un bajo, cabos negros,</l>
+<l>él con la sangre y el golpe,</l>
+<l>con tanto desasosiego</l>
+<l>se alteró y se desvió,</l>
+<l>ya saltando y ya corriendo,</l>
+<l>que sintiéndome seguirle</l>
+<l>y a los ojos el acero</l>
+<l>como un ave se arrojó</l>
+<l>de los borrenes al suelo.</l>
+<l>Al arrojarse quería</l>
+<l>sacarla tan presto</l>
+<l>que sin poder remediarse</l>
+<l>se la metió por el pecho.</l>
+<l>El cómo fue, no lo sé;</l>
+<l>sé que el caballo revuelvo</l>
+<l>y vengo a dar cuenta a Fabia,</l>
+<l>que con lágrimas y ruegos</l>
+<l>me ha obligado a que me esconda</l>
+<l>temerosa que por esto</l>
+<l>no haga el Rey indignado,</l>
+<l>lo que huyendo escusar puedo.</l>
+<l>Esta es la historia.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Es estraña,</l>
+<l>pero no tengas recelo</l>
+<l>de que serás conocido</l>
+<l>al lugar donde te llevo,</l>
+<l>que es riberas del mar,</l>
+<l>alto monte y bajo puerto.</l>
+<l>Sus caballos van por agua,</l>
+<l>sus espuelas son los remos.</l>
+<l>Mas porque ya de sus ondas</l>
+<l>le ha coronado Febo</l>
+<l>de perlas y de corales</l>
+<l>y tengo por buen consejo</l>
+<l>que no camines de día,</l>
+<l>ir a esta cabaña quiero,</l>
+<l>que parece de pastores,</l>
+<l>y ver si en ella podemos</l>
+<l>aguardar hasta la noche.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Pues parte, que aquí te espero.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Adiós.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Él vaya contigo.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Descansa en tanto que vuelvo.</l>
+<l>(Váyase LUCINDO .)</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Huyendo voy de todo el bien que tengo,</l>
+<l>no tengo yo más bien que el que huyo.</l>
+<l>Huygo porque me tiene por mal suyo</l>
+<l>y como mal del bien huyendo vengo.</l>
+<l>No es gusto de la vida que entretengo</l>
+<l>sino saber mi bien que es gusto tuyo,</l>
+<l>pues viendo que el honor te restituyo,</l>
+<l>en medio del camino me detengo.</l>
+<l>Ven a matarme si a tu honor provoca,</l>
+<l>de algún traidor el loco desvarío,</l>
+<l>celos o amor de alguna mujer loca.</l>
+<l>No huygo por vivir, pues desconfío</l>
+<l>de la vida sin ti, mas porque toca</l>
+<l>a tu precioso honor guardar el mío.</l></sp>
+<stage>Entra ROSARDO .</stage>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> El relincho de un caballo</l>
+<l>me ha guiado a donde estoy.</l>
+<l>Fuera de camino voy,</l>
+<l>uno he buscado y dos hallo. Sin duda el uno dellos</l>
+<l>es del Rey y aun el mejor,</l>
+<l>pero ya siento rumor,</l>
+<l>¿si viene el dueño por ellos?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Gente es aquesta, ¡ay de mí!</l>
+<l>(Rebózase LEONIDA con una banda.)</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¡Ah, caballero! ¿Quién va?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Quién lo pregunta?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Aquí está</l>
+<l>quien lo pregunta.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Y yo aquí.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> En busca vengo de un hombre;</l>
+<l>quitad el rebozo luego.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Que paséis delante os ruego.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Si me decís vuestro nombre.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Albano me llamo.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Albano,</l>
+<l>suplícoos que me mostréis</l>
+<l>el rostro.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Que vós paséis,</l>
+<l>vuestro camino es más llano sin tanta curiosidad.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Yo os he de ver, caballero.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Ya os he dicho que no quiero,</l>
+<l>id en buen hora y callad, que viene gente conmigo</l>
+<l>que si os siente os matará.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Veros tengo.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Quita allá,</l>
+<l>bárbaro!</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Si sois quien sigo, tengo de ver y advertid</l>
+<l>que soy Rosardo, de quien</l>
+<l>tiembla este reino.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Está bien,</l>
+<l>vuestro camino seguid, que no soy quien vós pensáis.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Con la espada lo veré.</l>
+<l>(Aquí echan mano a las espadas.)</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Hola, gente!</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¡No podré</l>
+<l>dejar de veros, no huyáis!</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> ¡Muerta soy!</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Cayó en el suelo.</l>
+<l>Quiero quitalle el rebozo.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Ah, traidor!</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¡Oh, eterno gozo!</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Castigue tu infamia el cielo.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> La Reina herí y aun lo está</l>
+<l>de muerte.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Ay, triste!, ¡ay de mí!</l>
+<l>(Dicen de dentro FLORO , SILVANO , pastores y LUCINDO .)</l></sp>
+<sp who="#floro_juez" ana="m"><speaker>FLORO</speaker>
+<l>¿Por dónde?</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Por aquí,</l>
+<l>Silvano, echa por acá.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Gente viene y es su gente,</l>
+<l>ellos son, meterme quiero</l>
+<l>por estos robles. Primero</l>
+<l>veré si respira o siente. ¿Vives, Leonida? No tiene</l>
+<l>habla ni respiración,</l>
+<l>quiero con esta ocasión,</l>
+<l>si Albano del monte viene, decir que ya la maté</l>
+<l>con Fineo y que es mejor,</l>
+<l>guardar secreto a su honor.</l>
+<l>(Váyase y entren LUCINDO , FLORO , SILVANO y ELISO .)</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Pienso que a buscarme fue.</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l> No parece en todo el prado</l>
+<l>la persona que decís.</l></sp>
+<sp who="#eliso_juez" ana="m"><speaker>ELISO</speaker>
+<l>Aquí desta fuente sola</l>
+<l>siento el cristal discurrir.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>¡Cielos, aquí le dejé!</l>
+<l>Árboles, restitüid</l>
+<l>la prenda que os di a guardar,</l>
+<l>mas gran culpa cometí,</l>
+<l>que sois robles y villanos,</l>
+<l>¿quién duda que haréis en fin</l>
+<l>como quien sois?</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>Subir quiero</l>
+<l>el monte arriba.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Ay de mí!</l></sp>
+<sp who="#floro_juez" ana="m"><speaker>FLORO</speaker>
+<l>¡Quedo, aquí suena una voz!</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>Verdad es, yo la oí.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>En fin, por tu gusto muero,</l>
+<l>nunca, mi bien, te ofendí,</l>
+<l>si no es ofensa, señor,</l>
+<l>venir huyendo de ti.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Pastores, el caballero</l>
+<l>es este.</l></sp>
+<sp who="#floro_juez" ana="m"><speaker>FLORO</speaker>
+<l>¿Está herido?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Sí.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Florante, amigo.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Es Lucindo?</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Yo soy, ¿qué es esto?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>A morir</l>
+<l>me trujo a un monte la suerte.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>¡Ay, triste, la culpa fui!</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Luego que aquí me dejaste</l>
+<l>vino un caballero aquí,</l>
+<l>hermano del que ya sabes,</l>
+<l>y obligándome a reñir</l>
+<l>con palabras injuriosas</l>
+<l>saqué la espada y perdí</l>
+<l>la vida.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>¿Por dónde fue?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Ya no le podréis seguir.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Llevad este caballero,</l>
+<l>pastores, y presumid</l>
+<l>que es de lo mejor de Ibernia.</l></sp>
+<sp who="#floro_juez" ana="m"><speaker>FLORO</speaker>
+<l>Vós erráis si le seguís,</l>
+<l>porque el monte es muy espeso</l>
+<l>y vós solo.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Si por mí</l>
+<l>has de hacer alguna cosa,</l>
+<l>solo es curarme.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>¿Que oís,</l>
+<l>cielos, aquesta crueldad,</l>
+<l>y no baja a consumir</l>
+<l>este injusto un rayo vuestro?</l></sp>
+<sp who="#eliso_juez" ana="m"><speaker>ELISO</speaker>
+<l>Vós habláis como sentís,</l>
+<l>pero curadle la herida</l>
+<l>si le amáis, que con vivir</l>
+<l>podéis vengaros.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Ay, cielos!</l></sp>
+<sp who="#eliso_juez" ana="m"><speaker>ELISO</speaker>
+<l>Venid, señor, por aquí.</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>¡Por qué pequeña distancia</l>
+<l>entra la muerte sutil!</l></sp>
+<sp who="#floro_juez" ana="m"><speaker>FLORO</speaker>
+<l>¿Qué vida tiene defensa</l>
+<l>si Dios la manda venir?</l>
+   <l>(Váyanse todos.)</l></sp>
+</div><div type="act" n="III" part="N" org="uniform" sample="complete">
+<stage>Sale[n] OTAVIO y ARMINDA .</stage>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l> No se entiende, Arminda mía,</l>
+<l>con un recién desposado</l>
+<l>eso que llamas enfado.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Amor teme.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Amor confía. Este que yo puse en ti</l>
+<l>de la patria me olvida,</l>
+<l>que el bien es la más querida</l>
+<l>y éreslo tú para mí. No tengas miedo que vuelva,</l>
+<l>ni como temes, te deje,</l>
+<l>que no hay amor que aconseje</l>
+<l>que a enojarte me resuelva. Ya tengo mi patria en ti</l>
+<l>después de mi casamiento,</l>
+<l>porque dice el pensamiento</l>
+<l>que nací donde te vi. En estas islas te vieron</l>
+<l>mis ojos, aquí he nacido,</l>
+<l>que desde ser tuyo he sido,</l>
+<l>tal ser tus manos me dieron. Deja de mostrar tristeza</l>
+<l>con celos de mi partida,</l>
+<l>que tú, mi bien, me das vida,</l>
+<l>la patria naturaleza. No tengo qué desear,</l>
+<l>contento vivo por ti.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>De mi desdicha temí</l>
+<l>que te habías de ausentar. Pero si soy tan dichosa</l>
+<l>que aquí te quedes, mi bien,</l>
+<l>deme este mar parabién</l>
+<l>de que soy tu amada esposa. Que como dél soy señora,</l>
+<l>ya estaba temiendo el día</l>
+<l>en que pasarte tenía</l>
+<l>donde refieres agora. Siéntate en su orilla fresca</l>
+<l>o entra si quieres en él,</l>
+<l>en ese hermoso bajel</l>
+<l>para que goces su pesca. Si no quieres alejarte,</l>
+<l>aquí hay barco en que a su orilla</l>
+<l>verás cubierta la quilla</l>
+<l>de peces para alegrarte. Si más te alegra la tierra,</l>
+<l>por todo aqueste horizonte</l>
+<l>se cubre de caza el monte,</l>
+<l>cosa imagen de la guerra. Aquí el oso, aquí el venado,</l>
+<l>aquí el jabalí furioso,</l>
+<l>el conejo temeroso</l>
+<l>que mide a saltos el prado te convidan y te llaman,</l>
+<l>o por las verdes riberas</l>
+<l>de aquel río las ligeras</l>
+<l>aves que los bosques aman.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> Tira al águila en las peñas,</l>
+<l>en el monte a la perdiz,</l>
+<l>reclama la codorniz</l>
+<l>con falsos silbos y señas. Y si quieres que alcancemos</l>
+<l>de los olmos ruiseñores,</l>
+<l>o que dos nidos de azores</l>
+<l>de aquella peña bajemos te podrás entretener</l>
+<l>después, mi vida, en criallos,</l>
+<l>porque también de enseñallos</l>
+<l>puedes recibir placer. Esto, mi bien, para el día,</l>
+<l>que las noches no podrás</l>
+<l>entretenerte si estás</l>
+<l>cansado en mi compañía. Pero como no lo estés</l>
+<l>y estés contento casado,</l>
+<l>patria y mujer has hallado.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Beso mil veces tus pies. No quiero entretenimiento</l>
+<l>sin ti, que fuera agraviarte,</l>
+<l>porque no puede haber parte</l>
+<l>mayor que mi pensamiento. Y ese todo vive en ti</l>
+<l>sin discurrir a lugar</l>
+<l>que sin ti le pueda hallar.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Ya viene Reinaldo aquí.</l></sp>
+<stage>Sale REINALDO .</stage>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l> Tú seas tan bienvenido</l>
+<l>como has sido deseado.</l>
+<l>¿Qué hay de Ibernia? ¿Qué hay del Rey?</l>
+<l>¿Qué hay de Leonida y mi hermano?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Primero quiero, señor,</l>
+<l>que me digas si casado</l>
+<l>estás con la Infanta.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Estoy</l>
+<l>en posesión de sus brazos.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Quiero darte el parabién</l>
+<l>antes que decirte el caso</l>
+<l>que es parabién tuyo y nuestro.</l>
+<l>Tuyo porque el bien es tanto,</l>
+<l>y nuestro porque serás</l>
+<l>de nuestras islas amparo.</l>
+<l>([Aparte.]</l>
+<l>¡Ay de mí!, no sin razón</l>
+<l>temí en ausencia este daño;</l>
+<l>casose Arminda, ¿qué haré?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>¿No prosigues?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Si dilato</l>
+<l>la nueva no fue sin causa,</l>
+<l>porque tras haberte dado</l>
+<l>el parabién, viene mal</l>
+<l>referirte tristes casos.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Ya con decir que son tristes</l>
+<l>me le refieres tan claro</l>
+<l>que callando hablaste más</l>
+<l>que pude entenderte hablando.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Llegó el Rey, tu hermano, a Ibernia,</l>
+<l>entró por su casa Albano,</l>
+<l>Leonida le recibió</l>
+<l>en su pecho alegre y casto.</l>
+<l>Pero llevando en el suyo</l>
+<l>el rigor determinado</l>
+<l>de dar muerte a su inocencia,</l>
+<l>mostró señales de agravio.</l>
+<l>Y en fin, partiéndose a un monte</l>
+<l>dejó a un capitán mandado,</l>
+<l>no sé si diga su nombre,</l>
+<l>que fuera mejor callarlo.</l>
+<l>Como el de Eróstrato fiero,</l>
+<l>que abrasó el templo sagrado</l>
+<l>de Diana, mas si al fin</l>
+<l>la fama ha de publicarlo...</l>
+<l>Bien pienso que le conoces</l>
+<l>porque se llama Rosardo.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Este, entrando en su aposento</l>
+<l>por orden del Rey tirano,</l>
+<l>y dando muerte sin culpa</l>
+<l>a un caballero gallardo</l>
+<l>que se llamaba Fineo</l>
+<l>por dar fuerzas al engaño,</l>
+<l>no halló la Reina, mas luego</l>
+<l>la fue siguiendo y hallando</l>
+<l>nuevas dicen que la dio</l>
+<l>la muerte en medio de un campo.</l>
+<l>Vino de la caza el Rey</l>
+<l>y, aunque los cuerpos no se hallaron,</l>
+<l>publicó la muerte al pueblo</l>
+<l>sin luto y con rostro airado.</l>
+<l>Escribió a todos sus grandes</l>
+<l>y a sus ciudades el caso,</l>
+<l>mas ni las ciudades ni ellos,</l>
+<l>ni el hidalgo ni el villano</l>
+<l>dieron crédito al suceso,</l>
+<l>antes, con funesto llanto,</l>
+<l>las obsequias de Leonida</l>
+<l>en secreto celebraron.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Desde allí muy pocos días</l>
+<l>propuso el Reino su hermano,</l>
+<l>que estaba sin heredero</l>
+<l>y ellos mismos le rogaron</l>
+<l>que se casase muy presto,</l>
+<l>y el muy necio y confiado</l>
+<l>les dijo que ya lo estaba</l>
+<l>con Arminda, declarando</l>
+<l>con grandes fiestas a Arminda,</l>
+<l>por Reina, y de su retrato</l>
+<l>debe de haber en Ibernia</l>
+<l>a estas horas mil traslados.</l>
+<l>Bien es verdad que mormuran</l>
+<l>algunos, pero pensando</l>
+<l>el peligro dicen bien,</l>
+<l>bien de un mal tan declarado,</l>
+<l>¡oh!, que vi de lisonjeros</l>
+<l>aquello mismo aprobando</l>
+<l>que en secreto maldición</l>
+<l>en los patios del Palacio.</l>
+<l>Al fin Leonida murió</l>
+<l>sin honra y sin culpa, Otavio,</l>
+<l>que tanto puede un deseo</l>
+<l>en un pensamiento ingrato.</l>
+<l>Con esto y algunos días</l>
+<l>vino hermoso al tiempo, cuando</l>
+<l>corre la dorada aurora</l>
+<l>con manos de marfil blanco</l>
+<l>las orientales cortinas</l>
+<l>por donde asoma sus rayos</l>
+<l>al sol, que dormió la noche</l>
+<l>en la cama del ocaso.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Se vio la mar coronada</l>
+<l>de naves, urcas y barcos,</l>
+<l>todos cubiertos de velas</l>
+<l>y tendales de damasco.</l>
+<l>De las entenas pendientes</l>
+<l>tantos estandartes varios</l>
+<l>que de lejos parecían</l>
+<l>un ejército formado.</l>
+<l>Las cajas y las trompetas</l>
+<l>clavan ecos al mar cano,</l>
+<l>que de bullir con la espuma</l>
+<l>encanean los peñascos.</l>
+<l>Aquí el Rey entró contento,</l>
+<l>de galas y armas gallardo</l>
+<l>para casarse galán,</l>
+<l>para guardarse soldado.</l>
+<l>Él viene con este intento</l>
+<l>y llegando al desengaño,</l>
+<l>si Arminda las manos niega,</l>
+<l>habrá menester las manos.</l>
+<l>Mirad lo que habéis de hacer,</l>
+<l>pues decís que estáis casados,</l>
+<l>que un poderoso ofendido</l>
+<l>querrá castigar su agravio.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¿Que a casarse viene el Rey?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>¿Que mató mi fiero hermano</l>
+<l>a la inocente Leonida?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Ya es tarde para pensallo,</l>
+<l>tomar las armas importa</l>
+<l>para defenderle el paso,</l>
+<l>que antes que se acueste el sol</l>
+<l>querrá tomar puerto, Otavio.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>No te entristezcas, esposa,</l>
+<l>fía de mis fuertes brazos,</l>
+<l>pues que fiaste la vida,</l>
+<l>la tierra que está a mi cargo.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Contigo no tengo miedo,</l>
+<l>si fuera Albano, Alejandro.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>¡Armas, caballeros nobles!,</l>
+<l>¡al arma, isleños hidalgos!</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Yo pienso, enemigo fiero,</l>
+<l>ponerte presto en sus manos,</l>
+<l>pues que no pude matarte</l>
+<l>cuando estaba concertado,</l>
+<l>que no has de gozar de Arminda</l>
+<l>por cuyos celos me abraso.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Trompetas suenan, ya llega.</l>
+<l>¡Al arma, al arma, vasallos!</l>
+<l>¡No tome puerto en la isla</l>
+<l>el león sangriento Albano!</l></sp>
+<stage>Vase y entra[n] ROSARDO y TIBERIO .</stage>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l> Sosiega un poco.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>No puedo,</l>
+<l>porque me aprietan de suerte</l>
+<l>tristezas, que de mi muerte</l>
+<l>viene a ser la sombra el miedo.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l> ¿No quedaste a gobernar</l>
+<l>a Ibernia, su Rey ausente?</l>
+<l>¿Qué te entristece?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>La gente,</l>
+<l>el ver, Tiberio, el hablar. Como he visto que va el Rey</l>
+<l>a casarse tan contento</l>
+<l>y que aqueste casamiento</l>
+<l>es injustísima ley en un hombre de valor,</l>
+<l>pues apenas cesa esta,</l>
+<l>la sangre a quien tuvo ya</l>
+<l>obligación, sino amor. He dado en pensar que fue</l>
+<l>muerta la Reina sin culpa,</l>
+<l>con mentirosa disculpa</l>
+<l>de que fue ingrata a su fe. Y con este pensamiento,</l>
+<l>por haber ejecutado</l>
+<l>su muerte, a tiempo he llegado</l>
+<l>que nadie me da contento. ¡Ay, Tiberio, qué de cosas</l>
+<l>resultan de un loco amor!</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>No carecen de temor</l>
+<l>historias tan sospechosas. Y si te digo verdad,</l>
+<l>la santidad de la Reina,</l>
+<l>de todo este reino, reina</l>
+<l>en la común voluntad. No hay hombre de condición</l>
+<l>tan vil que no haya sentido</l>
+<l>su muerte injusta, y tenido</l>
+<l>a su virtud compasión. Porque en los reinos estraños</l>
+<l>que no saben su valor,</l>
+<l>los engaños de su honor</l>
+<l>no los tendrán por engaños. Esta tristeza, Rosardo,</l>
+<l>el temor hizo encubrilla,</l>
+<l>que aun para solo decilla,</l>
+<l>Dios sabe que me acobardo. Pero como tú la tienes,</l>
+<l>atrevimiento me dio</l>
+<l>para hablar, que bien sé yo</l>
+<l>que sin tener culpa vienes a ser mal quisto de todos,</l>
+<l>pues que deste Rey mandado,</l>
+<l>como mandado forzado</l>
+<l>y seguro de mil modos, diste la muerte a Leonida.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Para saber que fue injusta</l>
+<l>su muerte y disculpa justa</l>
+<l>de aquella inocente vida, ¿qué más testigos que ver</l>
+<l>los miedos desde aquel día</l>
+<l>que aflojan el alma mía?,</l>
+<l>pues cuando llego a comer parece que su cabeza</l>
+<l>sangrienta en el plato está;</l>
+<l>¿de qué temblando me da</l>
+<l>esta congoja y tristeza? Si duermo sueño que estoy</l>
+<l>matándola, y si despierto,</l>
+<l>como veo que la he muerto,</l>
+<l>llanto en disculpa le doy, ¿qué haré?</l></sp>
+<stage>Entra FENISO , caballero.</stage>
+<sp who="#feniso_juez" ana="m"><speaker>FENISO</speaker>
+<l>¿Qué hacéis desta suerte,</l>
+<l>con tanto descuido aquí?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>No hay voz, Tiberio, que a mí</l>
+<l>no me parezca la muerte. ¿Qué hay, Feniso?</l></sp>
+<sp who="#feniso_juez" ana="m"><speaker>FENISO</speaker>
+<l>Que ha llegado</l>
+<l>del rey de Escocia la armada</l>
+<l>al puerto, y de armada amada</l>
+<l>pienso que el nombre ha trocado. Porque de todos ha sido</l>
+<l>recibida de manera</l>
+<l>como si el Rey mismo fuera,</l>
+<l>que en otra a casarse ha ido. Y desto dan por razón</l>
+<l>que fue muerta injustamente</l>
+<l>la Reina y que el Rey ausente</l>
+<l>mandó matarla a traición. En fin, tantos se han juntado,</l>
+<l>Rosardo, al rey escocés,</l>
+<l>que mayor número es</l>
+<l>que el que se ha desembarcado. Él marchó y da por tu vida</l>
+<l>cien mil escudos, pregón,</l>
+<l>aunque injusto, con razón</l>
+<l>por ser padre de Leonida, si aguardas triste de ti.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Ves, Tiberio, claramente,</l>
+<l>que era Leonida inocente</l>
+<l>y que viene contra mí? ¿Ves como el Rey me engañó?</l>
+<l>¿Ves como soy, mi tristeza</l>
+<l>justa, y que el castigo empieza</l>
+<l>que por él padezca yo? ¿Qué me aconsejas?</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>Que huygas</l>
+<l>en hábito disfrazado;</l>
+<l>defenderte es escusado.</l>
+<l>Pocas son las fuerzas tuyas y en fin te falta razón,</l>
+<l>que es el mejor capitán.</l></sp>
+<sp who="#feniso_juez" ana="m"><speaker>FENISO</speaker>
+<l>El consejo que te dan</l>
+<l>es tu vida y opinión. Déjale el reino al de Escocia,</l>
+<l>venga el Rey y de su culpa</l>
+<l>proponga el reino disculpa.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Si en tanto que el Rey negocia su casamiento, pudiera</l>
+<l>defenderle esta ciudad,</l>
+<l>siquiera de mi lealtad,</l>
+<l>el digno ejemplo se viera. Pero no pudiendo ser,</l>
+<l>vuestro consejo me anima.</l></sp>
+<sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
+<l>La vida, Rosardo, estima,</l>
+<l>deja que venza el poder.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Venid conmigo.</l></sp>
+<sp who="#feniso_juez" ana="m"><speaker>FENISO</speaker>
+<l>Contigo,</l>
+<l>Rosardo, iremos los dos.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>La inocente sangre a Dios</l>
+<l>está pidiendo castigo.</l></sp>
+<stage>Vanse y tocan dentro arma y salgan ARMINDA en corto con bastón, y OTAVIO y soldados huyendo.</stage>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> Tomó puerto a mi pesar.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>No le pude resistir.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¿Qué habemos de hacer?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Morir</l>
+<l>en la ribera del mar.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> Para morir, ¿qué importaba</l>
+<l>huir y dejarle el puerto?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Porque un hombre, en siendo muerto,</l>
+<l>con su obligación acaba.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> La gente es poca, esta fue.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Gran gente ha desembarcado;</l>
+<l>el lugar está cercado,</l>
+<l>el lugar defenderé. Que quien por ti dio la muerte</l>
+<l>a su mujer tan tirano,</l>
+<l>mejor la dará a su hermano</l>
+<l>por gozarte desta suerte. Él viene marchando ya:</l>
+<l>¡alto a la ciudad, soldados!</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>El muro es fuerte.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>¡Qué airados</l>
+<l>vienen!</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¡Cierra!</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Ya lo está.</l></sp>
+<stage>Vanse y sale[n] el rey ALBANO y gente suya, desnudas las espadas.</stage>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> ¡Ánimo, soldados míos,</l>
+<l>mueran, mueran los cobardes,</l>
+<l>que de infame capitán,</l>
+<l>también es la gente infame!</l>
+<l>¡No quede un tosco piloto,</l>
+<l>no quede un paje en las naves,</l>
+<l>todos me seguid, que a todos</l>
+<l>quiero dar premios iguales!</l>
+<l>¿Hay semejante traición?</l>
+<l>¿Hay desdicha semejante?</l>
+<l>¡Arminda casada, cielos!</l>
+<l>Era mujer, fue mudable.</l>
+<l>Pero yo, ¿de quién me quejo,</l>
+<l>si he dado la muerte a un ángel?</l>
+<l>Mejor mi traición ha sido,</l>
+<l>hoy quiere Dios castigarme.</l>
+<l>¿Quién duda que clama al cielo</l>
+<l>aquella inocente sangre,</l>
+<l>derramada injustamente</l>
+<l>por mis manos desleales?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Presente a los ojos tengo</l>
+<l>aquella sangrienta imagen,</l>
+<l>aquellos honestos ojos,</l>
+<l>dulces, castos, agradables.</l>
+<l>¡Oh, qué mal hice! ¡Oh, qué feo</l>
+<l>retrato a mis culpas hace</l>
+<l>el vano arrepentimiento</l>
+<l>que llega en los daños tarde!</l>
+<l>¡Oh, fiero hermano cruel!,</l>
+<l>¿cómo pudiste casarte</l>
+<l>sabiendo lo que me cuesta</l>
+<l>esta mujer arrogante?</l>
+<l>Y tú, fiera, ¿cómo fuiste</l>
+<l>en mis conciertos tan grave</l>
+<l>y tan fácil en los suyos?</l>
+<l>¡Ah, cielos!, ¿que te casaste?</l>
+<l>Que te casaste, enemiga,</l>
+<l>más que la mar libre y fácil.</l>
+<l>¡Arminda casada, cielos!</l>
+<l>Era mujer, fue mudable.</l>
+<l>¡Quién supiera esta desdicha</l>
+<l>crüel para reportarse</l>
+<l>en tan estraño delito,</l>
+<l>en desatino tan grande!</l>
+<l>¡Con qué gusto me embarqué,</l>
+<l>qué tranquilo, qué tratable</l>
+<l>estuvo el mar y los vientos</l>
+<l>qué blandos y qué suaves!</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Parece que la fortuna</l>
+<l>para gobernar la nave,</l>
+<l>en la bitácora puesta,</l>
+<l>llevó la aguja delante.</l>
+<l>El favor y el buen suceso,</l>
+<l>asentados por los cables,</l>
+<l>parece que a la faena</l>
+<l>holgaban de levantarse.</l>
+<l>Salva me hicieron los peces,</l>
+<l>y de perlas y corales</l>
+<l>las ninfas del mar vestidas</l>
+<l>salieron a visitarme.</l>
+<l>Dábanme mil parabienes</l>
+<l>mar, peñascos, peces, aires,</l>
+<l>hasta el cielo se alegró</l>
+<l>con templanza favorable.</l>
+<l>Sola tú, triste enemiga,</l>
+<l>quieres que en la tierra pase</l>
+<l>la tormenta, que en la mar</l>
+<l>permite amor que me falte.</l>
+<l>Cruel Otavio, ¿qué es esto?</l>
+<l>Tú, hermano, y tú me engañaste,</l>
+<l>Arminda casada, ¡cielos!</l>
+<l>Era mujer, fue mudable.</l>
+<l>(Aparécense en el muro ARMINDA , OTAVIO y gente.)</l></sp>
+<sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
+<l>Señor, al muro se han puesto,</l>
+<l>¿no conoces a los dos?</l>
+<l>¡Llega, acércate presto!</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¡Dices la verdad, por Dios!</l>
+<l>¡Ah, fiero hermano!, ¿qué es eso? ¡Ah, fiera Arminda cruel,</l>
+<l>tú con Otavio!</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¿Qué quieres?</l>
+<l>Caseme y estoy con él.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Eso tenéis las mujeres,</l>
+<l>mas quiero quejarme dél, que pedirte a ti lealtad</l>
+<l>es pedir al mar quietud,</l>
+<l>a la venganza piedad,</l>
+<l>a la hermosura virtud</l>
+<l>y a la lisonja verdad. Di, fiero hermano, si aquí</l>
+<l>para guarda te dejé</l>
+<l>de Arminda en tanto que fui</l>
+<l>donde a Leonida maté</l>
+<l>por ella, ingrato, y por ti. ¿Qué te ha podido mover</l>
+<l>para escurecer tu nombre?</l>
+<l>Que de ti debo tener</l>
+<l>queja, que al fin eres hombre,</l>
+<l>que Arminda al fin es mujer.</l>
+<l>¿Cómo te casaste, ingrata?</l>
+<l>¿Es de hermanos este trato?</l>
+<l>¿Es de nobles? ¿Es de amigos?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>No, Rey, sino de enemigos,</l>
+<l>nombre con que yo te trato. Que desde que injustamente</l>
+<l>fuiste a dar muerte, ¡inhumano!,</l>
+<l>a tu mujer inocente,</l>
+<l>juré de no ser tu hermano,</l>
+<l>ni de serlo eternamente. Fuera desto presumí</l>
+<l>que nunca lo ejecutaras,</l>
+<l>que llegado allá creí</l>
+<l>que el pensamiento mudaras</l>
+<l>tan mal engendrado aquí.</l>
+<l>Y dime cuál fue mayor</l>
+<l>deste mío o de tu error,</l>
+<l>si entrambos amor los hace;</l>
+<l>el que dese injusto nace</l>
+<l>o el que de mi justo amor. Tú has dado muerte a una santa,</l>
+<l>casta y honesta mujer,</l>
+<l>cosa que en decirla espanta,</l>
+<l>y yo libre a pretender</l>
+<l>para mi mujer la Infanta. Tú sangriento, yo galán;</l>
+<l>tú casado, libre yo;</l>
+<l>responde, ¿a cuál culparán?</l>
+<l>Ella lo cierto escogió,</l>
+<l>todos contentos están.</l>
+<l>Demás, que no será cierto</l>
+<l>que a tu mujer hayas muerto</l>
+<l>y es fácil de imaginar,</l>
+<l>pues te ha dejado la mar</l>
+<l>tomar en las playas puerto. Que si allá muerto la hubieras</l>
+<l>nunca a estas islas pasaras,</l>
+<l>porque entre sus ondas fieras</l>
+<l>eterno sepulcro hallaras</l>
+<l>antes de ver sus riberas. Pero ya que estás aquí,</l>
+<l>que sea muerta o no lo sea,</l>
+<l>¿qué es lo que esperas de mí?</l>
+<l>Casado estoy, ¿qué desea</l>
+<l>tu crueldad?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Mostrarla en ti.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>¿En mí?, ¿cómo puede ser?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Quitándote esa mujer</l>
+<l>que pienso llevar conmigo.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Y yo a ti darte castigo</l>
+<l>de tu loco proceder.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> ¡Salid, infames!</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Valiente,</l>
+<l>espera, que ya saldremos.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¡Y yo a matarte, insolente!</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Ven, Arminda, y nuestra gente</l>
+<l>para salir aprestemos.</l>
+<l>(Quítanse del muro los dos.)</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> ¡Salid, villanos, y veréis el pago</l>
+<l>que doy a vuestro loco atrevimiento!</l></sp>
+<stage>Sale REINALDO .</stage>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Disculpa tengo, pues por celos hago</l>
+<l>esta traición.</l></sp>
+<sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
+<l>¿Quién va?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Quien tiene intento de dar al rey de Ibernia su enemigo.</l></sp>
+<sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
+<l>¿Oyes este soldado?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Estoy atento.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Haré como tú quieras lo que digo.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> ¿Pues qué puedo querer más justamente</l>
+<l>que dar a este villano su castigo?</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Ven conmigo si quieres que lo intente, que aquesta noche a la ciudad y Otavio</l>
+<l>tendrás en tu poder.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¡Al arma, gente!,</l>
+<l>que ya vuelven los cielos por mi agravio.</l></sp>
+<stage>Vanse y salen ELISO y SILVANO , pastores, LUCINDO y la reina LEONIDA , en su hábito de hombre con espada.</stage>
+<sp who="#eliso_juez" ana="m"><speaker>ELISO</speaker>
+<l> ¿Quién dejará de mostrar</l>
+<l>sentimiento en tu partida?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Quien ha estimado la vida</l>
+<l>que el cielo me quiso dar. Quien me vio mortal, amigos,</l>
+<l>y ya con salud me ve.</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>Plegue a Dios que firme esté</l>
+<l>y que a vuestros enemigos les falte siempre, alomenos</l>
+<l>contra vós, y pues tenéis</l>
+<l>vida, mirad que tratéis,</l>
+<l>señor Florante, con buenos. Huid el rostro de amigos</l>
+<l>falsos, para el bien inciertos,</l>
+<l>que los amigos ciertos</l>
+<l>son fáciles enemigos. No os fiéis de lisonjeros,</l>
+<l>de ambiciosos y arrogantes,</l>
+<l>que más valen ignorantes,</l>
+<l>humildes y verdaderos. Hablad poco y advirtiendo</l>
+<l>delante de quién lo habláis;</l>
+<l>haced y no respondáis,</l>
+<l>que es levantarse perdiendo. Delante de los criados</l>
+<l>no hagáis cosa que os importe;</l>
+<l>de favores de la Corte</l>
+<l>nunca vistáis los cuidados, porque es vestirlos de viento.</l>
+<l>Las promesas señoriles</l>
+<l>tened por plumas sutiles,</l>
+<l>que esto no es atrevimiento. No escribáis, que no miréis</l>
+<l>seis veces lo que firmáis,</l>
+<l>y aunque al amigo escribáis,</l>
+<l>del enemigo no habléis. Vuestro secreto guardalle</l>
+<l>sin darle a nadie a entender,</l>
+<l>especialmente a mujer,</l>
+<l>porque es echarle en la calle, que con este advertimiento,</l>
+<l>aunque de errado villano,</l>
+<l>en ese mar cortesano</l>
+<l>llevaréis en popa el viento.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> No fue, Silvano, mi herida</l>
+<l>por mi culpa.</l></sp>
+<sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
+<l>Así lo creo,</l>
+<l>y os hablo con el deseo</l>
+<l>que tengo de vuestra vida. Recibid la voluntad</l>
+<l>y pues os vais a la guerra,</l>
+<l>desta choza y desta sierra,</l>
+<l>aunque humilde, os acordad; y el cielo vaya con vós.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Ese mismo os satisfaga;</l>
+<l>esta cadena, aunque es paga</l>
+<l>humilde, tomad, y adiós.</l></sp>
+<sp who="#eliso_juez" ana="m"><speaker>ELISO</speaker>
+<l> Señor Lucindo, mirad</l>
+<l>por la vida de Florante.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>No hay cosa más importante</l>
+<l>para mi amor y amistad. El cielo os pague el cuidado</l>
+<l>que os ha dado su salud.</l></sp>
+<sp who="#eliso_juez" ana="m"><speaker>ELISO</speaker>
+<l>Habláis de vuestra virtud</l>
+<l>y entendimiento enseñado. Ea, buen viaje, y a Dios</l>
+<l>que os libre de hombre fingido.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>No os quejaréis de mi olvido</l>
+<l>si vivo, Eliso, los dos.</l></sp>
+<stage>Vanse los pastores.</stage>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> ¡Qué buena gente!</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Y qué tal;</l>
+<l>yo te juro que en ciudades</l>
+<l>no viven estas verdades.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Allá no hay cosa leal.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l> ¿Qué es lo que piensas hacer?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Haber, Lucindo, sabido</l>
+<l>que el rey de Escocia ha venido,</l>
+<l>y que tomó puerto ayer, me obliga a seguir la guerra,</l>
+<l>y en su ejército he pensado</l>
+<l>ser de una ocasión soldado,</l>
+<l>que tanta piedad encierra porque todo el reino dice</l>
+<l>que era la Reina inocente.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Él se mueve justamente.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Tanto siempre satisfice mi voluntad de la fama</l>
+<l>y costumbres de Leonida,</l>
+<l>que a vengar su honesta vida</l>
+<l>justa inclinación me llama.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l> ¿De quién se quiere vengar</l>
+<l>su padre?, el de Ibernia ausente.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>De aquel traidor insolente</l>
+<l>que ha quedado a gobernar su reino en ausencia suya,</l>
+<l>que fue, quien ciego de amor,</l>
+<l>dio causa al Rey su señor</l>
+<l>de que esta sospecha arguya.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l> ¿Y si el Rey vuelve casado</l>
+<l>con Arminda, que es por quien</l>
+<l>dicen que es ido?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>También</l>
+<l>quedará del Rey vengado cuando sin reino se vea.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>¿Pues sus vasallos querrán?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Tan lastimados están</l>
+<l>que cada cual lo desea. Cajas suenan.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Por aquí</l>
+<l>debe de marchar Ricardo.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Oh, qué ejército gallardo!</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>¿Trae luto?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Pienso que sí, y de armas negra sobrél,</l>
+<l>armado el cuerpo.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Piedad</l>
+<l>de padre.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Dices verdad,</l>
+<l>muestra el sentimiento en él. No trae blanca otra cosa</l>
+<l>que la barba y el cabello.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>A lágrimas mueve el vello</l>
+<l>en venganza tan piadosa. Negra trae las banderas,</l>
+<l>aun no hay pluma de color.</l>
+<l>¿Lloras?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Soy tierno, es amor,</l>
+<l>que justa venganza esperas.</l></sp>
+<stage>Salen soldados marchando, vestidos de luto y bandera negra y RICARDO , rey viejo de Escocia y FINEO , el que hirió ROSARDO .</stage>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l> Estimo haberte visto.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¡Oh, Dios pluviera</l>
+<l>que como yo viví de aquella herida</l>
+<l>tu santa hija, gran señor, viviera!</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l> ¿Que fuiste el caballero cuya vida</l>
+<l>pretendieron quitar injustamente</l>
+<l>con la inocente y santa de Leonida?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> Yo fui aquel mismo que engañosamente</l>
+<l>metió Rosardo en su aposento a darme</l>
+<l>la muerte, sabe Dios cuán inocente.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l> Darme satisfación es enojarme,</l>
+<l>si es voz de Dios la que es de un reino todo,</l>
+<l>no quiero del delito consolarme, de su muerte quisiera de algún modo,</l>
+<l>mas, ¿qué puede ser más que la venganza</l>
+<l>a que por ley de padre me acomodo?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> Tú puedes ir con justa confianza,</l>
+<l>que la ciudad te aguarda sin defensa.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Pierda el traidor Albano la esperanza del reino que ha perdido por la ofensa</l>
+<l>que ha hecho al cielo y a mi honor, si acaso</l>
+<l>volver casado y restaurarle piensa.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> Justicia tienes y por ley divina</l>
+<l>y humana puedes darle por castigo,</l>
+<l>y no es poco piadoso que no vuelva</l>
+<l>eternamente a restaurar su reino.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Mi capitán te nombro y constituyo</l>
+<l>en mi lugar y te prometo, amigo,</l>
+<l>honrarte en el lugar que a mi heredero,</l>
+<l>y darte el precio que mereces.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Solo</l>
+<l>tengo por premio haber acompañado</l>
+<l>con mi sangre, señor, a la inocente</l>
+<l>Reina, aunque sabe Dios cuánta fatiga</l>
+<l>pasé toda una noche desangrado,</l>
+<l>entre las flores del jardín oculto.</l>
+<l>Al alba tuve esfuerzo y poco a poco</l>
+<l>me fue del jardinero al aposento,</l>
+<l>que aquella noche me llevó a mi casa,</l>
+<l>donde pude curarme con secreto.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>El alma me enterneces escuchándote.</l>
+<l>¡Ay, mísera Leonida, solamente</l>
+<l>quisiera hallar tu cuerpo!</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>No es posible,</l>
+<l>por mucho que se ha hecho diligencia.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Aquí te queda, en tanto que prevengo</l>
+<l>una trompeta que diga de mi parte</l>
+<l>a la ciudad que si por armas entro</l>
+<l>daré licencia al saco a los soldados.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Yo sé muy bien que ya de paz te esperan;</l>
+<l>ea, soldados, hagan alto en tanto</l>
+<l>que escribe el Rey.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Agora es tiempo, llega.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Manda, señor, pues General te ha hecho</l>
+<l>el Rey, que nos alisten por soldados.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¡Cielos, si de Leonida hubiera sido</l>
+<l>el homicida, presumiera agora</l>
+<l>que con su sombra y semejanza misma</l>
+<l>me amenazaba!</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Ay, cielos!, ¿no es aqueste</l>
+<l>Fineo, el que Rosardo muerto había?</l>
+<l>¿Pues cómo es capitán del Rey mi padre?</l>
+<l>Más bien será disimular agora,</l>
+<l>que adoro a Albano, aunque traidor conmigo,</l>
+<l>y querría impidir tanto castigo.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Tú de dónde eres?</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Yo, señor, de Ibernia.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Y ese tu amigo?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Espera, no respondas.</l>
+<l>¿De dónde puedo ser, si soy su hermano?</l>
+<l>Él se llama Lucindo y yo Florante,</l>
+<l>venimos a servir al rey de Escocia</l>
+<l>como otros muchos, de piedad movidos</l>
+<l>de la Reina inocente cuya sangre</l>
+<l>pide venganza al cielo.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Si Leonida</l>
+<l>no fuera muerta, como todos saben,</l>
+<l>yo pensara, mancebo generoso,</l>
+<l>no lo quiero decir, pero al honor suyo</l>
+<l>y por veneración del rostro tuyo...</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Prosigue, ¿qué me miras?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Yo te nombro</l>
+<l>mi alférez y a tu hermano hago sargento.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Por mí y por él los pies te beso.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Vamos</l>
+<l>para que el Rey te vea, por consuelo</l>
+<l>de su desdicha.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>[Aparte.]</l>
+<l>Albano ingrato, agora</l>
+<l>conocerás en defender tu vida</l>
+<l>quién es Leonida.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¡Cielos, si es Leonida!</l>
+<stage>Vanse.</stage>
+<stage>Sale[n] ROSARDO y un PILOTO .</stage>
+</sp><sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Luego, ¿no podré embarcarme?</l></sp>
+<sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
+<l>Bien embarcaros podéis,</l>
+<l>mas si al Rey buscar queréis</l>
+<l>y queréis crédito darme, aguardad, Rosardo, aquí</l>
+<l>a que salga de la mar,</l>
+<l>que hoy piensa desembarcar.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Desembarcar?</l></sp>
+<sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
+<l>Señor, sí.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Luego trae su mujer,</l>
+<l>¿a dónde es mejor que huyga?</l></sp>
+<sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
+<l>Arminda trae y no suya.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿No suya?</l></sp>
+<sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
+<l>Ni puede ser.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Pues, ¿de qué modo?</l></sp>
+<sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
+<l>Partió</l>
+<l>el Rey a las islas.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Bien;</l>
+<l>llegó a aquella en que también</l>
+<l>su hermano Otavio dejó para guardar a su esposa</l>
+<l>y halló que la había guardado</l>
+<l>tan bien que estaba casado</l>
+<l>con ella.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Notable cosa.</l></sp>
+<sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
+<l> Pensó el Rey morir de pena,</l>
+<l>tomó puerto a su pesar,</l>
+<l>hizo la ciudad cercar</l>
+<l>y cuando el asalto ordena, un caballero que amaba</l>
+<l>a Arminda, a envidia movido</l>
+<l>de verse puesto en olvido</l>
+<l>y que Otavio la gozaba, se los entregó a traición</l>
+<l>y él embarcado con ellos</l>
+<l>hizo a su tierra traellos</l>
+<l>en una nave en prisión. Yo vine a dar el aviso</l>
+<l>a las guardas deste puerto,</l>
+<l>donde hay más daño encubierto,</l>
+<l>donde la fortuna quiso que sus vasallos traidores</l>
+<l>al de Escocia se entregasen</l>
+<l>y la obediencia negasen</l>
+<l>a sus antiguos señores. El de Escocia, por venganza</l>
+<l>de su hija sin razón</l>
+<l>muerta y dicen que a traición,</l>
+<l>hoy tan segura la alcanza, que si toma puerto Albano</l>
+<l>será preso o será muerto.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Pues ya Albano toma puerto</l>
+<l>y será el aviso en vano. Triste de mí, ¿qué he de hacer</l>
+<l>entre tantas confusiones?</l></sp>
+<sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
+<l>A gran peligro te pones.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Ya no tengo qué temer. A donde mi Rey muriere</l>
+<l>quiero morir.</l></sp>
+<sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
+<l>¿No es mejor</l>
+<l>que huygas?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Lealtad y amor</l>
+<l>me mandan Fabia que espere.</l></sp>
+<stage>Vanse y desembarca el rey ALBANO y REINALDO con soldados, y traen a OTAVIO y ARMINDA presos.</stage>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> Traed los presos.</l></sp>
+<sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
+<l>Aquí están los presos.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¡Oh, Arminda hermosa, y cómo está en tu mano</l>
+<l>el dar próspero fin a tus sucesos!</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> ¿Yo puedo?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Sí, con despreciar mi hermano.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>¿De qué manera a mi marido puedo?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Consejos locos de un poder tirano.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> ¿Tirano soy, si con poder no excedo</l>
+<l>de la común piedad dándote muerte?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Seguro del honor muriendo quedo, que muerto yo, si fuere tal mi suerte,</l>
+<l>que Arminda casta a tu poder se rinda,</l>
+<l>no puede ser mi deshonor tan fuerte.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l> Pues no lo temas, que antes que me rinda</l>
+<l>padeceré mil muertes.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>No deseo</l>
+<l>tu muerte yo, sino tu vida, Arminda.</l></sp>
+<stage>Sale ROSARDO .</stage>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Dame tus pies.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¿Quién es?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Rosardo.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Creo</l>
+<l>que mi amor a este tiempo te ha traído.</l>
+<l>¿Qué guarda es esta que en el puerto veo?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Del Rey tu suegro.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¿El Rey?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Sí, que ha venido</l>
+<l>a vengar a Leonida.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¿Y tomó puerto?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Y luego, ¿no lo has visto?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Ni aun oído.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l> Tomó puerto tan libre y descubierto,</l>
+<l>que hasta tu misma corte, a pie seguro,</l>
+<l>llegó Ricardo de vengarse cierto.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> ¿Nadie le defendió puerta ni muro?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>La virtud de Leonida lo ha causado;</l>
+<l>delito contra el cielo atroz y duro. Yo vengo a hablarte ansí desesperado,</l>
+<l>pues fui quien la dio muerte injustamente</l>
+<l>de tus falsos papeles engañado.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> ¡Ah, falsa, desleal, traidora gente!</l>
+<l>¿Las armas contra mí, vasallos míos,</l>
+<l>no soy yo vuestro Rey? Estuve ausente; que justo fin de tantos desvaríos,</l>
+<l>en las islas a Arminda hallé casada</l>
+<l>cuando apenas llegué con mis navíos, y agora aquí mi tierra alborotada</l>
+<l>contra mí por la muerte de Leonida,</l>
+<l>¿qué gente es esta?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Gente rebelada.</l>
+<l>(Ven a FINEO y cuatro arcabuceros y gente.)</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> ¡Daos todos a prisión!</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Hombre, ¿qué dices?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Que el Rey, nuestro señor de Escocia, manda</l>
+<l>que os deis rendidos a prisión o luego</l>
+<l>os quitemos las vidas.</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¡Cielo santo!,</l>
+<l>¿no es aqueste Fineo?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Di, Rosardo,</l>
+<l>¿no me dijiste que en mi propria cámara</l>
+<l>mataste este traidor que aquí me prende?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Señor, secretos son del justo cielo.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Soldados, caminemos a la Corte,</l>
+<l>y al que se resistiere dadle muerte.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Fineo, ¿en qué soy yo culpado?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Otavio,</l>
+<l>esta es orden del Rey.</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Reserva a Arminda.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>A los dos se tendrá justo respeto,</l>
+<l>y al Rey también.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¡Ay, cielos, que ya veo</l>
+<l>que os da voces allá la casta vida</l>
+<l>de Leonida!</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Caminen.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¡Ay, Leonida!</l></sp>
+<stage>Vanse y sale[n] el rey de Escocia y LEONIDA .</stage>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l> Recibo tanto consuelo</l>
+<l>solo en ver tu semejanza,</l>
+<l>que en tempestad de venganza</l>
+<l>eres el arco del cielo. No te querría apartar</l>
+<l>solo un punto de mis ojos.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Antes, señor, tus enojos</l>
+<l>mi rostro puede aumentar. Que si parezco a Leonida</l>
+<l>tanto como me encareces,</l>
+<l>a mayor dolor te ofreces</l>
+<l>de aquella inocente vida.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l> Es verdad que das aumento</l>
+<l>al dolor, pero en razón</l>
+<l>de consuelo y de aflición</l>
+<l>recibe alivio el tormento. La que te tengo, Florante,</l>
+<l>desde que tu rostro vi,</l>
+<l>me obliga a saber de ti</l>
+<l>en qué te soy importante. Elige del reino todo</l>
+<l>el mejor oficio.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Tengo,</l>
+<l>aunque en este traje vengo,</l>
+<l>diferente hábito y modo. Porque has de saber, señor,</l>
+<l>que soy letrado y la guerra,</l>
+<l>luego que tomaste tierra,</l>
+<l>me dio a las armas amor. Ya que no hay que pelear</l>
+<l>y en paz este reino tienes,</l>
+<l>pues hacerme merced vienes,</l>
+<l>mis letras puedes honrar.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l> Huélgome de saber, Florante,</l>
+<l>que tan estudiante seas;</l>
+<l>mira qué oficio deseas</l>
+<l>para tus letras bastante. Que a ninguno como a ti...</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>En Ibernia la nobleza</l>
+<l>tiene un juez, tu grandeza</l>
+<l>mostrarás, señor, en mí con darme este oficio.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Digo</l>
+<l>que de los nobles te hago</l>
+<l>juez.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Tus pies beso.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>En pago</l>
+<l>de tener lealtad conmigo. Pues tus hábitos dejaste</l>
+<l>y me veniste a servir</l>
+<l>y ansí los puedes vestir,</l>
+<l>pues la guerra en paz trocaste.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Ya con tu licencia voy,</l>
+<l>juez soy de la nobleza.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Aunque aumentas mi tristeza,</l>
+<l>tu ausencia sintiendo estoy.</l></sp>
+<stage>Vase LEONIDA y entra FINEO .</stage>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l> Albricias puede darme.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¿Tomó puerto,</l>
+<l>Fineo, aquel traidor?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Para su daño.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¿Prendístele?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Y a Otavio, que venía</l>
+<l>preso por él.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¿Albano preso a Otavio?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Dejole en guarda de su dama Arminda,</l>
+<l>en tanto que a Leonida muerte daba;</l>
+<l>volvió y casados los halló.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¿Qué dices?</l>
+<l>Luego, ¿no viene el Rey casado?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Viene</l>
+<l>desesperado el Rey.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Notables nuevas;</l>
+<l>no quiso el cielo que el traidor gozase</l>
+<l>de Arminda.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Pues mejor es el suceso.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¿Cómo?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Rosardo viene también preso.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¿Rosardo?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>El mismo que mató a la Reina</l>
+<l>y a mí me hirió.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Secretos son del cielo.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Qué haré del Rey?</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Justificar la causa</l>
+<l>y si merece muerte, darle muerte,</l>
+<l>que sin probanza y satisfecho el mundo</l>
+<l>de su maldad, no es justo que lo intente.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Nombra juez.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Hoy hice a un estudiante</l>
+<l>jüez de la nobleza.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Quién?</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Florante.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Qué te movió?</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>No más de parecerse</l>
+<l>tanto a Leonida.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Es permisión del cielo</l>
+<l>porque juzgue su muerte aquella vida,</l>
+<l>que más parece al rostro de Leonida.</l>
+<l>Hallaraste a la vista deste pleito.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Aunque escusar quisiera el ver la cara</l>
+<l>de mi yerno crüel y de Rosardo,</l>
+<l>será fuerza, pues soy la parte.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>¿Cuándo</l>
+<l>será la primer vista?</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Luego al punto,</l>
+<l>porque della resulte prisión fuerte</l>
+<l>al Rey si le culparen desta muerte.</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Capitán.</l></sp>
+<sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
+<l>¿Qué me mandas?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Traed los presos</l>
+<l>y llamad al jüez de la nobleza.</l></sp>
+<sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
+<l>Voy a servirte.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Ya mi pena empieza.</l></sp>
+<stage>Entra LEONIDA con capa, y gorra, y vara, y LUCINDO de relator.</stage>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Vengo a besarte los pies</l>
+<l>por la merced recibida.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¡Cielos!, ¿que esta no es Leonida?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>No, mas su retrato es.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l> Aqueste hidalgo he nombrado,</l>
+<l>señor, para relator.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Dadme los pies, gran señor.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>A muy buen tiempo has llegado. Toma esa silla, Florante,</l>
+<l>verás un pleito.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Aquí en pie,</l>
+<l>si te sirves, le veré.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Es pleito muy importante y requiere grande espacio,</l>
+<l>haz lo que te mando.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Quiero</l>
+<l>obedecerte, ya espero</l>
+<l>pleito de asiento en palacio. ¿Qué es esto, cielo?</l></sp>
+<sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
+<l>Aquí están</l>
+<l>los presos.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Aquí me siento,</l>
+<l>y sabe Dios lo que siento.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Cielos, ¿qué presos serán?</l>
+<l>(Siéntase LEONIDA en alto, LUCINDO abajo y el rey de Escocia a un lado y entren OTAVIO , ARMINDA , ROSARDO , y el rey ALBANO .)</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> ¿Es aquel el Rey?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Él es.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¿Y es juez el que está allí?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Sin duda.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>¿Juez aquí?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>¿Estrado y vara no ves?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l> A juicio me han traído</l>
+<l>en mi reino y en mi casa.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Tiemblo de verle.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>No pasa</l>
+<l>entre bárbaros.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Si ha sido tan infame tu delito,</l>
+<l>¿cómo te han de recibir?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Aquí me mandas venir,</l>
+<l>¿qué es lo que tienes escrito? ¿No basta haber usurpado</l>
+<l>mi reino estando yo ausente?</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>El juez tienes presente;</l>
+<l>si queda determinado lo que imagino de ti,</l>
+<l>la espada será respuesta.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Vasallos, ¿lealtad es esta?</l>
+<l>¿Esto sufrís contra mí?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Decid la causa de Albano,</l>
+<l>relator.</l></sp>
+<sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
+<l>Esta es la causa</l>
+<l>como la refiere Ibernia</l>
+<l>porque no hay otra probanza.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>El Rey, queriendo casarse</l>
+<l>con Arminda, hermosa infanta</l>
+<l>de las islas deste mar,</l>
+<l>donde llegó con su armada</l>
+<l>cuando iba a casar Otavio</l>
+<l>a Escocia, a Rosardo llama,</l>
+<l>y escribiéndole un papel</l>
+<l>que mate a la Reina manda</l>
+<l>con Fineo, a quien jamás</l>
+<l>habló la Reina palabra.</l>
+<l>Convienen todos que fue</l>
+<l>inocentísima y casta,</l>
+<l>y un ejemplo de mujeres</l>
+<l>heroicas.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Verdad es llana</l>
+<l>que yo la mandé matar</l>
+<l>porque supe de unas guardas</l>
+<l>que hablaba secretamente</l>
+<l>a Fineo.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Albano, calla</l>
+<l>hasta que Arminda nos diga</l>
+<l>si allá concertó matalla</l>
+<l>esa tu mano cruel.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Sí</l>
+<l>concertó.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Cosa es clara</l>
+<l>que porque soy su enemigo</l>
+<l>lo que dice me levanta.</l></sp>
+<sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
+<l>Yo digo verdad.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Pues di:</l>
+<l>¿No te contentas de darla</l>
+<l>tan fiera y injusta muerte,</l>
+<l>sino que ya muerta tratas</l>
+<l>que pierda aquella inocente</l>
+<l>la honra, prenda más alta</l>
+<l>que la vida y que mil vidas?</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Aunque mi hermano te llamas,</l>
+<l>obliga tu cruel intento,</l>
+<l>viendo que una santa agravias,</l>
+<l>a culparte de su muerte.</l>
+<l>Juez, quedando yo en guarda</l>
+<l>de Arminda trató la muerte</l>
+<l>de Leonida ilustre y santa</l>
+<l>el Rey.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Si tu hermano</l>
+<l>te condena, ¿qué probanza</l>
+<l>más cierta?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Es traidor conmigo</l>
+<l>y su información es falsa.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Di, Rosardo, ¿qué razón</l>
+<l>te dio el Rey para matarla?</l></sp>
+<sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
+<l>Un papel que por descuido</l>
+<l>di a la Reina desdichada,</l>
+<l>mas para mi bien, sé yo</l>
+<l>que está inocente.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¿Qué aguardas</l>
+<l>en sentenciarle a la muerte?</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Fineo, ¿diste la causa</l>
+<l>al Rey de celos jamás?</l></sp>
+<sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
+<l>Si hablé a la Reina palabra</l>
+<l>aquí me castigue el cielo.</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Oye, juez, ¿qué te cansas?</l>
+<l>Ya no puedo yo sufrir</l>
+<l>ver que todos cuantos hablan,</l>
+<l>mi noble mujer abonen,</l>
+<l>que aunque he dicho que es culpada,</l>
+<l>es por la vida o la afrenta</l>
+<l>que a mi sangre y a mi casa</l>
+<l>resultara de su muerte.</l>
+<l>No pruebes más, esto basta,</l>
+<l>yo estoy tan arrepentido</l>
+<l>y siento tan en el alma</l>
+<l>haber dado muerte a un ángel,</l>
+<l>que antes que este pleito vaya</l>
+<l>a la sentencia debida</l>
+<l>por términos y probanzas,</l>
+<l>quiero sentenciarme yo,</l>
+<l>y ansí digo que mañana</l>
+<l>mandes cortar mi cabeza</l>
+<l>en una pública plaza.</l>
+<l>Vesme aquí, Rey, a tus pies.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¿Quién ha de mirar tu cara?</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Solo te pido, señor,</l>
+<l>que para mayor venganza</l>
+<l>de la Reina este juez</l>
+<l>trueque la vara en espada</l>
+<l>y por lo que le parece</l>
+<l>ejecute el golpe.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Para,</l>
+<l>no te aflijas!</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Pues, ¿qué he de hacer</l>
+<l>si eres ángel?, que esta vara</l>
+<l>tomaste en forma de aquella,</l>
+<l>cuya sangre al cielo clama.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Rey, perdona un rey que llora.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Ese imposible se iguala</l>
+<l>con resucitar Leonida.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¿Y si vive?</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¡Qué pesadas</l>
+<l>esperanzas!</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Si la doy</l>
+<l>viva, ¿son ciertas o falsas?</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>Si ella vive yo perdono</l>
+<l>al Rey.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>Pues yo soy, que sana</l>
+<l>de aquella mortal herida</l>
+<l>esta ocasión aguardaba</l>
+<l>para que Albano perdones,</l>
+<l>que en fin le adoro.</l></sp>
+<sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
+<l>¡Qué ingrata</l>
+<l>has sido en sufrir mi pena!</l></sp>
+<sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
+<l>Temblando un traidor te abraza.</l></sp>
+<sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
+<l>¡Oh, cuánto esposo me debe!</l></sp>
+<sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
+<l>Todo lo demás que falta</l>
+<l>a senado tan discreto</l>
+<l>no es bien decirlo, que cansan</l>
+<l>premios, sentencias, perdones,</l>
+<l>cuando la historia se acaba,</l>
+<l>que su autor para serviros</l>
+<l>llamó El juez de su causa.</l></sp></div>
+      </body>
+  </text>
+</TEI>

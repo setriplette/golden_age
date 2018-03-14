@@ -28,7 +28,7 @@
          <schemaSpec ident="starterODD" start="TEI teiCorpus" prefix="tei">
             <moduleRef key="tei"/>
             <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope cit quote list item name rs date choice sic corr reg del desc head headItem index lg l milestone pb lb note num p q ref resp respStmt sp speaker stage textLang "/>
-            <moduleRef key="analysis" include="phr span cl"/>
+            <moduleRef key="analysis"/>
             <moduleRef key="drama" except="actor camera caption sound tech view"/>
             <moduleRef key="gaiji" include="char unicodeName"/>
             <moduleRef key="header"/>         

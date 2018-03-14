@@ -1,0 +1,39 @@
+xquery version "3.1";
+declare default element namespace "http://www.tei-c.org/ns/1.0";
+declare variable $ThisFileContent := 
+
+  string-join( 
+let $lope := collection('/db/lope')/*
+let $lopePeople := $lope//persName
+let $lopeDistinctPs := distinct-values($lopePeople)
+for $edp in $lopeDistinctPs
+let $peers:= 
+    if ($lopePeople[. = $edp]/ancestor::text) 
+        then distinct-values($lopePeople[. = $edp]/ancestor::text//persName[not(. = $edp)])
+   else if ($lopePeople[. = $edp]/ancestor::text) 
+        then distinct-values($lopePeople[. = $edp]/ancestor::text//persName[not(. = $edp)])
+   else distinct-values($lopePeople[. = $edp]/ancestor::text//persName[not(. = $edp)])
+
+let $edgeType:=
+    if ($lopePeople[. = $edp]/ancestor::TEI//title="La dama boba") 
+        then "La dama boba"
+    else if ($lopePeople[. = $edp]/ancestor::TEI//title="La moza de cántaro") 
+        then "La moza de cántaro"
+    else "El anzuelo de Fenisa"
+
+let $edgeWeight:=
+    if ($lopePeople[. = $edp]/ancestor::TEI//text//title="La dama boba") 
+        then count($lopePeople[. = $edp]/ancestor::text//persName[not(. = $edp)])
+   else if ($lopePeople[. = $edp]/ancestor::TEI//text//title="La moza de cántaro") 
+        then count($lopePeople[. = $edp]/ancestor::text//persName[not(. = $edp)])
+   else count($lopePeople[. = $edp]/ancestor::text//persName[not(. = $edp)])
+
+for $peer in $peers
+return
+   
+ concat($edp, "&#x9;", $edgeType, "&#x9;", $edgeWeight, "&#x9;", $peer), " &#10;");
+ 
+ let $filename := "lopePersonsOutput.tsv"
+let $doc-db-uri := xmldb:store("/db/lope", $filename, $ThisFileContent, "text/plain")
+return $doc-db-uri
+(: output at :http://newtfire.org:8338//exist/rest/db/lope/lopePersonsOutput.tsv ) :)
