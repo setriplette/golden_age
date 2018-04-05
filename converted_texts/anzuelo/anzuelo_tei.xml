@@ -3000,7 +3000,7 @@
 </sp>
 <sp who="#lucindo_anzuelo" ana="m"><speaker>LUCINDO</speaker>
 <l>¿Es <w type="animal">caballo de Troya</w> aquesta casa,</l>
-<l>que siempre está preñada de armas y <w type="genderRole">hombres</w>?</l>
+<l>que siempre está preñada de <w type="violence">armas</w> y <w type="genderRole">hombres</w>?</l>
 </sp>
 <sp who="#tristán_anzuelo" ana="m"><speaker>TRISTÁN</speaker>
 <l>Pues ¿cuál <w type="justice">audiencia</w> pública, Lucindo,</l>
@@ -4150,7 +4150,7 @@
 <l>¿Hate probado la tierra?</l>
 </sp>
 <sp who="#bernardo_anzuelo" ana="m"><speaker>BERNARDO</speaker>
-<l>Más, el cielo me ha probado.</l>
+<l>Más, el <w type="religion">cielo</w> me ha probado.</l>
 <l>¡Ay, qué dolor que me ha dado!</l>
 <l>¡Qué fuego mi <w type="body">pecho</w> encierra!</l>
 <l>¡Ay, ay! ¡<persName type="bibl">Jesús</persName>, qué acidente!</l>

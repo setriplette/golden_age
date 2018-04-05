@@ -384,7 +384,7 @@
 <l>mi hermano tanta hacienda! No fue sabio.</l>
 <l>Bien es que Fabio, y que no sabio, sea.</l></sp>
 
-<sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>Si en dejaros hacienda os hizo <w type="emotion" ana="noun">agravio</w>,</l>
+<sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>Si en dejaros hacienda os hizo agravio,</l>
 <l>vos propio lo juzgad.</l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Dejó a Finea,</l>
@@ -3108,7 +3108,7 @@
    <l>¿cómo llaman aquello que se <w type="emotion" ana="verb">siente</w></l>
    <l>cuando se va con otro lo que se <w type="emotion" ana="verb">ama</w>?</l></sp>
 
-   <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Ese <w type="emotion" ana="noun">agravio</w> de <w type="emotion" ana="noun">amor</w>, <w type="emotion" ana="noun">celos</w> se llama.</l></sp>
+   <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Ese agravio de <w type="emotion" ana="noun">amor</w>, <w type="emotion" ana="noun">celos</w> se llama.</l></sp>
 
    <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿<w type="emotion" ana="noun">Celos</w>?</l></sp>
 
@@ -3124,7 +3124,7 @@
 
    <sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>¿Con qué se quita el mal de <w type="emotion" ana="noun">celosía</w>?</l></sp>
 
-   <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Con <w type="emotion" ana="verb">desenamorarse</w>, si hay <w type="emotion" ana="noun">agravio</w>,</l>
+   <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Con <w type="emotion" ana="verb">desenamorarse</w>, si hay agravio,</l>
 <l>que es el remedio más prudente y sabio;</l>
       <l>que mientras hay <w type="emotion" ana="noun">amor</w> ha de haber <w type="emotion" ana="noun">celos</w>,</l>
 <l>pensión que dieron a este bien los cielos.</l>
@@ -3783,7 +3783,7 @@
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <stage>Aparte.</stage>
 <l>¡Hoy, pensamientos, vengáis</l>
-<l>los <w type="emotion" ana="noun">agravios</w> que os hacían!</l></sp>
+<l>los agravios que os hacían!</l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Nise y Finea...</l></sp>
 
@@ -3898,7 +3898,7 @@
 
 <sp who="#Miseno_boba" ana="m"><speaker>MISENO</speaker> <l>¡Gallardamente, por cierto!</l>
 <l>Dad gracias al cielo, Otavio,</l>
-<l>que os satisfizo el <w type="emotion" ana="noun">agravio</w>.</l></sp>
+<l>que os satisfizo el agravio.</l></sp>
 
 <sp who="#Otavio_boba" ana="m"><speaker>OTAVIO</speaker> <l>Hagamos este concierto</l>
 <l>   de Duardo con Nise.</l>
@@ -3931,7 +3931,7 @@
 <l>a Nise, fuera el mejor.</l></sp>
 
 <sp who="#Liseo_boba" ana="m"><speaker>LISEO</speaker> <l>El mismo; porque Finea</l>
-<l>me ha de vengar de su <w type="emotion" ana="noun">agravio</w>.</l></sp>
+<l>me ha de vengar de su agravio.</l></sp>
 
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>No te tengo por tan sabio</l>
 <l>que tal discreción te crea.</l></sp>
@@ -4007,9 +4007,9 @@
 <l>   que luego se ha de casar.</l>
 <l>Y es ido a pedirla a Otavio.</l></sp>
 
-<sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>¿Podré yo llamarme a <w type="emotion" ana="noun">agravio</w>?</l></sp>
+<sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>¿Podré yo llamarme a agravio?</l></sp>
 
-<sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Pues, ¿él os puede <w type="emotion" ana="verb">agraviar</w>?</l></sp>
+<sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Pues, ¿él os puede agraviar?</l></sp>
 
 <sp who="#Laurencio_boba" ana="m"><speaker>LAURENCIO</speaker> <l>Las palabras, ¿suelen darse</l>
 <l>para no cumplirlas?</l></sp>
@@ -4995,7 +4995,8 @@
 <l>que se tiene por más sabio</l>
    <l>que <persName type="hist">Platón!</persName></l></sp>
 
-<sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> <l>Hácele <w type="body" ana="noun">agravio</w>;</l>
+<sp who="#Finea_boba" ana="f"><speaker>FINEA</speaker> 
+<l>Hácele agravio;</l>
 <l>que fue divino su nombre.</l></sp>
 
 <sp who="#Clara_boba" ana="f"><speaker>CLARA</speaker> <l>¡En el desván, el que anima</l>
@@ -5171,7 +5172,7 @@
 <sp who="#Turín_boba" ana="m"><speaker>TURÍN</speaker> <l>Tiempla agora,</l>
 <l>bella Nise, tus <w type="emotion" ana="noun">desdenes</w>;</l>
 <l>que se va <w type="emotion" ana="noun">amor</w> por la posta</l>
-<l>a la casa del <w type="emotion" ana="noun">agravio</w>.</l></sp>
+<l>a la casa del agravio.</l></sp>
 
    <sp who="#Nise_boba" ana="f"><speaker>NISE</speaker> <l>Turín, las <w type="body">lágrimas</w> solas</l>
 <l>de un hombre han sido en el mundo</l>

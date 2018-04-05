@@ -37,9 +37,7 @@ Liseo_boba	m	sp	Dama_boba_tei.xml	gusto
 Liseo_boba	m	sp	Dama_boba_tei.xml	amor
 Liseo_boba	m	sp	Dama_boba_tei.xml	amor
 Liseo_boba	m	sp	Dama_boba_tei.xml	desdén
-Liseo_boba	m	sp	Dama_boba_tei.xml	agravio
 Liseo_boba	m	sp	Dama_boba_tei.xml	amor
-Liseo_boba	m	sp	Dama_boba_tei.xml	agravio
 Liseo_boba	m	sp	Dama_boba_tei.xml	temor
 Liseo_boba	m	sp	Dama_boba_tei.xml	admiración
 Liseo_boba	m	sp	Dama_boba_tei.xml	gusto
@@ -68,10 +66,8 @@ Turín_boba	m	sp	Dama_boba_tei.xml	amor
 Turín_boba	m	sp	Dama_boba_tei.xml	amor
 Turín_boba	m	sp	Dama_boba_tei.xml	amor
 Turín_boba	m	sp	Dama_boba_tei.xml	amor
-Turín_boba	m	sp	Dama_boba_tei.xml	agravio
 Turín_boba	m	sp	Dama_boba_tei.xml	desdén
 Turín_boba	m	sp	Dama_boba_tei.xml	amor
-Turín_boba	m	sp	Dama_boba_tei.xml	agravio
 Turín_boba	m	sp	Dama_boba_tei.xml	llorar
 Turín_boba	m	sp	Dama_boba_tei.xml	llorar
 Turín_boba	m	sp	Dama_boba_tei.xml	reír
@@ -95,12 +91,10 @@ Otavio_boba	m	sp	Dama_boba_tei.xml	desdicha
 Otavio_boba	m	sp	Dama_boba_tei.xml	amor
 Otavio_boba	m	sp	Dama_boba_tei.xml	enojo
 Otavio_boba	m	sp	Dama_boba_tei.xml	holganza
-Otavio_boba	m	sp	Dama_boba_tei.xml	agravio
 Otavio_boba	m	sp	Dama_boba_tei.xml	amor
 Otavio_boba	m	sp	Dama_boba_tei.xml	celos
 Otavio_boba	m	sp	Dama_boba_tei.xml	amor
 Otavio_boba	m	sp	Dama_boba_tei.xml	deseo
-Otavio_boba	m	sp	Dama_boba_tei.xml	agravio
 Otavio_boba	m	sp	Dama_boba_tei.xml	amor
 Otavio_boba	m	sp	Dama_boba_tei.xml	celos
 Otavio_boba	m	sp	Dama_boba_tei.xml	amor
@@ -120,11 +114,9 @@ Otavio_boba	m	sp	Dama_boba_tei.xml	enojo
 Otavio_boba	m	sp	Dama_boba_tei.xml	enojo
 Otavio_boba	m	sp	Dama_boba_tei.xml	querer
 Otavio_boba	m	sp	Dama_boba_tei.xml	adoración
-Miseno_boba	m	sp	Dama_boba_tei.xml	agravio
 Miseno_boba	m	sp	Dama_boba_tei.xml	pasión
 Miseno_boba	m	sp	Dama_boba_tei.xml	contento
 Miseno_boba	m	sp	Dama_boba_tei.xml	temor
-Miseno_boba	m	sp	Dama_boba_tei.xml	agravio
 Nise_boba	f	sp	Dama_boba_tei.xml	amor
 Nise_boba	f	sp	Dama_boba_tei.xml	pesadumbre
 Nise_boba	f	sp	Dama_boba_tei.xml	sufrimiento
@@ -386,7 +378,6 @@ Laurencio_boba	m	sp	Dama_boba_tei.xml	amor
 Laurencio_boba	m	sp	Dama_boba_tei.xml	celos
 Laurencio_boba	m	sp	Dama_boba_tei.xml	pena
 Laurencio_boba	m	sp	Dama_boba_tei.xml	pena
-Laurencio_boba	m	sp	Dama_boba_tei.xml	agravio
 Laurencio_boba	m	sp	Dama_boba_tei.xml	temor
 Laurencio_boba	m	sp	Dama_boba_tei.xml	querer
 Laurencio_boba	m	sp	Dama_boba_tei.xml	querer
@@ -568,7 +559,6 @@ Conde_moza	m	sp	Moza_tei.xml	enojo
 Conde_moza	m	sp	Moza_tei.xml	contento
 Conde_moza	m	sp	Moza_tei.xml	envidia
 Conde_moza	m	sp	Moza_tei.xml	gusto
-Conde_moza	m	sp	Moza_tei.xml	agravio
 Conde_moza	m	sp	Moza_tei.xml	celos
 Conde_moza	m	sp	Moza_tei.xml	querer
 Conde_moza	m	sp	Moza_tei.xml	amor
