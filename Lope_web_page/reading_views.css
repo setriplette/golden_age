@@ -13,7 +13,7 @@ fieldset {
     float:right;
     padding: 10px;
     position:fixed;
-    right:30%;
+    right:20%;
 }
 
 
@@ -133,7 +133,7 @@ span.act {
 
 }
 span.aside {
-    color: white;
+    color: dimgray;
     font-family: 'Avenir';
     font-size: 16px;
     position: absolute;

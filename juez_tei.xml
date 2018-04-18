@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader type="text">
       <fileDesc>
@@ -690,7 +691,7 @@
 <l>que el mar ha de obedecer</l>
 <l>al que la tierra obedece. No guarda el agua respeto</l>
 <l>ni puede ser castigada</l>
-<l>la más poderosa armada.</l>
+<l>la más poderosa <w type="violence">armada</w>.</l>
 <l>Turba en su <w type="body">seno</w> inquieto, que aunque el cielo le mandó</l>
 <l>que a la tierra no pasase,</l>
 <l>si la tierra en ella entrase,</l>
@@ -881,7 +882,7 @@
 <l>a poder pasarla el mar</l>
 <l>como a <persName type="myth">Europa</persName> el blanco <w type="animal">toro</w>. Pero pues no puede ser</l>
 <l>que lo <w type="emotion" ana="verb">goce</w> de otra suerte,</l>
-<l>yo pienso intentar la muerte</l>
+<l>yo pienso intentar la <w type="violence">muerte</w></l>
 <l>de la <w type="high">Reina</w> mi <w type="genderRole">mujer</w>,</l>
 <l>que muerta podré volver</l>
 <l>a <w type="marriage">casarme</w> con Arminda,</l>
@@ -1026,7 +1027,7 @@
 <l>y hago <w type="justice">testigo</w> al mismo <persName type="bibl">Dios</persName> supremo,</l>
 <l>que solo por Leonida me provoco.</l>
 <l>El <w type="high">Rey</w> te <w type="emotion" ana="verb">quiere</w> con tan loco estremo</l>
-<l>que parte a dar la muerte, como loco,</l>
+<l>que parte a dar la <w type="violence">muerte</w>, como loco,</l>
 <l>a su <w type="family">mujer</w>, hermosa y <w type="justice">inocente</w>,</l>
 <l>que en lo que dice de que es muerta, miente. Tú harás, Arminda, un necio <w type="marriage">casamiento</w></l>
 <l>si vuelve el <w type="high">Rey</w> aquí; pues que la <w type="body">mano</w></l>
@@ -1037,7 +1038,7 @@
 <l>con la vista de aquella <w type="high">reina</w> hermosa,</l>
 <l>honesta, <w type="honor">casta</w>, <w type="religion">santa</w> y virtuosa. Déjame aquí para que yo te impida</l>
 <l>que entre tanto te <w type="marriage">cases</w> y le esperes,</l>
-<l>que da la muerte a la sin par Leonida,</l>
+<l>que da la <w type="violence">muerte</w> a la sin par Leonida,</l>
 <l>glorioso <w type="honor">honor</w> y ejemplo de <w type="genderRole">mujeres</w>.</l>
 <l>Estas cosas le dije a la partida,</l>
 <l>es incapaz de la razón que quieres,</l>
@@ -1071,7 +1072,7 @@
 <l>No te <w type="emotion" ana="verb">aflija</w> ni mueva a dolor tanto</l>
 <l>el pensar la inocencia de Leonida,</l>
 <l>que el <w type="high">Rey</w> llegado haya, si el mar y el cielo</l>
-<l>tan <w type="justice">justas</w> maldiciones no ejecutan,</l>
+<l>tan <w type="justice">justas</w> maldiciones no <w type="justice">ejecutan</w>,</l>
 <l>templará su rigor solo en verla,</l>
 <l>porque es digna de honor y de respeto,</l>
 <l>y viéndola y hablándola, ¿quién duda</l>
@@ -1087,7 +1088,7 @@
 <l> No dudes, no, que te acetara, Otavio,</l>
 <l>en justo <w type="marriage">matrimonio</w>, pero advierte</l>
 <l>que tengo de <w type="economic">pagar</w> todo el agravio</l>
-<l>que de Leonida ha de causar la muerte.</l>
+<l>que de Leonida ha de causar la <w type="violence">muerte</w>.</l>
 <l>Si tú das orden más prudente y sabio</l>
 <l>que tu <w type="family">hermano</w> cruel trueque la suerte,</l>
 <l>yo te doy la palabra que algún modo</l>
@@ -1174,7 +1175,7 @@
 <sp who="#fabio_juez" ana="m"><speaker>FABIO</speaker>
 <l>¿Y qué has <w type="emotion" ana="verb">temido</w>?</l></sp>
 <sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
-<l>Que ha de reinar y que me ha de dar la muerte.</l></sp>
+<l>Que ha de reinar y que me ha de dar la <w type="death">muerte</w>.</l></sp>
 <sp who="#fabio_juez" ana="m"><speaker>FABIO</speaker>
 <l>¿De Arminda piensas que ha de ser <w type="family">marido</w>?</l></sp>
 <sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
@@ -1469,7 +1470,7 @@
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Porque no te importa</l>
 <l><w type="justice">juzgar</w> a ti de la razón, mas solo</l>
-<l>ejecutar la muerte.</l></sp>
+<l><w type="justice">ejecutar</w> la muerte.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>No te <w type="emotion" ana="verb">espantes</w></l>
 <l>que me admire, señor, de lo que dices</l>
@@ -1500,7 +1501,7 @@
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Al monte, solo ausencia de dos días.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>¿Pues cómo tengo de intentar su muerte?</l>
+<l>¿Pues cómo tengo de <w type="violence">intentar su muerte</w>?</l>
 <l>¿Tengo de entrar en forma de <w type="violence">justicia</w></l>
 <l>o quieres que la <w type="violence">mate</w> con secreto?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
@@ -1520,7 +1521,7 @@
 <stage>Vase el <w type="high">Rey</w>.</stage>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l> ¡Oh, terrible mudamiento!,</l>
-<l>¡oh, notable ejecución!</l>
+<l>¡oh, notable <w type="justice">ejecución</w>!</l>
 <l>Mas si tiene el <w type="high">Rey</w> razón,</l>
 <l>¿de qué <w type="emotion" ana="verb">tiemblas</w>, pensamiento? ¿Él no dice que es <w type="justice">juez</w></l>
 <l>y que soy <w type="justice">ejecutor</w>?</l>
@@ -1873,7 +1874,7 @@
 <l>huyéndome se confirma?</l></sp>
 <sp who="#fabia_juez" ana="f"><speaker>FABIA</speaker>
 <l>Es duda lo que se afirma,</l>
-<l>pues a ejecutarse viene. Créeme, que una vez muerta</l>
+<l>pues a <w type="justice">ejecutarse</w> viene. Créeme, que una vez muerta</l>
 <l>con Fineo, aunque te llame</l>
 <l><w type="religion">santa</w> el mundo, al <w type="low">vulgo</w> <w type="honor">infame</w></l>
 <l>dejas abierta la puerta para que con lengua <w type="low">vil</w></l>
@@ -2128,7 +2129,7 @@
 <l>No es de provecho</l>
 <stage>Dale de <w type="violence">puñaladas</w> y cae FINEO.</stage>
 <l>satisfacerme, traidor;</l>
-<l>tú confesaste su <w type="violence" ana="noun">amor</w>,</l>
+<l>tú confesaste su <w type="emotion" ana="noun">amor</w>,</l>
 <l>yo he de pasarte el <w type="body">pecho</w>.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>¡<persName type="bibl">Jesús</persName>!</l></sp>
@@ -2158,10 +2159,10 @@
 <l>de mi <w type="emotion" ana="noun">desdicha</w>! ¡Vive el alto <w type="religion">cielo</w>,</l>
 <l>que se ha entendido por mi propria culpa</l>
 <l>del <w type="high">Rey</w> el <w type="violence">homicida</w> pensamiento,</l>
-<l>y de mi ejecución su atrevimiento!</l>
+<l>y de mi <w type="justice">ejecución</w> su atrevimiento!</l>
 <l>Llegué a la cama, y con la luz que ardía,</l>
 <l>pendiente en medio de la cuadra al tiempo,</l>
-<l>que con la <w type="violence">daga</w> ejecutaba el golpe,</l>
+<l>que con la <w type="violence">daga</w> <w type="justice">ejecutaba</w> el golpe,</l>
 <l>veo compuesta la bordada cama</l>
 <l>y en medio de las ricas almohadas</l>
 <l>esta <w type="violence">daga</w> desnuda punta arriba</l>
@@ -2182,7 +2183,7 @@
 <l>Mas, ¿si se echó deste balcón? Mal hice</l>
 <l>en no acabar de todo aquella vida</l>
 <l>odiosa al <w type="high">Rey</w> y <w type="emotion" ana="adj">amada</w> de Leonida.</l></sp>
-<stage>Vase y sale la <w type="high">Reina</w> en <w type="clothing">hábito</w> de hombre con LUCINDO .</stage>
+   <stage>Vase y sale la <w type="high">Reina</w> en <w type="clothing">hábito de hombre</w> con LUCINDO .</stage>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Déjalos pacer un rato,</l>
 <l>cuelguen del arzón los frenos.</l></sp>
@@ -2718,93 +2719,92 @@
 <l>para defenderle el paso,</l>
 <l>que antes que se acueste el sol</l>
 <l>querrá tomar puerto, Otavio.</l></sp>
-   <!-- stopped here -->
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
-<l>No te entristezcas, esposa,</l>
-<l>fía de mis fuertes brazos,</l>
+<l>No te <w type="emotion" ana="verb">entristezcas</w>, <w type="family">esposa</w>,</l>
+<l>fía de mis fuertes <w type="body">brazos</w>,</l>
 <l>pues que fiaste la vida,</l>
 <l>la tierra que está a mi cargo.</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
-<l>Contigo no tengo miedo,</l>
-<l>si fuera Albano, Alejandro.</l></sp>
+<l>Contigo no tengo <w type="emotion" ana="noun">miedo</w>,</l>
+<l>si fuera Albano, <persName type="hist">Alejandro</persName>.</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
-<l>¡Armas, caballeros nobles!,</l>
-<l>¡al arma, isleños hidalgos!</l></sp>
+<l>¡<w type="violence">Armas</w>, <w type="high">caballeros</w> <w type="high">nobles</w>!,</l>
+<l>¡al <w type="violence">arma</w>, isleños <w type="high">hidalgos</w>!</l></sp>
 <sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
 <l>Yo pienso, enemigo fiero,</l>
-<l>ponerte presto en sus manos,</l>
-<l>pues que no pude matarte</l>
+<l>ponerte presto en sus <w type="body">manos</w>,</l>
+<l>pues que no pude <w type="violence">matarte</w></l>
 <l>cuando estaba concertado,</l>
-<l>que no has de gozar de Arminda</l>
-<l>por cuyos celos me abraso.</l></sp>
+<l>que no has de <w type="emotion" ana="verb">gozar</w> de Arminda</l>
+<l>por cuyos <w type="emotion" ana="noun">celos</w> me abraso.</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
 <l>Trompetas suenan, ya llega.</l>
-<l>¡Al arma, al arma, vasallos!</l>
+<l>¡Al <w type="violence">arma</w>, al <w type="violence">arma</w>, <w type="low">vasallos</w>!</l>
 <l>¡No tome puerto en la isla</l>
-<l>el león sangriento Albano!</l></sp>
+<l>el <w type="animal">león</w> <w type="body">sangriento</w> Albano!</l></sp>
 <stage>Vase y entra[n] ROSARDO y TIBERIO .</stage>
 <sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
 <l> Sosiega un poco.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>No puedo,</l>
 <l>porque me aprietan de suerte</l>
-<l>tristezas, que de mi muerte</l>
-<l>viene a ser la sombra el miedo.</l></sp>
+<l><w type="emotion" ana="noun">tristezas</w>, que de mi muerte</l>
+<l>viene a ser la sombra el <w type="emotion" ana="noun">miedo</w>.</l></sp>
 <sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
 <l> ¿No quedaste a gobernar</l>
-<l>a Ibernia, su Rey ausente?</l>
-<l>¿Qué te entristece?</l></sp>
+<l>a <placeName>Ibernia</placeName>, su <w type="high">Rey</w> ausente?</l>
+<l>¿Qué te <w type="emotion" ana="verb">entristece</w>?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>La gente,</l>
-<l>el ver, Tiberio, el hablar. Como he visto que va el Rey</l>
-<l>a casarse tan contento</l>
-<l>y que aqueste casamiento</l>
-<l>es injustísima ley en un hombre de valor,</l>
+<l>el ver, Tiberio, el hablar. Como he visto que va el <w type="high">Rey</w></l>
+<l>a <w type="marriage">casarse</w> tan <w type="emotion" ana="adj">contento</w></l>
+<l>y que aqueste <w type="marriage">casamiento</w></l>
+<l>es <w type="justice">injustísima</w> <w type="justice">ley</w> en un <w type="genderRole">hombre</w> de valor,</l>
 <l>pues apenas cesa esta,</l>
-<l>la sangre a quien tuvo ya</l>
-<l>obligación, sino amor. He dado en pensar que fue</l>
-<l>muerta la Reina sin culpa,</l>
+<l>la <w type="body">sangre</w> a quien tuvo ya</l>
+<l>obligación, sino <w type="emotion" ana="noun">amor</w>. He dado en pensar que fue</l>
+<l>muerta la <w type="high">Reina</w> sin <w type="justice">culpa</w>,</l>
 <l>con mentirosa disculpa</l>
 <l>de que fue ingrata a su fe. Y con este pensamiento,</l>
-<l>por haber ejecutado</l>
+<l>por haber <w type="justice">ejecutado</w></l>
 <l>su muerte, a tiempo he llegado</l>
-<l>que nadie me da contento. ¡Ay, Tiberio, qué de cosas</l>
-<l>resultan de un loco amor!</l></sp>
+<l>que nadie me da <w type="emotion" ana="adj">contento</w>. ¡Ay, Tiberio, qué de cosas</l>
+<l>resultan de un loco <w type="emotion" ana="noun">amor</w>!</l></sp>
 <sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
-<l>No carecen de temor</l>
+<l>No carecen de <w type="emotion" ana="noun">temor</w></l>
 <l>historias tan sospechosas. Y si te digo verdad,</l>
-<l>la santidad de la Reina,</l>
-<l>de todo este reino, reina</l>
-<l>en la común voluntad. No hay hombre de condición</l>
+<l>la <w type="religion">santidad</w> de la <w type="high">Reina</w>,</l>
+<l>de todo este reino, <w type="high">reina</w></l>
+<l>en la común voluntad. No hay <w type="genderRole">hombre</w> de condición</l>
 <l>tan vil que no haya sentido</l>
-<l>su muerte injusta, y tenido</l>
+<l>su muerte <w type="justice">injusta</w>, y tenido</l>
 <l>a su virtud compasión. Porque en los reinos estraños</l>
 <l>que no saben su valor,</l>
-<l>los engaños de su honor</l>
-<l>no los tendrán por engaños. Esta tristeza, Rosardo,</l>
-<l>el temor hizo encubrilla,</l>
+<l>los engaños de su <w type="honor">honor</w></l>
+<l>no los tendrán por engaños. Esta <w type="emotion" ana="noun">tristeza</w>, Rosardo,</l>
+<l>el <w type="emotion" ana="noun">temor</w> hizo encubrilla,</l>
 <l>que aun para solo decilla,</l>
-<l>Dios sabe que me acobardo. Pero como tú la tienes,</l>
+<l><persName type="bibl">Dios</persName> sabe que me acobardo. Pero como tú la tienes,</l>
 <l>atrevimiento me dio</l>
 <l>para hablar, que bien sé yo</l>
-<l>que sin tener culpa vienes a ser mal quisto de todos,</l>
-<l>pues que deste Rey mandado,</l>
+<l>que sin tener <w type="justice">culpa</w> vienes a ser mal quisto de todos,</l>
+<l>pues que deste <w type="high">Rey</w> mandado,</l>
 <l>como mandado forzado</l>
-<l>y seguro de mil modos, diste la muerte a Leonida.</l></sp>
+<l>y seguro de mil modos, <w type="violence">diste la muerte</w> a Leonida.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>Para saber que fue injusta</l>
-<l>su muerte y disculpa justa</l>
-<l>de aquella inocente vida, ¿qué más testigos que ver</l>
-<l>los miedos desde aquel día</l>
-<l>que aflojan el alma mía?,</l>
-<l>pues cuando llego a comer parece que su cabeza</l>
-<l>sangrienta en el plato está;</l>
+<l>Para saber que fue <w type="justice">injusta</w></l>
+<l>su muerte y disculpa <w type="justice">justa</w></l>
+<l>de aquella <w type="justice">inocente</w> vida, ¿qué más <w type="justice">testigos</w> que ver</l>
+<l>los <w type="emotion" ana="noun">miedos</w> desde aquel día</l>
+<l>que aflojan el <w type="religion">alma</w> mía?,</l>
+<l>pues cuando llego a comer parece que su <w type="body">cabeza</w></l>
+<l><w type="body">sangrienta</w> en el plato está;</l>
 <l>¿de qué temblando me da</l>
-<l>esta congoja y tristeza? Si duermo sueño que estoy</l>
-<l>matándola, y si despierto,</l>
-<l>como veo que la he muerto,</l>
-<l>llanto en disculpa le doy, ¿qué haré?</l></sp>
-<stage>Entra FENISO , caballero.</stage>
+<l>esta <w type="emotion" ana="noun">congoja</w> y <w type="emotion" ana="noun">tristeza</w>? Si duermo sueño que estoy</l>
+<l><w type="violence">matándola</w>, y si despierto,</l>
+<l>como veo que <w type="violence">la he muerto</w>,</l>
+<l><w type="emotion" ana="noun">llanto</w> en disculpa le doy, ¿qué haré?</l></sp>
+<stage>Entra FENISO , <w type="high">caballero</w>.</stage>
 <sp who="#feniso_juez" ana="m"><speaker>FENISO</speaker>
 <l>¿Qué hacéis desta suerte,</l>
 <l>con tanto descuido aquí?</l></sp>
@@ -2813,41 +2813,41 @@
 <l>no me parezca la muerte. ¿Qué hay, Feniso?</l></sp>
 <sp who="#feniso_juez" ana="m"><speaker>FENISO</speaker>
 <l>Que ha llegado</l>
-<l>del rey de Escocia la armada</l>
-<l>al puerto, y de armada amada</l>
+<l>del <w type="high">rey</w> de <placeName>Escocia</placeName> la <w type="violence">armada</w></l>
+<l>al puerto, y de <w type="violence">armada</w> <w type="emotion" ana="adj">amada</w></l>
 <l>pienso que el nombre ha trocado. Porque de todos ha sido</l>
 <l>recibida de manera</l>
-<l>como si el Rey mismo fuera,</l>
-<l>que en otra a casarse ha ido. Y desto dan por razón</l>
-<l>que fue muerta injustamente</l>
-<l>la Reina y que el Rey ausente</l>
-<l>mandó matarla a traición. En fin, tantos se han juntado,</l>
-<l>Rosardo, al rey escocés,</l>
+<l>como si el <w type="high">Rey</w> mismo fuera,</l>
+<l>que en otra a <w type="marriage">casarse</w> ha ido. Y desto dan por razón</l>
+<l>que fue muerta <w type="justice">injustamente</w></l>
+<l>la <w type="high">Reina</w> y que el <w type="high">Rey</w> ausente</l>
+<l>mandó <w type="violence">matarla</w> a traición. En fin, tantos se han juntado,</l>
+<l>Rosardo, al <w type="high">rey</w> escocés,</l>
 <l>que mayor número es</l>
 <l>que el que se ha desembarcado. Él marchó y da por tu vida</l>
-<l>cien mil escudos, pregón,</l>
-<l>aunque injusto, con razón</l>
-<l>por ser padre de Leonida, si aguardas triste de ti.</l></sp>
+<l>cien mil <w type="economic">escudos</w>, pregón,</l>
+<l>aunque <w type="justice">injusto</w>, con razón</l>
+<l>por ser <w type="family">padre</w> de Leonida, si aguardas <w type="emotion" ana="adj">triste</w> de ti.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>¿Ves, Tiberio, claramente,</l>
-<l>que era Leonida inocente</l>
-<l>y que viene contra mí? ¿Ves como el Rey me engañó?</l>
-<l>¿Ves como soy, mi tristeza</l>
-<l>justa, y que el castigo empieza</l>
-<l>que por él padezca yo? ¿Qué me aconsejas?</l></sp>
+<l>que era Leonida <w type="justice">inocente</w></l>
+<l>y que viene contra mí? ¿Ves como el <w type="high">Rey</w> me engañó?</l>
+<l>¿Ves como soy, mi <w type="emotion">tristeza</w></l>
+<l><w type="justice">justa</w>, y que el <w type="justice">castigo</w> empieza</l>
+<l>que por él <w type="emotion" ana="verb">padezca</w> yo? ¿Qué me aconsejas?</l></sp>
 <sp who="#tiberio_juez" ana="m"><speaker>TIBERIO</speaker>
 <l>Que huygas</l>
-<l>en hábito disfrazado;</l>
+<l>en <w type="clothing">hábito</w> <w type="clothing">disfrazado</w>;</l>
 <l>defenderte es escusado.</l>
 <l>Pocas son las fuerzas tuyas y en fin te falta razón,</l>
-<l>que es el mejor capitán.</l></sp>
+<l>que es el mejor <w type="profession">capitán</w>.</l></sp>
 <sp who="#feniso_juez" ana="m"><speaker>FENISO</speaker>
 <l>El consejo que te dan</l>
-<l>es tu vida y opinión. Déjale el reino al de Escocia,</l>
-<l>venga el Rey y de su culpa</l>
+<l>es tu vida y <w type="honor">opinión</w>. Déjale el reino al de <placeName>Escocia</placeName>,</l>
+<l>venga el <w type="high">Rey</w> y de su <w type="justice">culpa</w></l>
 <l>proponga el reino disculpa.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>Si en tanto que el Rey negocia su casamiento, pudiera</l>
+<l>Si en tanto que el <w type="high">Rey</w> negocia su <w type="marriage">casamiento</w>, pudiera</l>
 <l>defenderle esta ciudad,</l>
 <l>siquiera de mi lealtad,</l>
 <l>el digno ejemplo se viera. Pero no pudiendo ser,</l>
@@ -2861,11 +2861,11 @@
 <l>Contigo,</l>
 <l>Rosardo, iremos los dos.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>La inocente sangre a Dios</l>
-<l>está pidiendo castigo.</l></sp>
-<stage>Vanse y tocan dentro arma y salgan ARMINDA en corto con bastón, y OTAVIO y soldados huyendo.</stage>
+<l>La <w type="justice">inocente</w> <w type="body">sangre</w> a <persName type="bibl">Dios</persName></l>
+<l>está pidiendo <w type="justice">castigo</w>.</l></sp>
+<stage>Vanse y tocan dentro <w type="violence">arma</w> y salgan ARMINDA en corto con bastón, y OTAVIO y soldados huyendo.</stage>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
-<l> Tomó puerto a mi pesar.</l></sp>
+<l> Tomó puerto a mi <w type="emotion" ana="noun">pesar</w>.</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
 <l>No le pude resistir.</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
@@ -2877,75 +2877,75 @@
 <l> Para morir, ¿qué importaba</l>
 <l>huir y dejarle el puerto?</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
-<l>Porque un hombre, en siendo muerto,</l>
+<l>Porque un <w type="genderRole">hombre</w>, en siendo muerto,</l>
 <l>con su obligación acaba.</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
 <l> La gente es poca, esta fue.</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
 <l>Gran gente ha desembarcado;</l>
 <l>el lugar está cercado,</l>
-<l>el lugar defenderé. Que quien por ti dio la muerte</l>
-<l>a su mujer tan tirano,</l>
-<l>mejor la dará a su hermano</l>
-<l>por gozarte desta suerte. Él viene marchando ya:</l>
-<l>¡alto a la ciudad, soldados!</l></sp>
+<l>el lugar defenderé. Que quien por ti <w type="violence">dio la muerte</w></l>
+<l>a su <w type="family">mujer</w> tan tirano,</l>
+<l>mejor la dará a su <w type="family">hermano</w></l>
+<l>por <w type="emotion" ana="verb">gozarte</w> desta suerte. Él viene marchando ya:</l>
+<l>¡alto a la ciudad, <w type="profession">soldados</w>!</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
 <l>El muro es fuerte.</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
-<l>¡Qué airados</l>
+<l>¡Qué <w type="emotion" ana="adj">airados</w></l>
 <l>vienen!</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
 <l>¡Cierra!</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
 <l>Ya lo está.</l></sp>
-<stage>Vanse y sale[n] el rey ALBANO y gente suya, desnudas las espadas.</stage>
+<stage>Vanse y sale[n] el rey ALBANO y gente suya, desnudas las <w type="violence">espadas</w>.</stage>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l> ¡Ánimo, soldados míos,</l>
+<l> ¡Ánimo, <w type="profession">soldados</w> míos,</l>
 <l>mueran, mueran los cobardes,</l>
-<l>que de infame capitán,</l>
-<l>también es la gente infame!</l>
-<l>¡No quede un tosco piloto,</l>
-<l>no quede un paje en las naves,</l>
+<l>que de <w type="honor">infame</w> <w type="profession">capitán</w>,</l>
+<l>también es la gente <w type="honor">infame</w>!</l>
+<l>¡No quede un tosco <w type="profession">piloto</w>,</l>
+<l>no quede un <w type="profession">paje</w> en las naves,</l>
 <l>todos me seguid, que a todos</l>
 <l>quiero dar premios iguales!</l>
 <l>¿Hay semejante traición?</l>
 <l>¿Hay desdicha semejante?</l>
-<l>¡Arminda casada, cielos!</l>
-<l>Era mujer, fue mudable.</l>
+<l>¡Arminda <w type="marriage">casada</w>, <w type="religion">cielos</w>!</l>
+<l>Era <w type="genderRole">mujer</w>, fue mudable.</l>
 <l>Pero yo, ¿de quién me quejo,</l>
-<l>si he dado la muerte a un ángel?</l>
+<l>si he <w type="violence">dado la muerte</w> a un <w type="religion">ángel</w>?</l>
 <l>Mejor mi traición ha sido,</l>
-<l>hoy quiere Dios castigarme.</l>
-<l>¿Quién duda que clama al cielo</l>
-<l>aquella inocente sangre,</l>
-<l>derramada injustamente</l>
-<l>por mis manos desleales?</l></sp>
+<l>hoy quiere <persName type="bibl">Dios</persName> <w type="justice">castigarme</w>.</l>
+<l>¿Quién duda que clama al <w type="religion">cielo</w></l>
+<l>aquella <w type="justice">inocente</w> <w type="body">sangre</w>,</l>
+<l>derramada <w type="justice">injustamente</w></l>
+<l>por mis <w type="body">manos</w> desleales?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>Presente a los ojos tengo</l>
-<l>aquella sangrienta imagen,</l>
-<l>aquellos honestos ojos,</l>
+<l>Presente a los <w type="body">ojos</w> tengo</l>
+<l>aquella <w type="body">sangrienta</w> imagen,</l>
+<l>aquellos honestos <w type="body">ojos</w>,</l>
 <l>dulces, castos, agradables.</l>
 <l>¡Oh, qué mal hice! ¡Oh, qué feo</l>
 <l>retrato a mis culpas hace</l>
 <l>el vano arrepentimiento</l>
 <l>que llega en los daños tarde!</l>
-<l>¡Oh, fiero hermano cruel!,</l>
-<l>¿cómo pudiste casarte</l>
+<l>¡Oh, fiero <w type="family">hermano</w> cruel!,</l>
+<l>¿cómo pudiste <w type="marriage">casarte</w></l>
 <l>sabiendo lo que me cuesta</l>
-<l>esta mujer arrogante?</l>
+<l>esta <w type="genderRole">mujer</w> arrogante?</l>
 <l>Y tú, fiera, ¿cómo fuiste</l>
 <l>en mis conciertos tan grave</l>
 <l>y tan fácil en los suyos?</l>
-<l>¡Ah, cielos!, ¿que te casaste?</l>
-<l>Que te casaste, enemiga,</l>
+<l>¡Ah, <w type="religion">cielos</w>!, ¿que te <w type="marriage">casaste</w>?</l>
+<l>Que te <w type="religion">casaste</w>, enemiga,</l>
 <l>más que la mar libre y fácil.</l>
-<l>¡Arminda casada, cielos!</l>
-<l>Era mujer, fue mudable.</l>
-<l>¡Quién supiera esta desdicha</l>
+<l>¡Arminda <w type="religion">casada</w>, <w type="religion">cielos</w>!</l>
+<l>Era <w type="genderRole">mujer</w>, fue mudable.</l>
+<l>¡Quién supiera esta <w type="emotion" ana="noun">desdicha</w></l>
 <l>crüel para reportarse</l>
-<l>en tan estraño delito,</l>
+<l>en tan estraño <w type="justice">delito</w>,</l>
 <l>en desatino tan grande!</l>
-<l>¡Con qué gusto me embarqué,</l>
+<l>¡Con qué <w type="emotion" ana="noun">gusto</w> me embarqué,</l>
 <l>qué tranquilo, qué tratable</l>
 <l>estuvo el mar y los vientos</l>
 <l>qué blandos y qué suaves!</l></sp>
@@ -2957,59 +2957,59 @@
 <l>El favor y el buen suceso,</l>
 <l>asentados por los cables,</l>
 <l>parece que a la faena</l>
-<l>holgaban de levantarse.</l>
-<l>Salva me hicieron los peces,</l>
-<l>y de perlas y corales</l>
-<l>las ninfas del mar vestidas</l>
+<l><w type="emotion" ana="verb">holgaban</w> de levantarse.</l>
+<l>Salva me hicieron los <w type="animal">peces</w>,</l>
+<l>y de <w type="precious">perlas</w> y <w type="precious">corales</w></l>
+<l>las ninfas del mar <w type="clothing">vestidas</w></l>
 <l>salieron a visitarme.</l>
 <l>Dábanme mil parabienes</l>
-<l>mar, peñascos, peces, aires,</l>
+<l>mar, peñascos, <w type="animal">peces</w>, aires,</l>
 <l>hasta el cielo se alegró</l>
 <l>con templanza favorable.</l>
-<l>Sola tú, triste enemiga,</l>
+<l>Sola tú, <w type="emotion" ana="adj">triste</w> enemiga,</l>
 <l>quieres que en la tierra pase</l>
 <l>la tormenta, que en la mar</l>
-<l>permite amor que me falte.</l>
+<l>permite <w type="emotion" ana="noun">amor</w> que me falte.</l>
 <l>Cruel Otavio, ¿qué es esto?</l>
-<l>Tú, hermano, y tú me engañaste,</l>
-<l>Arminda casada, ¡cielos!</l>
-<l>Era mujer, fue mudable.</l>
-<l>(Aparécense en el muro ARMINDA , OTAVIO y gente.)</l></sp>
+<l>Tú, <w type="family">hermano</w>, y tú me engañaste,</l>
+<l>Arminda <w type="marriage">casada</w>, ¡<w type="religion">cielos</w>!</l>
+<l>Era <w type="genderRole">mujer</w>, fue mudable.</l>
+<stage>Aparécense en el muro ARMINDA , OTAVIO y gente.</stage></sp>
 <sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
-<l>Señor, al muro se han puesto,</l>
+<l><w type="high">Señor</w>, al muro se han puesto,</l>
 <l>¿no conoces a los dos?</l>
 <l>¡Llega, acércate presto!</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>¡Dices la verdad, por Dios!</l>
-<l>¡Ah, fiero hermano!, ¿qué es eso? ¡Ah, fiera Arminda cruel,</l>
+<l>¡Dices la verdad, por <persName type="bibl">Dios</persName>!</l>
+<l>¡Ah, fiero <w type="family">hermano</w>!, ¿qué es eso? ¡Ah, fiera Arminda cruel,</l>
 <l>tú con Otavio!</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
 <l>¿Qué quieres?</l>
-<l>Caseme y estoy con él.</l></sp>
+<l><w type="marriage">Caseme</w> y estoy con él.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>Eso tenéis las mujeres,</l>
+<l>Eso tenéis las <w type="genderRole">mujeres</w>,</l>
 <l>mas quiero quejarme dél, que pedirte a ti lealtad</l>
 <l>es pedir al mar quietud,</l>
 <l>a la venganza piedad,</l>
 <l>a la hermosura virtud</l>
-<l>y a la lisonja verdad. Di, fiero hermano, si aquí</l>
+<l>y a la lisonja verdad. Di, fiero <w type="family">hermano</w>, si aquí</l>
 <l>para guarda te dejé</l>
 <l>de Arminda en tanto que fui</l>
-<l>donde a Leonida maté</l>
+<l>donde a Leonida <w type="violence">maté</w></l>
 <l>por ella, ingrato, y por ti. ¿Qué te ha podido mover</l>
-<l>para escurecer tu nombre?</l>
+<l>para escurecer tu <w type="honor">nombre</w>?</l>
 <l>Que de ti debo tener</l>
-<l>queja, que al fin eres hombre,</l>
-<l>que Arminda al fin es mujer.</l>
-<l>¿Cómo te casaste, ingrata?</l>
-<l>¿Es de hermanos este trato?</l>
-<l>¿Es de nobles? ¿Es de amigos?</l></sp>
+<l>queja, que al fin eres <w type="genderRole">hombre</w>,</l>
+<l>que Arminda al fin es <w type="genderRole">mujer</w>.</l>
+<l>¿Cómo te <w type="marriage">casaste</w>, ingrata?</l>
+<l>¿Es de <w type="family">hermanos</w> este trato?</l>
+<l>¿Es de <w type="high">nobles</w>? ¿Es de amigos?</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
-<l>No, Rey, sino de enemigos,</l>
-<l>nombre con que yo te trato. Que desde que injustamente</l>
-<l>fuiste a dar muerte, ¡inhumano!,</l>
-<l>a tu mujer inocente,</l>
-<l>juré de no ser tu hermano,</l>
+<l>No, <w type="high">Rey</w>, sino de enemigos,</l>
+<l>nombre con que yo te trato. Que desde que <w type="justice">injustamente</w></l>
+<l>fuiste a <w type="violence">dar muerte</w>, ¡inhumano!,</l>
+<l>a tu <w type="family">mujer</w> <w type="justice">inocente</w>,</l>
+<l>juré de no ser tu <w type="family">hermano</w>,</l>
 <l>ni de serlo eternamente. Fuera desto presumí</l>
 <l>que nunca lo ejecutaras,</l>
 <l>que llegado allá creí</l>
@@ -3017,87 +3017,87 @@
 <l>tan mal engendrado aquí.</l>
 <l>Y dime cuál fue mayor</l>
 <l>deste mío o de tu error,</l>
-<l>si entrambos amor los hace;</l>
-<l>el que dese injusto nace</l>
-<l>o el que de mi justo amor. Tú has dado muerte a una santa,</l>
-<l>casta y honesta mujer,</l>
-<l>cosa que en decirla espanta,</l>
+<l>si entrambos <w type="emotion" ana="noun">amor</w> los hace;</l>
+<l>el que dese <w type="justice">injusto</w> nace</l>
+<l>o el que de mi <w type="justice">justo</w> <w type="emotion" ana="noun">amor</w>. Tú has <w type="violence">dado muerte</w> a una <w type="religion">santa</w>,</l>
+<l><w type="honor">casta</w> y <w type="honor">honesta</w> <w type="genderRole">mujer</w>,</l>
+<l>cosa que en decirla <w type="emotion" ana="verb">espanta</w>,</l>
 <l>y yo libre a pretender</l>
-<l>para mi mujer la Infanta. Tú sangriento, yo galán;</l>
-<l>tú casado, libre yo;</l>
-<l>responde, ¿a cuál culparán?</l>
+<l>para mi <w type="family">mujer</w> la <w type="high">Infanta</w>. Tú <w type="body">sangriento</w>, yo galán;</l>
+<l>tú <w type="marriage">casado</w>, libre yo;</l>
+<l>responde, ¿a cuál <w type="justice">culparán</w>?</l>
 <l>Ella lo cierto escogió,</l>
-<l>todos contentos están.</l>
+<l>todos <w type="emotion" ana="adj">contentos</w> están.</l>
 <l>Demás, que no será cierto</l>
-<l>que a tu mujer hayas muerto</l>
+<l>que a tu <w type="family">mujer</w> <w type="violence">hayas muerto</w></l>
 <l>y es fácil de imaginar,</l>
 <l>pues te ha dejado la mar</l>
-<l>tomar en las playas puerto. Que si allá muerto la hubieras</l>
+<l>tomar en las playas puerto. Que si allá <w type="violence">muerto</w> la hubieras</l>
 <l>nunca a estas islas pasaras,</l>
 <l>porque entre sus ondas fieras</l>
 <l>eterno sepulcro hallaras</l>
 <l>antes de ver sus riberas. Pero ya que estás aquí,</l>
 <l>que sea muerta o no lo sea,</l>
 <l>¿qué es lo que esperas de mí?</l>
-<l>Casado estoy, ¿qué desea</l>
+<l><w type="marriage">Casado</w> estoy, ¿qué desea</l>
 <l>tu crueldad?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Mostrarla en ti.</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
 <l>¿En mí?, ¿cómo puede ser?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>Quitándote esa mujer</l>
+<l>Quitándote esa <w type="genderRole">mujer</w></l>
 <l>que pienso llevar conmigo.</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
-<l>Y yo a ti darte castigo</l>
+<l>Y yo a ti darte <w type="justice">castigo</w></l>
 <l>de tu loco proceder.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l> ¡Salid, infames!</l></sp>
+<l> ¡Salid, <w type="honor">infames</w>!</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
 <l>Valiente,</l>
 <l>espera, que ya saldremos.</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
-<l>¡Y yo a matarte, insolente!</l></sp>
+<l>¡Y yo a <w type="violence">matarte</w>, insolente!</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
 <l>Ven, Arminda, y nuestra gente</l>
 <l>para salir aprestemos.</l>
-<l>(Quítanse del muro los dos.)</l></sp>
+<stage>Quítanse del muro los dos.</stage></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l> ¡Salid, villanos, y veréis el pago</l>
+<l>¡Salid, <w type="low">villanos</w>, y veréis el <w type="economic">pago</w></l>
 <l>que doy a vuestro loco atrevimiento!</l></sp>
 <stage>Sale REINALDO .</stage>
 <sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
-<l>Disculpa tengo, pues por celos hago</l>
+<l>Disculpa tengo, pues por <w type="emotion" ana="noun">celos</w> hago</l>
 <l>esta traición.</l></sp>
 <sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
 <l>¿Quién va?</l></sp>
 <sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
-<l>Quien tiene intento de dar al rey de Ibernia su enemigo.</l></sp>
+<l>Quien tiene intento de dar al <w type="high">rey</w> de <placeName>Ibernia</placeName> su enemigo.</l></sp>
 <sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
-<l>¿Oyes este soldado?</l></sp>
+<l>¿Oyes este <w type="profession">soldado</w>?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Estoy atento.</l></sp>
 <sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
 <l>Haré como tú quieras lo que digo.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l> ¿Pues qué puedo querer más justamente</l>
-<l>que dar a este villano su castigo?</l></sp>
+<l> ¿Pues qué puedo querer más <w type="justice">justamente</w></l>
+<l>que dar a este <w type="low">villano</w> su <w type="justice">castigo</w>?</l></sp>
 <sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
 <l>Ven conmigo si quieres que lo intente, que aquesta noche a la ciudad y Otavio</l>
 <l>tendrás en tu poder.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>¡Al arma, gente!,</l>
-<l>que ya vuelven los cielos por mi agravio.</l></sp>
-<stage>Vanse y salen ELISO y SILVANO , pastores, LUCINDO y la reina LEONIDA , en su hábito de hombre con espada.</stage>
+<l>¡Al <w type="violence">arma</w>, gente!,</l>
+<l>que ya vuelven los <w type="religion">cielos</w> por mi agravio.</l></sp>
+<stage>Vanse y salen ELISO y SILVANO , <w type="profession">pastores</w>, LUCINDO y la <w type="high">reina</w> LEONIDA , en su <w type="clothing">hábito de hombre</w> con <w type="violence">espada</w>.</stage>
 <sp who="#eliso_juez" ana="m"><speaker>ELISO</speaker>
 <l> ¿Quién dejará de mostrar</l>
-<l>sentimiento en tu partida?</l></sp>
+<l><w type="emotion" ana="noun">sentimiento</w> en tu partida?</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Quien ha estimado la vida</l>
-<l>que el cielo me quiso dar. Quien me vio mortal, amigos,</l>
+<l>que el <w type="religion">cielo</w> me quiso dar. Quien me vio mortal, amigos,</l>
 <l>y ya con salud me ve.</l></sp>
 <sp who="#silvano_juez" ana="m"><speaker>SILVANO</speaker>
-<l>Plegue a Dios que firme esté</l>
+<l>Plegue a <w type="religion">Dios</w> que firme esté</l>
 <l>y que a vuestros enemigos les falte siempre, alomenos</l>
 <l>contra vos, y pues tenéis</l>
 <l>vida, mirad que tratéis,</l>
@@ -3115,15 +3115,15 @@
 <l>de favores de la Corte</l>
 <l>nunca vistáis los cuidados, porque es vestirlos de viento.</l>
 <l>Las promesas señoriles</l>
-<l>tened por plumas sutiles,</l>
-<l>que esto no es atrevimiento. No escribáis, que no miréis</l>
-<l>seis veces lo que firmáis,</l>
-<l>y aunque al amigo escribáis,</l>
+<l>tened por <w type="lit">plumas</w> sutiles,</l>
+<l>que esto no es atrevimiento. No <w type="lit">escribáis</w>, que no miréis</l>
+<l>seis veces lo que <w type="lit">firmáis</w>,</l>
+<l>y aunque al amigo <w type="lit">escribáis</w>,</l>
 <l>del enemigo no habléis. Vuestro secreto guardalle</l>
 <l>sin darle a nadie a entender,</l>
 <l>especialmente a mujer,</l>
 <l>porque es echarle en la calle, que con este advertimiento,</l>
-<l>aunque de errado villano,</l>
+<l>aunque de errado <w type="low">villano</w>,</l>
 <l>en ese mar cortesano</l>
 <l>llevaréis en popa el viento.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
@@ -3133,28 +3133,28 @@
 <l>Así lo creo,</l>
 <l>y os hablo con el deseo</l>
 <l>que tengo de vuestra vida. Recibid la voluntad</l>
-<l>y pues os vais a la guerra,</l>
+<l>y pues os vais a la <w type="violence">guerra</w>,</l>
 <l>desta choza y desta sierra,</l>
-<l>aunque humilde, os acordad; y el cielo vaya con vos.</l></sp>
+<l>aunque humilde, os acordad; y el <w type="religion">cielo</w> vaya con vos.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Ese mismo os satisfaga;</l>
-<l>esta cadena, aunque es paga</l>
+<l>esta cadena, aunque es <w type="economic">paga</w></l>
 <l>humilde, tomad, y adiós.</l></sp>
 <sp who="#eliso_juez" ana="m"><speaker>ELISO</speaker>
-<l> Señor Lucindo, mirad</l>
+<l><w type="high">Señor</w> Lucindo, mirad</l>
 <l>por la vida de Florante.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
 <l>No hay cosa más importante</l>
-<l>para mi amor y amistad. El cielo os pague el cuidado</l>
+<l>para mi <w type="emotion" ana="noun">amor</w> y amistad. El <w type="religion">cielo</w> os <w type="economic">pague</w> el cuidado</l>
 <l>que os ha dado su salud.</l></sp>
 <sp who="#eliso_juez" ana="m"><speaker>ELISO</speaker>
 <l>Habláis de vuestra virtud</l>
-<l>y entendimiento enseñado. Ea, buen viaje, y a Dios</l>
+<l>y entendimiento enseñado. Ea, buen viaje, y a <w type="religion">Dios</w></l>
 <l>que os libre de hombre fingido.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>No os quejaréis de mi olvido</l>
 <l>si vivo, Eliso, los dos.</l></sp>
-<stage>Vanse los pastores.</stage>
+<stage>Vanse los <w type="profession">pastores</w>.</stage>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l> ¡Qué buena gente!</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
@@ -3167,37 +3167,37 @@
 <l> ¿Qué es lo que piensas hacer?</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Haber, Lucindo, sabido</l>
-<l>que el rey de Escocia ha venido,</l>
-<l>y que tomó puerto ayer, me obliga a seguir la guerra,</l>
-<l>y en su ejército he pensado</l>
-<l>ser de una ocasión soldado,</l>
+<l>que el rey de <placeName>Escocia</placeName> ha venido,</l>
+<l>y que tomó puerto ayer, me obliga a seguir la <w type="violence">guerra</w>,</l>
+<l>y en su <w type="violence">ejército</w> he pensado</l>
+<l>ser de una ocasión <w type="profession">soldado</w>,</l>
 <l>que tanta piedad encierra porque todo el reino dice</l>
-<l>que era la Reina inocente.</l></sp>
+<l>que era la <w type="high">Reina</w> <w type="justice">inocente</w>.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
-<l>Él se mueve justamente.</l></sp>
+<l>Él se mueve <w type="justice">justamente</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Tanto siempre satisfice mi voluntad de la fama</l>
+<l>Tanto siempre satisfice mi voluntad de la <w type="honor">fama</w></l>
 <l>y costumbres de Leonida,</l>
-<l>que a vengar su honesta vida</l>
+<l>que a vengar su <w type="honor">honesta</w> vida</l>
 <l>justa inclinación me llama.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
 <l> ¿De quién se quiere vengar</l>
-<l>su padre?, el de Ibernia ausente.</l></sp>
+<l>su <w type="family">padre</w>?, el de <placeName>Ibernia</placeName> ausente.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>De aquel traidor insolente</l>
 <l>que ha quedado a gobernar su reino en ausencia suya,</l>
-<l>que fue, quien ciego de amor,</l>
-<l>dio causa al Rey su señor</l>
+<l>que fue, quien ciego de <w type="emotion" ana="noun">amor</w>,</l>
+<l>dio causa al <w type="high">Rey</w> su <w type="high">señor</w></l>
 <l>de que esta sospecha arguya.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
-<l> ¿Y si el Rey vuelve casado</l>
+<l> ¿Y si el <w type="high">Rey</w> vuelve <w type="marriage">casado</w></l>
 <l>con Arminda, que es por quien</l>
 <l>dicen que es ido?</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>También</l>
-<l>quedará del Rey vengado cuando sin reino se vea.</l></sp>
+<l>quedará del <w type="high">Rey</w> vengado cuando sin reino se vea.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
-<l>¿Pues sus vasallos querrán?</l></sp>
+<l>¿Pues sus <w type="low">vasallos</w> querrán?</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Tan lastimados están</l>
 <l>que cada cual lo desea. Cajas suenan.</l></sp>
@@ -3205,154 +3205,154 @@
 <l>Por aquí</l>
 <l>debe de marchar Ricardo.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>¡Oh, qué ejército gallardo!</l></sp>
+<l>¡Oh, qué <w type="violence">ejército</w> gallardo!</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
-<l>¿Trae luto?</l></sp>
+<l>¿Trae <w type="clothing">luto</w>?</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Pienso que sí, y de armas negra sobrél,</l>
-<l>armado el cuerpo.</l></sp>
+<l>Pienso que sí, y de <w type="violence">armas</w> negra sobrél,</l>
+<l><w type="violence">armado</w> el <w type="body">cuerpo</w>.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
 <l>Piedad</l>
-<l>de padre.</l></sp>
+<l>de <w type="family">padre</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Dices verdad,</l>
-<l>muestra el sentimiento en él. No trae blanca otra cosa</l>
-<l>que la barba y el cabello.</l></sp>
+<l>muestra el <w type="emotion" ana="noun">sentimiento</w> en él. No trae blanca otra cosa</l>
+<l>que la <w type="body">barba</w> y el <w type="body">cabello</w>.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
-<l>A lágrimas mueve el vello</l>
-<l>en venganza tan piadosa. Negra trae las banderas,</l>
+<l>A <w type="body">lágrimas</w> mueve el vello</l>
+<l>en <w type="violence">venganza</w> tan piadosa. Negra trae las banderas,</l>
 <l>aun no hay pluma de color.</l>
-<l>¿Lloras?</l></sp>
+<l>¿<w type="body">Lloras</w>?</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Soy tierno, es amor,</l>
-<l>que justa venganza esperas.</l></sp>
-<stage>Salen soldados marchando, vestidos de luto y bandera negra y RICARDO , rey viejo de Escocia y FINEO , el que hirió ROSARDO .</stage>
+<l>Soy tierno, es <w type="emotion" ana="noun">amor</w>,</l>
+<l>que <w type="justice">justa</w> <w type="violence">venganza</w> esperas.</l></sp>
+<stage>Salen <w type="profession">soldados</w> marchando, vestidos de <w type="clothing">luto</w> y bandera negra y RICARDO , <w type="high">rey</w> viejo de <placeName>Escocia</placeName> y FINEO , el que hirió ROSARDO .</stage>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l> Estimo haberte visto.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>¡Oh, Dios pluviera</l>
+<l>¡Oh, <persName type="bibl">Dios</persName> pluviera</l>
 <l>que como yo viví de aquella herida</l>
-<l>tu santa hija, gran señor, viviera!</l></sp>
+<l>tu <w type="religion">santa</w> <w type="family">hija</w>, gran <w type="high">señor</w>, viviera!</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l> ¿Que fuiste el caballero cuya vida</l>
+<l> ¿Que fuiste el <w type="high">caballero</w> cuya vida</l>
 <l>pretendieron quitar injustamente</l>
-<l>con la inocente y santa de Leonida?</l></sp>
+<l>con la <w type="justice">inocente</w> y <w type="religion">santa</w> de Leonida?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l> Yo fui aquel mismo que engañosamente</l>
 <l>metió Rosardo en su aposento a darme</l>
-<l>la muerte, sabe Dios cuán inocente.</l></sp>
+<l>la <w type="violence">muerte</w>, sabe <persName type="bibl">Dios</persName> cuán <w type="justice">inocente</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l> Darme satisfación es enojarme,</l>
-<l>si es voz de Dios la que es de un reino todo,</l>
-<l>no quiero del delito consolarme, de su muerte quisiera de algún modo,</l>
-<l>mas, ¿qué puede ser más que la venganza</l>
-<l>a que por ley de padre me acomodo?</l></sp>
+<l>Darme satisfación es <w type="religion" ana="verb">enojarme</w>,</l>
+<l>si es voz de <persName type="bibl">Dios</persName> la que es de un reino todo,</l>
+<l>no quiero del <w type="justice">delito</w> consolarme, de su muerte quisiera de algún modo,</l>
+<l>mas, ¿qué puede ser más que la <w type="violence">venganza</w></l>
+<l>a que por <w type="justice">ley</w> de <w type="family">padre</w> me acomodo?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l> Tú puedes ir con justa confianza,</l>
+<l> Tú puedes ir con <w type="justice">justa</w> confianza,</l>
 <l>que la ciudad te aguarda sin defensa.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Pierda el traidor Albano la esperanza del reino que ha perdido por la ofensa</l>
-<l>que ha hecho al cielo y a mi honor, si acaso</l>
-<l>volver casado y restaurarle piensa.</l></sp>
+<l>Pierda el traidor Albano la <w type="emotion" ana="noun">esperanza</w> del reino que ha perdido por la ofensa</l>
+<l>que ha hecho al <w type="religion">cielo</w> y a mi <w type="honor">honor</w>, si acaso</l>
+<l>volver <w type="marriage">casado</w> y restaurarle piensa.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l> Justicia tienes y por ley divina</l>
-<l>y humana puedes darle por castigo,</l>
+<l><w type="justice">Justicia</w> tienes y por <w type="religion">ley</w> <w type="religion">divina</w></l>
+<l>y humana puedes darle por <w type="justice">castigo</w>,</l>
 <l>y no es poco piadoso que no vuelva</l>
 <l>eternamente a restaurar su reino.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Mi capitán te nombro y constituyo</l>
+<l>Mi <w type="profession">capitán</w> te nombro y constituyo</l>
 <l>en mi lugar y te prometo, amigo,</l>
-<l>honrarte en el lugar que a mi heredero,</l>
-<l>y darte el precio que mereces.</l></sp>
+<l><w type="honor">honrarte</w> en el lugar que a mi heredero,</l>
+<l>y darte el <w type="economic">precio</w> que mereces.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>Solo</l>
-<l>tengo por premio haber acompañado</l>
-<l>con mi sangre, señor, a la inocente</l>
-<l>Reina, aunque sabe Dios cuánta fatiga</l>
-<l>pasé toda una noche desangrado,</l>
+<l>tengo por <w type="economic">premio</w> haber acompañado</l>
+<l>con mi <w type="body">sangre</w>, señor, a la <w type="justice">inocente</w></l>
+<l><w type="high">Reina</w>, aunque sabe <persName type="bibl">Dios</persName> cuánta fatiga</l>
+<l>pasé toda una noche <w type="body">desangrado</w>,</l>
 <l>entre las flores del jardín oculto.</l>
 <l>Al alba tuve esfuerzo y poco a poco</l>
 <l>me fue del jardinero al aposento,</l>
 <l>que aquella noche me llevó a mi casa,</l>
 <l>donde pude curarme con secreto.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>El alma me enterneces escuchándote.</l>
+<l>El <w type="religion">alma</w> me enterneces escuchándote.</l>
 <l>¡Ay, mísera Leonida, solamente</l>
-<l>quisiera hallar tu cuerpo!</l></sp>
+<l>quisiera hallar tu <w type="high">cuerpo</w>!</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>No es posible,</l>
 <l>por mucho que se ha hecho diligencia.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>Aquí te queda, en tanto que prevengo</l>
 <l>una trompeta que diga de mi parte</l>
-<l>a la ciudad que si por armas entro</l>
-<l>daré licencia al saco a los soldados.</l></sp>
+<l>a la ciudad que si por <w type="violence">armas</w> entro</l>
+<l>daré licencia al saco a los <w type="profession">soldados</w>.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>Yo sé muy bien que ya de paz te esperan;</l>
-<l>ea, soldados, hagan alto en tanto</l>
-<l>que escribe el Rey.</l></sp>
+<l>ea, <w type="profession">soldados</w>, hagan alto en tanto</l>
+<l>que <w type="lit">escribe</w> el <w type="high">Rey</w>.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
 <l>Agora es tiempo, llega.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Manda, señor, pues General te ha hecho</l>
-<l>el Rey, que nos alisten por soldados.</l></sp>
+<l>Manda, <w type="high">señor</w>, pues <w type="profession">General</w> te ha hecho</l>
+<l>el <w type="high">Rey</w>, que nos alisten por <w type="profession">soldados</w>.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>¡Cielos, si de Leonida hubiera sido</l>
-<l>el homicida, presumiera agora</l>
+<l>¡<w type="religion">Cielos</w>, si de Leonida hubiera sido</l>
+<l>el <w type="violence">homicida</w>, presumiera agora</l>
 <l>que con su sombra y semejanza misma</l>
-<l>me amenazaba!</l></sp>
+<l>me <w type="violence">amenazaba</w>!</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>¡Ay, cielos!, ¿no es aqueste</l>
-<l>Fineo, el que Rosardo muerto había?</l>
-<l>¿Pues cómo es capitán del Rey mi padre?</l>
+<l>¡Ay, <w type="religion">cielos</w>!, ¿no es aqueste</l>
+<l>Fineo, el que Rosardo <w type="violence">muerto</w> había?</l>
+<l>¿Pues cómo es <w type="profession">capitán</w> del <w type="high">Rey</w> mi <w type="family">padre</w>?</l>
 <l>Más bien será disimular agora,</l>
-<l>que adoro a Albano, aunque traidor conmigo,</l>
-<l>y querría impidir tanto castigo.</l></sp>
+<l>que <w type="emotion" ana="verb">adoro</w> a Albano, aunque traidor conmigo,</l>
+<l>y querría impidir tanto <w type="justice">castigo</w>.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>¿Tú de dónde eres?</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
-<l>Yo, señor, de Ibernia.</l></sp>
+<l>Yo, señor, de <placeName>Ibernia</placeName>.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>¿Y ese tu amigo?</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Espera, no respondas.</l>
-<l>¿De dónde puedo ser, si soy su hermano?</l>
+<l>¿De dónde puedo ser, si soy su <w type="family">hermano</w>?</l>
 <l>Él se llama Lucindo y yo Florante,</l>
-<l>venimos a servir al rey de Escocia</l>
+<l>venimos a servir al <w type="high">rey</w> de <placeName>Escocia</placeName></l>
 <l>como otros muchos, de piedad movidos</l>
-<l>de la Reina inocente cuya sangre</l>
-<l>pide venganza al cielo.</l></sp>
+<l>de la <w type="high">Reina</w> <w type="justice">inocente</w> cuya <w type="blood">sangre</w></l>
+<l>pide <w type="violence">venganza</w> al <w type="religion">cielo</w>.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>Si Leonida</l>
 <l>no fuera muerta, como todos saben,</l>
 <l>yo pensara, mancebo generoso,</l>
-<l>no lo quiero decir, pero al honor suyo</l>
-<l>y por veneración del rostro tuyo...</l></sp>
+<l>no lo quiero decir, pero al <w type="honor">honor</w> suyo</l>
+<l>y por veneración del <w type="body">rostro</w> tuyo...</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Prosigue, ¿qué me miras?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>Yo te nombro</l>
-<l>mi alférez y a tu hermano hago sargento.</l></sp>
+<l>mi <w type="profession">alférez</w> y a tu <w type="family">hermano</w> hago <w type="profession">sargento</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Por mí y por él los pies te beso.</l></sp>
+<l>Por mí y por él los <w type="body">pies</w> te beso.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>Vamos</l>
-<l>para que el Rey te vea, por consuelo</l>
-<l>de su desdicha.</l></sp>
+<l>para que el <w type="high">Rey</w> te vea, por <w type="emotion" ana="noun">consuelo</w></l>
+<l>de su <w type="emotion" ana="noun">desdicha</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>[Aparte.]</l>
+<stage>Aparte.</stage>
 <l>Albano ingrato, agora</l>
 <l>conocerás en defender tu vida</l>
 <l>quién es Leonida.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>¡Cielos, si es Leonida!</l>
+<l>¡<w type="religion">Cielos</w>, si es Leonida!</l>
 <stage>Vanse.</stage>
 <stage>Sale[n] ROSARDO y un PILOTO .</stage>
 </sp><sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l> Luego, ¿no podré embarcarme?</l></sp>
+<l>Luego, ¿no podré embarcarme?</l></sp>
 <sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
 <l>Bien embarcaros podéis,</l>
-<l>mas si al Rey buscar queréis</l>
+<l>mas si al <w type="high">Rey</w> buscar queréis</l>
 <l>y queréis crédito darme, aguardad, Rosardo, aquí</l>
 <l>a que salga de la mar,</l>
 <l>que hoy piensa desembarcar.</l></sp>
@@ -3361,7 +3361,7 @@
 <sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
 <l>Señor, sí.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l> Luego trae su mujer,</l>
+<l>Luego trae su <w type="family">mujer</w>,</l>
 <l>¿a dónde es mejor que huyga?</l></sp>
 <sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
 <l>Arminda trae y no suya.</l></sp>
@@ -3373,99 +3373,99 @@
 <l> Pues, ¿de qué modo?</l></sp>
 <sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
 <l>Partió</l>
-<l>el Rey a las islas.</l></sp>
+<l>el <w type="high">Rey</w> a las islas.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>Bien;</l>
 <l>llegó a aquella en que también</l>
-<l>su hermano Otavio dejó para guardar a su esposa</l>
+<l>su <w type="family">hermano</w> Otavio dejó para guardar a su <w type="family">esposa</w></l>
 <l>y halló que la había guardado</l>
-<l>tan bien que estaba casado</l>
+<l>tan bien que estaba <w type="marriage">casado</w></l>
 <l>con ella.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>Notable cosa.</l></sp>
 <sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
-<l> Pensó el Rey morir de pena,</l>
+<l> Pensó el <w type="high">Rey</w> morir de <w type="emotion" ana="noun">pena</w>,</l>
 <l>tomó puerto a su pesar,</l>
 <l>hizo la ciudad cercar</l>
-<l>y cuando el asalto ordena, un caballero que amaba</l>
-<l>a Arminda, a envidia movido</l>
+<l>y cuando el asalto ordena, un <w type="profession">caballero</w> que <w type="emotion" ana="verb">amaba</w></l>
+<l>a Arminda, a <w type="emotion" ana="noun">envidia</w> movido</l>
 <l>de verse puesto en olvido</l>
-<l>y que Otavio la gozaba, se los entregó a traición</l>
+<l>y que Otavio la <w type="emotion" ana="verb">gozaba</w>, se los entregó a traición</l>
 <l>y él embarcado con ellos</l>
 <l>hizo a su tierra traellos</l>
 <l>en una nave en prisión. Yo vine a dar el aviso</l>
 <l>a las guardas deste puerto,</l>
 <l>donde hay más daño encubierto,</l>
-<l>donde la fortuna quiso que sus vasallos traidores</l>
-<l>al de Escocia se entregasen</l>
+<l>donde la fortuna quiso que sus <w type="low">vasallos</w> traidores</l>
+<l>al de <placeName>Escocia</placeName> se entregasen</l>
 <l>y la obediencia negasen</l>
-<l>a sus antiguos señores. El de Escocia, por venganza</l>
-<l>de su hija sin razón</l>
-<l>muerta y dicen que a traición,</l>
+<l>a sus antiguos <w type="high">señores</w>. El de <placeName>Escocia</placeName>, por <w type="violence">venganza</w></l>
+<l>de su <w type="family">hija</w> sin razón</l>
+<l><w type="violence">muerta</w> y dicen que a traición,</l>
 <l>hoy tan segura la alcanza, que si toma puerto Albano</l>
 <l>será preso o será muerto.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>Pues ya Albano toma puerto</l>
-<l>y será el aviso en vano. Triste de mí, ¿qué he de hacer</l>
+<l>y será el aviso en vano. <w type="emotion" ana="adj">Triste</w> de mí, ¿qué he de hacer</l>
 <l>entre tantas confusiones?</l></sp>
 <sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
 <l>A gran peligro te pones.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>Ya no tengo qué temer. A donde mi Rey muriere</l>
+<l>Ya no tengo qué <w type="emotion" ana="noun">temer</w>. A donde mi <w type="high">Rey</w> muriere</l>
 <l>quiero morir.</l></sp>
 <sp who="#piloto_juez" ana="m"><speaker>PILOTO</speaker>
 <l>¿No es mejor</l>
 <l>que huygas?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>Lealtad y amor</l>
+<l>Lealtad y <w type="emotion" ana="noun">amor</w></l>
 <l>me mandan Fabia que espere.</l></sp>
-<stage>Vanse y desembarca el rey ALBANO y REINALDO con soldados, y traen a OTAVIO y ARMINDA presos.</stage>
+<stage>Vanse y desembarca el <w type="high">rey</w> ALBANO y REINALDO con soldados, y traen a OTAVIO y ARMINDA presos.</stage>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l> Traed los presos.</l></sp>
 <sp who="#reinaldo_juez" ana="m"><speaker>REINALDO</speaker>
 <l>Aquí están los presos.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>¡Oh, Arminda hermosa, y cómo está en tu mano</l>
+<l>¡Oh, Arminda hermosa, y cómo está en tu <w type="body">mano</w></l>
 <l>el dar próspero fin a tus sucesos!</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
-<l> ¿Yo puedo?</l></sp>
+<l>¿Yo puedo?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>Sí, con despreciar mi hermano.</l></sp>
+<l>Sí, con despreciar mi <w type="family">hermano</w>.</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
-<l>¿De qué manera a mi marido puedo?</l></sp>
+<l>¿De qué manera a mi <w type="family">marido</w> puedo?</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
 <l>Consejos locos de un poder tirano.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l> ¿Tirano soy, si con poder no excedo</l>
-<l>de la común piedad dándote muerte?</l></sp>
+<l>de la común piedad <w type="violene">dándote muerte</w>?</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
-<l>Seguro del honor muriendo quedo, que muerto yo, si fuere tal mi suerte,</l>
-<l>que Arminda casta a tu poder se rinda,</l>
-<l>no puede ser mi deshonor tan fuerte.</l></sp>
+<l>Seguro del <w type="honor">honor</w> muriendo quedo, que muerto yo, si fuere tal mi suerte,</l>
+<l>que Arminda <w type="honor">casta</w> a tu poder se rinda,</l>
+<l>no puede ser mi <w type="honor">deshonor</w> tan fuerte.</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
-<l> Pues no lo temas, que antes que me rinda</l>
+<l> Pues no lo <w type="emotion" ana="verb">temas</w>, que antes que me rinda</l>
 <l>padeceré mil muertes.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>No deseo</l>
 <l>tu muerte yo, sino tu vida, Arminda.</l></sp>
 <stage>Sale ROSARDO .</stage>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l> Dame tus pies.</l></sp>
+<l>Dame tus <w type="body">pies</w>.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>¿Quién es?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>Rosardo.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Creo</l>
-<l>que mi amor a este tiempo te ha traído.</l>
+<l>que mi <w type="emotion" ana="noun">amor</w> a este tiempo te ha traído.</l>
 <l>¿Qué guarda es esta que en el puerto veo?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l> Del Rey tu suegro.</l></sp>
+<l> Del <w type="high">Rey</w> tu <w type="family">suegro</w>.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>¿El Rey?</l></sp>
+<l>¿El <w type="high">Rey</w>?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>Sí, que ha venido</l>
-<l>a vengar a Leonida.</l></sp>
+<l>a <w type="violence">vengar</w> a Leonida.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>¿Y tomó puerto?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
@@ -3474,122 +3474,122 @@
 <l>Ni aun oído.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l> Tomó puerto tan libre y descubierto,</l>
-<l>que hasta tu misma corte, a pie seguro,</l>
-<l>llegó Ricardo de vengarse cierto.</l></sp>
+<l>que hasta tu misma corte, a <w type="body">pie</w> seguro,</l>
+<l>llegó Ricardo de <w type="violence">vengarse</w> cierto.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l> ¿Nadie le defendió puerta ni muro?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>La virtud de Leonida lo ha causado;</l>
-<l>delito contra el cielo atroz y duro. Yo vengo a hablarte ansí desesperado,</l>
-<l>pues fui quien la dio muerte injustamente</l>
-<l>de tus falsos papeles engañado.</l></sp>
+<l><w type="justice">delito</w> contra el <w type="religion">cielo</w> atroz y duro. Yo vengo a hablarte ansí desesperado,</l>
+<l>pues fui quien la <w type="violence">dio muerte</w> <w type="justice">injustamente</w></l>
+<l>de tus falsos <w type="lit">papeles</w> engañado.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l> ¡Ah, falsa, desleal, traidora gente!</l>
-<l>¿Las armas contra mí, vasallos míos,</l>
-<l>no soy yo vuestro Rey? Estuve ausente; que justo fin de tantos desvaríos,</l>
-<l>en las islas a Arminda hallé casada</l>
+<l>¿Las <w type="violence">armas</w> contra mí, <w type="low">vasallos</w> míos,</l>
+<l>no soy yo vuestro <w type="high">Rey</w>? Estuve ausente; que justo fin de tantos desvaríos,</l>
+<l>en las islas a Arminda hallé <w type="marriage">casada</w></l>
 <l>cuando apenas llegué con mis navíos, y agora aquí mi tierra alborotada</l>
 <l>contra mí por la muerte de Leonida,</l>
 <l>¿qué gente es esta?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>Gente rebelada.</l>
-<l>(Ven a FINEO y cuatro arcabuceros y gente.)</l></sp>
+<l>Gente rebelada.</l></sp>
+<stage>Ven a FINEO y cuatro <w type="violence">arcabuceros</w> y gente.</stage>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l> ¡Daos todos a prisión!</l></sp>
+<l>¡Daos todos a prisión!</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>Hombre, ¿qué dices?</l></sp>
+<l><w type="genderRole">Hombre</w>, ¿qué dices?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>Que el Rey, nuestro señor de Escocia, manda</l>
+<l>Que el <w type="high">Rey</w>, nuestro <w type="high">señor</w> de <placeName>Escocia</placeName>, manda</l>
 <l>que os deis rendidos a prisión o luego</l>
 <l>os quitemos las vidas.</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>¡Cielo santo!,</l>
+<l>¡<w type="religion">Cielo</w> <w type="religion">santo</w>!,</l>
 <l>¿no es aqueste Fineo?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Di, Rosardo,</l>
 <l>¿no me dijiste que en mi propria cámara</l>
-<l>mataste este traidor que aquí me prende?</l></sp>
+<l><w type="violence">mataste</w> este traidor que aquí me prende?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>Señor, secretos son del justo cielo.</l></sp>
+<l><w type="high">Señor</w>, secretos son del <w type="justice">justo</w> <w type="religion">cielo</w>.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>Soldados, caminemos a la Corte,</l>
-<l>y al que se resistiere dadle muerte.</l></sp>
+<l><w type="profession">Soldados</w>, caminemos a la Corte,</l>
+<l>y al que se resistiere <w type="violence">dadle muerte</w>.</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
-<l>Fineo, ¿en qué soy yo culpado?</l></sp>
+<l>Fineo, ¿en qué soy yo <w type="justice">culpado</w>?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>Otavio,</l>
-<l>esta es orden del Rey.</l></sp>
+<l>esta es orden del <w type="high">Rey</w>.</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
 <l>Reserva a Arminda.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>A los dos se tendrá justo respeto,</l>
-<l>y al Rey también.</l></sp>
+<l>A los dos se tendrá <w type="justice">justo</w> respeto,</l>
+<l>y al <w type="high">Rey</w> también.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>¡Ay, cielos, que ya veo</l>
-<l>que os da voces allá la casta vida</l>
+<l>¡Ay, <w type="religion">cielos</w>, que ya veo</l>
+<l>que os da voces allá la <w type="honor">casta</w> vida</l>
 <l>de Leonida!</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>Caminen.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>¡Ay, Leonida!</l></sp>
-<stage>Vanse y sale[n] el rey de Escocia y LEONIDA .</stage>
+<stage>Vanse y sale[n] el <w type="high">rey</w> de <placeName>Escocia</placeName> y LEONIDA.</stage>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l> Recibo tanto consuelo</l>
+<l> Recibo tanto <w type="emotion" ana="noun">consuelo</w></l>
 <l>solo en ver tu semejanza,</l>
-<l>que en tempestad de venganza</l>
+<l>que en tempestad de <w type="violence">venganza</w></l>
 <l>eres el arco del cielo. No te querría apartar</l>
-<l>solo un punto de mis ojos.</l></sp>
+<l>solo un punto de mis <w type="body">ojos</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Antes, señor, tus enojos</l>
-<l>mi rostro puede aumentar. Que si parezco a Leonida</l>
+<l>Antes, <w type="high">señor</w>, tus <w type="emotion" ana="noun">enojos</w></l>
+<l>mi <w type="body">rostro</w> puede aumentar. Que si parezco a Leonida</l>
 <l>tanto como me encareces,</l>
 <l>a mayor dolor te ofreces</l>
-<l>de aquella inocente vida.</l></sp>
+<l>de aquella <w type="justice">inocente</w> vida.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l> Es verdad que das aumento</l>
+<l>Es verdad que das aumento</l>
 <l>al dolor, pero en razón</l>
-<l>de consuelo y de aflición</l>
+<l>de <w type="emotion" ana="noun">consuelo</w> y de aflición</l>
 <l>recibe alivio el tormento. La que te tengo, Florante,</l>
-<l>desde que tu rostro vi,</l>
+<l>desde que tu <w type="body">rostro</w> vi,</l>
 <l>me obliga a saber de ti</l>
 <l>en qué te soy importante. Elige del reino todo</l>
-<l>el mejor oficio.</l></sp>
+<l>el mejor <w type="profession">oficio</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Tengo,</l>
-<l>aunque en este traje vengo,</l>
-<l>diferente hábito y modo. Porque has de saber, señor,</l>
-<l>que soy letrado y la guerra,</l>
+<l>aunque en este <w type="clothing">traje</w> vengo,</l>
+<l>diferente <w type="clothing">hábito</w> y modo. Porque has de saber, señor,</l>
+<l>que soy <w type="profession">letrado</w> y la <w type="violence">guerra</w>,</l>
 <l>luego que tomaste tierra,</l>
-<l>me dio a las armas amor. Ya que no hay que pelear</l>
+<l>me dio a las <w type="violence">armas</w> <w type="emotion" ana="noun">amor</w>. Ya que no hay que <w type="violence">pelear</w></l>
 <l>y en paz este reino tienes,</l>
 <l>pues hacerme merced vienes,</l>
-<l>mis letras puedes honrar.</l></sp>
+<l>mis <w type="lit">letras</w> puedes honrar.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l> Huélgome de saber, Florante,</l>
-<l>que tan estudiante seas;</l>
-<l>mira qué oficio deseas</l>
-<l>para tus letras bastante. Que a ninguno como a ti...</l></sp>
+<l>que tan <w type="profession">estudiante</w> seas;</l>
+<l>mira qué <w type="profession">oficio</w> deseas</l>
+<l>para tus <w type="lit">letras</w> bastante. Que a ninguno como a ti...</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>En Ibernia la nobleza</l>
-<l>tiene un juez, tu grandeza</l>
-<l>mostrarás, señor, en mí con darme este oficio.</l></sp>
+<l>En <placeName>Ibernia</placeName> la <w type="high">nobleza</w></l>
+<l>tiene un <w type="profession">juez</w>, tu <w type="high">grandeza</w></l>
+<l>mostrarás, <w type="high">señor</w>, en mí con darme este <w type="profession">oficio</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>Digo</l>
-<l>que de los nobles te hago</l>
-<l>juez.</l></sp>
+<l>que de los <w type="high">nobles</w> te hago</l>
+<l><w type="profession">juez</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Tus pies beso.</l></sp>
+<l>Tus <w type="body">pies</w> beso.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>En pago</l>
-<l>de tener lealtad conmigo. Pues tus hábitos dejaste</l>
+<l>En <w type="economic">pago</w></l>
+<l>de tener lealtad conmigo. Pues tus <w type="clothing">hábitos</w> dejaste</l>
 <l>y me veniste a servir</l>
-<l>y ansí los puedes vestir,</l>
-<l>pues la guerra en paz trocaste.</l></sp>
+<l>y ansí los puedes <w type="clothing">vestir</w>,</l>
+<l>pues la <w type="violence">guerra</w> en paz trocaste.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l> Ya con tu licencia voy,</l>
-<l>juez soy de la nobleza.</l></sp>
+<l><w type="profession">juez</w> soy de la <w type="high">nobleza</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Aunque aumentas mi tristeza,</l>
+<l>Aunque aumentas mi <w type="emotion" ana="noun">tristeza</w>,</l>
 <l>tu ausencia sintiendo estoy.</l></sp>
 <stage>Vase LEONIDA y entra FINEO .</stage>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
@@ -3607,44 +3607,44 @@
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>¿Albano preso a Otavio?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>Dejole en guarda de su dama Arminda,</l>
-<l>en tanto que a Leonida muerte daba;</l>
-<l>volvió y casados los halló.</l></sp>
+<l>Dejole en guarda de su <w type="genderRole">dama</w> Arminda,</l>
+<l>en tanto que a Leonida <w type="violence">muerte daba</w>;</l>
+<l>volvió y <w type="marriage">casados</w> los halló.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>¿Qué dices?</l>
-<l>Luego, ¿no viene el Rey casado?</l></sp>
+<l>Luego, ¿no viene el <w type="high">Rey</w> <w type="marriage">casado</w>?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>Viene</l>
-<l>desesperado el Rey.</l></sp>
+<l><w type="emotion" ana="adj">desesperado</w> el <w type="high">Rey</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>Notables nuevas;</l>
-<l>no quiso el cielo que el traidor gozase</l>
+<l>no quiso el <w type="religion">cielo</w> que el traidor <w type="emotion" ana="verb">gozase</w></l>
 <l>de Arminda.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>Pues mejor es el suceso.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>¿Cómo?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>Rosardo viene también preso.</l></sp>
+<l>Rosardo viene también <w type="justice">preso</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>¿Rosardo?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>El mismo que mató a la Reina</l>
-<l>y a mí me hirió.</l></sp>
+<l>El mismo que <w type="violence">mató</w> a la <w type="high">Reina</w></l>
+<l>y a mí me <w type="violence">hirió</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Secretos son del cielo.</l></sp>
+<l>Secretos son del <w type="religion">cielo</w>.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>¿Qué haré del Rey?</l></sp>
+<l>¿Qué haré del <w type="high">Rey</w>?</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Justificar la causa</l>
-<l>y si merece muerte, darle muerte,</l>
-<l>que sin probanza y satisfecho el mundo</l>
-<l>de su maldad, no es justo que lo intente.</l></sp>
+<l><w type="justice">Justificar</w> la causa</l>
+<l>y si merece muerte, <w type="violence">darle muerte</w>,</l>
+<l>que sin <w type="justice">probanza</w> y satisfecho el mundo</l>
+<l>de su maldad, no es <w type="justice">justo</w> que lo intente.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>Nombra juez.</l></sp>
+<l>Nombra <w type="profession">juez</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Hoy hice a un estudiante</l>
-<l>jüez de la nobleza.</l></sp>
+<l>Hoy hice a un <w type="profession">estudiante</w></l>
+<l><w type="profession">jüez</w> de la <w type="high">nobleza</w>.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>¿Quién?</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
@@ -3655,81 +3655,81 @@
 <l>No más de parecerse</l>
 <l>tanto a Leonida.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>Es permisión del cielo</l>
-<l>porque juzgue su muerte aquella vida,</l>
-<l>que más parece al rostro de Leonida.</l>
-<l>Hallaraste a la vista deste pleito.</l></sp>
+<l>Es permisión del <w type="religion">cielo</w></l>
+<l>porque <w type="justice">juzgue</w> su muerte aquella vida,</l>
+<l>que más parece al <w type="body">rostro</w> de Leonida.</l>
+<l>Hallaraste a la vista deste <w type="justice">pleito</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Aunque escusar quisiera el ver la cara</l>
-<l>de mi yerno crüel y de Rosardo,</l>
+<l>Aunque escusar quisiera el ver la <w type="body">cara</w></l>
+<l>de mi <w type="family">yerno</w> crüel y de Rosardo,</l>
 <l>será fuerza, pues soy la parte.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>¿Cuándo</l>
 <l>será la primer vista?</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>Luego al punto,</l>
-<l>porque della resulte prisión fuerte</l>
-<l>al Rey si le culparen desta muerte.</l></sp>
+<l>porque della resulte <w type="justice">prisión</w> fuerte</l>
+<l>al <w type="high">Rey</w> si le <w type="justice">culparen</w> desta muerte.</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>Capitán.</l></sp>
+<l><w type="profession">Capitán</w>.</l></sp>
 <sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
 <l>¿Qué me mandas?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>Traed los presos</l>
-<l>y llamad al jüez de la nobleza.</l></sp>
+<l>Traed los <w type="justice">presos</w></l>
+<l>y llamad al <w type="profession">jüez</w> de la <w type="high">nobleza</w>.</l></sp>
 <sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
 <l>Voy a servirte.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Ya mi pena empieza.</l></sp>
-<stage>Entra LEONIDA con capa, y gorra, y vara, y LUCINDO de relator.</stage>
+<l>Ya mi <w type="justice">pena</w> empieza.</l></sp>
+<stage>Entra LEONIDA con <w type="clothing">capa</w>, y <w type="clothing">gorra</w>, y <w type="justice">vara</w>, y LUCINDO de <w type="profession">relator</w>.</stage>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l> Vengo a besarte los pies</l>
+<l>Vengo a besarte los <w type="body">pies</w></l>
 <l>por la merced recibida.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>¡Cielos!, ¿que esta no es Leonida?</l></sp>
+<l>¡<w type="religion">Cielos</w>!, ¿que esta no es Leonida?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
 <l>No, mas su retrato es.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l> Aqueste hidalgo he nombrado,</l>
-<l>señor, para relator.</l></sp>
+<l> Aqueste <w type="high">hidalgo</w> he nombrado,</l>
+<l><w type="high">señor</w>, para <w type="profession">relator</w>.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
-<l>Dadme los pies, gran señor.</l></sp>
+<l>Dadme los <w type="body">pies</w>, <w type="high">gran</w> <w type="high">señor</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>A muy buen tiempo has llegado. Toma esa silla, Florante,</l>
-<l>verás un pleito.</l></sp>
+<l>verás un <w type="justice">pleito</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Aquí en pie,</l>
+<l>Aquí en <w type="body">pie</w>,</l>
 <l>si te sirves, le veré.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Es pleito muy importante y requiere grande espacio,</l>
+<l>Es <w type="justice">pleito</w> muy importante y requiere grande espacio,</l>
 <l>haz lo que te mando.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Quiero</l>
 <l>obedecerte, ya espero</l>
-<l>pleito de asiento en palacio. ¿Qué es esto, cielo?</l></sp>
+<l><w type="justice">pleito</w> de asiento en palacio. ¿Qué es esto, <w type="religion">cielo</w>?</l></sp>
 <sp who="#capitán_juez" ana="m"><speaker>CAPITÁN</speaker>
 <l>Aquí están</l>
-<l>los presos.</l></sp>
+<l>los <w type="justice">presos</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>Aquí me siento,</l>
-<l>y sabe Dios lo que siento.</l></sp>
+<l>y sabe <persName type="bibl">Dios</persName> lo que <w type="emotion" ana="verb">siento</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Cielos, ¿qué presos serán?</l>
-<l>(Siéntase LEONIDA en alto, LUCINDO abajo y el rey de Escocia a un lado y entren OTAVIO , ARMINDA , ROSARDO , y el rey ALBANO .)</l></sp>
+   <l><w type="religion">Cielos</w>, ¿qué <w type="justice">presos</w> serán?</l></sp>
+<stage>Siéntase LEONIDA en alto, LUCINDO abajo y el <w type="high">rey</w> de <placeName>Escocia</placeName> a un lado y entren OTAVIO , ARMINDA , ROSARDO , y el <w type="high">rey</w> ALBANO .</stage>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l> ¿Es aquel el Rey?</l></sp>
+<l> ¿Es aquel el <w type="high">Rey</w>?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>Él es.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>¿Y es juez el que está allí?</l></sp>
+<l>¿Y es <w type="profession">juez</w> el que está allí?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
 <l>Sin duda.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>¿Juez aquí?</l></sp>
+<l>¿<w type="profession">Juez</w> aquí?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>¿Estrado y vara no ves?</l></sp>
+<l>¿<w type="justice">Estrado</w> y <w type="justice">vara</w> no ves?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l> A juicio me han traído</l>
+<l> A <w type="justice">juicio</w> me han traído</l>
 <l>en mi reino y en mi casa.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>Tiemblo de verle.</l></sp>
@@ -3737,52 +3737,52 @@
 <l>No pasa</l>
 <l>entre bárbaros.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>Si ha sido tan infame tu delito,</l>
+<l>Si ha sido tan <w type="honor">infame</w> tu <w type="justice">delito</w>,</l>
 <l>¿cómo te han de recibir?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Aquí me mandas venir,</l>
-<l>¿qué es lo que tienes escrito? ¿No basta haber usurpado</l>
+<l>¿qué es lo que tienes <w type="lit">escrito</w>? ¿No basta haber usurpado</l>
 <l>mi reino estando yo ausente?</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>El juez tienes presente;</l>
+<l>El <w type="profession">juez</w> tienes presente;</l>
 <l>si queda determinado lo que imagino de ti,</l>
-<l>la espada será respuesta.</l></sp>
+<l>la <w type="violence">espada</w> será respuesta.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>Vasallos, ¿lealtad es esta?</l>
+<l><w type="low">Vasallos</w>, ¿lealtad es esta?</l>
 <l>¿Esto sufrís contra mí?</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Decid la causa de Albano,</l>
-<l>relator.</l></sp>
+<l>Decid la <w type="justice">causa</w> de Albano,</l>
+<l><w type="profession">relator</w>.</l></sp>
 <sp who="#lucindo_juez" ana="m"><speaker>LUCINDO</speaker>
-<l>Esta es la causa</l>
-<l>como la refiere Ibernia</l>
-<l>porque no hay otra probanza.</l></sp>
+<l>Esta es la <w type="justice">causa</w></l>
+<l>como la refiere <placeName>Ibernia</placeName></l>
+<l>porque no hay otra <w type="justice">probanza</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>El Rey, queriendo casarse</l>
-<l>con Arminda, hermosa infanta</l>
+<l>El <w type="high">Rey</w>, queriendo <w type="marriage">casarse</w></l>
+<l>con Arminda, hermosa <w type="high">infanta</w></l>
 <l>de las islas deste mar,</l>
-<l>donde llegó con su armada</l>
-<l>cuando iba a casar Otavio</l>
-<l>a Escocia, a Rosardo llama,</l>
-<l>y escribiéndole un papel</l>
-<l>que mate a la Reina manda</l>
+<l>donde llegó con su <w type="violence">armada</w></l>
+<l>cuando iba a <w type="marriage">casar</w> Otavio</l>
+<l>a <placeName>Escocia</placeName>, a Rosardo llama,</l>
+<l>y <w type="lit">escribiéndole</w> un <w type="lit">papel</w></l>
+<l>que <w type="violence">mate</w> a la <w type="high">Reina</w> manda</l>
 <l>con Fineo, a quien jamás</l>
-<l>habló la Reina palabra.</l>
+<l>habló la <w type="high">Reina</w> palabra.</l>
 <l>Convienen todos que fue</l>
-<l>inocentísima y casta,</l>
-<l>y un ejemplo de mujeres</l>
+<l><w type="justice">inocentísima</w> y <w type="honor">casta</w>,</l>
+<l>y un ejemplo de <w type="genderRole">mujeres</w></l>
 <l>heroicas.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Verdad es llana</l>
-<l>que yo la mandé matar</l>
+<l>que yo la mandé <w type="violence">matar</w></l>
 <l>porque supe de unas guardas</l>
 <l>que hablaba secretamente</l>
 <l>a Fineo.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Albano, calla</l>
 <l>hasta que Arminda nos diga</l>
-<l>si allá concertó matalla</l>
-<l>esa tu mano cruel.</l></sp>
+<l>si allá concertó <w type="violence">matalla</w></l>
+<l>esa tu <w type="body">mano</w> cruel.</l></sp>
 <sp who="#arminda_juez" ana="f"><speaker>ARMINDA</speaker>
 <l>Sí</l>
 <l>concertó.</l></sp>
@@ -3795,84 +3795,84 @@
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Pues di:</l>
 <l>¿No te contentas de darla</l>
-<l>tan fiera y injusta muerte,</l>
+<l>tan fiera y <w type="justice">injusta</w> <w type="violence">muerte</w>,</l>
 <l>sino que ya muerta tratas</l>
-<l>que pierda aquella inocente</l>
-<l>la honra, prenda más alta</l>
+<l>que pierda aquella <w type="justice">inocente</w></l>
+<l>la <w type="honor">honra</w>, prenda más alta</l>
 <l>que la vida y que mil vidas?</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
-<l>Aunque mi hermano te llamas,</l>
+<l>Aunque mi <w type="family">hermano</w> te llamas,</l>
 <l>obliga tu cruel intento,</l>
-<l>viendo que una santa agravias,</l>
-<l>a culparte de su muerte.</l>
-<l>Juez, quedando yo en guarda</l>
+<l>viendo que una <w type="religion">santa</w> agravias,</l>
+<l>a <w type="justice">culparte</w> de su muerte.</l>
+<l><w type="profession">Juez</w>, quedando yo en guarda</l>
 <l>de Arminda trató la muerte</l>
-<l>de Leonida ilustre y santa</l>
-<l>el Rey.</l></sp>
+<l>de Leonida <w type="high">ilustre</w> y <w type="religion">santa</w></l>
+<l>el <w type="high">Rey</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Si tu hermano</l>
-<l>te condena, ¿qué probanza</l>
+<l>Si tu <w type="family">hermano</w></l>
+<l>te <w type="justice">condena</w>, ¿qué <w type="justice">probanza</w></l>
 <l>más cierta?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Es traidor conmigo</l>
 <l>y su información es falsa.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Di, Rosardo, ¿qué razón</l>
-<l>te dio el Rey para matarla?</l></sp>
+<l>te dio el <w type="high">Rey</w> para <w type="violence">matarla</w>?</l></sp>
 <sp who="#rosardo_juez" ana="m"><speaker>ROSARDO</speaker>
-<l>Un papel que por descuido</l>
-<l>di a la Reina desdichada,</l>
+<l>Un <w type="lit">papel</w> que por descuido</l>
+<l>di a la <w type="high">Reina</w> <w type="emotion" ana="adj">desdichada</w>,</l>
 <l>mas para mi bien, sé yo</l>
-<l>que está inocente.</l></sp>
+<l>que está <w type="justice">inocente</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>¿Qué aguardas</l>
-<l>en sentenciarle a la muerte?</l></sp>
+<l>en <w type="justice">sentenciarle</w> a la muerte?</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Fineo, ¿diste la causa</l>
-<l>al Rey de celos jamás?</l></sp>
+<l>Fineo, ¿diste la <w type="justice">causa</w></l>
+<l>al <w type="high">Rey</w> de <w type="religion" ana="noun">celos</w> jamás?</l></sp>
 <sp who="#fineo_juez" ana="m"><speaker>FINEO</speaker>
-<l>Si hablé a la Reina palabra</l>
-<l>aquí me castigue el cielo.</l></sp>
+<l>Si hablé a la <w type="high">Reina</w> palabra</l>
+<l>aquí me <w type="justice">castigue</w> el <w type="religion">cielo</w>.</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>Oye, juez, ¿qué te cansas?</l>
+<l>Oye, <w type="profession">juez</w>, ¿qué te cansas?</l>
 <l>Ya no puedo yo sufrir</l>
 <l>ver que todos cuantos hablan,</l>
-<l>mi noble mujer abonen,</l>
+<l>mi <w type="high">noble</w> <w type="genderRole">mujer</w> abonen,</l>
 <l>que aunque he dicho que es culpada,</l>
 <l>es por la vida o la afrenta</l>
-<l>que a mi sangre y a mi casa</l>
+<l>que a mi <w type="body">sangre</w> y a mi casa</l>
 <l>resultara de su muerte.</l>
 <l>No pruebes más, esto basta,</l>
 <l>yo estoy tan arrepentido</l>
-<l>y siento tan en el alma</l>
-<l>haber dado muerte a un ángel,</l>
-<l>que antes que este pleito vaya</l>
-<l>a la sentencia debida</l>
-<l>por términos y probanzas,</l>
-<l>quiero sentenciarme yo,</l>
+<l>y <w type="emotion" ana="noun">siento</w> tan en el <w type="religion">alma</w></l>
+<l>haber <w type="violence">dado muerte</w> a un <w type="religion">ángel</w>,</l>
+<l>que antes que este <w type="justice">pleito</w> vaya</l>
+<l>a la <w type="justice">sentencia</w> debida</l>
+<l>por <w type="justice">términos</w> y <w type="justice">probanzas</w>,</l>
+<l>quiero <w type="justice">sentenciarme</w> yo,</l>
 <l>y ansí digo que mañana</l>
-<l>mandes cortar mi cabeza</l>
+   <l>mandes <w type="violence">cortar</w> mi <w type="body">cabeza</w></l>
 <l>en una pública plaza.</l>
-<l>Vesme aquí, Rey, a tus pies.</l></sp>
+<l>Vesme aquí, <w type="high">Rey</w>, a tus <w type="body">pies</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
-<l>¿Quién ha de mirar tu cara?</l></sp>
+<l>¿Quién ha de mirar tu <w type="body">cara</w>?</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
-<l>Solo te pido, señor,</l>
-<l>que para mayor venganza</l>
-<l>de la Reina este juez</l>
-<l>trueque la vara en espada</l>
+<l>Solo te pido, <w type="high">señor</w>,</l>
+<l>que para mayor <w type="violence">venganza</w></l>
+<l>de la <w type="high">Reina</w> este <w type="profession">juez</w></l>
+<l>trueque la <w type="justice">vara</w> en <w type="violence">espada</w></l>
 <l>y por lo que le parece</l>
-<l>ejecute el golpe.</l></sp>
+<l><w type="justice">ejecute</w> el <w type="violence">golpe</w>.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>¡Para,</l>
 <l>no te aflijas!</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Pues, ¿qué he de hacer</l>
-<l>si eres ángel?, que esta vara</l>
+<l>si eres <w type="religion">ángel</w>?, que esta <w type="justice">vara</w></l>
 <l>tomaste en forma de aquella,</l>
-<l>cuya sangre al cielo clama.</l></sp>
+<l>cuya <w type="body">sangre</w> al <w type="religion">cielo</w> clama.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>Rey, perdona un rey que llora.</l></sp>
+<l><w type="high">Rey</w>, perdona un <w type="high">rey</w> que <w type="emotion" ana="verb">llora</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>Ese imposible se iguala</l>
 <l>con resucitar Leonida.</l></sp>
@@ -3880,7 +3880,7 @@
 <l>¿Y si vive?</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>¡Qué pesadas</l>
-<l>esperanzas!</l></sp>
+<l><w type="emotion" ana="noun">esperanzas</w>!</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Si la doy</l>
 <l>viva, ¿son ciertas o falsas?</l></sp>
@@ -3889,24 +3889,24 @@
 <l>al Rey.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
 <l>Pues yo soy, que sana</l>
-<l>de aquella mortal herida</l>
+<l>de aquella mortal <w type="violence">herida</w></l>
 <l>esta ocasión aguardaba</l>
 <l>para que Albano perdones,</l>
-<l>que en fin le adoro.</l></sp>
+<l>que en fin le <w type="emotion" ana="noun">adoro</w>.</l></sp>
 <sp who="#ricardo_juez" ana="m"><speaker>RICARDO</speaker>
 <l>¡Qué ingrata</l>
-<l>has sido en sufrir mi pena!</l></sp>
+<l>has sido en <w type="emotion" ana="verb">sufrir</w> mi <w type="justice">pena</w>!</l></sp>
 <sp who="#albano_juez" ana="m"><speaker>ALBANO</speaker>
 <l>Temblando un traidor te abraza.</l></sp>
 <sp who="#leonida_juez" ana="f"><speaker>LEONIDA</speaker>
-<l>¡Oh, cuánto esposo me debe!</l></sp>
+<l>¡Oh, cuánto <w type="family">esposo</w> me debe!</l></sp>
 <sp who="#octavio_juez" ana="m"><speaker>OCTAVIO</speaker>
 <l>Todo lo demás que falta</l>
 <l>a senado tan discreto</l>
 <l>no es bien decirlo, que cansan</l>
-<l>premios, sentencias, perdones,</l>
+<l><w type="justice">premios</w>, <w type="justice">sentencias</w>, <w type="justice">perdones</w>,</l>
 <l>cuando la historia se acaba,</l>
-<l>que su autor para serviros</l>
+<l>que su <w type="lit">autor</w> para serviros</l>
 <l>llamó El juez de su causa.</l></sp></div>
       </body>
   </text>
